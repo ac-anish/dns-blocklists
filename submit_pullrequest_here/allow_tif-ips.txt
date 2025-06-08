@@ -1,5 +1,8 @@
 # IPs to be removed from the tif IP list.
 
+# https://github.com/hagezi/dns-blocklists/issues/6444
+49.13.130.29
+
 # Multiple Tiktok API blocked. Example:
 #  api32.clv.byteoversea.net
 # aggr32-normal.tiktokv.eu
