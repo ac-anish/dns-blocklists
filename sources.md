@@ -153,6 +153,7 @@ https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/genera
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 https://raw.githubusercontent.com/bet-blocker/bet-blocker/refs/heads/main/blocklist.txt
+https://raw.githubusercontent.com/betterwebleon/slovenian-list/refs/heads/master/filters.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/gambling/hosts-VN
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/extensions/threat/filter.txt
@@ -170,6 +171,7 @@ https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/No
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt
+https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/custom/is.txt
 https://raw.githubusercontent.com/braveinnovators/ukrainian-security-filter/main/lists/domains.txt
 https://raw.githubusercontent.com/BrigsLabs/judol/main/judol_domains.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt
@@ -200,6 +202,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperim
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInAGH.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/SerboCroatianList.txt
 https://raw.githubusercontent.com/DandelionSprout/Swedish-List-for-Adblock-Plus/refs/heads/main/Swedish%20List%20for%20All-Nordic.txt
+https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/refs/heads/master/Filters
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
