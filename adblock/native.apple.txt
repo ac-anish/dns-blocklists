@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Jun 2025 00:24 UTC
-! Version: 2025.0607.0024.12
+! Last modified: 09 Jun 2025 08:29 UTC
+! Version: 2025.0609.0829.33
 ! Syntax: AdBlock
-! Number of entries: 107
+! Number of entries: 108
 !
 ||cstat.g.aaplimg.com^
 ||diagassets.g.aaplimg.com^
@@ -60,6 +60,7 @@
 ||idiagnostics-devices-qa.apple.com^
 ||idiagnostics-devices-reno.apple.com^
 ||idiagnostics-ft.apple.com^
+||idiagnostics-it2.apple.com^
 ||idiagnostics-mdn1.apple.com^
 ||idiagnostics-qa.apple.com^
 ||idiagnostics-reno.apple.com^

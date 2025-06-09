@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jun 2025 00:24 UTC
-# Version: 2025.0607.0024.12
+# Last modified: 09 Jun 2025 08:29 UTC
+# Version: 2025.0609.0829.33
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 291
+# Number of entries: 290
 #
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 diagassets.g.aaplimg.com
@@ -212,14 +212,12 @@
 0.0.0.0 s2-iad-ss-static-assets-admin.iad.apple.com
 0.0.0.0 s2-iad-ss-static-assets-cm.iad.apple.com
 0.0.0.0 s2-iad-ss-user-targeting.iad.apple.com
-0.0.0.0 st11p01ad-data-api-ims.iad.apple.com
 0.0.0.0 st11p01ad-netscaler005-snip.iad.apple.com
 0.0.0.0 st11p01ad-netscaler006-snip.iad.apple.com
 0.0.0.0 st11p01ad-netscaler009-pass.iad.apple.com
 0.0.0.0 st11p01ad-netscaler013-pass.iad.apple.com
 0.0.0.0 st11p01ad-netscaler014-pass.iad.apple.com
 0.0.0.0 sy21p01ad-ext-cloud.iad.apple.com
-0.0.0.0 vg3-dev2cpr.iad.apple.com
 0.0.0.0 vp2pass-dev.iad.apple.com
 0.0.0.0 iadcontent.apple.com
 0.0.0.0 iadmoo.apple.com
@@ -233,6 +231,7 @@
 0.0.0.0 idiagnostics-devices-qa.apple.com
 0.0.0.0 idiagnostics-devices-reno.apple.com
 0.0.0.0 idiagnostics-ft.apple.com
+0.0.0.0 idiagnostics-it2.apple.com
 0.0.0.0 idiagnostics-mdn1.apple.com
 0.0.0.0 idiagnostics-qa.apple.com
 0.0.0.0 idiagnostics-reno.apple.com

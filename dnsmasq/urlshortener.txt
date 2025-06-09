@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 08 Jun 2025 10:22 UTC
-# Version: 2025.0608.1022.12
+# Last modified: 09 Jun 2025 08:11 UTC
+# Version: 2025.0609.0811.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5878
+# Number of entries: 5880
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -3231,6 +3231,7 @@ local=/myshorturls.com/
 local=/mysp.ac/
 local=/mysurl.com/
 local=/mytd.cc/
+local=/mytiktok.life/
 local=/mytinycheck9.life/
 local=/mytoluwalemi.life/
 local=/mytorus.live/
@@ -4829,6 +4830,7 @@ local=/tipeos.com/
 local=/tisfri.se/
 local=/titaniumlinks.com/
 local=/titleagentmarketing.com/
+local=/titok.website/
 local=/tiurl.link/
 local=/tixxh.com/
 local=/tj.wtf/
