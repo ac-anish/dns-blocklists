@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jun 2025 09:39 UTC
-# Version: 2025.0609.0939.51
+# Last modified: 09 Jun 2025 14:21 UTC
+# Version: 2025.0609.1421.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 41346
+# Number of entries: 41332
 #
 local=/000free.us/
 local=/000nethost.com/
@@ -141,6 +141,7 @@ local=/123-greetings-card.com/
 local=/123-stream.org/
 local=/ad.12306.cn/
 local=/123banners.com/
+local=/123c.vn/
 local=/123cha.com/
 local=/123computerrepair.com/
 local=/123count.com/
@@ -1798,8 +1799,7 @@ local=/adgreed.com/
 local=/adgrid.io/
 local=/adgridwork.com/
 local=/adgrx.com/
-local=/au.adhacker.online/
-local=/power.adhacker.online/
+local=/adhacker.online/
 local=/adhaven.com/
 local=/adhese.be/
 local=/adhese.com/
@@ -3580,12 +3580,7 @@ local=/advertising.amazon.nl/
 local=/advertising.amazon.sa/
 local=/ags-ext.amazon.com/
 local=/cdn.prod.adskit.juno.alexa.amazon.dev/
-local=/aax-dtb-cf.amazon-adsystem.amazon.com/
-local=/aax-dtb-mobile-geo.amazon-adsystem.amazon.com/
-local=/aax-ott.amazon-adsystem.amazon.com/
-local=/aax-ott-sdk.amazon-adsystem.amazon.com/
-local=/aax-us.amazon-adsystem.amazon.com/
-local=/aax-us-ott.amazon-adsystem.amazon.com/
+local=/amazon-adsystem.amazon.com/
 local=/applab-sdk.amazon.com/
 local=/aviary.amazon.com/
 local=/cortana-gateway.amazon.com/
@@ -7406,8 +7401,7 @@ local=/a.callawaygolf.com/
 local=/a.callawaygolfpreowned.com/
 local=/analytics.callbell.eu/
 local=/callcs.in/
-local=/stats.calldorado.com/
-local=/traffic.calldorado.com/
+local=/calldorado.com/
 local=/callfire.com/
 local=/callhawj.top/
 local=/cdn.callibri.ru/
@@ -10069,8 +10063,7 @@ local=/conceivesaucerfalcon.com/
 local=/analytics.noffice.conceptboard.com/
 local=/concernedcup.com/
 local=/concernrest.com/
-local=/bids.concert.io/
-local=/cdn.concert.io/
+local=/concert.io/
 local=/conchylamiae.top/
 local=/conciergeradialsupernova.com/
 local=/conciliatepolar.com/
@@ -15089,7 +15082,7 @@ local=/analytics.firstaidbeauty.com/
 local=/smetrics.firstcitizens.com/
 local=/firstclick.pro/
 local=/firstcloudit.com/
-local=/analytics.firsthive.com/
+local=/firsthive.com/
 local=/firstimpression.io/
 local=/firstline.cc/
 local=/firstload.com/
@@ -19932,10 +19925,7 @@ local=/ibd-as-api.iq.com/
 local=/puma.api.iqiyi.com/
 local=/cards-css.iqiyi.com/
 local=/cs-feige.iqiyi.com/
-local=/api.cupid.iqiyi.com/
-local=/intl-t7z.cupid.iqiyi.com/
-local=/msga.cupid.iqiyi.com/
-local=/t7z.cupid.iqiyi.com/
+local=/cupid.iqiyi.com/
 local=/dx-cards-css.iqiyi.com/
 local=/emoticon-sns.iqiyi.com/
 local=/static.g.iqiyi.com/
@@ -27051,8 +27041,7 @@ local=/otbrana.com/
 local=/otclick-adv.ru/
 local=/otcpublicgovdeliverycom.sbs/
 local=/other-situation.pro/
-local=/js-api.otherlevels.com/
-local=/js-tags.otherlevels.com/
+local=/otherlevels.com/
 local=/otherwallowssheh.com/
 local=/othid.com/
 local=/otieu.com/
@@ -31569,9 +31558,7 @@ local=/scadnet.com/
 local=/scakuvap.com/
 local=/plausible.scala-lang.org/
 local=/scaledb.com/
-local=/analytics.scalemonk.com/
-local=/cads.scalemonk.com/
-local=/mmp001.scalemonk.com/
+local=/scalemonk.com/
 local=/scalewithai.agency/
 local=/scan6show.com/
 local=/scanguard.com/
@@ -31744,8 +31731,7 @@ local=/searchgateway.net/
 local=/searchignite.com/
 local=/track.searchiq.co/
 local=/track3.searchiq.co/
-local=/11345.searchmagnified.com/
-local=/11471.searchmagnified.com/
+local=/searchmagnified.com/
 local=/searchmarketing.com/
 local=/searchmarquis.com/
 local=/searchmiracle.com/

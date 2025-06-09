@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jun 2025 09:19 UTC
-# Version: 2025.0609.0919.42
+# Last modified: 09 Jun 2025 14:14 UTC
+# Version: 2025.0609.1414.19
 # Syntax: Domains (without subdomains)
-# Number of entries: 127852
+# Number of entries: 127832
 #
 0-02.net
 0001.best
@@ -505,10 +505,7 @@ ad.12306.cn
 1239feffd9.com
 123any.com
 123banners.com
-hit.123c.vn
-trk.staging.123c.vn
-stats.123c.vn
-trk.123c.vn
+123c.vn
 123cha.com
 123compteur.com
 123computerrepair.com
@@ -6023,8 +6020,7 @@ adgridwork.com
 adgroups.com
 adgrx.com
 adgzfujunv.com
-au.adhacker.online
-power.adhacker.online
+adhacker.online
 adhands.ru
 adhash.com
 adhaven.com
@@ -10417,13 +10413,7 @@ advertising-api-fe.amazon.com
 telemetry.aft.amazon.dev
 ags-ext.amazon.com
 cdn.prod.adskit.juno.alexa.amazon.dev
-aax.amazon-adsystem.amazon.com
-aax-dtb-cf.amazon-adsystem.amazon.com
-aax-dtb-mobile-geo.amazon-adsystem.amazon.com
-aax-ott.amazon-adsystem.amazon.com
-aax-ott-sdk.amazon-adsystem.amazon.com
-aax-us.amazon-adsystem.amazon.com
-aax-us-ott.amazon-adsystem.amazon.com
+amazon-adsystem.amazon.com
 analytics.amazon.com
 applab-sdk.amazon.com
 metrics.artists.amazon.com
@@ -22145,8 +22135,7 @@ a.callawaygolfpreowned.com
 cdn.callbackkiller.com
 analytics.callbell.eu
 callcs.in
-stats.calldorado.com
-traffic.calldorado.com
+calldorado.com
 sp.caller.com
 sxjfhh.caller.com
 callfire.com
@@ -31900,8 +31889,7 @@ concernedcup.com
 concernedwealth.pro
 concerningblasphemerollback.com
 concernrest.com
-bids.concert.io
-cdn.concert.io
+concert.io
 axp.conchovalleyhomepage.com
 conchylamiae.top
 conciergeeccentricstrained.com
@@ -47503,8 +47491,7 @@ ywrcqa.firstcoastnews.com
 firstdayout.icu
 firstendpoint.com
 firstfinancesllc.com
-analytics.firsthive.com
-us-aly-2.firsthive.com
+firsthive.com
 firstimpression.io
 firstlightera.com
 firstline.cc
@@ -62693,10 +62680,7 @@ puma.api.iqiyi.com
 apisgame.iqiyi.com
 cards-css.iqiyi.com
 cs-feige.iqiyi.com
-api.cupid.iqiyi.com
-intl-t7z.cupid.iqiyi.com
-msga.cupid.iqiyi.com
-t7z.cupid.iqiyi.com
+cupid.iqiyi.com
 dx-cards-css.iqiyi.com
 emoticon-sns.iqiyi.com
 static.g.iqiyi.com
@@ -85432,8 +85416,7 @@ otelwebtelemetry.com
 adman.otenet.gr
 matomo.oth-regensburg.de
 other-situation.pro
-js-api.otherlevels.com
-js-tags.otherlevels.com
+otherlevels.com
 otherofherlittle.info
 otherprofit.com
 otherwallowssheh.com
@@ -99225,9 +99208,7 @@ scalaautopecas.com
 scaledb.com
 track.scalegoat.com
 scalemodm.digital
-analytics.scalemonk.com
-cads.scalemonk.com
-mmp001.scalemonk.com
+scalemonk.com
 scalesapologyprefix.com
 scalewithai.agency
 scallopbedtime.com
@@ -99785,8 +99766,7 @@ searchingacutemourning.com
 track.searchiq.co
 track3.searchiq.co
 searchlnk.ru
-11345.searchmagnified.com
-11471.searchmagnified.com
+searchmagnified.com
 searchmarketing.com
 searchmarquis.com
 searchmaven.co

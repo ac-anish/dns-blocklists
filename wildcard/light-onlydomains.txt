@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jun 2025 09:39 UTC
-# Version: 2025.0609.0939.51
+# Last modified: 09 Jun 2025 14:21 UTC
+# Version: 2025.0609.1421.00
 # Syntax: Domains (without subdomains)
-# Number of entries: 41346
+# Number of entries: 41332
 #
 000free.us
 000nethost.com
@@ -141,6 +141,7 @@ log.111percent.net
 123-stream.org
 ad.12306.cn
 123banners.com
+123c.vn
 123cha.com
 123computerrepair.com
 123count.com
@@ -1798,8 +1799,7 @@ adgreed.com
 adgrid.io
 adgridwork.com
 adgrx.com
-au.adhacker.online
-power.adhacker.online
+adhacker.online
 adhaven.com
 adhese.be
 adhese.com
@@ -3580,12 +3580,7 @@ advertising.amazon.nl
 advertising.amazon.sa
 ags-ext.amazon.com
 cdn.prod.adskit.juno.alexa.amazon.dev
-aax-dtb-cf.amazon-adsystem.amazon.com
-aax-dtb-mobile-geo.amazon-adsystem.amazon.com
-aax-ott.amazon-adsystem.amazon.com
-aax-ott-sdk.amazon-adsystem.amazon.com
-aax-us.amazon-adsystem.amazon.com
-aax-us-ott.amazon-adsystem.amazon.com
+amazon-adsystem.amazon.com
 applab-sdk.amazon.com
 aviary.amazon.com
 cortana-gateway.amazon.com
@@ -7406,8 +7401,7 @@ a.callawaygolf.com
 a.callawaygolfpreowned.com
 analytics.callbell.eu
 callcs.in
-stats.calldorado.com
-traffic.calldorado.com
+calldorado.com
 callfire.com
 callhawj.top
 cdn.callibri.ru
@@ -10069,8 +10063,7 @@ conceivesaucerfalcon.com
 analytics.noffice.conceptboard.com
 concernedcup.com
 concernrest.com
-bids.concert.io
-cdn.concert.io
+concert.io
 conchylamiae.top
 conciergeradialsupernova.com
 conciliatepolar.com
@@ -15089,7 +15082,7 @@ analytics.firstaidbeauty.com
 smetrics.firstcitizens.com
 firstclick.pro
 firstcloudit.com
-analytics.firsthive.com
+firsthive.com
 firstimpression.io
 firstline.cc
 firstload.com
@@ -19932,10 +19925,7 @@ ibd-as-api.iq.com
 puma.api.iqiyi.com
 cards-css.iqiyi.com
 cs-feige.iqiyi.com
-api.cupid.iqiyi.com
-intl-t7z.cupid.iqiyi.com
-msga.cupid.iqiyi.com
-t7z.cupid.iqiyi.com
+cupid.iqiyi.com
 dx-cards-css.iqiyi.com
 emoticon-sns.iqiyi.com
 static.g.iqiyi.com
@@ -27051,8 +27041,7 @@ otbrana.com
 otclick-adv.ru
 otcpublicgovdeliverycom.sbs
 other-situation.pro
-js-api.otherlevels.com
-js-tags.otherlevels.com
+otherlevels.com
 otherwallowssheh.com
 othid.com
 otieu.com
@@ -31569,9 +31558,7 @@ scadnet.com
 scakuvap.com
 plausible.scala-lang.org
 scaledb.com
-analytics.scalemonk.com
-cads.scalemonk.com
-mmp001.scalemonk.com
+scalemonk.com
 scalewithai.agency
 scan6show.com
 scanguard.com
@@ -31744,8 +31731,7 @@ searchgateway.net
 searchignite.com
 track.searchiq.co
 track3.searchiq.co
-11345.searchmagnified.com
-11471.searchmagnified.com
+searchmagnified.com
 searchmarketing.com
 searchmarquis.com
 searchmiracle.com

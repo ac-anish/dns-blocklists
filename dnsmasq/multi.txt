@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jun 2025 09:19 UTC
-# Version: 2025.0609.0919.42
+# Last modified: 09 Jun 2025 14:14 UTC
+# Version: 2025.0609.1414.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 127852
+# Number of entries: 127832
 #
 local=/0-02.net/
 local=/0001.best/
@@ -505,10 +505,7 @@ local=/1234picz.com/
 local=/1239feffd9.com/
 local=/123any.com/
 local=/123banners.com/
-local=/hit.123c.vn/
-local=/trk.staging.123c.vn/
-local=/stats.123c.vn/
-local=/trk.123c.vn/
+local=/123c.vn/
 local=/123cha.com/
 local=/123compteur.com/
 local=/123computerrepair.com/
@@ -6023,8 +6020,7 @@ local=/adgridwork.com/
 local=/adgroups.com/
 local=/adgrx.com/
 local=/adgzfujunv.com/
-local=/au.adhacker.online/
-local=/power.adhacker.online/
+local=/adhacker.online/
 local=/adhands.ru/
 local=/adhash.com/
 local=/adhaven.com/
@@ -10417,13 +10413,7 @@ local=/advertising-api-fe.amazon.com/
 local=/telemetry.aft.amazon.dev/
 local=/ags-ext.amazon.com/
 local=/cdn.prod.adskit.juno.alexa.amazon.dev/
-local=/aax.amazon-adsystem.amazon.com/
-local=/aax-dtb-cf.amazon-adsystem.amazon.com/
-local=/aax-dtb-mobile-geo.amazon-adsystem.amazon.com/
-local=/aax-ott.amazon-adsystem.amazon.com/
-local=/aax-ott-sdk.amazon-adsystem.amazon.com/
-local=/aax-us.amazon-adsystem.amazon.com/
-local=/aax-us-ott.amazon-adsystem.amazon.com/
+local=/amazon-adsystem.amazon.com/
 local=/analytics.amazon.com/
 local=/applab-sdk.amazon.com/
 local=/metrics.artists.amazon.com/
@@ -22145,8 +22135,7 @@ local=/a.callawaygolfpreowned.com/
 local=/cdn.callbackkiller.com/
 local=/analytics.callbell.eu/
 local=/callcs.in/
-local=/stats.calldorado.com/
-local=/traffic.calldorado.com/
+local=/calldorado.com/
 local=/sp.caller.com/
 local=/sxjfhh.caller.com/
 local=/callfire.com/
@@ -31900,8 +31889,7 @@ local=/concernedcup.com/
 local=/concernedwealth.pro/
 local=/concerningblasphemerollback.com/
 local=/concernrest.com/
-local=/bids.concert.io/
-local=/cdn.concert.io/
+local=/concert.io/
 local=/axp.conchovalleyhomepage.com/
 local=/conchylamiae.top/
 local=/conciergeeccentricstrained.com/
@@ -47503,8 +47491,7 @@ local=/ywrcqa.firstcoastnews.com/
 local=/firstdayout.icu/
 local=/firstendpoint.com/
 local=/firstfinancesllc.com/
-local=/analytics.firsthive.com/
-local=/us-aly-2.firsthive.com/
+local=/firsthive.com/
 local=/firstimpression.io/
 local=/firstlightera.com/
 local=/firstline.cc/
@@ -62693,10 +62680,7 @@ local=/puma.api.iqiyi.com/
 local=/apisgame.iqiyi.com/
 local=/cards-css.iqiyi.com/
 local=/cs-feige.iqiyi.com/
-local=/api.cupid.iqiyi.com/
-local=/intl-t7z.cupid.iqiyi.com/
-local=/msga.cupid.iqiyi.com/
-local=/t7z.cupid.iqiyi.com/
+local=/cupid.iqiyi.com/
 local=/dx-cards-css.iqiyi.com/
 local=/emoticon-sns.iqiyi.com/
 local=/static.g.iqiyi.com/
@@ -85432,8 +85416,7 @@ local=/otelwebtelemetry.com/
 local=/adman.otenet.gr/
 local=/matomo.oth-regensburg.de/
 local=/other-situation.pro/
-local=/js-api.otherlevels.com/
-local=/js-tags.otherlevels.com/
+local=/otherlevels.com/
 local=/otherofherlittle.info/
 local=/otherprofit.com/
 local=/otherwallowssheh.com/
@@ -99225,9 +99208,7 @@ local=/scalaautopecas.com/
 local=/scaledb.com/
 local=/track.scalegoat.com/
 local=/scalemodm.digital/
-local=/analytics.scalemonk.com/
-local=/cads.scalemonk.com/
-local=/mmp001.scalemonk.com/
+local=/scalemonk.com/
 local=/scalesapologyprefix.com/
 local=/scalewithai.agency/
 local=/scallopbedtime.com/
@@ -99785,8 +99766,7 @@ local=/searchingacutemourning.com/
 local=/track.searchiq.co/
 local=/track3.searchiq.co/
 local=/searchlnk.ru/
-local=/11345.searchmagnified.com/
-local=/11471.searchmagnified.com/
+local=/searchmagnified.com/
 local=/searchmarketing.com/
 local=/searchmarquis.com/
 local=/searchmaven.co/

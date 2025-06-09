@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jun 2025 09:39 UTC
-# Version: 2025.0609.0939.51
+# Last modified: 09 Jun 2025 14:21 UTC
+# Version: 2025.0609.1421.00
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 88476
+# Number of entries: 88505
 #
 0.0.0.0 000free.us
 0.0.0.0 000nethost.com
@@ -225,6 +225,9 @@
 0.0.0.0 123-stream.org
 0.0.0.0 ad.12306.cn
 0.0.0.0 123banners.com
+0.0.0.0 123c.vn
+0.0.0.0 qos-talk.123c.vn
+0.0.0.0 qos-ztm.123c.vn
 0.0.0.0 123cha.com
 0.0.0.0 m.123cha.com
 0.0.0.0 123computerrepair.com
@@ -6544,6 +6547,7 @@
 0.0.0.0 s.dsp-s.adgrx.com
 0.0.0.0 rtb.adgrx.com
 0.0.0.0 tvx.adgrx.com
+0.0.0.0 adhacker.online
 0.0.0.0 au.adhacker.online
 0.0.0.0 power.adhacker.online
 0.0.0.0 adhaven.com
@@ -11635,6 +11639,7 @@
 0.0.0.0 event-message.status.advertising.amazon.dev
 0.0.0.0 ags-ext.amazon.com
 0.0.0.0 cdn.prod.adskit.juno.alexa.amazon.dev
+0.0.0.0 amazon-adsystem.amazon.com
 0.0.0.0 aax-dtb-cf.amazon-adsystem.amazon.com
 0.0.0.0 aax-dtb-mobile-geo.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott.amazon-adsystem.amazon.com
@@ -25004,6 +25009,7 @@
 0.0.0.0 a.callawaygolfpreowned.com
 0.0.0.0 analytics.callbell.eu
 0.0.0.0 callcs.in
+0.0.0.0 calldorado.com
 0.0.0.0 stats.calldorado.com
 0.0.0.0 traffic.calldorado.com
 0.0.0.0 callfire.com
@@ -33930,8 +33936,10 @@
 0.0.0.0 analytics.noffice.conceptboard.com
 0.0.0.0 concernedcup.com
 0.0.0.0 concernrest.com
+0.0.0.0 concert.io
 0.0.0.0 bids.concert.io
 0.0.0.0 cdn.concert.io
+0.0.0.0 cdn-cam.concert.io
 0.0.0.0 conchylamiae.top
 0.0.0.0 conciergeradialsupernova.com
 0.0.0.0 conciliatepolar.com
@@ -44379,7 +44387,10 @@
 0.0.0.0 firstcloudit.com
 0.0.0.0 finkjsc.firstcloudit.com
 0.0.0.0 yakov.firstcloudit.com
+0.0.0.0 firsthive.com
 0.0.0.0 analytics.firsthive.com
+0.0.0.0 ind-aly-1.firsthive.com
+0.0.0.0 landing.firsthive.com
 0.0.0.0 firstimpression.io
 0.0.0.0 adstxt.firstimpression.io
 0.0.0.0 cdn.firstimpression.io
@@ -52265,9 +52276,13 @@
 0.0.0.0 puma.api.iqiyi.com
 0.0.0.0 cards-css.iqiyi.com
 0.0.0.0 cs-feige.iqiyi.com
+0.0.0.0 cupid.iqiyi.com
 0.0.0.0 api.cupid.iqiyi.com
 0.0.0.0 intl-t7z.cupid.iqiyi.com
+0.0.0.0 kjp.cupid.iqiyi.com
 0.0.0.0 msga.cupid.iqiyi.com
+0.0.0.0 resource.cupid.iqiyi.com
+0.0.0.0 riskip.cupid.iqiyi.com
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 dx-cards-css.iqiyi.com
 0.0.0.0 emoticon-sns.iqiyi.com
@@ -64980,8 +64995,18 @@
 0.0.0.0 cdn.otclick-adv.ru
 0.0.0.0 otcpublicgovdeliverycom.sbs
 0.0.0.0 other-situation.pro
+0.0.0.0 otherlevels.com
+0.0.0.0 api.otherlevels.com
+0.0.0.0 cdn.otherlevels.com
+0.0.0.0 config.otherlevels.com
+0.0.0.0 events-api.otherlevels.com
+0.0.0.0 interstitial-content.otherlevels.com
 0.0.0.0 js-api.otherlevels.com
+0.0.0.0 js-content.otherlevels.com
+0.0.0.0 js-deliverability-api.otherlevels.com
 0.0.0.0 js-tags.otherlevels.com
+0.0.0.0 native-set-tags.otherlevels.com
+0.0.0.0 ws.otherlevels.com
 0.0.0.0 otherwallowssheh.com
 0.0.0.0 othid.com
 0.0.0.0 otieu.com
@@ -72805,6 +72830,7 @@
 0.0.0.0 www.scakuvap.com
 0.0.0.0 plausible.scala-lang.org
 0.0.0.0 scaledb.com
+0.0.0.0 scalemonk.com
 0.0.0.0 analytics.scalemonk.com
 0.0.0.0 cads.scalemonk.com
 0.0.0.0 mmp001.scalemonk.com
@@ -73052,8 +73078,11 @@
 0.0.0.0 track.searchignite.com
 0.0.0.0 track.searchiq.co
 0.0.0.0 track3.searchiq.co
+0.0.0.0 searchmagnified.com
 0.0.0.0 11345.searchmagnified.com
+0.0.0.0 11382.searchmagnified.com
 0.0.0.0 11471.searchmagnified.com
+0.0.0.0 9145.searchmagnified.com
 0.0.0.0 searchmarketing.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 searchmarquis.com
