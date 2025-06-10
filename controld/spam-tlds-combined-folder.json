@@ -1673,6 +1673,13 @@
       }
     },
     {
+      "PK": "frontrow.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.fun",
       "action": {
         "do": 0,
