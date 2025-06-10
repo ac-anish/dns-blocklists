@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 07 Jun 2025 20:14 UTC
-! Version: 2025.0607.2014.41
+! Last modified: 10 Jun 2025 00:21 UTC
+! Version: 2025.0610.0021.34
 ! Syntax: AdBlock
-! Number of entries: 1481
+! Number of entries: 1482
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -1458,6 +1458,7 @@
 ||writesthisblog.com^
 ||www1.biz^
 ||wwwhost.biz^
+||wwwhost.us^
 ||x24hr.com^
 ||x443.pw^
 ||xddns.de^

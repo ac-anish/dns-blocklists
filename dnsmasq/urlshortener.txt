@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jun 2025 08:11 UTC
-# Version: 2025.0609.0811.00
+# Last modified: 09 Jun 2025 22:36 UTC
+# Version: 2025.0609.2236.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5880
+# Number of entries: 5893
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1391,6 +1391,7 @@ local=/dnmqv.top/
 local=/dntbs.info/
 local=/dntx.info/
 local=/do.co/
+local=/doburl.com/
 local=/dockr.ly/
 local=/docremedio.xyz/
 local=/dogelexus.win/
@@ -1795,6 +1796,7 @@ local=/g22jaya.me/
 local=/ga.co/
 local=/gaa.st/
 local=/gacha.christmas/
+local=/gacoer.win/
 local=/gacor.tokyo/
 local=/gacor123.red/
 local=/gacor22.me/
@@ -1806,6 +1808,7 @@ local=/gacortexas.co/
 local=/gacortexas.org/
 local=/gacorwak.xyz/
 local=/galien.org/
+local=/gallerylink.info/
 local=/galvanithina8.life/
 local=/gamegta.com/
 local=/gameover.today/
@@ -2101,6 +2104,8 @@ local=/hodroffs.com/
 local=/hoeg.it/
 local=/hoheo.sbs/
 local=/hoholah.xyz/
+local=/hoki22crot.com/
+local=/hokidana.vip/
 local=/hokie.co/
 local=/homes.jp/
 local=/hoo.be/
@@ -2356,6 +2361,7 @@ local=/jacobgb334inc.live/
 local=/jaenwoo.live/
 local=/jaga.link/
 local=/jaglil.com/
+local=/jagoan-hosting.online/
 local=/jajy.top/
 local=/jamaica-applicants.info/
 local=/jame.sn/
@@ -2453,6 +2459,7 @@ local=/kagk.top/
 local=/kaitect.com/
 local=/kaleysupport.life/
 local=/kand18.com/
+local=/kaos.link/
 local=/kapitalbank.live/
 local=/kapten69.life/
 local=/karaoke4kids.live/
@@ -2802,6 +2809,7 @@ local=/liverpooldescarga.online/
 local=/livesport88.life/
 local=/livestre.am/
 local=/ljqlf.com/
+local=/lkdg.yoga/
 local=/lkdin.io/
 local=/lkgw.cc/
 local=/lkysrw.com/
@@ -2844,6 +2852,8 @@ local=/lnnk.in/
 local=/lnv.gy/
 local=/lo.ge/
 local=/loasj.com/
+local=/logincuan1.com/
+local=/logincuan2.com/
 local=/loginmaxwin.pro/
 local=/loginsaja.website/
 local=/lohud.us/
@@ -3066,6 +3076,7 @@ local=/minitv.fun/
 local=/miniurl.be/
 local=/miniurl.com/
 local=/miniurl.ir/
+local=/minl.in/
 local=/minu.be/
 local=/minu.me/
 local=/minurl.fr/
@@ -3231,7 +3242,6 @@ local=/myshorturls.com/
 local=/mysp.ac/
 local=/mysurl.com/
 local=/mytd.cc/
-local=/mytiktok.life/
 local=/mytinycheck9.life/
 local=/mytoluwalemi.life/
 local=/mytorus.live/
@@ -4522,6 +4532,7 @@ local=/sqmlm.sbs/
 local=/sqrl.it/
 local=/sqrx.io/
 local=/squ.re/
+local=/squadexp.link/
 local=/squadgen.com/
 local=/squeez.org/
 local=/sqzr.cz/
@@ -4743,6 +4754,7 @@ local=/thekreww.com/
 local=/thelegends.land/
 local=/thenews24h.tech/
 local=/theogsocialnetwork.live/
+local=/theposhed.com/
 local=/thesa.us/
 local=/thesne.ws/
 local=/thesocial.vip/
@@ -5867,6 +5879,7 @@ local=/zpag.es/
 local=/zpr.io/
 local=/zpwd.info/
 local=/zqq.bio/
+local=/zrghosting.com/
 local=/zrlul.com/
 local=/zshort.io/
 local=/zshorten.com/

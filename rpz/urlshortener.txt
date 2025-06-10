@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749456660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749508560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 09 Jun 2025 08:11 UTC
-; Version: 2025.0609.0811.00
+; Last modified: 09 Jun 2025 22:36 UTC
+; Version: 2025.0609.2236.07
 ; Syntax: RPZ
-; Number of entries: 11760
+; Number of entries: 11786
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1934,6 +1934,8 @@ dmkkc.com CNAME .
 *.dmkkc.com CNAME .
 dmprd.com CNAME .
 *.dmprd.com CNAME .
+doburl.com CNAME .
+*.doburl.com CNAME .
 doiop.com CNAME .
 *.doiop.com CNAME .
 dotalink.com CNAME .
@@ -2174,6 +2176,8 @@ ly.hkfture.com CNAME .
 *.ly.hkfture.com CNAME .
 hodroffs.com CNAME .
 *.hodroffs.com CNAME .
+hoki22crot.com CNAME .
+*.hoki22crot.com CNAME .
 hotsexymaids.com CNAME .
 *.hotsexymaids.com CNAME .
 h-pp.hotstar.com CNAME .
@@ -2412,6 +2416,10 @@ lnkiy.com CNAME .
 *.lnkiy.com CNAME .
 loasj.com CNAME .
 *.loasj.com CNAME .
+logincuan1.com CNAME .
+*.logincuan1.com CNAME .
+logincuan2.com CNAME .
+*.logincuan2.com CNAME .
 lomuhm.com CNAME .
 *.lomuhm.com CNAME .
 looktiny.com CNAME .
@@ -3070,6 +3078,8 @@ thejoekuskie.com CNAME .
 *.thejoekuskie.com CNAME .
 thekreww.com CNAME .
 *.thekreww.com CNAME .
+theposhed.com CNAME .
+*.theposhed.com CNAME .
 thinfi.com CNAME .
 *.thinfi.com CNAME .
 thinurl.com CNAME .
@@ -3544,6 +3554,8 @@ zovpart.com CNAME .
 *.zovpart.com CNAME .
 zoxzc.com CNAME .
 *.zoxzc.com CNAME .
+zrghosting.com CNAME .
+*.zrghosting.com CNAME .
 zrlul.com CNAME .
 *.zrlul.com CNAME .
 zshorten.com CNAME .
@@ -4814,6 +4826,8 @@ me9.in CNAME .
 *.me9.in CNAME .
 migly.in CNAME .
 *.migly.in CNAME .
+minl.in CNAME .
+*.minl.in CNAME .
 my-link.in CNAME .
 *.my-link.in CNAME .
 myglamm.in CNAME .
@@ -5024,6 +5038,8 @@ fwdme.info CNAME .
 *.fwdme.info CNAME .
 fyndr.info CNAME .
 *.fyndr.info CNAME .
+gallerylink.info CNAME .
+*.gallerylink.info CNAME .
 gbxb.info CNAME .
 *.gbxb.info CNAME .
 ghalida.info CNAME .
@@ -6380,8 +6396,6 @@ mylovinglife01974.life CNAME .
 *.mylovinglife01974.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
-mytiktok.life CNAME .
-*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -6704,6 +6718,8 @@ iwr.link CNAME .
 *.iwr.link CNAME .
 jaga.link CNAME .
 *.jaga.link CNAME .
+kaos.link CNAME .
+*.kaos.link CNAME .
 kgs.link CNAME .
 *.kgs.link CNAME .
 kisa.link CNAME .
@@ -6816,6 +6832,8 @@ sonoran.link CNAME .
 *.sonoran.link CNAME .
 spotify.link CNAME .
 *.spotify.link CNAME .
+squadexp.link CNAME .
+*.squadexp.link CNAME .
 steveendow.link CNAME .
 *.steveendow.link CNAME .
 supr.link CNAME .
@@ -8784,6 +8802,8 @@ dinzzvpn.online CNAME .
 *.dinzzvpn.online CNAME .
 dn303.online CNAME .
 *.dn303.online CNAME .
+jagoan-hosting.online CNAME .
+*.jagoan-hosting.online CNAME .
 kliks.online CNAME .
 *.kliks.online CNAME .
 linkshortner.online CNAME .
@@ -11418,6 +11438,8 @@ cepatwd.vip CNAME .
 *.cepatwd.vip CNAME .
 coklat.vip CNAME .
 *.coklat.vip CNAME .
+hokidana.vip CNAME .
+*.hokidana.vip CNAME .
 lihi.vip CNAME .
 *.lihi.vip CNAME .
 link-me.vip CNAME .
@@ -11510,6 +11532,8 @@ cepatwd.win CNAME .
 *.cepatwd.win CNAME .
 dogelexus.win CNAME .
 *.dogelexus.win CNAME .
+gacoer.win CNAME .
+*.gacoer.win CNAME .
 liga.win CNAME .
 *.liga.win CNAME .
 loveer.win CNAME .
@@ -11770,6 +11794,8 @@ y30.xyz CNAME .
 *.y30.xyz CNAME .
 zeroshort.xyz CNAME .
 *.zeroshort.xyz CNAME .
+lkdg.yoga CNAME .
+*.lkdg.yoga CNAME .
 fly.yt CNAME .
 *.fly.yt CNAME .
 reco.yt CNAME .
