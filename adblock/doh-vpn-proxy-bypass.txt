@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 10 Jun 2025 00:22 UTC
-! Version: 2025.0610.0022.26
+! Last modified: 10 Jun 2025 12:56 UTC
+! Version: 2025.0610.1256.06
 ! Syntax: AdBlock
-! Number of entries: 4738
+! Number of entries: 4737
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -1316,6 +1316,7 @@
 ||doh.eddi.net^
 ||dns.edgeburnmedia.com^
 ||edgedcircles.com^
+||dns.edgy.network^
 ||edgy-dns.com^
 ||dns.editechstudio.com^
 ||edpuzzle.space^
@@ -2493,7 +2494,6 @@
 ||propeller.catapzlt.rohu.mooo.com^
 ||morbitzer.de^
 ||morevpn.com^
-||dns.moulticast.net^
 ||movieproxy.com^
 ||moyazyinomoyasi.com^
 ||vpn.mozilla.org^
@@ -4017,7 +4017,6 @@
 ||towervpn.com^
 ||home.sso.toythieves.com^
 ||portal.sso.toythieves.com^
-||dns.tracker.ink^
 ||tradeadspace.info^
 ||linewize.tradekinginternational.com^
 ||trafflink.xyz^

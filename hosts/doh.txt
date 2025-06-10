@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Jun 2025 00:21 UTC
-# Version: 2025.0610.0021.55
+# Last modified: 10 Jun 2025 12:55 UTC
+# Version: 2025.0610.1255.45
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1603
+# Number of entries: 1602
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -614,6 +614,7 @@
 0.0.0.0 dns.eddi.net
 0.0.0.0 doh.eddi.net
 0.0.0.0 dns.edgeburnmedia.com
+0.0.0.0 dns.edgy.network
 0.0.0.0 edgy-dns.com
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
@@ -985,7 +986,6 @@
 0.0.0.0 dns.moonssif.com
 0.0.0.0 morbitzer.de
 0.0.0.0 www.morbitzer.de
-0.0.0.0 dns.moulticast.net
 0.0.0.0 dns.mrkaran.dev
 0.0.0.0 msr177.com
 0.0.0.0 dns.msxnet.ru
@@ -1488,7 +1488,6 @@
 0.0.0.0 dot.tooli.ca
 0.0.0.0 nsc.torgues.net
 0.0.0.0 doh.totoro.pub
-0.0.0.0 dns.tracker.ink
 0.0.0.0 resolv1.trash.net
 0.0.0.0 resolv2.trash.net
 0.0.0.0 resolv3.trash.net

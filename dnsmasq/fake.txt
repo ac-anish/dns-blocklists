@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 09 Jun 2025 22:34 UTC
-# Version: 2025.0609.2234.17
+# Last modified: 10 Jun 2025 11:08 UTC
+# Version: 2025.0610.1108.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14525
+# Number of entries: 14529
 #
 local=/01crypto.com/
 local=/1001clothing.eu/
@@ -1684,7 +1684,6 @@ local=/bloombex-options.com/
 local=/blue-mart.shop/
 local=/bluebellalingerie.com/
 local=/blueblom.com/
-local=/blueboltchargers.com/
 local=/bluehend-land.de/
 local=/bluelock.store/
 local=/blueoceanproject.de/
@@ -1940,6 +1939,7 @@ local=/brunateschuhewerksverkauf.de/
 local=/brunetsludmila.com/
 local=/brushshope.com/
 local=/brutaka.com/
+local=/bs2best.at/
 local=/bs2site.at/
 local=/bsc-network.de/
 local=/bsc-network.net/
@@ -6451,6 +6451,7 @@ local=/ilopax.com/
 local=/ilovemlmsk.pics/
 local=/ilsejacobsendeutschland.de/
 local=/ilsemunchen.de/
+local=/ilumina.center/
 local=/imadjassem.com/
 local=/imaginationh.com/
 local=/imaginte.com/
@@ -9044,6 +9045,7 @@ local=/nazaone.com/
 local=/nbynicole.com/
 local=/ncases.com/
 local=/nchen.de/
+local=/ndfinitee.com/
 local=/neary.de/
 local=/necessityi.com/
 local=/necessoul.com/
@@ -9372,6 +9374,7 @@ local=/obroker.com/
 local=/obstkistefreiburg.shop/
 local=/ocayo.de/
 local=/occasionak.com/
+local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
@@ -11056,6 +11059,7 @@ local=/safewayus.com/
 local=/safir.com/
 local=/sagaenterprizes.com/
 local=/sagenverkauf.com/
+local=/saint-blanc.com/
 local=/saintjamesireland.com/
 local=/saintjamesoutlet.at/
 local=/sakaziq.com/

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Jun 2025 00:22 UTC
-# Version: 2025.0610.0022.26
+# Last modified: 10 Jun 2025 12:56 UTC
+# Version: 2025.0610.1256.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4738
+# Number of entries: 4737
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1315,6 +1315,7 @@ local=/dns.eddi.net/
 local=/doh.eddi.net/
 local=/dns.edgeburnmedia.com/
 local=/edgedcircles.com/
+local=/dns.edgy.network/
 local=/edgy-dns.com/
 local=/dns.editechstudio.com/
 local=/edpuzzle.space/
@@ -2492,7 +2493,6 @@ local=/aleks.readtheory.com.mooo.com/
 local=/propeller.catapzlt.rohu.mooo.com/
 local=/morbitzer.de/
 local=/morevpn.com/
-local=/dns.moulticast.net/
 local=/movieproxy.com/
 local=/moyazyinomoyasi.com/
 local=/vpn.mozilla.org/
@@ -4016,7 +4016,6 @@ local=/touchvpn.net/
 local=/towervpn.com/
 local=/home.sso.toythieves.com/
 local=/portal.sso.toythieves.com/
-local=/dns.tracker.ink/
 local=/tradeadspace.info/
 local=/linewize.tradekinginternational.com/
 local=/trafflink.xyz/
