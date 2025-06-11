@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Jun 2025 11:08 UTC
-# Version: 2025.0610.1108.41
+# Last modified: 10 Jun 2025 22:42 UTC
+# Version: 2025.0610.2242.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14529
+# Number of entries: 14538
 #
 local=/01crypto.com/
 local=/1001clothing.eu/
@@ -1850,6 +1850,7 @@ local=/brenilpellets.com/
 local=/brenn-holzde.com/
 local=/brennholz-angebot.com/
 local=/brennholz-deckarm.de/
+local=/brennholz-granulat.com/
 local=/brennholz-haus.de/
 local=/brennholz-hochwald.de/
 local=/brennholz-hofmann.de/
@@ -4745,6 +4746,7 @@ local=/fotohandel-bergmann.de/
 local=/fotohandel-gruber.at/
 local=/fotohandel-kasper.de/
 local=/fotohandel-neumann.de/
+local=/fotohandel-thiele.de/
 local=/fotoprinz.com/
 local=/foundatioy.com/
 local=/foundsond.shop/
@@ -5057,6 +5059,7 @@ local=/gartenlands.com/
 local=/gartenlandschaftladen.com/
 local=/gartenmachtshop.de/
 local=/gartenmaschinen-arbeitsgerate.shop/
+local=/gartenmotorgerate.com/
 local=/gartenpflegeshop.com/
 local=/gartenplus24.com/
 local=/gartenrabatt.com/
@@ -10578,6 +10581,7 @@ local=/rasen-profis.de/
 local=/rasen24.com/
 local=/rasen24h.com/
 local=/rasenmaherwendik.de/
+local=/rasenmotor.com/
 local=/rasenmuller.de/
 local=/rasenpro.com/
 local=/rasenprofis.net/
@@ -10762,6 +10766,7 @@ local=/reservefundbnk.com/
 local=/reservierung.top/
 local=/reshline.com/
 local=/resid3ncy.com/
+local=/resistoldeutschland.com/
 local=/respeaonsct.com/
 local=/restchess.com/
 local=/restliss.com/
@@ -10940,6 +10945,7 @@ local=/rosecapital.ltd/
 local=/roselinlin.com/
 local=/rosenbaum-berlin.de/
 local=/rosenfeldgoldschmied.com/
+local=/rosenrabatt.com/
 local=/rosesealiy.com/
 local=/rosezo.com/
 local=/rosinstore.shop/
@@ -12866,6 +12872,7 @@ local=/todo-para-camping-caravans.es/
 local=/todo-para-embarcaciones.com/
 local=/togclothes.com/
 local=/togetherrxacces.com/
+local=/toitggzy.top/
 local=/token-trust.ltd/
 local=/kino.tolle-nachrichten.com/
 local=/tollergarten.com/
@@ -13308,6 +13315,7 @@ local=/underarmourosterreich.com/
 local=/underarmours-hrvatska.com/
 local=/underarmourskroutz.com/
 local=/underarmourtrainersuk.com/
+local=/underwearverkauf.com/
 local=/undley.de/
 local=/unexpectedm.com/
 local=/ungi-analytics.de/
@@ -13987,6 +13995,7 @@ local=/weinemotionen.de/
 local=/weinmarkt-potsdam.de/
 local=/weinnatur.shop/
 local=/weinnatursale.shop/
+local=/weinonlinestore.com/
 local=/weinrabatt.com/
 local=/weinshop-de.com/
 local=/weinsteincorp.biz/
