@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 16:30 UTC
-# Version: 2025.0905.1630.20
+# Last modified: 09 Sep 2025 08:28 UTC
+# Version: 2025.0909.0828.14
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1634
+# Number of entries: 1641
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -352,6 +352,7 @@
 0.0.0.0 router.comss.one
 0.0.0.0 dns1.conne.net
 0.0.0.0 dns.connect.fail
+0.0.0.0 dns.containerpi.com
 0.0.0.0 dns.controld.com
 0.0.0.0 freedns.controld.com
 0.0.0.0 family.freedns.controld.com
@@ -378,6 +379,8 @@
 0.0.0.0 cubedns.com
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
+0.0.0.0 dns.cybertonic.tech
+0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
 0.0.0.0 dns.d4d.moe
@@ -561,6 +564,7 @@
 0.0.0.0 do.dnscrypt.uk
 0.0.0.0 doh.dnscrypt.uk
 0.0.0.0 v.dnscrypt.uk
+0.0.0.0 dnsenc.com
 0.0.0.0 dnsforfamily.com
 0.0.0.0 dns-doh.dnsforfamily.com
 0.0.0.0 dns-doh-no-safe-search.dnsforfamily.com
@@ -631,6 +635,7 @@
 0.0.0.0 jurre-home.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
+0.0.0.0 punono.duckdns.org
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 dukun.de
@@ -751,6 +756,7 @@
 0.0.0.0 dnsblock.grisumedia.de
 0.0.0.0 dns.grqu.de
 0.0.0.0 dns.guard.io
+0.0.0.0 dns.guardmydns.com
 0.0.0.0 dns2.guidocioni.it
 0.0.0.0 dns.gutwe.in
 0.0.0.0 gztech.me
@@ -1061,6 +1067,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net
@@ -1328,7 +1335,6 @@
 0.0.0.0 tiger.dns.qwer.pw
 0.0.0.0 resolver.r0cket.net
 0.0.0.0 r1bnc.com
-0.0.0.0 resolve2.r9x.cc
 0.0.0.0 dns.rabbitdns.org
 0.0.0.0 family.rabbitdns.org
 0.0.0.0 security.rabbitdns.org
@@ -1602,6 +1608,7 @@
 0.0.0.0 xholgm.top
 0.0.0.0 agh.xinfeng16m.top
 0.0.0.0 dns.xlion.tw
+0.0.0.0 xmr.land
 0.0.0.0 xn--durhre-yxa.de
 0.0.0.0 xorbiadns.com
 0.0.0.0 dns.xuming.studio

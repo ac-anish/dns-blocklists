@@ -1519,6 +1519,13 @@
       }
     },
     {
+      "PK": "doe.cash",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "doesmycode.work",
       "action": {
         "do": 1,
@@ -4340,6 +4347,13 @@
       }
     },
     {
+      "PK": "photostore24.online",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.pics",
       "action": {
         "do": 0,
@@ -5390,6 +5404,13 @@
       }
     },
     {
+      "PK": "spankbang.mov",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "spankbang.party",
       "action": {
         "do": 1,
@@ -5575,6 +5596,13 @@
       "PK": "*.surf",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "surveycake.biz",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -5832,6 +5860,13 @@
     },
     {
       "PK": "toast.ooo",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "toast.site",
       "action": {
         "do": 1,
         "status": 1
@@ -7661,13 +7696,6 @@
       "PK": "*.you",
       "action": {
         "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "yts.monster",
-      "action": {
-        "do": 1,
         "status": 1
       }
     },

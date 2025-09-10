@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 01 Sep 2025 20:16 UTC
-! Version: 2025.0901.2016.19
+! Last modified: 09 Sep 2025 00:06 UTC
+! Version: 2025.0909.0006.59
 ! Syntax: AdBlock
-! Number of entries: 1466
+! Number of entries: 1470
 !
 ||0000000000000000000000.com^
 ||0rg.us^
@@ -20,6 +20,7 @@
 ||1337.cx^
 ||16-b.it^
 ||1cooldns.com^
+||1dumb.com^
 ||2288.org^
 ||24-7.ro^
 ||25u.com^
@@ -491,6 +492,7 @@
 ||eurotank.ro^
 ||eva.hk^
 ||everton.com^
+||evils.in^
 ||expired-dns.com^
 ||ez-ip.net^
 ||ezua.com^
@@ -824,6 +826,7 @@
 ||itekgroup.com^
 ||itemdb.com^
 ||itsaol.com^
+||iu4ever.org^
 ||iugaming.com^
 ||ivc.cc^
 ||ix.tc^
@@ -1035,6 +1038,7 @@
 ||networkoutpost.com^
 ||nflfan.org^
 ||nhlfan.net^
+||no-domain.name^
 ||no-ip.be^
 ||no-ip.biz^
 ||no-ip.ca^

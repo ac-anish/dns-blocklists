@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 16:30 UTC
-# Version: 2025.0905.1630.20
+# Last modified: 09 Sep 2025 08:28 UTC
+# Version: 2025.0909.0828.14
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1634
+# Number of entries: 1641
 #
 003153.xyz
 ns.00dani.me
@@ -352,6 +352,7 @@ dns.east.comss.one
 router.comss.one
 dns1.conne.net
 dns.connect.fail
+dns.containerpi.com
 dns.controld.com
 freedns.controld.com
 family.freedns.controld.com
@@ -378,6 +379,8 @@ dns.csswg.org
 cubedns.com
 qual.cuprum.ru
 dns.cwlys.com
+dns.cybertonic.tech
+cynntex.fun
 dns.cynthialabs.net
 dns.d365.in
 dns.d4d.moe
@@ -561,6 +564,7 @@ dns1.dnscrypt.ca
 do.dnscrypt.uk
 doh.dnscrypt.uk
 v.dnscrypt.uk
+dnsenc.com
 dnsforfamily.com
 dns-doh.dnsforfamily.com
 dns-doh-no-safe-search.dnsforfamily.com
@@ -631,6 +635,7 @@ agh.dshubham.xyz
 jurre-home.duckdns.org
 krtekvpn.duckdns.org
 osefcorp.duckdns.org
+punono.duckdns.org
 tuandns.duckdns.org
 tungdnsne.duckdns.org
 dukun.de
@@ -751,6 +756,7 @@ dns.green-ping.lol
 dnsblock.grisumedia.de
 dns.grqu.de
 dns.guard.io
+dns.guardmydns.com
 dns2.guidocioni.it
 dns.gutwe.in
 gztech.me
@@ -1061,6 +1067,7 @@ paranoia.mydns.network
 blackhole.myon.lu
 area51.mywire.org
 fwgw.orangepipc.mywire.org
+dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 doh-ca.naftalie.net
@@ -1328,7 +1335,6 @@ lion.dns.qwer.pw
 tiger.dns.qwer.pw
 resolver.r0cket.net
 r1bnc.com
-resolve2.r9x.cc
 dns.rabbitdns.org
 family.rabbitdns.org
 security.rabbitdns.org
@@ -1602,6 +1608,7 @@ doh2.gslb2.xfinity.com
 xholgm.top
 agh.xinfeng16m.top
 dns.xlion.tw
+xmr.land
 xn--durhre-yxa.de
 xorbiadns.com
 dns.xuming.studio

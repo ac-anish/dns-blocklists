@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1757054880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757400480 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Sep 2025 06:48 UTC
-; Version: 2025.0905.0648.54
+; Last modified: 09 Sep 2025 06:48 UTC
+; Version: 2025.0909.0648.15
 ; Syntax: RPZ
-; Number of entries: 12636
+; Number of entries: 12772
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -144,6 +144,8 @@ waa.ai CNAME .
 *.waa.ai CNAME .
 arsn.al CNAME .
 *.arsn.al CNAME .
+aww.al CNAME .
+*.aww.al CNAME .
 can.al CNAME .
 *.can.al CNAME .
 cbsloc.al CNAME .
@@ -228,6 +230,8 @@ mycts.app CNAME .
 *.mycts.app CNAME .
 nimbli.app CNAME .
 *.nimbli.app CNAME .
+perseal.app CNAME .
+*.perseal.app CNAME .
 pg3d.app CNAME .
 *.pg3d.app CNAME .
 plannery.app CNAME .
@@ -248,6 +252,8 @@ shortner.app CNAME .
 *.shortner.app CNAME .
 shortshare.app CNAME .
 *.shortshare.app CNAME .
+tapmy.app CNAME .
+*.tapmy.app CNAME .
 tbsi.app CNAME .
 *.tbsi.app CNAME .
 ufai.app CNAME .
@@ -416,6 +422,8 @@ adfly.be CNAME .
 *.adfly.be CNAME .
 s.ggwp.be CNAME .
 *.s.ggwp.be CNAME .
+haur.be CNAME .
+*.haur.be CNAME .
 hoo.be CNAME .
 *.hoo.be CNAME .
 itty.be CNAME .
@@ -2346,6 +2354,8 @@ ctse-registry.com CNAME .
 *.ctse-registry.com CNAME .
 cukbaray.com CNAME .
 *.cukbaray.com CNAME .
+cut-ly.com CNAME .
+*.cut-ly.com CNAME .
 cuteurl.com CNAME .
 *.cuteurl.com CNAME .
 cutlinker.com CNAME .
@@ -2512,6 +2522,8 @@ f5yo.com CNAME .
 *.f5yo.com CNAME .
 fadurl.com CNAME .
 *.fadurl.com CNAME .
+famousurl.com CNAME .
+*.famousurl.com CNAME .
 fasttory.com CNAME .
 *.fasttory.com CNAME .
 faturl.com CNAME .
@@ -2534,6 +2546,8 @@ flextrig.com CNAME .
 *.flextrig.com CNAME .
 flickerlink.com CNAME .
 *.flickerlink.com CNAME .
+flinkio.com CNAME .
+*.flinkio.com CNAME .
 flowcode.com CNAME .
 *.flowcode.com CNAME .
 flowhits.com CNAME .
@@ -2640,6 +2654,8 @@ h-ref.com CNAME .
 *.h-ref.com CNAME .
 h2apz.com CNAME .
 *.h2apz.com CNAME .
+hadsucma.com CNAME .
+*.hadsucma.com CNAME .
 hammerthoritaly.com CNAME .
 *.hammerthoritaly.com CNAME .
 hangeulplay.com CNAME .
@@ -2712,6 +2728,8 @@ icanhaz.com CNAME .
 *.icanhaz.com CNAME .
 icutlink.com CNAME .
 *.icutlink.com CNAME .
+one.icykit.com CNAME .
+*.one.icykit.com CNAME .
 iembelleze.com CNAME .
 *.iembelleze.com CNAME .
 ihnpo.com CNAME .
@@ -2728,6 +2746,8 @@ indvix.com CNAME .
 *.indvix.com CNAME .
 infy.com CNAME .
 *.infy.com CNAME .
+inshorten.com CNAME .
+*.inshorten.com CNAME .
 inshorturl.com CNAME .
 *.inshorturl.com CNAME .
 insighturl.com CNAME .
@@ -2760,6 +2780,8 @@ itp24.com CNAME .
 *.itp24.com CNAME .
 its-4-u.com CNAME .
 *.its-4-u.com CNAME .
+itshrt.com CNAME .
+*.itshrt.com CNAME .
 itsssl.com CNAME .
 *.itsssl.com CNAME .
 itvty.com CNAME .
@@ -2848,6 +2870,8 @@ lincyt.com CNAME .
 *.lincyt.com CNAME .
 link-cut.com CNAME .
 *.link-cut.com CNAME .
+link-zy.com CNAME .
+*.link-zy.com CNAME .
 link1s.com CNAME .
 *.link1s.com CNAME .
 linkaff.com CNAME .
@@ -2856,6 +2880,8 @@ linkallstar.com CNAME .
 *.linkallstar.com CNAME .
 linkalp.com CNAME .
 *.linkalp.com CNAME .
+linkasd.com CNAME .
+*.linkasd.com CNAME .
 linkbeton.com CNAME .
 *.linkbeton.com CNAME .
 linkbirdy.com CNAME .
@@ -2912,6 +2938,8 @@ linkku-pl.com CNAME .
 *.linkku-pl.com CNAME .
 linkku-pn.com CNAME .
 *.linkku-pn.com CNAME .
+linkku-rp.com CNAME .
+*.linkku-rp.com CNAME .
 linkku-sd.com CNAME .
 *.linkku-sd.com CNAME .
 linkku-st.com CNAME .
@@ -3028,6 +3056,8 @@ mayaediciones.com CNAME .
 *.mayaediciones.com CNAME .
 mdcr1.com CNAME .
 *.mdcr1.com CNAME .
+mdklt.com CNAME .
+*.mdklt.com CNAME .
 mdmblz.com CNAME .
 *.mdmblz.com CNAME .
 me-qr.com CNAME .
@@ -3118,6 +3148,8 @@ mysurl.com CNAME .
 *.mysurl.com CNAME .
 n66d.com CNAME .
 *.n66d.com CNAME .
+na2.com CNAME .
+*.na2.com CNAME .
 naik-terus.com CNAME .
 *.naik-terus.com CNAME .
 name.com CNAME .
@@ -3146,8 +3178,12 @@ nfgn.com CNAME .
 *.nfgn.com CNAME .
 nfsurl.com CNAME .
 *.nfsurl.com CNAME .
+ngnbrand.com CNAME .
+*.ngnbrand.com CNAME .
 ngrid.com CNAME .
 *.ngrid.com CNAME .
+nhbvi.com CNAME .
+*.nhbvi.com CNAME .
 nipnit.com CNAME .
 *.nipnit.com CNAME .
 nogfan.com CNAME .
@@ -3294,6 +3330,8 @@ qrcood.com CNAME .
 *.qrcood.com CNAME .
 qrfy.com CNAME .
 *.qrfy.com CNAME .
+qrkiss.com CNAME .
+*.qrkiss.com CNAME .
 qrlit.com CNAME .
 *.qrlit.com CNAME .
 qrnesign.com CNAME .
@@ -3368,6 +3406,8 @@ reshort.com CNAME .
 *.reshort.com CNAME .
 reshortfly.com CNAME .
 *.reshortfly.com CNAME .
+resvoice.com CNAME .
+*.resvoice.com CNAME .
 revlk.com CNAME .
 *.revlk.com CNAME .
 riot.com CNAME .
@@ -3568,6 +3608,10 @@ shrtfly.com CNAME .
 *.shrtfly.com CNAME .
 shrtlnk.com CNAME .
 *.shrtlnk.com CNAME .
+shrtru.com CNAME .
+*.shrtru.com CNAME .
+shrturl.com CNAME .
+*.shrturl.com CNAME .
 shrturll.com CNAME .
 *.shrturll.com CNAME .
 shrunken.com CNAME .
@@ -3612,6 +3656,8 @@ snappyurl.com CNAME .
 *.snappyurl.com CNAME .
 snapylink.com CNAME .
 *.snapylink.com CNAME .
+sniplytics.com CNAME .
+*.sniplytics.com CNAME .
 snipmojo.com CNAME .
 *.snipmojo.com CNAME .
 snipqr.com CNAME .
@@ -3958,12 +4004,16 @@ twg.urlklik.com CNAME .
 *.twg.urlklik.com CNAME .
 urlkr.com CNAME .
 *.urlkr.com CNAME .
+urlkw.com CNAME .
+*.urlkw.com CNAME .
 urlky.com CNAME .
 *.urlky.com CNAME .
 urlli.com CNAME .
 *.urlli.com CNAME .
 urllimit.com CNAME .
 *.urllimit.com CNAME .
+urllinker.com CNAME .
+*.urllinker.com CNAME .
 urlner.com CNAME .
 *.urlner.com CNAME .
 urlnova.com CNAME .
@@ -4188,6 +4238,8 @@ yfrog.com CNAME .
 *.yfrog.com CNAME .
 yhqapp.com CNAME .
 *.yhqapp.com CNAME .
+ylinkshort.com CNAME .
+*.ylinkshort.com CNAME .
 yoalizer.com CNAME .
 *.yoalizer.com CNAME .
 yotpoclicks.com CNAME .
@@ -4302,6 +4354,8 @@ x3.cx CNAME .
 *.x3.cx CNAME .
 url.cy CNAME .
 *.url.cy CNAME .
+ahpit.cyou CNAME .
+*.ahpit.cyou CNAME .
 linkmu.cyou CNAME .
 *.linkmu.cyou CNAME .
 shortly.cyou CNAME .
@@ -4764,6 +4818,8 @@ ftim.eu CNAME .
 *.ftim.eu CNAME .
 fwme.eu CNAME .
 *.fwme.eu CNAME .
+golnk.eu CNAME .
+*.golnk.eu CNAME .
 hepsipay.eu CNAME .
 *.hepsipay.eu CNAME .
 hstx.eu CNAME .
@@ -5000,6 +5056,8 @@ wideo.fr CNAME .
 *.wideo.fr CNAME .
 ww7.fr CNAME .
 *.ww7.fr CNAME .
+xn--ka-uja.fr CNAME .
+*.xn--ka-uja.fr CNAME .
 yagoa.fr CNAME .
 *.yagoa.fr CNAME .
 z9.fr CNAME .
@@ -5374,6 +5432,8 @@ tinyurl.hu CNAME .
 *.tinyurl.hu CNAME .
 zsirkacsa.hu CNAME .
 *.zsirkacsa.hu CNAME .
+cloudfare.icu CNAME .
+*.cloudfare.icu CNAME .
 linkin.icu CNAME .
 *.linkin.icu CNAME .
 oo0oo.icu CNAME .
@@ -5422,6 +5482,8 @@ jelink.id CNAME .
 *.jelink.id CNAME .
 minilink.id CNAME .
 *.minilink.id CNAME .
+monly.id CNAME .
+*.monly.id CNAME .
 mtik.id CNAME .
 *.mtik.id CNAME .
 cbnet.my.id CNAME .
@@ -5498,6 +5560,8 @@ gettr.im CNAME .
 *.gettr.im CNAME .
 iii.im CNAME .
 *.iii.im CNAME .
+itm.im CNAME .
+*.itm.im CNAME .
 ity.im CNAME .
 *.ity.im CNAME .
 jug.im CNAME .
@@ -5720,6 +5784,8 @@ ilix.in CNAME .
 *.ilix.in CNAME .
 invy.in CNAME .
 *.invy.in CNAME .
+itiny.in CNAME .
+*.itiny.in CNAME .
 itiy.in CNAME .
 *.itiy.in CNAME .
 itly.in CNAME .
@@ -5846,6 +5912,8 @@ rusd.in CNAME .
 *.rusd.in CNAME .
 s4w.in CNAME .
 *.s4w.in CNAME .
+safeurl.in CNAME .
+*.safeurl.in CNAME .
 savg.in CNAME .
 *.savg.in CNAME .
 scts.in CNAME .
@@ -5992,6 +6060,8 @@ chudaitrieuview.info CNAME .
 *.chudaitrieuview.info CNAME .
 cinecom.info CNAME .
 *.cinecom.info CNAME .
+coinpr.info CNAME .
+*.coinpr.info CNAME .
 cookcenter.info CNAME .
 *.cookcenter.info CNAME .
 dl-protect.info CNAME .
@@ -6236,6 +6306,8 @@ beree.io CNAME .
 *.beree.io CNAME .
 betaloop.io CNAME .
 *.betaloop.io CNAME .
+betterlinks.io CNAME .
+*.betterlinks.io CNAME .
 biotap.io CNAME .
 *.biotap.io CNAME .
 bsrw.io CNAME .
@@ -6280,6 +6352,8 @@ exe.io CNAME .
 *.exe.io CNAME .
 feji.io CNAME .
 *.feji.io CNAME .
+fliplink.io CNAME .
+*.fliplink.io CNAME .
 flomuz.io CNAME .
 *.flomuz.io CNAME .
 url-shortener.yc.fstrk.io CNAME .
@@ -6540,6 +6614,8 @@ urlzip.io CNAME .
 *.urlzip.io CNAME .
 urt.io CNAME .
 *.urt.io CNAME .
+useclick.io CNAME .
+*.useclick.io CNAME .
 utm.io CNAME .
 *.utm.io CNAME .
 vipb.io CNAME .
@@ -6624,6 +6700,8 @@ khtm.ir CNAME .
 *.khtm.ir CNAME .
 l1k.ir CNAME .
 *.l1k.ir CNAME .
+l2o.ir CNAME .
+*.l2o.ir CNAME .
 ln24.ir CNAME .
 *.ln24.ir CNAME .
 lt5.ir CNAME .
@@ -6958,6 +7036,8 @@ shorturl.kg CNAME .
 *.1mm.kr CNAME .
 acg.kr CNAME .
 *.acg.kr CNAME .
+adx.kr CNAME .
+*.adx.kr CNAME .
 alie.kr CNAME .
 *.alie.kr CNAME .
 asq.kr CNAME .
@@ -7310,6 +7390,10 @@ dreamshigh.life CNAME .
 *.dreamshigh.life CNAME .
 fenditorosiatoter.life CNAME .
 *.fenditorosiatoter.life CNAME .
+gresham.life CNAME .
+*.gresham.life CNAME .
+hellowork.life CNAME .
+*.hellowork.life CNAME .
 heoiberico.life CNAME .
 *.heoiberico.life CNAME .
 heotoc.life CNAME .
@@ -7420,6 +7504,8 @@ ayuk.link CNAME .
 *.ayuk.link CNAME .
 b.link CNAME .
 *.b.link CNAME .
+bagi.link CNAME .
+*.bagi.link CNAME .
 bez.link CNAME .
 *.bez.link CNAME .
 biourl.link CNAME .
@@ -7714,6 +7800,8 @@ shrtq.link CNAME .
 *.shrtq.link CNAME .
 sicepat.link CNAME .
 *.sicepat.link CNAME .
+siguiente.link CNAME .
+*.siguiente.link CNAME .
 simpleurl.link CNAME .
 *.simpleurl.link CNAME .
 singkatin.link CNAME .
@@ -7892,6 +7980,8 @@ daftarhoki.live CNAME .
 *.daftarhoki.live CNAME .
 daftarmpomax.live CNAME .
 *.daftarmpomax.live CNAME .
+delta.live CNAME .
+*.delta.live CNAME .
 ellastern.live CNAME .
 *.ellastern.live CNAME .
 euapoio.live CNAME .
@@ -8134,6 +8224,8 @@ vid.lu CNAME .
 *.vid.lu CNAME .
 vla.lu CNAME .
 *.vla.lu CNAME .
+0o.lv CNAME .
+*.0o.lv CNAME .
 166.lv CNAME .
 *.166.lv CNAME .
 cr8.lv CNAME .
@@ -8496,6 +8588,8 @@ etsy.me CNAME .
 *.etsy.me CNAME .
 eyq.me CNAME .
 *.eyq.me CNAME .
+ezbio.me CNAME .
+*.ezbio.me CNAME .
 ezbz.me CNAME .
 *.ezbz.me CNAME .
 ezclick.me CNAME .
@@ -8586,12 +8680,16 @@ go.id.me CNAME .
 *.go.id.me CNAME .
 idmail.me CNAME .
 *.idmail.me CNAME .
+igit.me CNAME .
+*.igit.me CNAME .
 inds.me CNAME .
 *.inds.me CNAME .
 instaurl.me CNAME .
 *.instaurl.me CNAME .
 intuit.me CNAME .
 *.intuit.me CNAME .
+iny.me CNAME .
+*.iny.me CNAME .
 t.iotex.me CNAME .
 *.t.iotex.me CNAME .
 ipoy.me CNAME .
@@ -8972,6 +9070,8 @@ xerp.me CNAME .
 *.xerp.me CNAME .
 xib.me CNAME .
 *.xib.me CNAME .
+xn--ru-via.me CNAME .
+*.xn--ru-via.me CNAME .
 xpixl.me CNAME .
 *.xpixl.me CNAME .
 xt3.me CNAME .
@@ -9320,6 +9420,8 @@ emojied.net CNAME .
 *.emojied.net CNAME .
 encurtador.net CNAME .
 *.encurtador.net CNAME .
+eshort.net CNAME .
+*.eshort.net CNAME .
 ezlc.net CNAME .
 *.ezlc.net CNAME .
 fgurl.net CNAME .
@@ -9688,6 +9790,8 @@ wn.nr CNAME .
 *.wn.nr CNAME .
 go.lsb.nrw CNAME .
 *.go.lsb.nrw CNAME .
+52.nu CNAME .
+*.52.nu CNAME .
 73.nu CNAME .
 *.73.nu CNAME .
 ddw.nu CNAME .
@@ -9748,6 +9852,8 @@ capital.one CNAME .
 *.capital.one CNAME .
 cccc.one CNAME .
 *.cccc.one CNAME .
+cuk.one CNAME .
+*.cuk.one CNAME .
 d2ks.one CNAME .
 *.d2ks.one CNAME .
 dhe.one CNAME .
@@ -9808,6 +9914,8 @@ dn303.online CNAME .
 *.dn303.online CNAME .
 jagoan-hosting.online CNAME .
 *.jagoan-hosting.online CNAME .
+kliks.online CNAME .
+*.kliks.online CNAME .
 kmcpwe.online CNAME .
 *.kmcpwe.online CNAME .
 medusa88.online CNAME .
@@ -10878,6 +10986,8 @@ yau.sh CNAME .
 *.yau.sh CNAME .
 4l.shop CNAME .
 *.4l.shop CNAME .
+djarum88.shop CNAME .
+*.djarum88.shop CNAME .
 hoki108.shop CNAME .
 *.hoki108.shop CNAME .
 imo-call.shop CNAME .
@@ -11348,6 +11458,8 @@ asap.to CNAME .
 *.asap.to CNAME .
 author.to CNAME .
 *.author.to CNAME .
+avenir.to CNAME .
+*.avenir.to CNAME .
 awy.to CNAME .
 *.awy.to CNAME .
 beam.to CNAME .
@@ -11358,12 +11470,16 @@ bhpho.to CNAME .
 *.bhpho.to CNAME .
 bitl.to CNAME .
 *.bitl.to CNAME .
+bitly.to CNAME .
+*.bitly.to CNAME .
 biv.to CNAME .
 *.biv.to CNAME .
 bloop.to CNAME .
 *.bloop.to CNAME .
 bom.to CNAME .
 *.bom.to CNAME .
+brk.to CNAME .
+*.brk.to CNAME .
 browser.to CNAME .
 *.browser.to CNAME .
 c1.to CNAME .
@@ -11446,8 +11562,12 @@ inf.to CNAME .
 *.inf.to CNAME .
 inmusic.to CNAME .
 *.inmusic.to CNAME .
+inreply.to CNAME .
+*.inreply.to CNAME .
 jamp.to CNAME .
 *.jamp.to CNAME .
+jio.to CNAME .
+*.jio.to CNAME .
 kko.to CNAME .
 *.kko.to CNAME .
 hi.kktv.to CNAME .
@@ -11704,6 +11824,8 @@ xurl302.top CNAME .
 *.xurl302.top CNAME .
 mdl.town CNAME .
 *.mdl.town CNAME .
+shortlinks.com.tr CNAME .
+*.shortlinks.com.tr CNAME .
 mdpl.tr CNAME .
 *.mdpl.tr CNAME .
 mylinks.tr CNAME .
@@ -11954,6 +12076,8 @@ baid.us CNAME .
 *.baid.us CNAME .
 beeb.us CNAME .
 *.beeb.us CNAME .
+beif.us CNAME .
+*.beif.us CNAME .
 bitnew.us CNAME .
 *.bitnew.us CNAME .
 bofh.us CNAME .
@@ -12018,6 +12142,10 @@ kask.us CNAME .
 *.kask.us CNAME .
 kjd.us CNAME .
 *.kjd.us CNAME .
+kristal777.us CNAME .
+*.kristal777.us CNAME .
+kuty.us CNAME .
+*.kuty.us CNAME .
 linkpool.us CNAME .
 *.linkpool.us CNAME .
 lltxt.us CNAME .
@@ -12088,6 +12216,8 @@ shoturl.us CNAME .
 *.shoturl.us CNAME .
 shrinkurl.us CNAME .
 *.shrinkurl.us CNAME .
+shrten.us CNAME .
+*.shrten.us CNAME .
 siriusxm.us CNAME .
 *.siriusxm.us CNAME .
 sknrd.us CNAME .
@@ -12516,6 +12646,10 @@ akunjpvip.xyz CNAME .
 *.akunjpvip.xyz CNAME .
 alldomainwhois.xyz CNAME .
 *.alldomainwhois.xyz CNAME .
+answ.xyz CNAME .
+*.answ.xyz CNAME .
+becakrcg.xyz CNAME .
+*.becakrcg.xyz CNAME .
 bolagroup.xyz CNAME .
 *.bolagroup.xyz CNAME .
 clicai.xyz CNAME .
@@ -12634,6 +12768,8 @@ z-der.xyz CNAME .
 *.z-der.xyz CNAME .
 zeroshort.xyz CNAME .
 *.zeroshort.xyz CNAME .
+zonearcad.xyz CNAME .
+*.zonearcad.xyz CNAME .
 lkdg.yoga CNAME .
 *.lkdg.yoga CNAME .
 flu.yt CNAME .

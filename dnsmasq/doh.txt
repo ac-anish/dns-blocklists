@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Sep 2025 16:30 UTC
-# Version: 2025.0905.1630.20
+# Last modified: 09 Sep 2025 08:28 UTC
+# Version: 2025.0909.0828.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1474
+# Number of entries: 1481
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -291,6 +291,7 @@ local=/comss.one/
 local=/comss.ru/
 local=/dns1.conne.net/
 local=/dns.connect.fail/
+local=/dns.containerpi.com/
 local=/dns.controld.com/
 local=/freedns.controld.com/
 local=/dns.cooluc.com/
@@ -308,6 +309,8 @@ local=/dns.csswg.org/
 local=/cubedns.com/
 local=/qual.cuprum.ru/
 local=/dns.cwlys.com/
+local=/dns.cybertonic.tech/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/dns.d365.in/
 local=/dns.d4d.moe/
@@ -469,6 +472,7 @@ local=/dns1.dnscrypt.ca/
 local=/do.dnscrypt.uk/
 local=/doh.dnscrypt.uk/
 local=/v.dnscrypt.uk/
+local=/dnsenc.com/
 local=/dnsforfamily.com/
 local=/dnsforge.de/
 local=/dnsguard.pub/
@@ -518,6 +522,7 @@ local=/agh.dshubham.xyz/
 local=/jurre-home.duckdns.org/
 local=/krtekvpn.duckdns.org/
 local=/osefcorp.duckdns.org/
+local=/punono.duckdns.org/
 local=/tuandns.duckdns.org/
 local=/tungdnsne.duckdns.org/
 local=/dukun.de/
@@ -638,6 +643,7 @@ local=/dns.green-ping.lol/
 local=/dnsblock.grisumedia.de/
 local=/dns.grqu.de/
 local=/dns.guard.io/
+local=/dns.guardmydns.com/
 local=/dns2.guidocioni.it/
 local=/dns.gutwe.in/
 local=/gztech.me/
@@ -933,6 +939,7 @@ local=/paranoia.mydns.network/
 local=/blackhole.myon.lu/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/doh-ca.naftalie.net/
@@ -1188,7 +1195,6 @@ local=/lion.dns.qwer.pw/
 local=/tiger.dns.qwer.pw/
 local=/resolver.r0cket.net/
 local=/r1bnc.com/
-local=/resolve2.r9x.cc/
 local=/dns.rabbitdns.org/
 local=/family.rabbitdns.org/
 local=/security.rabbitdns.org/
@@ -1447,6 +1453,7 @@ local=/doh2.gslb2.xfinity.com/
 local=/xholgm.top/
 local=/agh.xinfeng16m.top/
 local=/dns.xlion.tw/
+local=/xmr.land/
 local=/xn--durhre-yxa.de/
 local=/xorbiadns.com/
 local=/dns.xuming.studio/

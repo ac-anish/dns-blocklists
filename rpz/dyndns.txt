@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1756757760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1757376360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Sep 2025 20:16 UTC
-; Version: 2025.0901.2016.19
+; Last modified: 09 Sep 2025 00:06 UTC
+; Version: 2025.0909.0006.59
 ; Syntax: RPZ
-; Number of entries: 2932
+; Number of entries: 2940
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -245,6 +245,8 @@ n4t.co CNAME .
 *.10dv.com CNAME .
 1cooldns.com CNAME .
 *.1cooldns.com CNAME .
+1dumb.com CNAME .
+*.1dumb.com CNAME .
 25u.com CNAME .
 *.25u.com CNAME .
 2waky.com CNAME .
@@ -1663,6 +1665,8 @@ now.im CNAME .
 *.now.im CNAME .
 cloudns.in CNAME .
 *.cloudns.in CNAME .
+evils.in CNAME .
+*.evils.in CNAME .
 aintno.info CNAME .
 *.aintno.info CNAME .
 barrel-of-knowledge.info CNAME .
@@ -1877,6 +1881,8 @@ forgot.his.name CNAME .
 *.forgot.his.name CNAME .
 n-e-t.name CNAME .
 *.n-e-t.name CNAME .
+no-domain.name CNAME .
+*.no-domain.name CNAME .
 ns1.name CNAME .
 *.ns1.name CNAME .
 ns2.name CNAME .
@@ -2503,6 +2509,8 @@ is-very-sweet.org CNAME .
 *.is-very-sweet.org CNAME .
 isa-geek.org CNAME .
 *.isa-geek.org CNAME .
+iu4ever.org CNAME .
+*.iu4ever.org CNAME .
 jundy.org CNAME .
 *.jundy.org CNAME .
 jvogt.org CNAME .

@@ -1,9 +1,10 @@
 #!/bin/bash
 
-# Usage: ./merge_nrds_days.sh N directory output_file
+# Usage: ./merge_nrds_days.sh N directory output_file type
 # N: number of past days to include (excluding today)
 # directory: directory where the files are located
 # output_file: name of the output file
+# type: nrds or dgas (default: nrds)
 
 echo ""
 
@@ -17,6 +18,7 @@ fi
 N=$1
 directory=$2
 output_file=$3
+type="${4:-nrds}"
 temp_file="$(mktemp)"
 
 # Check if N is a positive integer
@@ -42,7 +44,7 @@ echo ""
 # Loop over the last N days, excluding today
 for ((i=1; i<=N; i++)); do
   current_date=$(date -d "$today - $i days" +%F)
-  file_path="$directory/nrds_${current_date}.txt"
+  file_path="$directory/${type}_${current_date}.txt"
 
   if [[ -f "$file_path" ]]; then
     echo "  $file_path - $(wc -l < $file_path) NRDs"
