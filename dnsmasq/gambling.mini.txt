@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Oct 2025 10:23 UTC
-# Version: 2025.1030.1023.00
+# Last modified: 30 Oct 2025 22:24 UTC
+# Version: 2025.1030.2224.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 40054
+# Number of entries: 40046
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -9877,7 +9877,6 @@ local=/casinoaus.com/
 local=/casinoaus.net/
 local=/casinoaus.org/
 local=/casinoaushub.com/
-local=/casinoaustralia.net/
 local=/casinoaustraliaonline.com/
 local=/casinoaustria.website/
 local=/casinoauszahlung.com/
@@ -10329,7 +10328,6 @@ local=/casinogamble.se/
 local=/casinogamblerz.com/
 local=/casinogambling.xyz/
 local=/casinogambling4free.com/
-local=/casinogamblingsite.com/
 local=/casinogamblingsolutions.com/
 local=/casinogamblingstore.com/
 local=/casinogameone9.com/
@@ -15712,7 +15710,6 @@ local=/ewalletcasino.net/
 local=/ewemove.com/
 local=/ewinh.com/
 local=/ewinner.pl/
-local=/ex88.uno/
 local=/exbet66.com/
 local=/exbeteu.com/
 local=/excelbet.net/
@@ -17373,7 +17370,6 @@ local=/gemarslots.xyz/
 local=/gembul.site/
 local=/gemdiscocasino.top/
 local=/gemerlap77.pics/
-local=/gemini169.com/
 local=/gemini169.org/
 local=/gemmustika.xyz/
 local=/gemslots.club/
@@ -25588,7 +25584,6 @@ local=/mypersonas.ca/
 local=/mypokerdom.com/
 local=/mypokerdom.us/
 local=/mypokernow.us/
-local=/mypokerok.ru/
 local=/mypokerok.us/
 local=/mypokerrobot.com/
 local=/mypokertips.in/
@@ -35381,7 +35376,6 @@ local=/synottip.cz/
 local=/synottip.lv/
 local=/synottip.sk/
 local=/syoa.am/
-local=/syrich.net/
 local=/syscowcf.com/
 local=/system-fx.ru/
 local=/system32-cloudfare-356783752985678522.monster/
@@ -38678,7 +38672,6 @@ local=/weissbetcasino.site/
 local=/weissbetcasino200.site/
 local=/wekopacasinoresort.com/
 local=/welcomedistributing.com/
-local=/welcomewincasino.com/
 local=/welikebet.co/
 local=/wellbets.ru/
 local=/wellborn.id/
@@ -39162,7 +39155,6 @@ local=/winzzcasino.ca/
 local=/wiredassets.net/
 local=/wirwetten.com/
 local=/wisatasamosir.xyz/
-local=/wisatasolo.com/
 local=/wisconsincasinom.com/
 local=/wisconsinindianhead.org/
 local=/wisdomofbets.com/

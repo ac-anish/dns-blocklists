@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Oct 2025 09:26 UTC
-# Version: 2025.1029.0926.45
+# Last modified: 30 Oct 2025 21:28 UTC
+# Version: 2025.1030.2128.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 8847
+# Number of entries: 8848
 #
 local=/0.gp/
 local=/00m.in/
@@ -8657,6 +8657,7 @@ local=/ylink.bid/
 local=/ylink.pro/
 local=/ylinkshort.com/
 local=/ylnk.us/
+local=/ymk.st/
 local=/yo.ma/
 local=/yoalizer.com/
 local=/yogh.me/

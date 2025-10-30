@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761819780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761863040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Oct 2025 10:23 UTC
-; Version: 2025.1030.1023.00
+; Last modified: 30 Oct 2025 22:24 UTC
+; Version: 2025.1030.2224.50
 ; Syntax: RPZ
-; Number of entries: 80108
+; Number of entries: 80092
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -20338,8 +20338,6 @@ casinogamblerz.com CNAME .
 *.casinogamblerz.com CNAME .
 casinogambling4free.com CNAME .
 *.casinogambling4free.com CNAME .
-casinogamblingsite.com CNAME .
-*.casinogamblingsite.com CNAME .
 casinogamblingsolutions.com CNAME .
 *.casinogamblingsolutions.com CNAME .
 casinogamblingstore.com CNAME .
@@ -26360,8 +26358,6 @@ geliga69.com CNAME .
 *.geliga69.com CNAME .
 gem88.com CNAME .
 *.gem88.com CNAME .
-gemini169.com CNAME .
-*.gemini169.com CNAME .
 gemslots1.com CNAME .
 *.gemslots1.com CNAME .
 gemspg.com CNAME .
@@ -45724,8 +45720,6 @@ wekopacasinoresort.com CNAME .
 *.wekopacasinoresort.com CNAME .
 welcomedistributing.com CNAME .
 *.welcomedistributing.com CNAME .
-welcomewincasino.com CNAME .
-*.welcomewincasino.com CNAME .
 welldoneslots.com CNAME .
 *.welldoneslots.com CNAME .
 wellecasinos.com CNAME .
@@ -46222,8 +46216,6 @@ winzter16.com CNAME .
 *.winzter16.com CNAME .
 wirwetten.com CNAME .
 *.wirwetten.com CNAME .
-wisatasolo.com CNAME .
-*.wisatasolo.com CNAME .
 wisconsincasinom.com CNAME .
 *.wisconsincasinom.com CNAME .
 wisdomofbets.com CNAME .
@@ -55354,8 +55346,6 @@ casinoamigo.net CNAME .
 *.casinoamigo.net CNAME .
 casinoaus.net CNAME .
 *.casinoaus.net CNAME .
-casinoaustralia.net CNAME .
-*.casinoaustralia.net CNAME .
 casinoavis.net CNAME .
 *.casinoavis.net CNAME .
 casinobaseball.net CNAME .
@@ -57012,8 +57002,6 @@ sverigescasinosajter.net CNAME .
 *.sverigescasinosajter.net CNAME .
 sweetywincasino.net CNAME .
 *.sweetywincasino.net CNAME .
-syrich.net CNAME .
-*.syrich.net CNAME .
 taigameiwins.net CNAME .
 *.taigameiwins.net CNAME .
 tajirtogel.net CNAME .
@@ -64394,8 +64382,6 @@ mostbets-win.ru CNAME .
 *.mostbets-win.ru CNAME .
 motor-amp-casino.ru CNAME .
 *.motor-amp-casino.ru CNAME .
-mypokerok.ru CNAME .
-*.mypokerok.ru CNAME .
 myscore.ru CNAME .
 *.myscore.ru CNAME .
 nasledie-kvartal.ru CNAME .
@@ -73666,8 +73652,6 @@ zeslots-casino.uk CNAME .
 *.zeslots-casino.uk CNAME .
 booi-casino.uno CNAME .
 *.booi-casino.uno CNAME .
-ex88.uno CNAME .
-*.ex88.uno CNAME .
 gia77.uno CNAME .
 *.gia77.uno CNAME .
 hi88.uno CNAME .

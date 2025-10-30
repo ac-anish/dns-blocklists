@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761820140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761863400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Oct 2025 10:29 UTC
-; Version: 2025.1030.1029.22
+; Last modified: 30 Oct 2025 22:30 UTC
+; Version: 2025.1030.2230.38
 ; Syntax: RPZ
-; Number of entries: 12608
+; Number of entries: 12666
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -229,6 +229,8 @@ surfshark.com.au CNAME .
 *.surfshark.com.au CNAME .
 wandana.franklinfamily.au CNAME .
 *.wandana.franklinfamily.au CNAME .
+educationperfect.wbcc.org.au CNAME .
+*.educationperfect.wbcc.org.au CNAME .
 xfer.au CNAME .
 *.xfer.au CNAME .
 adg.dz.ax CNAME .
@@ -671,6 +673,8 @@ adguard.ruby.ci CNAME .
 *.adguard.ruby.ci CNAME .
 onion.city CNAME .
 *.onion.city CNAME .
+owens-engineering-info.aperture.cl CNAME .
+*.owens-engineering-info.aperture.cl CNAME .
 lvpqirhbat.castroyasociados.cl CNAME .
 *.lvpqirhbat.castroyasociados.cl CNAME .
 goguardian-sucks.cognus.cl CNAME .
@@ -693,8 +697,12 @@ dnsotls.lab.nic.cl CNAME .
 *.dnsotls.lab.nic.cl CNAME .
 vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
 *.vladimirloljk.lollipopyum.liveastheman.reconectar.cl CNAME .
+pteryla.solicituddemateriales.cl CNAME .
+*.pteryla.solicituddemateriales.cl CNAME .
 start.succeed.cl CNAME .
 *.start.succeed.cl CNAME .
+owens-chemistry-tutor-info.topcargoteam.cl CNAME .
+*.owens-chemistry-tutor-info.topcargoteam.cl CNAME .
 shop.woodworker.cl CNAME .
 *.shop.woodworker.cl CNAME .
 baconmania.click CNAME .
@@ -1585,10 +1593,14 @@ changemyip.com CNAME .
 *.changemyip.com CNAME .
 adguard.chaudharyarnav.com CNAME .
 *.adguard.chaudharyarnav.com CNAME .
+azulxymadets.chickenkiller.com CNAME .
+*.azulxymadets.chickenkiller.com CNAME .
 jordanmadethis.chickenkiller.com CNAME .
 *.jordanmadethis.chickenkiller.com CNAME .
 freedns.kiuo-utopias.chickenkiller.com CNAME .
 *.freedns.kiuo-utopias.chickenkiller.com CNAME .
+andersonalcantara.my28.chickenkiller.com CNAME .
+*.andersonalcantara.my28.chickenkiller.com CNAME .
 whydidiask.chickenkiller.com CNAME .
 *.whydidiask.chickenkiller.com CNAME .
 chillglobal.com CNAME .
@@ -1689,6 +1701,8 @@ coverproxy.com CNAME .
 *.coverproxy.com CNAME .
 covertproxy.com CNAME .
 *.covertproxy.com CNAME .
+lmasalaka.crabdance.com CNAME .
+*.lmasalaka.crabdance.com CNAME .
 nrusimha.crabdance.com CNAME .
 *.nrusimha.crabdance.com CNAME .
 crawlbase.com CNAME .
@@ -2329,6 +2343,8 @@ adg-swe.h4nt3r.com CNAME .
 *.adg-swe.h4nt3r.com CNAME .
 adguard.h4nt3r.com CNAME .
 *.adguard.h4nt3r.com CNAME .
+c00lkiddtech.hackquest.com CNAME .
+*.c00lkiddtech.hackquest.com CNAME .
 furnandoistrans.hackquest.com CNAME .
 *.furnandoistrans.hackquest.com CNAME .
 secure.hafnova.com CNAME .
@@ -2695,6 +2711,10 @@ everyonewantstocrackshawnp.jumpingcrab.com CNAME .
 *.everyonewantstocrackshawnp.jumpingcrab.com CNAME .
 mathissofun.jumpingcrab.com CNAME .
 *.mathissofun.jumpingcrab.com CNAME .
+skoolisawsom76.nien.jumpingcrab.com CNAME .
+*.skoolisawsom76.nien.jumpingcrab.com CNAME .
+qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com CNAME .
+*.qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com CNAME .
 dns.jupitrdns.com CNAME .
 *.dns.jupitrdns.com CNAME .
 juproxy.com CNAME .
@@ -2869,6 +2889,8 @@ mallocprivacy.com CNAME .
 *.mallocprivacy.com CNAME .
 adguard.manmademagic.com CNAME .
 *.adguard.manmademagic.com CNAME .
+addingmoney.mashedpotates.com CNAME .
+*.addingmoney.mashedpotates.com CNAME .
 doh.maskab.com CNAME .
 *.doh.maskab.com CNAME .
 maskedip.com CNAME .
@@ -2953,6 +2975,8 @@ e23a.mooo.com CNAME .
 *.e23a.mooo.com CNAME .
 epic3.mooo.com CNAME .
 *.epic3.mooo.com CNAME .
+voyagermartians.mooo.com CNAME .
+*.voyagermartians.mooo.com CNAME .
 morevpn.com CNAME .
 *.morevpn.com CNAME .
 crypt.mostsecureme.com CNAME .
@@ -3541,6 +3565,8 @@ pushvpn.com CNAME .
 *.pushvpn.com CNAME .
 pxaa.com CNAME .
 *.pxaa.com CNAME .
+utopia.eclipse.lol.pxifusion.com CNAME .
+*.utopia.eclipse.lol.pxifusion.com CNAME .
 pyproxy.com CNAME .
 *.pyproxy.com CNAME .
 ramjam.pythontheproto.com CNAME .
@@ -4457,6 +4483,10 @@ tuvpn.com CNAME .
 *.tuvpn.com CNAME .
 tuxlervpn.com CNAME .
 *.tuxlervpn.com CNAME .
+duck.twilightparadox.com CNAME .
+*.duck.twilightparadox.com CNAME .
+perdona.my.twilightparadox.com CNAME .
+*.perdona.my.twilightparadox.com CNAME .
 schoology2.twilightparadox.com CNAME .
 *.schoology2.twilightparadox.com CNAME .
 twingate.com CNAME .
@@ -4601,6 +4631,8 @@ utopianpal.com CNAME .
 *.utopianpal.com CNAME .
 doh.valscosmos.com CNAME .
 *.doh.valscosmos.com CNAME .
+skibidiboppyyesyes.vanitypanels.com CNAME .
+*.skibidiboppyyesyes.vanitypanels.com CNAME .
 vectroproxy.com CNAME .
 *.vectroproxy.com CNAME .
 veepn.com CNAME .
@@ -6279,6 +6311,8 @@ unblocksite.id CNAME .
 *.unblocksite.id CNAME .
 dns.engineer.web.id CNAME .
 *.dns.engineer.web.id CNAME .
+mathematics.hana.web.id CNAME .
+*.mathematics.hana.web.id CNAME .
 dns.jsd.web.id CNAME .
 *.dns.jsd.web.id CNAME .
 panser.web.id CNAME .
@@ -7035,6 +7069,8 @@ adblock.leenit.kr CNAME .
 *.adblock.leenit.kr CNAME .
 dns.nako.kr CNAME .
 *.dns.nako.kr CNAME .
+scholastic.allez.la CNAME .
+*.scholastic.allez.la CNAME .
 njal.la CNAME .
 *.njal.la CNAME .
 proxify.la CNAME .
@@ -8083,6 +8119,8 @@ kwas24izynek74.ddns.net CNAME .
 *.kwas24izynek74.ddns.net CNAME .
 leochen-dns.ddns.net CNAME .
 *.leochen-dns.ddns.net CNAME .
+massivemangoes.ddns.net CNAME .
+*.massivemangoes.ddns.net CNAME .
 mzs1.ddns.net CNAME .
 *.mzs1.ddns.net CNAME .
 nicknarayong.ddns.net CNAME .
@@ -8751,6 +8789,8 @@ resolver.r0cket.net CNAME .
 *.resolver.r0cket.net CNAME .
 ginnungagap.rabenhain.net CNAME .
 *.ginnungagap.rabenhain.net CNAME .
+drpepperisbetter.ramonmedina.net CNAME .
+*.drpepperisbetter.ramonmedina.net CNAME .
 agh.realwap.net CNAME .
 *.agh.realwap.net CNAME .
 remotevpn.net CNAME .
@@ -8855,6 +8895,8 @@ stayhidden.net CNAME .
 *.stayhidden.net CNAME .
 dns.stevenz.net CNAME .
 *.dns.stevenz.net CNAME .
+67818-bro.strangled.net CNAME .
+*.67818-bro.strangled.net CNAME .
 whatisfunanymore.com.strangled.net CNAME .
 *.whatisfunanymore.com.strangled.net CNAME .
 gyaaat.strangled.net CNAME .
@@ -8875,6 +8917,8 @@ surfshark.net CNAME .
 *.surfshark.net CNAME .
 ramm-ume-pro.swanndvr.net CNAME .
 *.ramm-ume-pro.swanndvr.net CNAME .
+science-making.swanndvr.net CNAME .
+*.science-making.swanndvr.net CNAME .
 swissvpn.net CNAME .
 *.swissvpn.net CNAME .
 switchvpn.net CNAME .
@@ -8995,6 +9039,8 @@ usawebproxy.net CNAME .
 *.usawebproxy.net CNAME .
 cc2.v8er.net CNAME .
 *.cc2.v8er.net CNAME .
+jahyussif.verymad.net CNAME .
+*.jahyussif.verymad.net CNAME .
 videounblocker.net CNAME .
 *.videounblocker.net CNAME .
 viewyoutube.net CNAME .
@@ -9739,6 +9785,8 @@ drandrade21.freeddns.org CNAME .
 *.drandrade21.freeddns.org CNAME .
 jonathanaugusto.freeddns.org CNAME .
 *.jonathanaugusto.freeddns.org CNAME .
+linen.freeddns.org CNAME .
+*.linen.freeddns.org CNAME .
 songochain.freeddns.org CNAME .
 *.songochain.freeddns.org CNAME .
 studioai.freeddns.org CNAME .
@@ -10151,6 +10199,10 @@ vpnproxy.org CNAME .
 *.vpnproxy.org CNAME .
 dns.w3ctag.org CNAME .
 *.dns.w3ctag.org CNAME .
+scienceclasswork.webredirect.org CNAME .
+*.scienceclasswork.webredirect.org CNAME .
+scientist.webredirect.org CNAME .
+*.scientist.webredirect.org CNAME .
 shark-pan.webredirect.org CNAME .
 *.shark-pan.webredirect.org CNAME .
 webtunnel.org CNAME .
@@ -10173,6 +10225,8 @@ akylah.zapto.org CNAME .
 *.akylah.zapto.org CNAME .
 bananakun.zapto.org CNAME .
 *.bananakun.zapto.org CNAME .
+schoolwebsite.zapto.org CNAME .
+*.schoolwebsite.zapto.org CNAME .
 doh.zknt.org CNAME .
 *.doh.zknt.org CNAME .
 zproxy.org CNAME .
@@ -10791,6 +10845,8 @@ unblocked2.red CNAME .
 *.unblocked2.red CNAME .
 onion.rip CNAME .
 *.onion.rip CNAME .
+adbfwbh.1j7a9k.ro CNAME .
+*.adbfwbh.1j7a9k.ro CNAME .
 kazuma-fumo.24-7.ro CNAME .
 *.kazuma-fumo.24-7.ro CNAME .
 home.amq.ro CNAME .
@@ -11325,6 +11381,8 @@ adguard.lamhoangtung.space CNAME .
 *.adguard.lamhoangtung.space CNAME .
 openproxy.space CNAME .
 *.openproxy.space CNAME .
+historyofutopia.orekhov.space CNAME .
+*.historyofutopia.orekhov.space CNAME .
 pygos.space CNAME .
 *.pygos.space CNAME .
 thiscopyofartclassisnotgenuine.rare1k.space CNAME .

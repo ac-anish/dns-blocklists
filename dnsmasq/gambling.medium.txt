@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Oct 2025 10:22 UTC
-# Version: 2025.1030.1022.29
+# Last modified: 30 Oct 2025 22:24 UTC
+# Version: 2025.1030.2224.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 81688
+# Number of entries: 81680
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -19970,7 +19970,6 @@ local=/casinoaus.com/
 local=/casinoaus.net/
 local=/casinoaus.org/
 local=/casinoaushub.com/
-local=/casinoaustralia.net/
 local=/casinoaustralialogin.net/
 local=/casinoaustraliaonline.com/
 local=/casinoaustria.website/
@@ -21066,7 +21065,6 @@ local=/casinogamblerz.com/
 local=/casinogambling.xyz/
 local=/casinogambling4free.com/
 local=/casinogamblinghouseonline.com/
-local=/casinogamblingsite.com/
 local=/casinogamblingsolutions.com/
 local=/casinogamblingstore.com/
 local=/casinogambloria.com/
@@ -33865,7 +33863,6 @@ local=/ewalletcasino.net/
 local=/ewemove.com/
 local=/ewinh.com/
 local=/ewinner.pl/
-local=/ex88.uno/
 local=/exbet66.com/
 local=/exbeteu.com/
 local=/exbets.xyz/
@@ -36989,7 +36986,6 @@ local=/gembetsports.lat/
 local=/gembul.site/
 local=/gemdiscocasino.top/
 local=/gemerlap77.pics/
-local=/gemini169.com/
 local=/gemini169.org/
 local=/geminicasino.net/
 local=/geminicasino.us/
@@ -53547,7 +53543,6 @@ local=/mypokerdom.com/
 local=/mypokerdom.us/
 local=/mypokeriq.com/
 local=/mypokernow.us/
-local=/mypokerok.ru/
 local=/mypokerok.us/
 local=/mypokerrobot.com/
 local=/mypokerruns.com/
@@ -72226,7 +72221,6 @@ local=/synottip-casino.com/
 local=/synottip-casino.cz/
 local=/synottipcasino.net/
 local=/syoa.am/
-local=/syrich.net/
 local=/sysbetsys.com/
 local=/syscowcf.com/
 local=/system-fx.ru/
@@ -78977,7 +78971,6 @@ local=/wekopacasinoresort.com/
 local=/wekopacasinoy.com/
 local=/welcome-poker.com/
 local=/welcomedistributing.com/
-local=/welcomewincasino.com/
 local=/welikebet.co/
 local=/wellbets.ru/
 local=/wellborn.id/
@@ -79898,7 +79891,6 @@ local=/wiredassets.net/
 local=/wires-x.xyz/
 local=/wirwetten.com/
 local=/wisatasamosir.xyz/
-local=/wisatasolo.com/
 local=/wisbets.xyz/
 local=/wisconsincasinom.com/
 local=/wisconsinindianhead.org/
