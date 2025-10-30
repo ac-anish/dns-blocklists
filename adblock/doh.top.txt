@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 29 Oct 2025 10:29 UTC
-! Version: 2025.1029.1029.21
+! Last modified: 30 Oct 2025 10:29 UTC
+! Version: 2025.1030.1029.15
 ! Syntax: AdBlock
-! Number of entries: 368
+! Number of entries: 375
 !
 ||ns.00dani.me^
 ||httpdns.music.163.com^
@@ -50,6 +50,7 @@
 ||httpdns.bcelive.com^
 ||bestwon203.com^
 ||httpdns.bilivideo.com^
+||ns3.bit-trail.nl^
 ||dns.bitdefender.net^
 ||fra-dns.bitdefender.net^
 ||iow-dns.bitdefender.net^
@@ -215,6 +216,7 @@
 ||testaghome.meshkov.info^
 ||netcup.mismat.ch^
 ||morbitzer.de^
+||ns.mtsoln.com^
 ||dns.mullvad.net^
 ||doh.mullvad.net^
 ||muxyuji.ru^
@@ -268,6 +270,7 @@
 ||pm9352-bd.xyz^
 ||sundalandia.pp.ua^
 ||sweden.privacy-dns.pw^
+||nl.dns.privex.io^
 ||project-evoex.de^
 ||publicdnsserver.com^
 ||puredns.org^
@@ -283,18 +286,22 @@
 ||dns12.quad9.net^
 ||dns9.quad9.net^
 ||r1bnc.com^
+||ns.ral9005.org^
 ||rayneau.fr^
 ||dns.rbn.gr^
 ||dnspub.restena.lu^
 ||rethinkdns.com^
 ||revelio.top^
+||newd.rezyro.com^
 ||ricko.is^
 ||dns.rubyfish.cn^
 ||uw-dns.rubyfish.cn^
 ||rumpelsepp.org^
 ||dns1.ryan-palmer.com^
 ||safeservedns.com^
+||ns1.sc-lezhi.com^
 ||schimtar.com^
+||doh-2.seby.io^
 ||dns.seia.io^
 ||dns1.serdcebolit.ru^
 ||shalenkov.dev^

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Oct 2025 21:30 UTC
-# Version: 2025.1029.2130.13
+# Last modified: 30 Oct 2025 09:25 UTC
+# Version: 2025.1030.0925.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14078
+# Number of entries: 14081
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -4987,6 +4987,7 @@ local=/gavriel-kauf.de/
 local=/gawude.shop/
 local=/gazkuch.shop/
 local=/gbgroup.ee/
+local=/gbuynix.com/
 local=/gcitrading.com/
 local=/geappliances-shop.com/
 local=/gear-outdoors.com/
@@ -5347,7 +5348,6 @@ local=/gothimmes.com/
 local=/gotrax.store/
 local=/gotrixa.de/
 local=/gourmetecke.com/
-local=/govern1.com/
 local=/gp-photo.shop/
 local=/gplate.de/
 local=/gpslocatorphone.com/
@@ -9196,6 +9196,7 @@ local=/obozboots.com/
 local=/obroker.com/
 local=/ocayo.de/
 local=/occasionak.com/
+local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
@@ -11608,6 +11609,8 @@ local=/spicebazaar.de/
 local=/spices-sale.com/
 local=/spiele-grotte.de/
 local=/spielhaus.shop/
+local=/spielprokonsole.shop/
+local=/spielprokonsole24.shop/
 local=/spielsmodelle.com/
 local=/spieluniversum.com/
 local=/spielzeug-ente.com/

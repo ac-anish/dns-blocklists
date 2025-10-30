@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Oct 2025 22:28 UTC
-# Version: 2025.1029.2228.03
+# Last modified: 30 Oct 2025 10:23 UTC
+# Version: 2025.1030.1023.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11203
+# Number of entries: 11210
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2293,7 +2293,6 @@ local=/cuevanagt.com/
 local=/cutercounter.com/
 local=/cuteyhoneyflash.de/
 local=/tracker.cutie.dating/
-local=/tracker-de-2.cutie.dating/
 local=/cutiegirl.ru/
 local=/cwer.ru/
 local=/cwer.ws/
@@ -5937,19 +5936,23 @@ local=/megakino.bid/
 local=/megakino.bio/
 local=/megakino.biz/
 local=/megakino.co/
+local=/megakino.deals/
 local=/megakino.dev/
+local=/megakino.eu/
 local=/megakino.farm/
 local=/megakino.gold/
 local=/megakino.gratis/
 local=/megakino.guru/
 local=/megakino.how/
 local=/megakino.ink/
+local=/megakino.ist/
 local=/megakino.kim/
 local=/megakino.kiwi/
 local=/megakino.mba/
 local=/megakino.media/
 local=/megakino.men/
 local=/megakino.moi/
+local=/megakino.ms/
 local=/megakino.mx/
 local=/megakino.now/
 local=/megakino.onl/
@@ -5968,6 +5971,10 @@ local=/megakino.video/
 local=/megakino.vin/
 local=/megakino.works/
 local=/megakino.ws/
+local=/megakino.wtf/
+local=/megakino.zone/
+local=/megakino1.co/
+local=/megakinox.top/
 local=/megamanmaker.com/
 local=/megamodapk.com/
 local=/meganova.org/

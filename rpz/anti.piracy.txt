@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761776880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761819780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 29 Oct 2025 22:28 UTC
-; Version: 2025.1029.2228.03
+; Last modified: 30 Oct 2025 10:23 UTC
+; Version: 2025.1030.1023.31
 ; Syntax: RPZ
-; Number of entries: 22406
+; Number of entries: 22420
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2254,6 +2254,8 @@ megafilmes.co CNAME .
 *.megafilmes.co CNAME .
 megakino.co CNAME .
 *.megakino.co CNAME .
+megakino1.co CNAME .
+*.megakino1.co CNAME .
 megasearch.co CNAME .
 *.megasearch.co CNAME .
 minimalfreaks.co CNAME .
@@ -8358,8 +8360,6 @@ altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
-tracker-de-2.cutie.dating CNAME .
-*.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 altadefinizione.day CNAME .
@@ -8522,6 +8522,8 @@ hdmovie2.deals CNAME .
 *.hdmovie2.deals CNAME .
 kinox.deals CNAME .
 *.kinox.deals CNAME .
+megakino.deals CNAME .
+*.megakino.deals CNAME .
 vegamovies.degree CNAME .
 *.vegamovies.degree CNAME .
 cb01.delivery CNAME .
@@ -8888,6 +8890,8 @@ open.lolicon.eu CNAME .
 *.open.lolicon.eu CNAME .
 martin-gebhardt.eu CNAME .
 *.martin-gebhardt.eu CNAME .
+megakino.eu CNAME .
+*.megakino.eu CNAME .
 moviewatcher.eu CNAME .
 *.moviewatcher.eu CNAME .
 myfeed2all.eu CNAME .
@@ -10858,6 +10862,8 @@ u4.trakx.crim.ist CNAME .
 *.u4.trakx.crim.ist CNAME .
 hdmovie2.ist CNAME .
 *.hdmovie2.ist CNAME .
+megakino.ist CNAME .
+*.megakino.ist CNAME .
 streamingcommunity.ist CNAME .
 *.streamingcommunity.ist CNAME .
 yifytv.unblckd.ist CNAME .
@@ -12390,6 +12396,8 @@ crack.ms CNAME .
 *.crack.ms CNAME .
 hdtodayz.ms CNAME .
 *.hdtodayz.ms CNAME .
+megakino.ms CNAME .
+*.megakino.ms CNAME .
 streameast.ms CNAME .
 *.streameast.ms CNAME .
 vegamovies.ms CNAME .
@@ -20190,6 +20198,8 @@ linkr.top CNAME .
 *.linkr.top CNAME .
 mathanosto.top CNAME .
 *.mathanosto.top CNAME .
+megakinox.top CNAME .
+*.megakinox.top CNAME .
 megrez.top CNAME .
 *.megrez.top CNAME .
 mip2p.top CNAME .
@@ -21940,6 +21950,8 @@ hdmovie2.wtf CNAME .
 *.hdmovie2.wtf CNAME .
 ipstresser.wtf CNAME .
 *.ipstresser.wtf CNAME .
+megakino.wtf CNAME .
+*.megakino.wtf CNAME .
 mypiratebay.wtf CNAME .
 *.mypiratebay.wtf CNAME .
 pb.wtf CNAME .
@@ -22408,6 +22420,8 @@ kinogoo.zone CNAME .
 *.kinogoo.zone CNAME .
 limetorrents.zone CNAME .
 *.limetorrents.zone CNAME .
+megakino.zone CNAME .
+*.megakino.zone CNAME .
 myflixer.zone CNAME .
 *.myflixer.zone CNAME .
 piratebay.zone CNAME .
