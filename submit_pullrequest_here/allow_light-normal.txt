@@ -17,9 +17,6 @@ posthog-ingress-prod-eu-1819302861.eu-central-1.elb.amazonaws.com
 
 # AdBlock-Detection on various sites, e.g. https://tarnkappe.info/
 cdntrf.com
-	
-# https://github.com/hagezi/dns-blocklists/issues/7342
-cdn.trackjs.com
 
 # https://github.com/hagezi/dns-blocklists/issues/7157
 *.pvp.net

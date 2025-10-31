@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Oct 2025 21:27 UTC
-# Version: 2025.1030.2127.18
+# Last modified: 31 Oct 2025 04:36 UTC
+# Version: 2025.1031.0436.17
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 14180
 #
@@ -6025,6 +6025,7 @@ local=/himmelok.com/
 local=/himmeltragen.com/
 local=/hintergrunds.com/
 local=/hinterman.de/
+local=/hinz-gartenhandel.de/
 local=/hirsch-express.com/
 local=/hisensepower.shop/
 local=/hitech-shop.com/
@@ -8569,7 +8570,6 @@ local=/momentosssale.shop/
 local=/momentsofharmony.de/
 local=/momoftrenton.com/
 local=/mon-accesprive.com/
-local=/monacasses.com/
 local=/monadonna.de/
 local=/monasdefinanzenbk.com/
 local=/monatrade.com/
@@ -8873,7 +8873,6 @@ local=/mytheresaeu.online/
 local=/mytheresamall.top/
 local=/mytheresashop.top/
 local=/mytheresavip.com/
-local=/mytholon-vip.shop/
 local=/mytierhimmel.de/
 local=/mytoys-de.com/
 local=/mytoys-eu.shop/
@@ -13751,6 +13750,7 @@ local=/wieburg-handel.de/
 local=/wiener-install.at/
 local=/wienschmidt.at/
 local=/wiesmann-mode.de/
+local=/wievano.de/
 local=/wika-shop.de/
 local=/adl.wiksh.shop/
 local=/wilax.de/

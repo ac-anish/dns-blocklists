@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761863400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761889140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Oct 2025 22:30 UTC
-; Version: 2025.1030.2230.38
+; Last modified: 31 Oct 2025 05:39 UTC
+; Version: 2025.1031.0539.51
 ; Syntax: RPZ
-; Number of entries: 12666
+; Number of entries: 12662
 ;
 arevmadethis.120v.ac CNAME .
 *.arevmadethis.120v.ac CNAME .
@@ -2889,8 +2889,6 @@ mallocprivacy.com CNAME .
 *.mallocprivacy.com CNAME .
 adguard.manmademagic.com CNAME .
 *.adguard.manmademagic.com CNAME .
-addingmoney.mashedpotates.com CNAME .
-*.addingmoney.mashedpotates.com CNAME .
 doh.maskab.com CNAME .
 *.doh.maskab.com CNAME .
 maskedip.com CNAME .
@@ -3565,8 +3563,6 @@ pushvpn.com CNAME .
 *.pushvpn.com CNAME .
 pxaa.com CNAME .
 *.pxaa.com CNAME .
-utopia.eclipse.lol.pxifusion.com CNAME .
-*.utopia.eclipse.lol.pxifusion.com CNAME .
 pyproxy.com CNAME .
 *.pyproxy.com CNAME .
 ramjam.pythontheproto.com CNAME .

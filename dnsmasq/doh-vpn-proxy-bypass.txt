@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 30 Oct 2025 22:30 UTC
-# Version: 2025.1030.2230.38
+# Last modified: 31 Oct 2025 05:39 UTC
+# Version: 2025.1031.0539.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6333
+# Number of entries: 6331
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3331,7 +3331,6 @@ local=/ddns.martinmore.online/
 local=/n10.martkotur.ru/
 local=/n50.martkotur.ru/
 local=/adguard.marto.si/
-local=/addingmoney.mashedpotates.com/
 local=/extra.mask.ad/
 local=/standard.mask.ad/
 local=/doh.maskab.com/
@@ -4416,7 +4415,6 @@ local=/pushokey.com/
 local=/pushvpn.com/
 local=/owa.pvmedia.ru/
 local=/pxaa.com/
-local=/utopia.eclipse.lol.pxifusion.com/
 local=/pygos.space/
 local=/pyproxy.com/
 local=/doh.pyry.me/

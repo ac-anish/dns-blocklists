@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Oct 2025 06:09 UTC
-# Version: 2025.1024.0609.02
+# Last modified: 31 Oct 2025 03:33 UTC
+# Version: 2025.1031.0333.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 881
+# Number of entries: 883
 #
 local=/2ch.org/
 local=/4cdn.org/
@@ -675,6 +675,7 @@ local=/p16-tiktok-dm-sticker-euttp-sign-useast2a.ibyteimg.com/
 local=/p16-tiktok-dm-sticker-sign-sg.ibyteimg.com/
 local=/p16-tiktok-dm-sticker-sign-useast2a.ibyteimg.com/
 local=/p16-tiktok-dm-sticker-sign-va.ibyteimg.com/
+local=/p16-tiktok-livestudio-asset-sg.ibyteimg.com/
 local=/p16-tiktok-ls-merchant-sign-sg.ibyteimg.com/
 local=/p16-tiktok-ls-product-sign-sg.ibyteimg.com/
 local=/p16-tiktok-poi-picture-sign-sg.ibyteimg.com/
@@ -739,6 +740,7 @@ local=/pressa.tv/
 local=/pscp.tv/
 local=/pstatp.com/
 local=/pyrobot.org/
+local=/quora.com/
 local=/ravenation.club/
 local=/reachtheworldonfacebook.com/
 local=/react.com/

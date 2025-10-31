@@ -1,5 +1,9 @@
 # Unblocking for relaxed and balanced lists (non-aggressive) only.
 
+# https://github.com/hagezi/dns-blocklists/issues/7342
+# https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1970
+cdn.trackjs.com
+
 # https://github.com/hagezi/dns-blocklists/issues/7701
 fc.yahoo.com
 

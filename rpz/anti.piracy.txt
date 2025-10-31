@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761819780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761888840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 30 Oct 2025 10:23 UTC
-; Version: 2025.1030.1023.31
+; Last modified: 31 Oct 2025 05:34 UTC
+; Version: 2025.1031.0534.15
 ; Syntax: RPZ
-; Number of entries: 22420
+; Number of entries: 22424
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -8360,6 +8360,8 @@ altadefinizione.dating CNAME .
 *.altadefinizione.dating CNAME .
 tracker.cutie.dating CNAME .
 *.tracker.cutie.dating CNAME .
+tracker-de-2.cutie.dating CNAME .
+*.tracker-de-2.cutie.dating CNAME .
 vegamovies.dating CNAME .
 *.vegamovies.dating CNAME .
 altadefinizione.day CNAME .
@@ -12068,6 +12070,8 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
+ibksturm.synology.me CNAME .
+*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1761286140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1761881580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Social Networks DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 24 Oct 2025 06:09 UTC
-; Version: 2025.1024.0609.02
+; Last modified: 31 Oct 2025 03:33 UTC
+; Version: 2025.1031.0333.18
 ; Syntax: RPZ
-; Number of entries: 1762
+; Number of entries: 1766
 ;
 masto.ai CNAME .
 *.masto.ai CNAME .
@@ -776,6 +776,8 @@ p16-tiktok-dm-sticker-sign-useast2a.ibyteimg.com CNAME .
 *.p16-tiktok-dm-sticker-sign-useast2a.ibyteimg.com CNAME .
 p16-tiktok-dm-sticker-sign-va.ibyteimg.com CNAME .
 *.p16-tiktok-dm-sticker-sign-va.ibyteimg.com CNAME .
+p16-tiktok-livestudio-asset-sg.ibyteimg.com CNAME .
+*.p16-tiktok-livestudio-asset-sg.ibyteimg.com CNAME .
 p16-tiktok-ls-merchant-sign-sg.ibyteimg.com CNAME .
 *.p16-tiktok-ls-merchant-sign-sg.ibyteimg.com CNAME .
 p16-tiktok-ls-product-sign-sg.ibyteimg.com CNAME .
@@ -958,6 +960,8 @@ pinterestmail.com CNAME .
 *.pinterestmail.com CNAME .
 pstatp.com CNAME .
 *.pstatp.com CNAME .
+quora.com CNAME .
+*.quora.com CNAME .
 reachtheworldonfacebook.com CNAME .
 *.reachtheworldonfacebook.com CNAME .
 react.com CNAME .
