@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764599340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764613860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 14:29 UTC
-; Version: 2025.1201.1429.58
+; Last modified: 01 Dec 2025 18:31 UTC
+; Version: 2025.1201.1831.08
 ; Syntax: RPZ
-; Number of entries: 154580
+; Number of entries: 154584
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -38128,6 +38128,8 @@ hookupschat.com CNAME .
 *.hookupschat.com CNAME .
 hookupslesbian.com CNAME .
 *.hookupslesbian.com CNAME .
+hookupsnearby.com CNAME .
+*.hookupsnearby.com CNAME .
 hookupsource.com CNAME .
 *.hookupsource.com CNAME .
 hookupstop.com CNAME .
@@ -106302,6 +106304,8 @@ webbabes.nl CNAME .
 *.webbabes.nl CNAME .
 webcam-erotiek.nl CNAME .
 *.webcam-erotiek.nl CNAME .
+webcam-model.nl CNAME .
+*.webcam-model.nl CNAME .
 webcam-sex.nl CNAME .
 *.webcam-sex.nl CNAME .
 webcambabes.nl CNAME .
@@ -107092,6 +107096,8 @@ amper.online CNAME .
 *.amper.online CNAME .
 annashop.online CNAME .
 *.annashop.online CNAME .
+arabmovies.online CNAME .
+*.arabmovies.online CNAME .
 arabsexchat.online CNAME .
 *.arabsexchat.online CNAME .
 arhivporno24.online CNAME .
@@ -144308,8 +144314,6 @@ zxbb.xxx CNAME .
 *.4ertik.xyz CNAME .
 5558885.xyz CNAME .
 *.5558885.xyz CNAME .
-59xxxx.xyz CNAME .
-*.59xxxx.xyz CNAME .
 8-muses.xyz CNAME .
 *.8-muses.xyz CNAME .
 899885.xyz CNAME .

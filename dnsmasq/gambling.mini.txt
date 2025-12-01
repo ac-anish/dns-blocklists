@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 14:27 UTC
-# Version: 2025.1201.1427.07
+# Last modified: 01 Dec 2025 18:28 UTC
+# Version: 2025.1201.1828.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 49517
+# Number of entries: 49504
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -2422,9 +2422,7 @@ local=/6055bets.com/
 local=/606bahiscasino.com/
 local=/609bets10.com/
 local=/60slottica.com/
-local=/60spinamba.com/
 local=/611bahiscasino.com/
-local=/613bahiscasino.com/
 local=/615betcasino.com/
 local=/617bahiscasino.com/
 local=/617bet2.com/
@@ -2443,7 +2441,6 @@ local=/63phslots.com/
 local=/63vipslots.com/
 local=/images.6440949940.com/
 local=/646ph.ph/
-local=/648elitcasino.com/
 local=/64betsports.com/
 local=/6500bet.com/
 local=/654321win.com/
@@ -2664,12 +2661,8 @@ local=/711casino-nl.nl/
 local=/711casino-online.nl/
 local=/715bet.win/
 local=/7199betslots.com/
-local=/719betsmove.com/
 local=/71slottica.com/
-local=/721betsmove.com/
-local=/722betsmove.com/
 local=/722betsports.com/
-local=/723betsmove.com/
 local=/7242004.com/
 local=/724live.casino/
 local=/724liveslots10.com/
@@ -2865,7 +2858,6 @@ local=/77betsportscf.top/
 local=/77betsportscfc.top/
 local=/77betsportscfe.top/
 local=/77billionairespin80.com/
-local=/77crownw.top/
 local=/77f.com/
 local=/77f03.com/
 local=/77gg.top/
@@ -3040,7 +3032,6 @@ local=/7k-07.casino/
 local=/7k-0771.casino/
 local=/7k-0772.casino/
 local=/7k-0773.casino/
-local=/7k-089.casino/
 local=/7k-09.casino/
 local=/7k-123.casino/
 local=/7k-1337.casino/
@@ -3055,7 +3046,6 @@ local=/7k-2.casino/
 local=/7k-200.casino/
 local=/7k-2011.casino/
 local=/7k-211.casino/
-local=/7k-22.casino/
 local=/7k-2211.casino/
 local=/7k-23.casino/
 local=/7k-24.casino/
@@ -3597,7 +3587,6 @@ local=/7slots.website/
 local=/7slots-2025.top/
 local=/7slots-2025-tr.digital/
 local=/7slots-casinos.ink/
-local=/7slots-girisi.ink/
 local=/7slots-girisi.online/
 local=/7slots-kayit.ink/
 local=/7slots-online25.com/
@@ -3759,7 +3748,6 @@ local=/888casino.es/
 local=/888casino.it/
 local=/888casino.ro/
 local=/888casino-brasil.com/
-local=/888casino-gambling.com/
 local=/888casino-game.com/
 local=/888casino-gcc.com/
 local=/888casino-se.com/
@@ -3914,7 +3902,6 @@ local=/8betsa.com/
 local=/8brabet.com/
 local=/8casino.app/
 local=/8casino.com/
-local=/8casino2.com/
 local=/8casino6.com/
 local=/8casino9.com/
 local=/8casino99.com/

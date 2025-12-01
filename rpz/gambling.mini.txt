@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764599220 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764613680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 14:27 UTC
-; Version: 2025.1201.1427.07
+; Last modified: 01 Dec 2025 18:28 UTC
+; Version: 2025.1201.1828.22
 ; Syntax: RPZ
-; Number of entries: 99034
+; Number of entries: 99008
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -4380,8 +4380,6 @@ moonbitcoin.cash CNAME .
 *.7k-0772.casino CNAME .
 7k-0773.casino CNAME .
 *.7k-0773.casino CNAME .
-7k-089.casino CNAME .
-*.7k-089.casino CNAME .
 7k-09.casino CNAME .
 *.7k-09.casino CNAME .
 7k-123.casino CNAME .
@@ -4410,8 +4408,6 @@ moonbitcoin.cash CNAME .
 *.7k-2011.casino CNAME .
 7k-211.casino CNAME .
 *.7k-211.casino CNAME .
-7k-22.casino CNAME .
-*.7k-22.casino CNAME .
 7k-2211.casino CNAME .
 *.7k-2211.casino CNAME .
 7k-23.casino CNAME .
@@ -13314,12 +13310,8 @@ v.567440.com CNAME .
 *.609bets10.com CNAME .
 60slottica.com CNAME .
 *.60slottica.com CNAME .
-60spinamba.com CNAME .
-*.60spinamba.com CNAME .
 611bahiscasino.com CNAME .
 *.611bahiscasino.com CNAME .
-613bahiscasino.com CNAME .
-*.613bahiscasino.com CNAME .
 615betcasino.com CNAME .
 *.615betcasino.com CNAME .
 617bahiscasino.com CNAME .
@@ -13352,8 +13344,6 @@ v.567440.com CNAME .
 *.63vipslots.com CNAME .
 images.6440949940.com CNAME .
 *.images.6440949940.com CNAME .
-648elitcasino.com CNAME .
-*.648elitcasino.com CNAME .
 64betsports.com CNAME .
 *.64betsports.com CNAME .
 6500bet.com CNAME .
@@ -13604,18 +13594,10 @@ images.6929183.com CNAME .
 *.711bet01casino.com CNAME .
 7199betslots.com CNAME .
 *.7199betslots.com CNAME .
-719betsmove.com CNAME .
-*.719betsmove.com CNAME .
 71slottica.com CNAME .
 *.71slottica.com CNAME .
-721betsmove.com CNAME .
-*.721betsmove.com CNAME .
-722betsmove.com CNAME .
-*.722betsmove.com CNAME .
 722betsports.com CNAME .
 *.722betsports.com CNAME .
-723betsmove.com CNAME .
-*.723betsmove.com CNAME .
 7242004.com CNAME .
 *.7242004.com CNAME .
 724liveslots10.com CNAME .
@@ -14302,8 +14284,6 @@ images.6929183.com CNAME .
 *.888casino.com CNAME .
 888casino-brasil.com CNAME .
 *.888casino-brasil.com CNAME .
-888casino-gambling.com CNAME .
-*.888casino-gambling.com CNAME .
 888casino-game.com CNAME .
 *.888casino-game.com CNAME .
 888casino-gcc.com CNAME .
@@ -14502,8 +14482,6 @@ bsi3p.88zfym.com CNAME .
 *.8brabet.com CNAME .
 8casino.com CNAME .
 *.8casino.com CNAME .
-8casino2.com CNAME .
-*.8casino2.com CNAME .
 8casino6.com CNAME .
 *.8casino6.com CNAME .
 8casino9.com CNAME .
@@ -60192,8 +60170,6 @@ kubets.ing CNAME .
 *.78wincasino.ink CNAME .
 7slots-casinos.ink CNAME .
 *.7slots-casinos.ink CNAME .
-7slots-girisi.ink CNAME .
-*.7slots-girisi.ink CNAME .
 7slots-kayit.ink CNAME .
 *.7slots-kayit.ink CNAME .
 abocasino.ink CNAME .
@@ -84096,8 +84072,6 @@ u888.tokyo CNAME .
 *.77betsportscfc.top CNAME .
 77betsportscfe.top CNAME .
 *.77betsportscfe.top CNAME .
-77crownw.top CNAME .
-*.77crownw.top CNAME .
 77gg.top CNAME .
 *.77gg.top CNAME .
 789club.top CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 14:33 UTC
-# Version: 2025.1201.1433.21
+# Last modified: 01 Dec 2025 18:34 UTC
+# Version: 2025.1201.1834.37
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6251
+# Number of entries: 6250
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -169,7 +169,6 @@
 *.kids.5ososea.com
 *.dns.6level.net
 *.agh.710523.xyz
-*.71745718.online
 *.ayman-dns.731my.com
 *.dns.73zls.com
 *.7713.info
