@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764595680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764624540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 13:28 UTC
-; Version: 2025.1201.1328.38
+; Last modified: 01 Dec 2025 21:29 UTC
+; Version: 2025.1201.2129.09
 ; Syntax: RPZ
-; Number of entries: 28050
+; Number of entries: 28028
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1046,8 +1046,6 @@ ozkart.com.au CNAME .
 *.ozkart.com.au CNAME .
 xqnail.com.au CNAME .
 *.xqnail.com.au CNAME .
-affenzahn.baby CNAME .
-*.affenzahn.baby CNAME .
 befast.cdecho.baby CNAME .
 *.befast.cdecho.baby CNAME .
 eldraw.helplive.baby CNAME .
@@ -1796,8 +1794,6 @@ accessorieschildren.com CNAME .
 *.accessorieschildren.com CNAME .
 accessoriescycle.com CNAME .
 *.accessoriescycle.com CNAME .
-accessoriesforgirl.com CNAME .
-*.accessoriesforgirl.com CNAME .
 accessoriessnow.com CNAME .
 *.accessoriessnow.com CNAME .
 acc.accgn.com CNAME .
@@ -2038,8 +2034,6 @@ aliands.com CNAME .
 *.aliands.com CNAME .
 alianey-hair.com CNAME .
 *.alianey-hair.com CNAME .
-alice-outlet.com CNAME .
-*.alice-outlet.com CNAME .
 alicevintage.com CNAME .
 *.alicevintage.com CNAME .
 alidropnuig.com CNAME .
@@ -17588,8 +17582,6 @@ trader.212group.de CNAME .
 *.2smart4me.de CNAME .
 a-markt.de CNAME .
 *.a-markt.de CNAME .
-abacas-versand.de CNAME .
-*.abacas-versand.de CNAME .
 abadi-solar24.de CNAME .
 *.abadi-solar24.de CNAME .
 abelia-tech.de CNAME .
@@ -17614,8 +17606,6 @@ adaptertunerturbo.de CNAME .
 *.adaptertunerturbo.de CNAME .
 adaton.de CNAME .
 *.adaton.de CNAME .
-addinno-kauf.de CNAME .
-*.addinno-kauf.de CNAME .
 addmich.de CNAME .
 *.addmich.de CNAME .
 adeliamode.de CNAME .
@@ -17680,8 +17670,6 @@ alexander-veyron.de CNAME .
 *.alexander-veyron.de CNAME .
 alfonsa.de CNAME .
 *.alfonsa.de CNAME .
-algo-staking.de CNAME .
-*.algo-staking.de CNAME .
 alingis-finanzen.de CNAME .
 *.alingis-finanzen.de CNAME .
 alle-hebel.de CNAME .
@@ -17700,8 +17688,6 @@ allgreen-handel.de CNAME .
 *.allgreen-handel.de CNAME .
 allinone-trade24.de CNAME .
 *.allinone-trade24.de CNAME .
-almana-shop.de CNAME .
-*.almana-shop.de CNAME .
 almeida-shipping.de CNAME .
 *.almeida-shipping.de CNAME .
 alo-yogadeutschland.de CNAME .
@@ -25920,12 +25906,6 @@ abigailholman.shop CNAME .
 *.abigailholman.shop CNAME .
 aedes.shop CNAME .
 *.aedes.shop CNAME .
-affenzahn-exclusive.shop CNAME .
-*.affenzahn-exclusive.shop CNAME .
-affenzahn-promo.shop CNAME .
-*.affenzahn-promo.shop CNAME .
-affenzahnde.shop CNAME .
-*.affenzahnde.shop CNAME .
 affenzahne.shop CNAME .
 *.affenzahne.shop CNAME .
 affenzahne-de.shop CNAME .
@@ -25938,8 +25918,6 @@ aik-yr.shop CNAME .
 *.aik-yr.shop CNAME .
 al-nassr.shop CNAME .
 *.al-nassr.shop CNAME .
-albadistribucionava.shop CNAME .
-*.albadistribucionava.shop CNAME .
 alldiamondpaintingdeeu.shop CNAME .
 *.alldiamondpaintingdeeu.shop CNAME .
 allkitchen.shop CNAME .

@@ -11,8 +11,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Dec 2025 14:34 UTC
-! Version: 2025.1201.1434.03
+! Last modified: 01 Dec 2025 22:38 UTC
+! Version: 2025.1201.2238.09
 ! Syntax: AdGuard
 ! Number of latin TLDs: 283 - punycode TLDs: 151
 !
@@ -122,7 +122,7 @@
 ||*.ga^$denyallow=google.ga|mmo.ga
 ||*.games^$denyallow=crazypanda.games|embark.games|eneba.games|gxcorner.games|skystone.games
 ||*.gdn^$denyallow=cst.gdn
-||*.gent^
+||*.gent^$denyallow=stad.gent
 ||*.gift^$denyallow=discord.gift
 ||*.gives^
 ||*.giving^

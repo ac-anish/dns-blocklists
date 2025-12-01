@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 13:28 UTC
-# Version: 2025.1201.1328.38
+# Last modified: 01 Dec 2025 21:29 UTC
+# Version: 2025.1201.2129.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14025
+# Number of entries: 14014
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -74,7 +74,6 @@ local=/aachentag.com/
 local=/aacloth.shop/
 local=/aaronallen.top/
 local=/ab-spielhallen.com/
-local=/abacas-versand.de/
 local=/abadi-solar24.de/
 local=/abbiattiuk.com/
 local=/abbigliamentoscarpe.com/
@@ -116,7 +115,6 @@ local=/accessoiresrabatt.com/
 local=/accessories-world.club/
 local=/accessorieschildren.com/
 local=/accessoriescycle.com/
-local=/accessoriesforgirl.com/
 local=/accessoriessnow.com/
 local=/acc.accgn.com/
 local=/acc.accgn.net/
@@ -163,7 +161,6 @@ local=/adboischauffage.com/
 local=/addblockcs.com/
 local=/addedtechnology.com/
 local=/addicted2.at/
-local=/addinno-kauf.de/
 local=/addmich.de/
 local=/adeliamode.de/
 local=/adfinanz-group.com/
@@ -212,11 +209,7 @@ local=/aeydeschuhe.de/
 local=/af-anlagenpartner.com/
 local=/afara.de/
 local=/affen-park.de/
-local=/affenzahn.baby/
-local=/affenzahn-exclusive.shop/
-local=/affenzahn-promo.shop/
 local=/affenzahn-schuhe.com/
-local=/affenzahnde.shop/
 local=/affenzahne.shop/
 local=/affenzahne-de.shop/
 local=/affidabileelec.com/
@@ -292,7 +285,6 @@ local=/al-nassr.shop/
 local=/al-nassr.store/
 local=/alaffia24.de/
 local=/alageschirverkaufe.com/
-local=/albadistribucionava.shop/
 local=/albrechtmode.de/
 local=/aldobolsasmexico.com/
 local=/aldocanada.net/
@@ -319,14 +311,12 @@ local=/alfonsoquintas.com/
 local=/alfrescodurable.com/
 local=/algo-crypto.com/
 local=/algo-robot.co/
-local=/algo-staking.de/
 local=/algopro.us/
 local=/algoproversion.com/
 local=/algorates.com/
 local=/alheritiere-brennholz.com/
 local=/aliands.com/
 local=/alianey-hair.com/
-local=/alice-outlet.com/
 local=/alicevintage.com/
 local=/alidropnuig.com/
 local=/alinatonce.com/
@@ -386,7 +376,6 @@ local=/alltv.store/
 local=/allweil.net/
 local=/allyours.vip/
 local=/alma-market.com/
-local=/almana-shop.de/
 local=/almeida-shipping.de/
 local=/almoes.com/
 local=/alnaturade.com/

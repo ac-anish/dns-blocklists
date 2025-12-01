@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764614040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764628620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 18:34 UTC
-; Version: 2025.1201.1834.37
+; Last modified: 01 Dec 2025 22:37 UTC
+; Version: 2025.1201.2237.24
 ; Syntax: RPZ
-; Number of entries: 12500
+; Number of entries: 12486
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -679,8 +679,6 @@ adguard.ruby.ci CNAME .
 *.adguard.ruby.ci CNAME .
 onion.city CNAME .
 *.onion.city CNAME .
-adadad.adaptor.cl CNAME .
-*.adadad.adaptor.cl CNAME .
 ji.alsarica.cl CNAME .
 *.ji.alsarica.cl CNAME .
 owens-engineering-info.aperture.cl CNAME .
@@ -1133,8 +1131,6 @@ dns.7vpn.com CNAME .
 *.8proxy.com CNAME .
 8v9m.com CNAME .
 *.8v9m.com CNAME .
-tokyo.92-m.com CNAME .
-*.tokyo.92-m.com CNAME .
 922proxy.com CNAME .
 *.922proxy.com CNAME .
 adb.aadityakushwaha.com CNAME .
@@ -1243,8 +1239,6 @@ dns.alvosec.com CNAME .
 *.dns.alvosec.com CNAME .
 alwaysvpn.com CNAME .
 *.alwaysvpn.com CNAME .
-bolting.alyaf.com CNAME .
-*.bolting.alyaf.com CNAME .
 amanvpn.com CNAME .
 *.amanvpn.com CNAME .
 ec2-3-139-127-253.us-east-2.compute.amazonaws.com CNAME .
@@ -6989,8 +6983,6 @@ dns.ourvau.lt CNAME .
 *.dns.ourvau.lt CNAME .
 dns.redvau.lt CNAME .
 *.dns.redvau.lt CNAME .
-dns.ahyxluo.ltd CNAME .
-*.dns.ahyxluo.ltd CNAME .
 mabuktogel.ltd CNAME .
 *.mabuktogel.ltd CNAME .
 doh.manish.ltd CNAME .
@@ -8953,8 +8945,6 @@ proxy.wynd.network CNAME .
 *.proxy.wynd.network CNAME .
 dns1.wyss.network CNAME .
 *.dns1.wyss.network CNAME .
-amirabbasmousavi.news CNAME .
-*.amirabbasmousavi.news CNAME .
 ammmae150.news CNAME .
 *.ammmae150.news CNAME .
 bestaitool.news CNAME .
@@ -9163,8 +9153,6 @@ dns.abdullahabas.online CNAME .
 *.dns.abdullahabas.online CNAME .
 alleesph.online CNAME .
 *.alleesph.online CNAME .
-alphabr.online CNAME .
-*.alphabr.online CNAME .
 dns.apigw.online CNAME .
 *.dns.apigw.online CNAME .
 dns-sehat.apigw.online CNAME .
@@ -10187,8 +10175,6 @@ dns.ghost.pm CNAME .
 *.dns.ghost.pm CNAME .
 ion.pm CNAME .
 *.ion.pm CNAME .
-aboba.pro CNAME .
-*.aboba.pro CNAME .
 adampowell.pro CNAME .
 *.adampowell.pro CNAME .
 anura.pro CNAME .

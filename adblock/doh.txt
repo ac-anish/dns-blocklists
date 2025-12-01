@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Dec 2025 14:32 UTC
-! Version: 2025.1201.1432.47
+! Last modified: 01 Dec 2025 22:36 UTC
+! Version: 2025.1201.2236.48
 ! Syntax: AdBlock
-! Number of entries: 3386
+! Number of entries: 3384
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -124,7 +124,6 @@
 ||arches-srv2.8ws.net^
 ||outie.8ws.net^
 ||outiejr.8ws.net^
-||tokyo.92-m.com^
 ||de-passage.9273082020.ru^
 ||jp.95576.app^
 ||959818.xyz^
@@ -206,7 +205,6 @@
 ||ahcek.com^
 ||dns.ahmgam.com^
 ||ahoj.email^
-||dns.ahyxluo.ltd^
 ||router.ahzol.com^
 ||aicx99.shop^
 ||adb.aiec.vn^

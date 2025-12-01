@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764599520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764628560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 14:32 UTC
-; Version: 2025.1201.1432.47
+; Last modified: 01 Dec 2025 22:36 UTC
+; Version: 2025.1201.2236.48
 ; Syntax: RPZ
-; Number of entries: 6772
+; Number of entries: 6768
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -635,8 +635,6 @@ dns.73zls.com CNAME .
 *.dns.73zls.com CNAME .
 dns.7vpn.com CNAME .
 *.dns.7vpn.com CNAME .
-tokyo.92-m.com CNAME .
-*.tokyo.92-m.com CNAME .
 adb.aadityakushwaha.com CNAME .
 *.adb.aadityakushwaha.com CNAME .
 doh.dns.apple.com.v.aaplimg.com CNAME .
@@ -3391,8 +3389,6 @@ dns.ourvau.lt CNAME .
 *.dns.ourvau.lt CNAME .
 dns.redvau.lt CNAME .
 *.dns.redvau.lt CNAME .
-dns.ahyxluo.ltd CNAME .
-*.dns.ahyxluo.ltd CNAME .
 mabuktogel.ltd CNAME .
 *.mabuktogel.ltd CNAME .
 doh.manish.ltd CNAME .

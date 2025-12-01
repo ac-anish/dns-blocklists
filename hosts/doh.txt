@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 14:32 UTC
-# Version: 2025.1201.1432.47
+# Last modified: 01 Dec 2025 22:36 UTC
+# Version: 2025.1201.2236.48
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3866
+# Number of entries: 3864
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -137,7 +137,6 @@
 0.0.0.0 arches-srv2.8ws.net
 0.0.0.0 outie.8ws.net
 0.0.0.0 outiejr.8ws.net
-0.0.0.0 tokyo.92-m.com
 0.0.0.0 de-passage.9273082020.ru
 0.0.0.0 jp.95576.app
 0.0.0.0 959818.xyz
@@ -245,7 +244,6 @@
 0.0.0.0 ahcek.com
 0.0.0.0 dns.ahmgam.com
 0.0.0.0 ahoj.email
-0.0.0.0 dns.ahyxluo.ltd
 0.0.0.0 router.ahzol.com
 0.0.0.0 aicx99.shop
 0.0.0.0 adb.aiec.vn

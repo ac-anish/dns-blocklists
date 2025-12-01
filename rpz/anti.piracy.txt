@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764584880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764628260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 10:28 UTC
-; Version: 2025.1201.1028.59
+; Last modified: 01 Dec 2025 22:31 UTC
+; Version: 2025.1201.2231.49
 ; Syntax: RPZ
-; Number of entries: 22718
+; Number of entries: 22710
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2718,8 +2718,6 @@ iptv.aliflailabd.com CNAME .
 *.iptv.aliflailabd.com CNAME .
 alivedownload.com CNAME .
 *.alivedownload.com CNAME .
-all-animes.com CNAME .
-*.all-animes.com CNAME .
 alldebrid.com CNAME .
 *.alldebrid.com CNAME .
 allfreeapk.com CNAME .
@@ -2744,8 +2742,6 @@ allthebestfights.com CNAME .
 *.allthebestfights.com CNAME .
 alphabetagamer.com CNAME .
 *.alphabetagamer.com CNAME .
-alphabroadway.com CNAME .
-*.alphabroadway.com CNAME .
 alphastress.com CNAME .
 *.alphastress.com CNAME .
 alt-torrent.com CNAME .
@@ -9616,8 +9612,6 @@ vegamovies.gl CNAME .
 *.vegamovies.gl CNAME .
 vegamovies.glass CNAME .
 *.vegamovies.glass CNAME .
-altadefinizione01.global CNAME .
-*.altadefinizione01.global CNAME .
 hdmovie2.global CNAME .
 *.hdmovie2.global CNAME .
 hdmovie2.gmbh CNAME .
@@ -18844,8 +18838,6 @@ streamingcommunity.singles CNAME .
 *.33seriestreaming.site CNAME .
 tracker.52pt.site CNAME .
 *.tracker.52pt.site CNAME .
-allinonedownloadzz.site CNAME .
-*.allinonedownloadzz.site CNAME .
 ambassadorddl.site CNAME .
 *.ambassadorddl.site CNAME .
 antenasport.site CNAME .
