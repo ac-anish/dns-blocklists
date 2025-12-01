@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 09:28 UTC
-# Version: 2025.1201.0928.30
+# Last modified: 01 Dec 2025 13:28 UTC
+# Version: 2025.1201.1328.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14026
+# Number of entries: 14025
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -5886,7 +5886,6 @@ local=/herbalsbest4u.com/
 local=/herbalsoultions.online/
 local=/herbinosdeeur.shop/
 local=/herdzentrum.com/
-local=/herka-bank-ag.com/
 local=/herlingerieshop.com/
 local=/hermann-handel.de/
 local=/hermannboutique.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764581280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764595680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 09:28 UTC
-; Version: 2025.1201.0928.30
+; Last modified: 01 Dec 2025 13:28 UTC
+; Version: 2025.1201.1328.38
 ; Syntax: RPZ
-; Number of entries: 28052
+; Number of entries: 28050
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -8208,8 +8208,6 @@ herbalsbest4u.com CNAME .
 *.herbalsbest4u.com CNAME .
 herdzentrum.com CNAME .
 *.herdzentrum.com CNAME .
-herka-bank-ag.com CNAME .
-*.herka-bank-ag.com CNAME .
 herlingerieshop.com CNAME .
 *.herlingerieshop.com CNAME .
 hermannboutique.com CNAME .

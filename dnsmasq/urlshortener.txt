@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 09:30 UTC
-# Version: 2025.1201.0930.20
+# Last modified: 01 Dec 2025 13:30 UTC
+# Version: 2025.1201.1330.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9540
+# Number of entries: 9539
 #
 local=/0.gp/
 local=/00m.in/
@@ -191,7 +191,6 @@ local=/2shorter.com/
 local=/2tea.ch/
 local=/2tf.net/
 local=/2tiny.in/
-local=/2to.info/
 local=/2u.lc/
 local=/2u.pw/
 local=/2ur.jp/

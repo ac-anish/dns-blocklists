@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 10:33 UTC
-# Version: 2025.1201.1033.56
+# Last modified: 01 Dec 2025 14:32 UTC
+# Version: 2025.1201.1432.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3388
+# Number of entries: 3386
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -66,9 +66,7 @@
 *.dns.2t9.de
 *.doh.30x.me
 *.dns.320888.xyz
-*.dnstr.3300000.xyz
 *.dnstw.3300000.xyz
-*.dnsyg.3300000.xyz
 *.oracle001.330k.biz
 *.n.3363.net
 *.dhlifeus-micro1.dns.3456.kr

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 10:34 UTC
-# Version: 2025.1201.1034.30
+# Last modified: 01 Dec 2025 14:33 UTC
+# Version: 2025.1201.1433.21
 # Syntax: Domains (without subdomains)
-# Number of entries: 6255
+# Number of entries: 6251
 #
 ss.0001.xyz
 003153.xyz
@@ -100,8 +100,6 @@ dns.240527.xyz
 24tunnel.com
 educational-site.24x7.hk
 bbcincheecks.26252526.xyz
-mrfstudyguild.26252526.xyz
-quizzesforhelp.26252526.xyz
 when-sophie-gets-angry.26252526.xyz
 doh003.280blocker.net
 28383829.com
@@ -120,9 +118,7 @@ dns.2t9.de
 2ub.top
 doh.30x.me
 dns.320888.xyz
-dnstr.3300000.xyz
 dnstw.3300000.xyz
-dnsyg.3300000.xyz
 oracle001.330k.biz
 n.3363.net
 dhlifeus-micro1.dns.3456.kr

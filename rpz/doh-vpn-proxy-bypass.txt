@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764585240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764599580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 10:34 UTC
-; Version: 2025.1201.1034.30
+; Last modified: 01 Dec 2025 14:33 UTC
+; Version: 2025.1201.1433.21
 ; Syntax: RPZ
-; Number of entries: 12510
+; Number of entries: 12502
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -12147,20 +12147,12 @@ dns.240527.xyz CNAME .
 *.dns.240527.xyz CNAME .
 bbcincheecks.26252526.xyz CNAME .
 *.bbcincheecks.26252526.xyz CNAME .
-mrfstudyguild.26252526.xyz CNAME .
-*.mrfstudyguild.26252526.xyz CNAME .
-quizzesforhelp.26252526.xyz CNAME .
-*.quizzesforhelp.26252526.xyz CNAME .
 when-sophie-gets-angry.26252526.xyz CNAME .
 *.when-sophie-gets-angry.26252526.xyz CNAME .
 dns.320888.xyz CNAME .
 *.dns.320888.xyz CNAME .
-dnstr.3300000.xyz CNAME .
-*.dnstr.3300000.xyz CNAME .
 dnstw.3300000.xyz CNAME .
 *.dnstw.3300000.xyz CNAME .
-dnsyg.3300000.xyz CNAME .
-*.dnsyg.3300000.xyz CNAME .
 dns.354688.xyz CNAME .
 *.dns.354688.xyz CNAME .
 xjpdns.354688.xyz CNAME .

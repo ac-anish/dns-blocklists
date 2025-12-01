@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 30 Nov 2025 22:31 UTC
-! Version: 2025.1130.2231.46
+! Last modified: 01 Dec 2025 14:34 UTC
+! Version: 2025.1201.1434.03
 ! Syntax: uBlock
 ! Number of latin TLDs: 283 - non-latin TLDs: 151
 !
@@ -66,7 +66,7 @@
 ||claims^$doc
 ||click^$doc,domain=~am-videos.click|~buybox.click|~popcat.click|~popdog.click|~porsche.click|~qr-code.click|~ravelin.click|~wmg.click
 ||clothing^$doc
-||club^$doc,domain=~1kb.club|~1mb.club|~250kb.club|~512kb.club|~acstuff.club|~assettocorsa.club|~baby-beamup.club|~chinaq.club|~ctrl-c.club|~digipres.club|~hack.club|~hd-olimpo.club|~mbcherohub.club|~nocss.club|~no-js.club|~rwinfo.club|~skin.club|~thelemmy.club|~tilde.club|~xhtml.club
+||club^$doc,domain=~1kb.club|~1mb.club|~250kb.club|~512kb.club|~acstuff.club|~assettocorsa.club|~baby-beamup.club|~chinaq.club|~ctrl-c.club|~digipres.club|~hack.club|~hd-olimpo.club|~j-novel.club|~mbcherohub.club|~nocss.club|~no-js.club|~rwinfo.club|~skin.club|~thelemmy.club|~tilde.club|~xhtml.club
 ||cm^$doc,domain=~google.cm
 ||college^$doc
 ||computer^$doc,domain=~helium.computer|~libre.computer|~neat.computer|~silly.computer

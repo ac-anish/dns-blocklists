@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 10:33 UTC
-# Version: 2025.1201.1033.56
+# Last modified: 01 Dec 2025 14:32 UTC
+# Version: 2025.1201.1432.47
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3868
+# Number of entries: 3866
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -80,9 +80,7 @@
 0.0.0.0 dns.2t9.de
 0.0.0.0 doh.30x.me
 0.0.0.0 dns.320888.xyz
-0.0.0.0 dnstr.3300000.xyz
 0.0.0.0 dnstw.3300000.xyz
-0.0.0.0 dnsyg.3300000.xyz
 0.0.0.0 oracle001.330k.biz
 0.0.0.0 n.3363.net
 0.0.0.0 dhlifeus-micro1.dns.3456.kr
