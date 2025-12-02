@@ -8,6 +8,13 @@
   },
   "rules": [
     {
+      "PK": "ads-api.vivo.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "adxlog-adnet.vivo.com.cn",
       "action": {
         "do": 0,
@@ -1563,6 +1570,13 @@
     },
     {
       "PK": "zasc-cota.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zasc-vcode-od.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1

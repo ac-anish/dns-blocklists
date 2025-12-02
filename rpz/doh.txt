@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764687660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764715080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Dec 2025 15:01 UTC
-; Version: 2025.1202.1501.53
+; Last modified: 02 Dec 2025 22:38 UTC
+; Version: 2025.1202.2238.26
 ; Syntax: RPZ
-; Number of entries: 6758
+; Number of entries: 6754
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1087,8 +1087,6 @@ dns01.enginyring.com CNAME .
 *.dns01.enginyring.com CNAME .
 dns02.enginyring.com CNAME .
 *.dns02.enginyring.com CNAME .
-dns.enzonix.com CNAME .
-*.dns.enzonix.com CNAME .
 adguard.eoghan-net.com CNAME .
 *.adguard.eoghan-net.com CNAME .
 agh.ero-sayhi.com CNAME .
@@ -1097,8 +1095,6 @@ dns.esegece.com CNAME .
 *.dns.esegece.com CNAME .
 dns-family.esegece.com CNAME .
 *.dns-family.esegece.com CNAME .
-essentiallyjay.com CNAME .
-*.essentiallyjay.com CNAME .
 gsat.familyds.com CNAME .
 *.gsat.familyds.com CNAME .
 home.fendya.com CNAME .

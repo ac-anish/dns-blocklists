@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764687780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764715140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Dec 2025 15:03 UTC
-; Version: 2025.1202.1503.06
+; Last modified: 02 Dec 2025 22:39 UTC
+; Version: 2025.1202.2239.07
 ; Syntax: RPZ
-; Number of entries: 12464
+; Number of entries: 12454
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2021,8 +2021,6 @@ owenforzono.entergod.com CNAME .
 *.owenforzono.entergod.com CNAME .
 owenforzonoiseeyou.entergod.com CNAME .
 *.owenforzonoiseeyou.entergod.com CNAME .
-dns.enzonix.com CNAME .
-*.dns.enzonix.com CNAME .
 adguard.eoghan-net.com CNAME .
 *.adguard.eoghan-net.com CNAME .
 eonvpn.com CNAME .
@@ -2037,8 +2035,6 @@ dns.esegece.com CNAME .
 *.dns.esegece.com CNAME .
 dns-family.esegece.com CNAME .
 *.dns-family.esegece.com CNAME .
-essentiallyjay.com CNAME .
-*.essentiallyjay.com CNAME .
 ettego.com CNAME .
 *.ettego.com CNAME .
 eurproxy.com CNAME .
@@ -2171,8 +2167,6 @@ wg-aghome.freemyip.com CNAME .
 *.wg-aghome.freemyip.com CNAME .
 zuk.freemyip.com CNAME .
 *.zuk.freemyip.com CNAME .
-freeopenproxy.com CNAME .
-*.freeopenproxy.com CNAME .
 freeproxyaccess.com CNAME .
 *.freeproxyaccess.com CNAME .
 freeproxydb.com CNAME .
@@ -6265,8 +6259,6 @@ adh.fastpacefixit.info CNAME .
 *.adh.fastpacefixit.info CNAME .
 fasttime.info CNAME .
 *.fasttime.info CNAME .
-fbproxies.info CNAME .
-*.fbproxies.info CNAME .
 freeplace.info CNAME .
 *.freeplace.info CNAME .
 dns.api.integration.globuscs.info CNAME .
@@ -10181,8 +10173,6 @@ dns.dynx.pro CNAME .
 *.dns.dynx.pro CNAME .
 free-vpn.pro CNAME .
 *.free-vpn.pro CNAME .
-g-a-y.pro CNAME .
-*.g-a-y.pro CNAME .
 therealbeezchurger.hetz.pro CNAME .
 *.therealbeezchurger.hetz.pro CNAME .
 httpdns.pro CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764687120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764714720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Dec 2025 14:52 UTC
-; Version: 2025.1202.1452.30
+; Last modified: 02 Dec 2025 22:32 UTC
+; Version: 2025.1202.2232.51
 ; Syntax: RPZ
-; Number of entries: 22676
+; Number of entries: 22654
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -486,8 +486,6 @@ vegamovies.ba CNAME .
 *.vegamovies.ba CNAME .
 bollyflix.baby CNAME .
 *.bollyflix.baby CNAME .
-eurekaddl.baby CNAME .
-*.eurekaddl.baby CNAME .
 fmovies.baby CNAME .
 *.fmovies.baby CNAME .
 yesmovies.baby CNAME .
@@ -788,8 +786,6 @@ ebook3000.biz CNAME .
 *.ebook3000.biz CNAME .
 ebookee.biz CNAME .
 *.ebookee.biz CNAME .
-europix.biz CNAME .
-*.europix.biz CNAME .
 eurostreaming.biz CNAME .
 *.eurostreaming.biz CNAME .
 filmesviatorrents.biz CNAME .
@@ -1076,8 +1072,6 @@ cpasbien.bz CNAME .
 *.cpasbien.bz CNAME .
 dood.bz CNAME .
 *.dood.bz CNAME .
-filmstreamvk.bz CNAME .
-*.filmstreamvk.bz CNAME .
 footybite.bz CNAME .
 *.footybite.bz CNAME .
 goldesel.bz CNAME .
@@ -4256,8 +4250,6 @@ f123movies.com CNAME .
 *.f123movies.com CNAME .
 f1fullraces.com CNAME .
 *.f1fullraces.com CNAME .
-f4freesoftware.com CNAME .
-*.f4freesoftware.com CNAME .
 download.f60s.com CNAME .
 *.download.f60s.com CNAME .
 muds.fandom.com CNAME .
@@ -4328,8 +4320,6 @@ tracker.filemail.com CNAME .
 *.tracker.filemail.com CNAME .
 filepapa.com CNAME .
 *.filepapa.com CNAME .
-filepursuit.com CNAME .
-*.filepursuit.com CNAME .
 filerio.com CNAME .
 *.filerio.com CNAME .
 filesharingtalk.com CNAME .
@@ -11194,8 +11184,6 @@ filmpertutti.life CNAME .
 *.filmpertutti.life CNAME .
 filmsrip.life CNAME .
 *.filmsrip.life CNAME .
-filmstreaming-de.life CNAME .
-*.filmstreaming-de.life CNAME .
 flixtor.life CNAME .
 *.flixtor.life CNAME .
 gnula.life CNAME .
@@ -17806,8 +17794,6 @@ tracker.elektronik.ro CNAME .
 *.tracker.elektronik.ro CNAME .
 filelist.ro CNAME .
 *.filelist.ro CNAME .
-fmovies.ro CNAME .
-*.fmovies.ro CNAME .
 hd-bits.ro CNAME .
 *.hd-bits.ro CNAME .
 hgzone.ro CNAME .
@@ -18096,8 +18082,6 @@ flactor.ru CNAME .
 *.flactor.ru CNAME .
 foff.ru CNAME .
 *.foff.ru CNAME .
-footdirect.ru CNAME .
-*.footdirect.ru CNAME .
 freerus.ru CNAME .
 *.freerus.ru CNAME .
 freshremix.ru CNAME .
@@ -18844,8 +18828,6 @@ eurostreaming.site CNAME .
 *.eurostreaming.site CNAME .
 filmguro.site CNAME .
 *.filmguro.site CNAME .
-filmstreaming.site CNAME .
-*.filmstreaming.site CNAME .
 fitgirl-repacks.site CNAME .
 *.fitgirl-repacks.site CNAME .
 flixanity.site CNAME .
@@ -21276,8 +21258,6 @@ cuevana.uno CNAME .
 *.cuevana.uno CNAME .
 dood.uno CNAME .
 *.dood.uno CNAME .
-filmsenzalimiti.uno CNAME .
-*.filmsenzalimiti.uno CNAME .
 gomovies.uno CNAME .
 *.gomovies.uno CNAME .
 hdfilme.uno CNAME .
@@ -21520,8 +21500,6 @@ doodstream.video CNAME .
 *.doodstream.video CNAME .
 egydead.video CNAME .
 *.egydead.video CNAME .
-filmapik.video CNAME .
-*.filmapik.video CNAME .
 filmstreaming.video CNAME .
 *.filmstreaming.video CNAME .
 guardaserie.video CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 15:01 UTC
-# Version: 2025.1202.1501.53
+# Last modified: 02 Dec 2025 22:38 UTC
+# Version: 2025.1202.2238.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3379
+# Number of entries: 3377
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1212,7 +1212,6 @@ local=/dnssec.dns.enginyring.com/
 local=/dns01.enginyring.com/
 local=/dns02.enginyring.com/
 local=/home.enjoymylife.net/
-local=/dns.enzonix.com/
 local=/adguard.eoghan-net.com/
 local=/dns.epcot.fr/
 local=/dns.epic.st/
@@ -1226,7 +1225,6 @@ local=/dns.esegece.com/
 local=/dns-family.esegece.com/
 local=/dns.esnube.es/
 local=/dns.internal.espresso-tasse.de/
-local=/essentiallyjay.com/
 local=/ns.etalk.ai/
 local=/eth.link/
 local=/opennic1.eth-services.de/

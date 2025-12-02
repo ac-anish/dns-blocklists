@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 15:01 UTC
-# Version: 2025.1202.1501.53
+# Last modified: 02 Dec 2025 22:38 UTC
+# Version: 2025.1202.2238.26
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3857
+# Number of entries: 3855
 #
 ss.0001.xyz
 003153.xyz
@@ -1436,7 +1436,6 @@ dnssec.dns.enginyring.com
 dns01.enginyring.com
 dns02.enginyring.com
 home.enjoymylife.net
-dns.enzonix.com
 adguard.eoghan-net.com
 dns.epcot.fr
 dns.epic.st
@@ -1453,7 +1452,6 @@ dns.internal.espresso-tasse.de
 handy-matthias.dns.internal.espresso-tasse.de
 handy-nils.dns.internal.espresso-tasse.de
 tablet-matthias.dns.internal.espresso-tasse.de
-essentiallyjay.com
 ns.etalk.ai
 eth.link
 opennic1.eth-services.de

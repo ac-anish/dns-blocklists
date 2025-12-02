@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 13:31 UTC
-# Version: 2025.1202.1331.48
+# Last modified: 02 Dec 2025 21:31 UTC
+# Version: 2025.1202.2131.05
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9522
+# Number of entries: 9519
 #
 *.0.gp
 *.00m.in
@@ -2358,7 +2358,6 @@
 *.easycut.io
 *.easylinkref.com
 *.easyuri.com
-*.easyurl.me
 *.easyurl.net
 *.easyurl.site
 *.easyurlshortener.com
@@ -2558,7 +2557,6 @@
 *.ezyurl.co
 *.ezyurl.net
 *.f-ast.me
-*.f-internal.info
 *.f-n.link
 *.f0rk.in
 *.f1.tf
@@ -2721,7 +2719,6 @@
 *.fooji.info
 *.for.sg
 *.ford.to
-*.forksy.cloud
 *.forms.gle
 *.forr.com
 *.forsakenx.live

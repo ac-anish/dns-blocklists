@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 14:05 UTC
-# Version: 2025.1202.1405.53
+# Last modified: 02 Dec 2025 21:58 UTC
+# Version: 2025.1202.2158.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1327
+# Number of entries: 1326
 #
 local=/000a.de/
 local=/000space.com/
@@ -526,7 +526,6 @@ local=/eklablog.com/
 local=/eklablog.fr/
 local=/elementfx.com/
 local=/emyspot.com/
-local=/energycd.shop/
 local=/english.lc/
 local=/englishset.club/
 local=/entekpartners.com/

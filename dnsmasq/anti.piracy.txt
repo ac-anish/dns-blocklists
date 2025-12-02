@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 14:52 UTC
-# Version: 2025.1202.1452.30
+# Last modified: 02 Dec 2025 22:32 UTC
+# Version: 2025.1202.2232.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11338
+# Number of entries: 11327
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3094,13 +3094,11 @@ local=/2.tracker.eu.org/
 local=/3.tracker.eu.org/
 local=/turiyabrucesta.eu.com/
 local=/eurekaddl.art/
-local=/eurekaddl.baby/
 local=/eurekaddl.lat/
 local=/eurekaddl.tattoo/
 local=/euro2024direct.ru/
 local=/euroddl.com/
 local=/euromovies.me/
-local=/europix.biz/
 local=/europixhd.pro/
 local=/europixhd.site/
 local=/europixhd.top/
@@ -3262,7 +3260,6 @@ local=/f1box.me/
 local=/f1fullraces.com/
 local=/f1sh.de/
 local=/f2movie.co/
-local=/f4freesoftware.com/
 local=/f5movies.co/
 local=/f5q.ru/
 local=/download.f60s.com/
@@ -3367,7 +3364,6 @@ local=/filepapa.com/
 local=/tpb.filepit.to/
 local=/tracker.filepit.to/
 local=/fileporn.org/
-local=/filepursuit.com/
 local=/filerio.com/
 local=/tracker.files.fm/
 local=/files4you.org/
@@ -3419,7 +3415,6 @@ local=/filmapik.study/
 local=/filmapik.taxi/
 local=/filmapik.town/
 local=/filmapik.us/
-local=/filmapik.video/
 local=/filmapik.works/
 local=/filmapikofficial.com/
 local=/filmarchives.jp/
@@ -3530,7 +3525,6 @@ local=/filmsenzalimiti.love/
 local=/filmsenzalimiti.me/
 local=/filmsenzalimiti.name/
 local=/filmsenzalimiti.net/
-local=/filmsenzalimiti.uno/
 local=/filmsenzalimiti.vg/
 local=/filmsenzalimiti.ws/
 local=/filmsofts.com/
@@ -3572,7 +3566,6 @@ local=/filmstreaming.rip/
 local=/filmstreaming.sbs/
 local=/filmstreaming.se/
 local=/filmstreaming.sh/
-local=/filmstreaming.site/
 local=/filmstreaming.to/
 local=/filmstreaming.top/
 local=/filmstreaming.tv/
@@ -3585,14 +3578,12 @@ local=/filmstreaming.vip/
 local=/filmstreaming.watch/
 local=/filmstreaming.ws/
 local=/filmstreaming.xyz/
-local=/filmstreaming-de.life/
 local=/filmstreaming1.co/
 local=/filmstreaming1.pro/
 local=/filmstreaming1vf.co/
 local=/filmstreamingita.club/
 local=/filmstreamingvk.ws/
 local=/filmstreamingx1.com/
-local=/filmstreamvk.bz/
 local=/filmvf.net/
 local=/filmxy.live/
 local=/filmxy.nl/
@@ -3718,7 +3709,6 @@ local=/fmovies.llc/
 local=/fmovies.one/
 local=/fmovies.org/
 local=/fmovies.pub/
-local=/fmovies.ro/
 local=/fmovies.rs/
 local=/fmovies.se/
 local=/fmovies.taxi/
@@ -3755,7 +3745,6 @@ local=/tv.foorty.net/
 local=/footazo.com/
 local=/football-live.stream/
 local=/footballstream.to/
-local=/footdirect.ru/
 local=/footy-bite.com/
 local=/footybite.bz/
 local=/footybite.cc/
