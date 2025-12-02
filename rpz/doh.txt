@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764628560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764672300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 22:36 UTC
-; Version: 2025.1201.2236.48
+; Last modified: 02 Dec 2025 10:45 UTC
+; Version: 2025.1202.1045.11
 ; Syntax: RPZ
-; Number of entries: 6768
+; Number of entries: 6760
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -2847,8 +2847,6 @@ dns.aixxycode.id CNAME .
 *.dns.aixxycode.id CNAME .
 woc.beelstb.biz.id CNAME .
 *.woc.beelstb.biz.id CNAME .
-d.carilagi.id CNAME .
-*.d.carilagi.id CNAME .
 adguard.cell.co.id CNAME .
 *.adguard.cell.co.id CNAME .
 dns.gi.co.id CNAME .
@@ -3737,8 +3735,6 @@ dns.ashleyjackson.net CNAME .
 *.dns.ashleyjackson.net CNAME .
 dohtrial.att.net CNAME .
 *.dohtrial.att.net CNAME .
-dns.azsopro.net CNAME .
-*.dns.azsopro.net CNAME .
 doh1.b-cdn.net CNAME .
 *.doh1.b-cdn.net CNAME .
 doh2.b-cdn.net CNAME .
@@ -5871,8 +5867,6 @@ adb.amishkaz.site CNAME .
 *.adb.amishkaz.site CNAME .
 adguard.bse4792.site CNAME .
 *.adguard.bse4792.site CNAME .
-callies-online.site CNAME .
-*.callies-online.site CNAME .
 dns88.site CNAME .
 *.dns88.site CNAME .
 fptdns.site CNAME .
@@ -6609,8 +6603,6 @@ atsssgo.xyz CNAME .
 *.atsssgo.xyz CNAME .
 filter.badbotdev.xyz CNAME .
 *.filter.badbotdev.xyz CNAME .
-safe-guard.badbotdev.xyz CNAME .
-*.safe-guard.badbotdev.xyz CNAME .
 vps01.bbhc.xyz CNAME .
 *.vps01.bbhc.xyz CNAME .
 bluedns.xyz CNAME .

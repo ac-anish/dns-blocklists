@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 21:30 UTC
-# Version: 2025.1201.2130.54
+# Last modified: 02 Dec 2025 09:30 UTC
+# Version: 2025.1202.0930.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9538
+# Number of entries: 9528
 #
 local=/0.gp/
 local=/00m.in/
@@ -897,7 +897,6 @@ local=/azipurl.com/
 local=/azl.one/
 local=/azlink.me/
 local=/azshrtr.com/
-local=/azx.az/
 local=/b.bw/
 local=/b.link/
 local=/b.mw/
@@ -915,7 +914,6 @@ local=/b2n.ir/
 local=/b2s.io/
 local=/b2u.io/
 local=/b33.fr/
-local=/b54.in/
 local=/b6e.cn/
 local=/b7.tel/
 local=/b808.bet/
@@ -980,7 +978,6 @@ local=/be6.in/
 local=/beacons.ai/
 local=/beam.to/
 local=/beats.is/
-local=/beautyfitnesshealth.com/
 local=/bebuiltllc.com/
 local=/bec.ltd/
 local=/becakrcg.xyz/
@@ -996,7 +993,6 @@ local=/beif.us/
 local=/beingtek.com/
 local=/belink.me/
 local=/belink.ph/
-local=/belinkshort.eu/
 local=/belinksnip.com/
 local=/belinkurl.blog/
 local=/bely.pw/
@@ -1136,7 +1132,6 @@ local=/bitly1.ru/
 local=/bitlyli.com/
 local=/bitlylinks.com/
 local=/bitlyshort.com/
-local=/bitlyvi.com/
 local=/bitlz.cc/
 local=/bitq.link/
 local=/bitradex.net/
@@ -1670,7 +1665,6 @@ local=/clk.bz/
 local=/clk.sh/
 local=/clkd.io/
 local=/clkon.us/
-local=/clkr.in/
 local=/clkro.com/
 local=/clktrack.com/
 local=/cllab.co/
@@ -1730,7 +1724,6 @@ local=/mypnp.co.za/
 local=/links.nivbook.co.il/
 local=/ourmagazines.co.uk/
 local=/p-it.co.uk/
-local=/parsu.co.uk/
 local=/qtn.co.il/
 local=/go.sbws.co.uk/
 local=/shortlink.co.za/
@@ -1777,7 +1770,6 @@ local=/join.bestbody.com.au/
 local=/bitily.com.br/
 local=/app.bulbe.com.br/
 local=/by.com.vn/
-local=/go.ceesti.com.br/
 local=/url.click2go.com.br/
 local=/corecodebiolink.com.br/
 local=/url.csweb.com.tr/
@@ -1948,7 +1940,6 @@ local=/customers.my/
 local=/customurlshortener.com/
 local=/cut.by/
 local=/cut.gl/
-local=/cut.live/
 local=/cut.lu/
 local=/cut.ovh/
 local=/cut.pe/
@@ -2025,7 +2016,6 @@ local=/cutzlnk.cloud/
 local=/cvcpl.us/
 local=/cvent.me/
 local=/cvfmiij.wiki/
-local=/cvitko.com/
 local=/cvs.co/
 local=/cwg.li/
 local=/cwr.link/

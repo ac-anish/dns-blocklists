@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 22:36 UTC
-# Version: 2025.1201.2236.48
+# Last modified: 02 Dec 2025 10:45 UTC
+# Version: 2025.1202.1045.11
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3864
+# Number of entries: 3860
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -395,7 +395,6 @@
 0.0.0.0 dns.azcom.dev
 0.0.0.0 dns.azfar.my
 0.0.0.0 doh.azoris.ovh
-0.0.0.0 dns.azsopro.net
 0.0.0.0 sradg.eastus.cloudapp.azure.com
 0.0.0.0 sradg2.eastus.cloudapp.azure.com
 0.0.0.0 kawpad.southeastasia.cloudapp.azure.com
@@ -409,7 +408,6 @@
 0.0.0.0 dns.b72.com
 0.0.0.0 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 0.0.0.0 filter.badbotdev.xyz
-0.0.0.0 safe-guard.badbotdev.xyz
 0.0.0.0 dns.bai0012.com
 0.0.0.0 dnscdn.bai0012.com
 0.0.0.0 httpdns.baidu.com
@@ -547,11 +545,9 @@
 0.0.0.0 dns.cahlen.com
 0.0.0.0 aduhai.caksono.com
 0.0.0.0 dns.caliph.dev
-0.0.0.0 callies-online.site
 0.0.0.0 adguard.camn.uk
 0.0.0.0 2.dnscrypt-cert.captnemo.in
 0.0.0.0 doh.captnemo.in
-0.0.0.0 d.carilagi.id
 0.0.0.0 unifi.carioka.com
 0.0.0.0 dns.carson-family.com
 0.0.0.0 dns.caspervk.net

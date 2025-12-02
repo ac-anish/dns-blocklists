@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 22:36 UTC
-# Version: 2025.1201.2236.48
+# Last modified: 02 Dec 2025 10:45 UTC
+# Version: 2025.1202.1045.11
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3384
+# Number of entries: 3380
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -330,7 +330,6 @@ local=/vdsn-nl-2.azatmutq.com/
 local=/dns.azcom.dev/
 local=/dns.azfar.my/
 local=/doh.azoris.ovh/
-local=/dns.azsopro.net/
 local=/sradg.eastus.cloudapp.azure.com/
 local=/sradg2.eastus.cloudapp.azure.com/
 local=/kawpad.southeastasia.cloudapp.azure.com/
@@ -344,7 +343,6 @@ local=/dns.b612.me/
 local=/dns.b72.com/
 local=/b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space/
 local=/filter.badbotdev.xyz/
-local=/safe-guard.badbotdev.xyz/
 local=/dns.bai0012.com/
 local=/dnscdn.bai0012.com/
 local=/httpdns.baidu.com/
@@ -475,11 +473,9 @@ local=/jujuba.cafuringa.org/
 local=/dns.cahlen.com/
 local=/aduhai.caksono.com/
 local=/dns.caliph.dev/
-local=/callies-online.site/
 local=/adguard.camn.uk/
 local=/2.dnscrypt-cert.captnemo.in/
 local=/doh.captnemo.in/
-local=/d.carilagi.id/
 local=/unifi.carioka.com/
 local=/dns.carson-family.com/
 local=/dns.caspervk.net/

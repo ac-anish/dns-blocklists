@@ -5,10 +5,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Dec 2025 09:17 UTC
-! Version: 2025.1201.0917.09
+! Last modified: 02 Dec 2025 09:17 UTC
+! Version: 2025.1202.0917.21
 ! Syntax: AdBlock
-! Number of entries: 1298
+! Number of entries: 1299
 !
 ||1-aclk.net^
 ||1aurl.io^
@@ -1029,6 +1029,7 @@
 ||rjrpmitab.cc.rs6.net^
 ||rkgbvycab.cc.rs6.net^
 ||rklmqleab.cc.rs6.net^
+||rtaw7vebb.cc.rs6.net^
 ||rvalb7cab.cc.rs6.net^
 ||rxfc49ebb.cc.rs6.net^
 ||ry9kgedab.cc.rs6.net^

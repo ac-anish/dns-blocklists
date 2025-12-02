@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764624600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764667800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 21:30 UTC
-; Version: 2025.1201.2130.54
+; Last modified: 02 Dec 2025 09:30 UTC
+; Version: 2025.1202.0930.23
 ; Syntax: RPZ
-; Number of entries: 19076
+; Number of entries: 19056
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -853,8 +853,6 @@ rem.ax CNAME .
 *.rem.ax CNAME .
 v1.ax CNAME .
 *.v1.ax CNAME .
-azx.az CNAME .
-*.azx.az CNAME .
 rdv.az CNAME .
 *.rdv.az CNAME .
 dft.ba CNAME .
@@ -1177,8 +1175,6 @@ bitily.com.br CNAME .
 *.bitily.com.br CNAME .
 app.bulbe.com.br CNAME .
 *.app.bulbe.com.br CNAME .
-go.ceesti.com.br CNAME .
-*.go.ceesti.com.br CNAME .
 url.click2go.com.br CNAME .
 *.url.click2go.com.br CNAME .
 corecodebiolink.com.br CNAME .
@@ -3373,8 +3369,6 @@ bd-fw.com CNAME .
 *.bd-fw.com CNAME .
 bdfwpro.com CNAME .
 *.bdfwpro.com CNAME .
-beautyfitnesshealth.com CNAME .
-*.beautyfitnesshealth.com CNAME .
 bebuiltllc.com CNAME .
 *.bebuiltllc.com CNAME .
 bee1s.com CNAME .
@@ -3457,8 +3451,6 @@ bitlylinks.com CNAME .
 *.bitlylinks.com CNAME .
 bitlyshort.com CNAME .
 *.bitlyshort.com CNAME .
-bitlyvi.com CNAME .
-*.bitlyvi.com CNAME .
 bitshrt.com CNAME .
 *.bitshrt.com CNAME .
 bitstackhub.com CNAME .
@@ -3843,8 +3835,6 @@ cutxly.com CNAME .
 *.cutxly.com CNAME .
 cutyurl.com CNAME .
 *.cutyurl.com CNAME .
-cvitko.com CNAME .
-*.cvitko.com CNAME .
 go.cwtv.com CNAME .
 *.go.cwtv.com CNAME .
 cyberrl.com CNAME .
@@ -8057,8 +8047,6 @@ go.amzng.eu CNAME .
 *.go.amzng.eu CNAME .
 anlink.eu CNAME .
 *.anlink.eu CNAME .
-belinkshort.eu CNAME .
-*.belinkshort.eu CNAME .
 by1.eu CNAME .
 *.by1.eu CNAME .
 r.cloud8.eu CNAME .
@@ -9191,8 +9179,6 @@ asso.in CNAME .
 *.asso.in CNAME .
 b22.in CNAME .
 *.b22.in CNAME .
-b54.in CNAME .
-*.b54.in CNAME .
 bbc.in CNAME .
 *.bbc.in CNAME .
 be6.in CNAME .
@@ -9247,8 +9233,6 @@ cityreach.in CNAME .
 *.cityreach.in CNAME .
 clikk.in CNAME .
 *.clikk.in CNAME .
-clkr.in CNAME .
-*.clkr.in CNAME .
 boostability.co.in CNAME .
 *.boostability.co.in CNAME .
 kutt.co.in CNAME .
@@ -12573,8 +12557,6 @@ clotplaynews.live CNAME .
 *.clotplaynews.live CNAME .
 conviva.live CNAME .
 *.conviva.live CNAME .
-cut.live CNAME .
-*.cut.live CNAME .
 daftarhoki.live CNAME .
 *.daftarhoki.live CNAME .
 daftarmpomax.live CNAME .
@@ -18083,8 +18065,6 @@ ourmagazines.co.uk CNAME .
 *.ourmagazines.co.uk CNAME .
 p-it.co.uk CNAME .
 *.p-it.co.uk CNAME .
-parsu.co.uk CNAME .
-*.parsu.co.uk CNAME .
 go.sbws.co.uk CNAME .
 *.go.sbws.co.uk CNAME .
 shortlinks.co.uk CNAME .

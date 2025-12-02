@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764628260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764671880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 22:31 UTC
-; Version: 2025.1201.2231.49
+; Last modified: 02 Dec 2025 10:38 UTC
+; Version: 2025.1202.1038.19
 ; Syntax: RPZ
-; Number of entries: 22710
+; Number of entries: 22690
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2916,10 +2916,6 @@ apkpapi.com CNAME .
 *.apkpapi.com CNAME .
 apkpromaster.com CNAME .
 *.apkpromaster.com CNAME .
-apkpurew.com CNAME .
-*.apkpurew.com CNAME .
-apkqad.com CNAME .
-*.apkqad.com CNAME .
 apkrabi.com CNAME .
 *.apkrabi.com CNAME .
 apkremix.com CNAME .
@@ -10126,8 +10122,6 @@ blackphoenix.info CNAME .
 *.blackphoenix.info CNAME .
 btgigs.info CNAME .
 *.btgigs.info CNAME .
-casacinema.info CNAME .
-*.casacinema.info CNAME .
 cineblog01.info CNAME .
 *.cineblog01.info CNAME .
 cineby.info CNAME .
@@ -10744,8 +10738,6 @@ technet24.ir CNAME .
 *.technet24.ir CNAME .
 torrent.ir CNAME .
 *.torrent.ir CNAME .
-cb01.irish CNAME .
-*.cb01.irish CNAME .
 hdmovie2.irish CNAME .
 *.hdmovie2.irish CNAME .
 123movies.is CNAME .
@@ -12112,8 +12104,6 @@ streamoz.me CNAME .
 *.streamoz.me CNAME .
 bestoflinks.synology.me CNAME .
 *.bestoflinks.synology.me CNAME .
-ibksturm.synology.me CNAME .
-*.ibksturm.synology.me CNAME .
 t411.me CNAME .
 *.t411.me CNAME .
 tantifilm.me CNAME .
@@ -12812,8 +12802,6 @@ brupload.net CNAME .
 *.brupload.net CNAME .
 bt-revolution.net CNAME .
 *.bt-revolution.net CNAME .
-btshoufa.net CNAME .
-*.btshoufa.net CNAME .
 tracker.btzero.net CNAME .
 *.tracker.btzero.net CNAME .
 bullstresser.net CNAME .
@@ -14858,8 +14846,6 @@ cineplex21.online CNAME .
 *.cineplex21.online CNAME .
 cinevision.online CNAME .
 *.cinevision.online CNAME .
-cointv.online CNAME .
-*.cointv.online CNAME .
 coolmoviezone.online CNAME .
 *.coolmoviezone.online CNAME .
 tracker.corpscorp.online CNAME .
@@ -19590,8 +19576,6 @@ altadefinizione.tienda CNAME .
 *.altadefinizione.tienda CNAME .
 hdmovie2.tienda CNAME .
 *.hdmovie2.tienda CNAME .
-cineblog01.tips CNAME .
-*.cineblog01.tips CNAME .
 dood.tips CNAME .
 *.dood.tips CNAME .
 filmpertutti.tips CNAME .
@@ -21262,8 +21246,6 @@ psychocydd.co.uk CNAME .
 *.psychocydd.co.uk CNAME .
 www.smithstorrents.co.uk CNAME .
 *.www.smithstorrents.co.uk CNAME .
-stigstream.co.uk CNAME .
-*.stigstream.co.uk CNAME .
 supremetorrents.co.uk CNAME .
 *.supremetorrents.co.uk CNAME .
 swimhereford.co.uk CNAME .
@@ -21722,8 +21704,6 @@ vegamovies.voyage CNAME .
 *.vegamovies.voyage CNAME .
 vegamovies.vu CNAME .
 *.vegamovies.vu CNAME .
-cb01.wales CNAME .
-*.cb01.wales CNAME .
 streamingcommunity.wang CNAME .
 *.streamingcommunity.wang CNAME .
 batmanstream.watch CNAME .

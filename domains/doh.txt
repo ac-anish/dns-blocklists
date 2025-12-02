@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 22:36 UTC
-# Version: 2025.1201.2236.48
+# Last modified: 02 Dec 2025 10:45 UTC
+# Version: 2025.1202.1045.11
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3864
+# Number of entries: 3860
 #
 ss.0001.xyz
 003153.xyz
@@ -395,7 +395,6 @@ www.vdsn-nl-2.azatmutq.com
 dns.azcom.dev
 dns.azfar.my
 doh.azoris.ovh
-dns.azsopro.net
 sradg.eastus.cloudapp.azure.com
 sradg2.eastus.cloudapp.azure.com
 kawpad.southeastasia.cloudapp.azure.com
@@ -409,7 +408,6 @@ dns.b612.me
 dns.b72.com
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 filter.badbotdev.xyz
-safe-guard.badbotdev.xyz
 dns.bai0012.com
 dnscdn.bai0012.com
 httpdns.baidu.com
@@ -547,11 +545,9 @@ jujuba.cafuringa.org
 dns.cahlen.com
 aduhai.caksono.com
 dns.caliph.dev
-callies-online.site
 adguard.camn.uk
 2.dnscrypt-cert.captnemo.in
 doh.captnemo.in
-d.carilagi.id
 unifi.carioka.com
 dns.carson-family.com
 dns.caspervk.net

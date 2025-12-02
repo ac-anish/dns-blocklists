@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Dec 2025 22:31 UTC
-# Version: 2025.1201.2231.49
+# Last modified: 02 Dec 2025 10:38 UTC
+# Version: 2025.1202.1038.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11355
+# Number of entries: 11345
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -878,8 +878,6 @@ local=/apkpanda.com/
 local=/apkpapi.com/
 local=/apkprime.org/
 local=/apkpromaster.com/
-local=/apkpurew.com/
-local=/apkqad.com/
 local=/apkrabi.com/
 local=/apkremix.com/
 local=/apkshub.com/
@@ -1545,7 +1543,6 @@ local=/btscene.com/
 local=/btscene.eu/
 local=/tracker.btschool.club/
 local=/btsearch.love/
-local=/btshoufa.net/
 local=/btsow.online/
 local=/bttrove.org/
 local=/tracker.btzero.net/
@@ -1644,7 +1641,6 @@ local=/casacinema.de/
 local=/casacinema.eu/
 local=/casacinema.fm/
 local=/casacinema.fun/
-local=/casacinema.info/
 local=/casacinema.it/
 local=/casacinema.lol/
 local=/casacinema.media/
@@ -1701,7 +1697,6 @@ local=/cb01.giving/
 local=/cb01.in/
 local=/cb01.institute/
 local=/cb01.io/
-local=/cb01.irish/
 local=/cb01.is/
 local=/cb01.it/
 local=/cb01.kaufen/
@@ -1738,7 +1733,6 @@ local=/cb01.vet/
 local=/cb01.vg/
 local=/cb01.video/
 local=/cb01.vip/
-local=/cb01.wales/
 local=/cb01.work/
 local=/cb01.world/
 local=/cb01.ws/
@@ -1869,7 +1863,6 @@ local=/cineblog01.spa/
 local=/cineblog01.space/
 local=/cineblog01.systems/
 local=/cineblog01.taxi/
-local=/cineblog01.tips/
 local=/cineblog01.today/
 local=/cineblog01.tokyo/
 local=/cineblog01.town/
@@ -2027,7 +2020,6 @@ local=/piratebae.co.uk/
 local=/premiummodapk.co.uk/
 local=/psychocydd.co.uk/
 local=/www.smithstorrents.co.uk/
-local=/stigstream.co.uk/
 local=/supremetorrents.co.uk/
 local=/swimhereford.co.uk/
 local=/thepb.co.uk/
@@ -2043,7 +2035,6 @@ local=/codeskeys24.com/
 local=/watch.coen.ovh/
 local=/coexist.biz/
 local=/coflix.tv/
-local=/cointv.online/
 local=/coldplaybootlegs.com/
 local=/colombo-bt.org/
 local=/123movies.com.pk/
@@ -9037,7 +9028,6 @@ local=/swiftnetbd.com/
 local=/swteam.ws/
 local=/syfiles.com/
 local=/bestoflinks.synology.me/
-local=/ibksturm.synology.me/
 local=/syria-live.us/
 local=/sidewinderx.sytes.net/
 local=/thebazaar.sytes.net/

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 01 Dec 2025 22:37 UTC
-! Version: 2025.1201.2237.24
+! Last modified: 02 Dec 2025 10:46 UTC
+! Version: 2025.1202.1046.02
 ! Syntax: AdBlock
-! Number of entries: 6243
+! Number of entries: 6233
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -377,7 +377,6 @@
 ||amnezia.org^
 ||doh.amonsul.net^
 ||amopython.shop^
-||home.amq.ro^
 ||adguard.amscenter.net^
 ||an81dns.ru^
 ||ananoos.com^
@@ -520,7 +519,6 @@
 ||dns.azfar.my^
 ||azirevpn.com^
 ||doh.azoris.ovh^
-||dns.azsopro.net^
 ||sradg.eastus.cloudapp.azure.com^
 ||sradg2.eastus.cloudapp.azure.com^
 ||kawpad.southeastasia.cloudapp.azure.com^
@@ -542,7 +540,6 @@
 ||b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space^
 ||baconmania.click^
 ||filter.badbotdev.xyz^
-||safe-guard.badbotdev.xyz^
 ||dns.bai0012.com^
 ||dnscdn.bai0012.com^
 ||httpdns.baidu.com^
@@ -577,7 +574,6 @@
 ||solmariknein.baselinux.net^
 ||studyeasy.baselinux.net^
 ||home.basthorst.eu^
-||plant-selection.baumgardner.us^
 ||baxtri.ru^
 ||bazooki-infra.dev^
 ||vps01.bbhc.xyz^
@@ -608,7 +604,6 @@
 ||bestaitool.news^
 ||bestfreevpn.com^
 ||bestproxy.xyz^
-||bestssh.net^
 ||lebron.is.the.besttoday.ru^
 ||bestukvpn.com^
 ||bestvideoproxy.com^
@@ -796,7 +791,6 @@
 ||dns.cahlen.com^
 ||aduhai.caksono.com^
 ||dns.caliph.dev^
-||callies-online.site^
 ||needhelp.callmark.cl^
 ||tor.calyxinstitute.org^
 ||bananakun.camdvr.org^
@@ -807,7 +801,6 @@
 ||doh.captnemo.in^
 ||carebuzz.io^
 ||careproxy.com^
-||d.carilagi.id^
 ||unifi.carioka.com^
 ||dns.carson-family.com^
 ||casinovpn.com^
@@ -855,14 +848,12 @@
 ||dns.charraud.eu^
 ||dns.chattalk.link^
 ||adguard.chaudharyarnav.com^
-||ougonokaze.cheftayebeh.ir^
 ||qh.cheftayebeh.ir^
 ||dns.chenu.ch^
 ||adguard.chestnov.ru^
 ||bolteducation.chiangmaiorganics.com^
 ||alejandro-made-this-haha.chickenkiller.com^
 ||coolkidd.chickenkiller.com^
-||jordanmadethis.chickenkiller.com^
 ||grapesceleste.lobo.chickenkiller.com^
 ||andersonalcantara.my28.chickenkiller.com^
 ||soulsorcereryt.chickenkiller.com^
@@ -1172,7 +1163,6 @@
 ||adguard.gbrossi.com.br^
 ||german-proxy.com.de^
 ||germany-proxy.com.de^
-||btg.go4it.com.mx^
 ||securly.com.go4it.com.mx^
 ||dns2.gregoret.com.ar^
 ||blackhole.gugainfo.com.br^

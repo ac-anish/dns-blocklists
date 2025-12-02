@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764628620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764672360 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 01 Dec 2025 22:37 UTC
-; Version: 2025.1201.2237.24
+; Last modified: 02 Dec 2025 10:46 UTC
+; Version: 2025.1202.1046.02
 ; Syntax: RPZ
-; Number of entries: 12486
+; Number of entries: 12466
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1619,8 +1619,6 @@ alejandro-made-this-haha.chickenkiller.com CNAME .
 *.alejandro-made-this-haha.chickenkiller.com CNAME .
 coolkidd.chickenkiller.com CNAME .
 *.coolkidd.chickenkiller.com CNAME .
-jordanmadethis.chickenkiller.com CNAME .
-*.jordanmadethis.chickenkiller.com CNAME .
 grapesceleste.lobo.chickenkiller.com CNAME .
 *.grapesceleste.lobo.chickenkiller.com CNAME .
 andersonalcantara.my28.chickenkiller.com CNAME .
@@ -5937,8 +5935,6 @@ dns.aixxycode.id CNAME .
 *.dns.aixxycode.id CNAME .
 woc.beelstb.biz.id CNAME .
 *.woc.beelstb.biz.id CNAME .
-d.carilagi.id CNAME .
-*.d.carilagi.id CNAME .
 akashiro.co.id CNAME .
 *.akashiro.co.id CNAME .
 adguard.cell.co.id CNAME .
@@ -6689,8 +6685,6 @@ zorrovpn.io CNAME .
 *.zorrovpn.io CNAME .
 grgrgrkeepcalmkeepcalm.asatid12.ir CNAME .
 *.grgrgrkeepcalmkeepcalm.asatid12.ir CNAME .
-ougonokaze.cheftayebeh.ir CNAME .
-*.ougonokaze.cheftayebeh.ir CNAME .
 qh.cheftayebeh.ir CNAME .
 *.qh.cheftayebeh.ir CNAME .
 de.deghy.ir CNAME .
@@ -7369,8 +7363,6 @@ anything.dontbreakthiswildcard.doge.motorcycles CNAME .
 *.anything.dontbreakthiswildcard.doge.motorcycles CNAME .
 dns.vaguthu.mv CNAME .
 *.dns.vaguthu.mv CNAME .
-btg.go4it.com.mx CNAME .
-*.btg.go4it.com.mx CNAME .
 securly.com.go4it.com.mx CNAME .
 *.securly.com.go4it.com.mx CNAME .
 itrsa.injectoclean.com.mx CNAME .
@@ -7521,8 +7513,6 @@ avira-vpn.net CNAME .
 *.avira-vpn.net CNAME .
 awhoer.net CNAME .
 *.awhoer.net CNAME .
-dns.azsopro.net CNAME .
-*.dns.azsopro.net CNAME .
 401-0506.b-cdn.net CNAME .
 *.401-0506.b-cdn.net CNAME .
 401-0507.b-cdn.net CNAME .
@@ -7559,8 +7549,6 @@ solmariknein.baselinux.net CNAME .
 *.solmariknein.baselinux.net CNAME .
 studyeasy.baselinux.net CNAME .
 *.studyeasy.baselinux.net CNAME .
-bestssh.net CNAME .
-*.bestssh.net CNAME .
 betterproxy.net CNAME .
 *.betterproxy.net CNAME .
 dns.bibica.net CNAME .
@@ -10657,8 +10645,6 @@ kazuma-fumo.24-7.ro CNAME .
 *.kazuma-fumo.24-7.ro CNAME .
 learnaboutcareers.academiaderock.ro CNAME .
 *.learnaboutcareers.academiaderock.ro CNAME .
-home.amq.ro CNAME .
-*.home.amq.ro CNAME .
 sd.galaxysoft.ro CNAME .
 *.sd.galaxysoft.ro CNAME .
 roadesdyn.go.ro CNAME .
@@ -11079,8 +11065,6 @@ artclass.site CNAME .
 *.artclass.site CNAME .
 adguard.bse4792.site CNAME .
 *.adguard.bse4792.site CNAME .
-callies-online.site CNAME .
-*.callies-online.site CNAME .
 dns88.site CNAME .
 *.dns88.site CNAME .
 firstcontact.site CNAME .
@@ -11725,8 +11709,6 @@ unblockit.uno CNAME .
 *.2fastsurfer.us CNAME .
 appshost.us CNAME .
 *.appshost.us CNAME .
-plant-selection.baumgardner.us CNAME .
-*.plant-selection.baumgardner.us CNAME .
 bluegray.us CNAME .
 *.bluegray.us CNAME .
 bypasser.us CNAME .
@@ -12215,8 +12197,6 @@ atsssgo.xyz CNAME .
 *.atsssgo.xyz CNAME .
 filter.badbotdev.xyz CNAME .
 *.filter.badbotdev.xyz CNAME .
-safe-guard.badbotdev.xyz CNAME .
-*.safe-guard.badbotdev.xyz CNAME .
 vps01.bbhc.xyz CNAME .
 *.vps01.bbhc.xyz CNAME .
 beecomf.xyz CNAME .
