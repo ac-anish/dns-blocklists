@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 10:38 UTC
-# Version: 2025.1202.1038.19
+# Last modified: 02 Dec 2025 14:52 UTC
+# Version: 2025.1202.1452.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11345
+# Number of entries: 11338
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2387,7 +2387,6 @@ local=/daveking.com/
 local=/bt.davka.info/
 local=/daxiv.com/
 local=/dbbians.com/
-local=/dbgo.fun/
 local=/dbgt.com/
 local=/dbz-media.nl/
 local=/dbzdivx.com/
@@ -2692,7 +2691,6 @@ local=/dood.sbs/
 local=/dood.sh/
 local=/dood.show/
 local=/dood.so/
-local=/dood.solutions/
 local=/dood.stream/
 local=/dood.team/
 local=/dood.tech/
@@ -2706,7 +2704,6 @@ local=/dood.video/
 local=/dood.vin/
 local=/dood.watch/
 local=/dood.wf/
-local=/dood.wiki/
 local=/dood.ws/
 local=/dood.yt/
 local=/dood.zip/
@@ -2728,7 +2725,6 @@ local=/doodstream.com/
 local=/doodstream.dev/
 local=/doodstream.fit/
 local=/doodstream.fun/
-local=/doodstream.hair/
 local=/doodstream.icu/
 local=/doodstream.life/
 local=/doodstream.link/
@@ -2830,13 +2826,10 @@ local=/dramaqu.info/
 local=/dramaqu.live/
 local=/dramaqu.me/
 local=/dramaqu.net/
-local=/dramaqu.network/
 local=/dramaqu.online/
-local=/dramaqu.rocks/
 local=/dramaqu.site/
 local=/dramaqu.vip/
 local=/dramaqu.website/
-local=/dramaqu.work/
 local=/dramaqueen.pl/
 local=/dream-torrents.com/
 local=/dreamingtree.org/

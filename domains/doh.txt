@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 10:45 UTC
-# Version: 2025.1202.1045.11
+# Last modified: 02 Dec 2025 15:01 UTC
+# Version: 2025.1202.1501.53
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3860
+# Number of entries: 3857
 #
 ss.0001.xyz
 003153.xyz
@@ -1004,7 +1004,6 @@ dns64.dns.google
 doh.dns.sb
 fargos2.dns.army
 guigu.dns.army
-homec92.dns.army
 public-dns-a.dns.sb
 public-dns-b.dns.sb
 dns.dns-53.com
@@ -1310,8 +1309,6 @@ gnode.drahonn.pro
 gpanel.drahonn.pro
 lanyard.drahonn.pro
 mail.drahonn.pro
-mc.drahonn.pro
-musicbot.drahonn.pro
 othernj.drahonn.pro
 sinusbot.drahonn.pro
 spotifyobs.drahonn.pro

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764671880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764687120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Dec 2025 10:38 UTC
-; Version: 2025.1202.1038.19
+; Last modified: 02 Dec 2025 14:52 UTC
+; Version: 2025.1202.1452.30
 ; Syntax: RPZ
-; Number of entries: 22690
+; Number of entries: 22676
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -9396,8 +9396,6 @@ cb01.fun CNAME .
 *.cb01.fun CNAME .
 cineblog01.fun CNAME .
 *.cineblog01.fun CNAME .
-dbgo.fun CNAME .
-*.dbgo.fun CNAME .
 ddnbd.fun CNAME .
 *.ddnbd.fun CNAME .
 dood.fun CNAME .
@@ -9698,8 +9696,6 @@ multimovies.guru CNAME .
 *.multimovies.guru CNAME .
 hdmovie2.gy CNAME .
 *.hdmovie2.gy CNAME .
-doodstream.hair CNAME .
-*.doodstream.hair CNAME .
 filmstreaming.hair CNAME .
 *.filmstreaming.hair CNAME .
 hdmovie2.hair CNAME .
@@ -14492,8 +14488,6 @@ altadefinizione.network CNAME .
 *.altadefinizione.network CNAME .
 cb01.network CNAME .
 *.cb01.network CNAME .
-dramaqu.network CNAME .
-*.dramaqu.network CNAME .
 eurostreaming.network CNAME .
 *.eurostreaming.network CNAME .
 filmapik.network CNAME .
@@ -17852,8 +17846,6 @@ xtremezone.ro CNAME .
 *.xtremezone.ro CNAME .
 cb01.rocks CNAME .
 *.cb01.rocks CNAME .
-dramaqu.rocks CNAME .
-*.dramaqu.rocks CNAME .
 tv.fanclub.rocks CNAME .
 *.tv.fanclub.rocks CNAME .
 filmapik.rocks CNAME .
@@ -19074,8 +19066,6 @@ bollyflix.solutions CNAME .
 *.bollyflix.solutions CNAME .
 cb01.solutions CNAME .
 *.cb01.solutions CNAME .
-dood.solutions CNAME .
-*.dood.solutions CNAME .
 hdmovie2.solutions CNAME .
 *.hdmovie2.solutions CNAME .
 altadefinizione.soy CNAME .
@@ -21788,8 +21778,6 @@ cineby.wiki CNAME .
 *.cineby.wiki CNAME .
 dewpoint34.wiki CNAME .
 *.dewpoint34.wiki CNAME .
-dood.wiki CNAME .
-*.dood.wiki CNAME .
 filmpertutti.wiki CNAME .
 *.filmpertutti.wiki CNAME .
 flemmix.wiki CNAME .
@@ -21870,8 +21858,6 @@ cineby.work CNAME .
 *.cineby.work CNAME .
 cinemahd.work CNAME .
 *.cinemahd.work CNAME .
-dramaqu.work CNAME .
-*.dramaqu.work CNAME .
 hdmovie2.work CNAME .
 *.hdmovie2.work CNAME .
 multimovies.work CNAME .

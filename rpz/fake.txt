@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764667680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764682200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Dec 2025 09:28 UTC
-; Version: 2025.1202.0928.43
+; Last modified: 02 Dec 2025 13:30 UTC
+; Version: 2025.1202.1330.02
 ; Syntax: RPZ
-; Number of entries: 27942
+; Number of entries: 27898
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -4868,8 +4868,6 @@ dalmory.com CNAME .
 *.dalmory.com CNAME .
 dalsari.com CNAME .
 *.dalsari.com CNAME .
-damemotebutikk.com CNAME .
-*.damemotebutikk.com CNAME .
 damenuhrenringe.com CNAME .
 *.damenuhrenringe.com CNAME .
 dan-job-de.com CNAME .
@@ -5188,10 +5186,6 @@ destjarnaapparel.com CNAME .
 *.destjarnaapparel.com CNAME .
 detapetenonline.com CNAME .
 *.detapetenonline.com CNAME .
-detegut.com CNAME .
-*.detegut.com CNAME .
-detierbedarf.com CNAME .
-*.detierbedarf.com CNAME .
 detoolsshop.com CNAME .
 *.detoolsshop.com CNAME .
 detsound.com CNAME .
@@ -5276,8 +5270,6 @@ diotrange.com CNAME .
 *.diotrange.com CNAME .
 dirctychop.com CNAME .
 *.dirctychop.com CNAME .
-dirkelektro.com CNAME .
-*.dirkelektro.com CNAME .
 dirlabass.com CNAME .
 *.dirlabass.com CNAME .
 disciplineh.com CNAME .
@@ -5386,18 +5378,10 @@ donttaptheglassshop.com CNAME .
 *.donttaptheglassshop.com CNAME .
 doorhardwareus.com CNAME .
 *.doorhardwareus.com CNAME .
-doorsorwindows.com CNAME .
-*.doorsorwindows.com CNAME .
 dopamineoutfit.com CNAME .
 *.dopamineoutfit.com CNAME .
 dopeeesti.com CNAME .
 *.dopeeesti.com CNAME .
-dopesnownederland.com CNAME .
-*.dopesnownederland.com CNAME .
-dopesnowromania.com CNAME .
-*.dopesnowromania.com CNAME .
-dopesnowsuomi.com CNAME .
-*.dopesnowsuomi.com CNAME .
 dopesnowswitzerland.com CNAME .
 *.dopesnowswitzerland.com CNAME .
 dopplergunstig.com CNAME .
@@ -5416,12 +5400,8 @@ dotmalls.com CNAME .
 *.dotmalls.com CNAME .
 dotuant.com CNAME .
 *.dotuant.com CNAME .
-doublecapitals.com CNAME .
-*.doublecapitals.com CNAME .
 douchedesign.com CNAME .
 *.douchedesign.com CNAME .
-dovecrow.com CNAME .
-*.dovecrow.com CNAME .
 doysa-agri.com CNAME .
 *.doysa-agri.com CNAME .
 dozepharmacy.com CNAME .
@@ -5430,8 +5410,6 @@ dplantz.com CNAME .
 *.dplantz.com CNAME .
 dr-estate.com CNAME .
 *.dr-estate.com CNAME .
-dramatice.com CNAME .
-*.dramatice.com CNAME .
 dramdi.com CNAME .
 *.dramdi.com CNAME .
 drationecla.com CNAME .
@@ -5472,8 +5450,6 @@ dressnik.com CNAME .
 *.dressnik.com CNAME .
 dressshirtsblouses.com CNAME .
 *.dressshirtsblouses.com CNAME .
-drezia.com CNAME .
-*.drezia.com CNAME .
 drheimer.com CNAME .
 *.drheimer.com CNAME .
 drift-store.com CNAME .
@@ -5490,8 +5466,6 @@ drmartensbot.com CNAME .
 *.drmartensbot.com CNAME .
 drmartensbotas.com CNAME .
 *.drmartensbotas.com CNAME .
-drmartensdublin.com CNAME .
-*.drmartensdublin.com CNAME .
 drmartensportugaloutlet.com CNAME .
 *.drmartensportugaloutlet.com CNAME .
 drmartenssalg.com CNAME .
@@ -5552,8 +5526,6 @@ dvdsblurays.com CNAME .
 *.dvdsblurays.com CNAME .
 dvepare.com CNAME .
 *.dvepare.com CNAME .
-dwelldome.com CNAME .
-*.dwelldome.com CNAME .
 dxvape.com CNAME .
 *.dxvape.com CNAME .
 dyn-amo.com CNAME .
@@ -17086,10 +17058,6 @@ wneedshop.com CNAME .
 *.wneedshop.com CNAME .
 wobeg.com CNAME .
 *.wobeg.com CNAME .
-enigmaproai-fr.wocomii.com CNAME .
-*.enigmaproai-fr.wocomii.com CNAME .
-zencryptopro-fr.wocomii.com CNAME .
-*.zencryptopro-fr.wocomii.com CNAME .
 wohndekode.com CNAME .
 *.wohndekode.com CNAME .
 wohnkuchede.com CNAME .
@@ -18672,8 +18640,6 @@ decotik.de CNAME .
 *.decotik.de CNAME .
 defai-tech.de CNAME .
 *.defai-tech.de CNAME .
-degnerwelpen.de CNAME .
-*.degnerwelpen.de CNAME .
 dehaag-tech.de CNAME .
 *.dehaag-tech.de CNAME .
 dehiking.de CNAME .
@@ -18722,8 +18688,6 @@ demoniadeutschland.de CNAME .
 *.demoniadeutschland.de CNAME .
 demoniastiefel.de CNAME .
 *.demoniastiefel.de CNAME .
-dengh.de CNAME .
-*.dengh.de CNAME .
 der-einblick.de CNAME .
 *.der-einblick.de CNAME .
 der-reiseexperte.de CNAME .
@@ -18734,8 +18698,6 @@ der-tonershop.de CNAME .
 *.der-tonershop.de CNAME .
 derarno.de CNAME .
 *.derarno.de CNAME .
-derekoutlet.de CNAME .
-*.derekoutlet.de CNAME .
 derfairmieter.de CNAME .
 *.derfairmieter.de CNAME .
 derkaminofenhandel.de CNAME .
@@ -18770,8 +18732,6 @@ mpso.deveri.de CNAME .
 *.mpso.deveri.de CNAME .
 shop.deveri.de CNAME .
 *.shop.deveri.de CNAME .
-devoza.de CNAME .
-*.devoza.de CNAME .
 diaetoxil.de CNAME .
 *.diaetoxil.de CNAME .
 diamant-eventcenter.de CNAME .
@@ -18784,8 +18744,6 @@ die-garten-meister.de CNAME .
 *.die-garten-meister.de CNAME .
 dietrich-garten.de CNAME .
 *.dietrich-garten.de CNAME .
-digi-markets.de CNAME .
-*.digi-markets.de CNAME .
 digitalakku.de CNAME .
 *.digitalakku.de CNAME .
 digitalheizer.de CNAME .
@@ -26112,8 +26070,6 @@ drinkevolution.shop CNAME .
 *.drinkevolution.shop CNAME .
 droxen.shop CNAME .
 *.droxen.shop CNAME .
-dualtronpower.shop CNAME .
-*.dualtronpower.shop CNAME .
 dutztechh.shop CNAME .
 *.dutztechh.shop CNAME .
 dyynnafitsale.shop CNAME .

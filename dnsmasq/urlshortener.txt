@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 09:30 UTC
-# Version: 2025.1202.0930.23
+# Last modified: 02 Dec 2025 13:31 UTC
+# Version: 2025.1202.1331.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9528
+# Number of entries: 9522
 #
 local=/0.gp/
 local=/00m.in/
@@ -2027,7 +2027,6 @@ local=/cyberrl.com/
 local=/cybr.fr/
 local=/cybr.rocks/
 local=/go.cynapto.com/
-local=/cyonix.to/
 local=/cyrmp.com/
 local=/cyte.in/
 local=/cyver.se/
@@ -2087,7 +2086,6 @@ local=/dbolink.com/
 local=/dbricks.co/
 local=/go.dbs.com/
 local=/dcbspage.org/
-local=/dcc.ng/
 local=/dcps.co/
 local=/dcri.io/
 local=/dcshru.ru/
@@ -2110,7 +2108,6 @@ local=/deepcore.in/
 local=/defwdsccvf.today/
 local=/dehe.ir/
 local=/deheh.ir/
-local=/s.deinventive.com/
 local=/deli.bz/
 local=/deliverable.email/
 local=/delivr.com/
@@ -2143,7 +2140,6 @@ local=/dfl8.me/
 local=/dft.ba/
 local=/dfthethao.com/
 local=/dfy.is/
-local=/dgkad.com/
 local=/dglnk.me/
 local=/dgms.es/
 local=/dgo.to/
@@ -2269,7 +2265,6 @@ local=/droid.ws/
 local=/droidqr.com/
 local=/dronescapes.video/
 local=/drop.tf/
-local=/dropl.link/
 local=/droplr.net/
 local=/dropmylinks.com/
 local=/kutt.droppii.vn/
@@ -9313,7 +9308,6 @@ local=/yidbio.com/
 local=/yigza.com/
 local=/yiii.de/
 local=/yip.su/
-local=/yir.io/
 local=/yji.tw/
 local=/ykm.de/
 local=/ylg.org/
