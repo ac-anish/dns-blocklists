@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 22:38 UTC
-# Version: 2025.1202.2238.26
+# Last modified: 03 Dec 2025 02:39 UTC
+# Version: 2025.1203.0239.39
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3855
+# Number of entries: 3854
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1787,7 +1787,6 @@
 0.0.0.0 ns2.hjk.me
 0.0.0.0 jpdns.hker.me
 0.0.0.0 dd.hlm.ovh
-0.0.0.0 dns.ho.al
 0.0.0.0 adguard.hoangcongchuc.com
 0.0.0.0 pihole1.hoerli.net
 0.0.0.0 pihole2.hoerli.net

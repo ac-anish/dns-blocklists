@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 22:38 UTC
-# Version: 2025.1202.2238.26
+# Last modified: 03 Dec 2025 02:39 UTC
+# Version: 2025.1203.0239.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3377
+# Number of entries: 3376
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1545,7 +1545,6 @@ local=/ns2.hjk.kr/
 local=/ns2.hjk.me/
 local=/jpdns.hker.me/
 local=/dd.hlm.ovh/
-local=/dns.ho.al/
 local=/adguard.hoangcongchuc.com/
 local=/pihole1.hoerli.net/
 local=/pihole2.hoerli.net/

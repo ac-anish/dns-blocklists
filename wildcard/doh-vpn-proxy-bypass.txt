@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 22:39 UTC
-# Version: 2025.1202.2239.07
+# Last modified: 03 Dec 2025 02:40 UTC
+# Version: 2025.1203.0240.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6227
+# Number of entries: 6222
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -2404,7 +2404,6 @@
 *.dev.gonnadive.com
 *.adguard.gonzcid.com
 *.doh-primary-pool.goodbyegambling.com
-*.goodssh.com
 *.dns.google.com
 *.google-public-dns-a.google.com
 *.google-public-dns-b.google.com
@@ -2488,7 +2487,6 @@
 *.adg-swe.h4nt3r.com
 *.adguard.h4nt3r.com
 *.c00lkiddtech.hackquest.com
-*.furnandoistrans.hackquest.com
 *.clean.hadan-dns.de
 *.ns1.hadan-dns.de
 *.ns2.hadan-dns.de
@@ -2539,7 +2537,6 @@
 *.betternet-backend.herokuapp.com
 *.heroproxy.com
 *.adg.herry.dev
-*.therealbeezchurger.hetz.pro
 *.dns.msk.hexagon1736.com
 *.hexxitcompany.com
 *.httpdns.ocloud.heytapmobi.com
@@ -2613,7 +2610,6 @@
 *.xc.hkieca.com
 *.dd.hlm.ovh
 *.hmavpn.com
-*.dns.ho.al
 *.adguard.hoangcongchuc.com
 *.pihole1.hoerli.net
 *.pihole2.hoerli.net
@@ -2636,7 +2632,6 @@
 *.pi.homeanywhere.org
 *.admin.homedns.uk
 *.isolacje.homeip.net
-*.cometomyhouse.homelinuxserver.org
 *.homemail.info
 *.adguard01.homepeter.de
 *.homeproxy.com

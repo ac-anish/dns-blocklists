@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 22:32 UTC
-# Version: 2025.1202.2232.51
+# Last modified: 03 Dec 2025 02:34 UTC
+# Version: 2025.1203.0234.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11327
+# Number of entries: 11313
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -4304,7 +4304,6 @@ local=/guardaserie.us/
 local=/guardaserie.vg/
 local=/guardaserie.video/
 local=/guardaserie.vip/
-local=/guardaserie.watch/
 local=/guardaserie.website/
 local=/guardaserie.ws/
 local=/guardaserie.wtf/
@@ -4370,7 +4369,6 @@ local=/happyhippo.net/
 local=/happymod.cloud/
 local=/happymod.pro/
 local=/happyroms.com/
-local=/hardstresser.com/
 local=/harleyquinnwidget.com/
 local=/harleyquinnwidget.net/
 local=/harri.com/
@@ -4450,7 +4448,6 @@ local=/hdmovie2.africa/
 local=/hdmovie2.am/
 local=/hdmovie2.app/
 local=/hdmovie2.archi/
-local=/hdmovie2.army/
 local=/hdmovie2.asia/
 local=/hdmovie2.at/
 local=/hdmovie2.autos/
@@ -4472,7 +4469,6 @@ local=/hdmovie2.buzz/
 local=/hdmovie2.bz/
 local=/hdmovie2.cafe/
 local=/hdmovie2.camera/
-local=/hdmovie2.cards/
 local=/hdmovie2.careers/
 local=/hdmovie2.casa/
 local=/hdmovie2.cash/
@@ -4512,7 +4508,6 @@ local=/hdmovie2.direct/
 local=/hdmovie2.dk/
 local=/hdmovie2.do/
 local=/hdmovie2.dog/
-local=/hdmovie2.domains/
 local=/hdmovie2.engineering/
 local=/hdmovie2.estate/
 local=/hdmovie2.events/
@@ -4527,7 +4522,6 @@ local=/hdmovie2.finance/
 local=/hdmovie2.fit/
 local=/hdmovie2.fm/
 local=/hdmovie2.foo/
-local=/hdmovie2.food/
 local=/hdmovie2.forex/
 local=/hdmovie2.foundation/
 local=/hdmovie2.free/
@@ -4559,7 +4553,6 @@ local=/hdmovie2.investments/
 local=/hdmovie2.irish/
 local=/hdmovie2.is/
 local=/hdmovie2.ist/
-local=/hdmovie2.jewelry/
 local=/hdmovie2.kim/
 local=/hdmovie2.la/
 local=/hdmovie2.lc/
@@ -4610,13 +4603,11 @@ local=/hdmovie2.poker/
 local=/hdmovie2.pro/
 local=/hdmovie2.promo/
 local=/hdmovie2.properties/
-local=/hdmovie2.ps/
 local=/hdmovie2.racing/
 local=/hdmovie2.realty/
 local=/hdmovie2.rehab/
 local=/hdmovie2.reisen/
 local=/hdmovie2.ren/
-local=/hdmovie2.rent/
 local=/hdmovie2.rentals/
 local=/hdmovie2.repair/
 local=/hdmovie2.rest/
@@ -4655,7 +4646,6 @@ local=/hdmovie2.tips/
 local=/hdmovie2.today/
 local=/hdmovie2.tokyo/
 local=/hdmovie2.tools/
-local=/hdmovie2.tours/
 local=/hdmovie2.tr/
 local=/hdmovie2.trade/
 local=/hdmovie2.trading/
@@ -4673,7 +4663,6 @@ local=/hdmovie2.vin/
 local=/hdmovie2.voyage/
 local=/hdmovie2.watch/
 local=/hdmovie2.webcam/
-local=/hdmovie2.website/
 local=/hdmovie2.wine/
 local=/hdmovie2.work/
 local=/hdmovie2.world/
@@ -4754,7 +4743,6 @@ local=/hesgoal1.net/
 local=/hesgoals.top/
 local=/hesgoaltv.me/
 local=/hevcbay.com/
-local=/hexa.watch/
 local=/hexagon.cc/
 local=/yann5.hexanyn.fr/
 local=/hexari.com/
@@ -4801,7 +4789,6 @@ local=/bt.hliang.com/
 local=/hlscat.com/
 local=/hlusoe.info/
 local=/hn-iptv.com/
-local=/hobby-hacker.com/
 local=/hoerbuch.us/
 local=/hoerspielprojekt.de/
 local=/hoichoi24.com/
@@ -5024,7 +5011,6 @@ local=/intos382gos.com/
 local=/intrepidbd.com/
 local=/invalid.pw/
 local=/watch.inzi.dev/
-local=/tracker.iochimari.moe/
 local=/ionbooter.com/
 local=/app.iosgods.com/
 local=/ioshaven.com/

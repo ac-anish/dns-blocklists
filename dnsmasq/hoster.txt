@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 21:58 UTC
-# Version: 2025.1202.2158.40
+# Last modified: 03 Dec 2025 02:01 UTC
+# Version: 2025.1203.0201.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1326
+# Number of entries: 1324
 #
 local=/000a.de/
 local=/000space.com/
@@ -659,7 +659,6 @@ local=/sp.gname.net/
 local=/godaddysites.com/
 local=/godfrance.club/
 local=/godscience.shop/
-local=/godxdess.top/
 local=/gofreeserve.com/
 local=/googletagmanagers.com/
 local=/govauinboxmsg-support.com/
@@ -687,7 +686,6 @@ local=/hashnode.dev/
 local=/healthyemployee.me/
 local=/helioho.st/
 local=/heliohost.us/
-local=/helpfri.shop/
 local=/hexe.in/
 local=/highclassacademia.com/
 local=/hilfe24h.de/

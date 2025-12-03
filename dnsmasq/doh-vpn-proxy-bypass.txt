@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 02 Dec 2025 22:39 UTC
-# Version: 2025.1202.2239.07
+# Last modified: 03 Dec 2025 02:40 UTC
+# Version: 2025.1203.0240.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6227
+# Number of entries: 6222
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2404,7 +2404,6 @@ local=/golegana.de/
 local=/dev.gonnadive.com/
 local=/adguard.gonzcid.com/
 local=/doh-primary-pool.goodbyegambling.com/
-local=/goodssh.com/
 local=/dns.google.com/
 local=/google-public-dns-a.google.com/
 local=/google-public-dns-b.google.com/
@@ -2488,7 +2487,6 @@ local=/adg-nl.h4nt3r.com/
 local=/adg-swe.h4nt3r.com/
 local=/adguard.h4nt3r.com/
 local=/c00lkiddtech.hackquest.com/
-local=/furnandoistrans.hackquest.com/
 local=/clean.hadan-dns.de/
 local=/ns1.hadan-dns.de/
 local=/ns2.hadan-dns.de/
@@ -2539,7 +2537,6 @@ local=/procs.heroinewarrior.com/
 local=/betternet-backend.herokuapp.com/
 local=/heroproxy.com/
 local=/adg.herry.dev/
-local=/therealbeezchurger.hetz.pro/
 local=/dns.msk.hexagon1736.com/
 local=/hexxitcompany.com/
 local=/httpdns.ocloud.heytapmobi.com/
@@ -2613,7 +2610,6 @@ local=/classroom.hkieca.com/
 local=/xc.hkieca.com/
 local=/dd.hlm.ovh/
 local=/hmavpn.com/
-local=/dns.ho.al/
 local=/adguard.hoangcongchuc.com/
 local=/pihole1.hoerli.net/
 local=/pihole2.hoerli.net/
@@ -2636,7 +2632,6 @@ local=/adguard.home-lab-network.com/
 local=/pi.homeanywhere.org/
 local=/admin.homedns.uk/
 local=/isolacje.homeip.net/
-local=/cometomyhouse.homelinuxserver.org/
 local=/homemail.info/
 local=/adguard01.homepeter.de/
 local=/homeproxy.com/

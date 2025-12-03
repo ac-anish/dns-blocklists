@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764714720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764729240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 02 Dec 2025 22:32 UTC
-; Version: 2025.1202.2232.51
+; Last modified: 03 Dec 2025 02:34 UTC
+; Version: 2025.1203.0234.30
 ; Syntax: RPZ
-; Number of entries: 22654
+; Number of entries: 22626
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -364,8 +364,6 @@ bollyflix.army CNAME .
 *.bollyflix.army CNAME .
 cctv.army CNAME .
 *.cctv.army CNAME .
-hdmovie2.army CNAME .
-*.hdmovie2.army CNAME .
 skymovieshd.army CNAME .
 *.skymovieshd.army CNAME .
 streamingcommunity.army CNAME .
@@ -1186,8 +1184,6 @@ dood.camp CNAME .
 *.dood.camp CNAME .
 vegamovies.capital CNAME .
 *.vegamovies.capital CNAME .
-hdmovie2.cards CNAME .
-*.hdmovie2.cards CNAME .
 vegamovies.cards CNAME .
 *.vegamovies.cards CNAME .
 cb01.care CNAME .
@@ -4788,8 +4784,6 @@ happy-mod.com CNAME .
 *.happy-mod.com CNAME .
 happyroms.com CNAME .
 *.happyroms.com CNAME .
-hardstresser.com CNAME .
-*.hardstresser.com CNAME .
 harleyquinnwidget.com CNAME .
 *.harleyquinnwidget.com CNAME .
 harri.com CNAME .
@@ -4880,8 +4874,6 @@ hlscat.com CNAME .
 *.hlscat.com CNAME .
 hn-iptv.com CNAME .
 *.hn-iptv.com CNAME .
-hobby-hacker.com CNAME .
-*.hobby-hacker.com CNAME .
 hoichoi24.com CNAME .
 *.hoichoi24.com CNAME .
 hollabackonline.com CNAME .
@@ -8716,8 +8708,6 @@ anicloud.domains CNAME .
 *.anicloud.domains CNAME .
 burningseries.domains CNAME .
 *.burningseries.domains CNAME .
-hdmovie2.domains CNAME .
-*.hdmovie2.domains CNAME .
 anime7.download CNAME .
 *.anime7.download CNAME .
 audio.download CNAME .
@@ -9216,8 +9206,6 @@ vegamovies.foo CNAME .
 *.vegamovies.foo CNAME .
 hdfilme.food CNAME .
 *.hdfilme.food CNAME .
-hdmovie2.food CNAME .
-*.hdmovie2.food CNAME .
 kinox.food CNAME .
 *.kinox.food CNAME .
 tantifilm.food CNAME .
@@ -10956,8 +10944,6 @@ totaldownloader.it CNAME .
 *.totaldownloader.it CNAME .
 yomovies.it CNAME .
 *.yomovies.it CNAME .
-hdmovie2.jewelry CNAME .
-*.hdmovie2.jewelry CNAME .
 vegamovies.jewelry CNAME .
 *.vegamovies.jewelry CNAME .
 vegamovies.joburg CNAME .
@@ -12316,8 +12302,6 @@ haho.moe CNAME .
 *.haho.moe CNAME .
 ilgeniodellostreaming.moe CNAME .
 *.ilgeniodellostreaming.moe CNAME .
-tracker.iochimari.moe CNAME .
-*.tracker.iochimari.moe CNAME .
 tracker.iro.moe CNAME .
 *.tracker.iro.moe CNAME .
 leet-tracker.moe CNAME .
@@ -17442,8 +17426,6 @@ vegamovies.promo CNAME .
 *.vegamovies.promo CNAME .
 hdmovie2.properties CNAME .
 *.hdmovie2.properties CNAME .
-hdmovie2.ps CNAME .
-*.hdmovie2.ps CNAME .
 sflix.ps CNAME .
 *.sflix.ps CNAME .
 streameast.ps CNAME .
@@ -17658,8 +17640,6 @@ tracker.gaytor.rent CNAME .
 *.tracker.gaytor.rent CNAME .
 guardaserie.rent CNAME .
 *.guardaserie.rent CNAME .
-hdmovie2.rent CNAME .
-*.hdmovie2.rent CNAME .
 streamingcommunity.rent CNAME .
 *.streamingcommunity.rent CNAME .
 vegamovies.rent CNAME .
@@ -20490,8 +20470,6 @@ tracker.zhuqiy.top CNAME .
 *.tracker.zhuqiy.top CNAME .
 altadefinizione.tours CNAME .
 *.altadefinizione.tours CNAME .
-hdmovie2.tours CNAME .
-*.hdmovie2.tours CNAME .
 cineblog01.town CNAME .
 *.cineblog01.town CNAME .
 eurostreaming.town CNAME .
@@ -21688,14 +21666,10 @@ egydead.watch CNAME .
 *.egydead.watch CNAME .
 filmstreaming.watch CNAME .
 *.filmstreaming.watch CNAME .
-guardaserie.watch CNAME .
-*.guardaserie.watch CNAME .
 hdmovie2.watch CNAME .
 *.hdmovie2.watch CNAME .
 hesgoal.watch CNAME .
 *.hesgoal.watch CNAME .
-hexa.watch CNAME .
-*.hexa.watch CNAME .
 letmewatchthis.watch CNAME .
 *.letmewatchthis.watch CNAME .
 miru.watch CNAME .
@@ -21732,8 +21706,6 @@ fzmovies.website CNAME .
 *.fzmovies.website CNAME .
 guardaserie.website CNAME .
 *.guardaserie.website CNAME .
-hdmovie2.website CNAME .
-*.hdmovie2.website CNAME .
 instasave.website CNAME .
 *.instasave.website CNAME .
 multimovies.website CNAME .
