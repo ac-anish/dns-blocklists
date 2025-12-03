@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 10:36 UTC
-# Version: 2025.1203.1036.45
+# Last modified: 03 Dec 2025 18:35 UTC
+# Version: 2025.1203.1835.07
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6211
+# Number of entries: 6201
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3424,10 +3424,8 @@ local=/mikewaddick.com/
 local=/mikezhang.xyz/
 local=/dns.mikopono.nl/
 local=/rwkdwpwsyv48.mikopono.nl/
-local=/ukns.milangas2.top/
 local=/dns.milkpie.one/
 local=/craftmaine.mine.bz/
-local=/hihihi.minecraftnoob.com/
 local=/aitkcrev.minhduc.pw/
 local=/minilla.store/
 local=/miniprox.com/
@@ -3537,7 +3535,6 @@ local=/justfor.myasustor.com/
 local=/nas-scheiben34.myasustor.com/
 local=/zanty123456.myasustor.com/
 local=/mycelium.site/
-local=/nyc.mycityulife.com/
 local=/thisismathteach.myclarevision.com/
 local=/adguard.myddns.org/
 local=/adguard-home.myddns.me/
@@ -3587,7 +3584,6 @@ local=/dns.mzrme.cn/
 local=/dns.n23.io/
 local=/n8nmegapixar.online/
 local=/doh-ca.naftalie.net/
-local=/najiakeji.top/
 local=/dns.nako.kr/
 local=/chungocoai.name.vn/
 local=/adguard.quydang.name.vn/
@@ -3627,7 +3623,6 @@ local=/pl-waw-w-p-2.nashkan.net/
 local=/ro-buc-w-f-1.nashkan.net/
 local=/ro-buc-w-p-1.nashkan.net/
 local=/sg-w-f-1.nashkan.net/
-local=/sg-w-f-2.nashkan.net/
 local=/sg-w-p-1.nashkan.net/
 local=/tr-ist-w-p-2.nashkan.net/
 local=/us-ash-w-f-1.nashkan.net/
@@ -3691,8 +3686,6 @@ local=/dns.netvpn.net/
 local=/scienceisfun11.networkguru.com/
 local=/cube.neubsi.at/
 local=/dns.neubsi.at/
-local=/itrsa.nevuer.com/
-local=/study-math.nevuer.com/
 local=/katherine-dns.newcore.cl/
 local=/newipnow.com/
 local=/newproxylist.net/
@@ -3796,7 +3789,6 @@ local=/dns.novali.date/
 local=/us.novali.date/
 local=/novatech.fun/
 local=/dns.novg.net/
-local=/poiuytrewq.novipro.ca/
 local=/nowcache.com/
 local=/nowhiteflags.xyz/
 local=/noyourmean.xyz/
@@ -3857,7 +3849,6 @@ local=/dns.odinpl.com/
 local=/adguard.odysseusnetwork.com/
 local=/oeck.com/
 local=/dns.ofdoom.net/
-local=/sleepykirby.ofmdirect.com/
 local=/sq.ofmdirect.com/
 local=/adguard.ohmhv57.org/
 local=/okado.online/
@@ -3869,7 +3860,6 @@ local=/olympicproxy.net/
 local=/dns.omada.cafe/
 local=/dns.omee4.ru/
 local=/omegaproxy.com/
-local=/rammerheadblackholenetwork.omniscien.cl/
 local=/adguard.oms-ctr.ru/
 local=/onconnect.info/
 local=/one.one.one.one/

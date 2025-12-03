@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 10:30 UTC
-# Version: 2025.1203.1030.46
+# Last modified: 03 Dec 2025 18:29 UTC
+# Version: 2025.1203.1829.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11307
+# Number of entries: 11296
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -5967,7 +5967,6 @@ local=/megakino.bio/
 local=/megakino.biz/
 local=/megakino.co/
 local=/megakino.deals/
-local=/megakino.dev/
 local=/megakino.eu/
 local=/megakino.farm/
 local=/megakino.gold/
@@ -6101,28 +6100,21 @@ local=/mixonbd.com/
 local=/mixsoftware.ru/
 local=/mixtapetorrent.com/
 local=/mkfs.ru/
-local=/mkvanime.mov/
 local=/mkvcage.com/
 local=/mkvcage.ws/
-local=/mkvcinemas.app/
 local=/mkvcinemas.bet/
 local=/mkvcinemas.cat/
 local=/mkvcinemas.ceo/
 local=/mkvcinemas.co/
 local=/mkvcinemas.eu/
-local=/mkvcinemas.fit/
-local=/mkvcinemas.haus/
-local=/mkvcinemas.kids/
 local=/mkvcinemas.kiwi/
 local=/mkvcinemas.love/
 local=/mkvcinemas.mobi/
 local=/mkvcinemas.onl/
-local=/mkvcinemas.prof/
 local=/mkvcinemas.rodeo/
 local=/mkvcinemas.store/
 local=/mkvcinemas.surf/
 local=/mkvcinemas.today/
-local=/mkvcinemas.tw/
 local=/mkvcinemas.vin/
 local=/mkvdrama.org/
 local=/mkvking.me/
@@ -6365,7 +6357,6 @@ local=/movieunlimited.net/
 local=/movieuwutv.top/
 local=/movievilla.cfd/
 local=/movievilla.my/
-local=/moviewapi.in/
 local=/moviewatcher.eu/
 local=/moviewatcher.is/
 local=/movieworld.pl/
@@ -6512,7 +6503,6 @@ local=/mycujoo.tv/
 local=/mycybernest.com/
 local=/forums.mydigitallife.net/
 local=/myduckisdead.org/
-local=/myfeed2all.eu/
 local=/myflixer.ac/
 local=/myflixer.center/
 local=/myflixer.com/
@@ -6700,7 +6690,6 @@ local=/newcomic.info/
 local=/newcracks.net/
 local=/newerastreams.com/
 local=/newerteam.com/
-local=/newkatcr.co/
 local=/newnova.org/
 local=/newoutlaw.org/
 local=/newsbin.com/

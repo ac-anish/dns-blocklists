@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764758160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764786900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 10:36 UTC
-; Version: 2025.1203.1036.45
+; Last modified: 03 Dec 2025 18:35 UTC
+; Version: 2025.1203.1835.07
 ; Syntax: RPZ
-; Number of entries: 12422
+; Number of entries: 12402
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -419,8 +419,6 @@ myproxy.ca CNAME .
 *.myproxy.ca CNAME .
 ne1.ca CNAME .
 *.ne1.ca CNAME .
-poiuytrewq.novipro.ca CNAME .
-*.poiuytrewq.novipro.ca CNAME .
 doh.nukys.ca CNAME .
 *.doh.nukys.ca CNAME .
 psiphon.ca CNAME .
@@ -697,8 +695,6 @@ katherine-dns.newcore.cl CNAME .
 *.katherine-dns.newcore.cl CNAME .
 dnsotls.lab.nic.cl CNAME .
 *.dnsotls.lab.nic.cl CNAME .
-rammerheadblackholenetwork.omniscien.cl CNAME .
-*.rammerheadblackholenetwork.omniscien.cl CNAME .
 bolt.ovaa.cl CNAME .
 *.bolt.ovaa.cl CNAME .
 172.96.141.252doge.quipasur.cl CNAME .
@@ -2949,8 +2945,6 @@ www-proxy.migastep.com CNAME .
 *.www-proxy.migastep.com CNAME .
 mikewaddick.com CNAME .
 *.mikewaddick.com CNAME .
-hihihi.minecraftnoob.com CNAME .
-*.hihihi.minecraftnoob.com CNAME .
 miniprox.com CNAME .
 *.miniprox.com CNAME .
 httpdns.browser.miui.com CNAME .
@@ -3017,8 +3011,6 @@ nas-scheiben34.myasustor.com CNAME .
 *.nas-scheiben34.myasustor.com CNAME .
 zanty123456.myasustor.com CNAME .
 *.zanty123456.myasustor.com CNAME .
-nyc.mycityulife.com CNAME .
-*.nyc.mycityulife.com CNAME .
 thisismathteach.myclarevision.com CNAME .
 *.thisismathteach.myclarevision.com CNAME .
 myiphide.com CNAME .
@@ -3063,10 +3055,6 @@ netsneak.com CNAME .
 *.netsneak.com CNAME .
 scienceisfun11.networkguru.com CNAME .
 *.scienceisfun11.networkguru.com CNAME .
-itrsa.nevuer.com CNAME .
-*.itrsa.nevuer.com CNAME .
-study-math.nevuer.com CNAME .
-*.study-math.nevuer.com CNAME .
 newipnow.com CNAME .
 *.newipnow.com CNAME .
 ngrok.com CNAME .
@@ -3173,8 +3161,6 @@ adguard.odysseusnetwork.com CNAME .
 *.adguard.odysseusnetwork.com CNAME .
 oeck.com CNAME .
 *.oeck.com CNAME .
-sleepykirby.ofmdirect.com CNAME .
-*.sleepykirby.ofmdirect.com CNAME .
 sq.ofmdirect.com CNAME .
 *.sq.ofmdirect.com CNAME .
 okayfreedom.com CNAME .
@@ -8323,8 +8309,6 @@ ro-buc-w-p-1.nashkan.net CNAME .
 *.ro-buc-w-p-1.nashkan.net CNAME .
 sg-w-f-1.nashkan.net CNAME .
 *.sg-w-f-1.nashkan.net CNAME .
-sg-w-f-2.nashkan.net CNAME .
-*.sg-w-f-2.nashkan.net CNAME .
 sg-w-p-1.nashkan.net CNAME .
 *.sg-w-p-1.nashkan.net CNAME .
 tr-ist-w-p-2.nashkan.net CNAME .
@@ -11385,14 +11369,10 @@ dns.lsho.top CNAME .
 *.dns.lsho.top CNAME .
 doh.lujiacai.top CNAME .
 *.doh.lujiacai.top CNAME .
-ukns.milangas2.top CNAME .
-*.ukns.milangas2.top CNAME .
 dot.modsh.top CNAME .
 *.dot.modsh.top CNAME .
 dns.mooncheng.top CNAME .
 *.dns.mooncheng.top CNAME .
-najiakeji.top CNAME .
-*.najiakeji.top CNAME .
 ningyan.top CNAME .
 *.ningyan.top CNAME .
 cattery.noddos.top CNAME .

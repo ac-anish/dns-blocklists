@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 10:36 UTC
-# Version: 2025.1203.1036.05
+# Last modified: 03 Dec 2025 18:34 UTC
+# Version: 2025.1203.1834.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3371
+# Number of entries: 3368
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -2093,7 +2093,6 @@
 *.mikezhang.xyz
 *.dns.mikopono.nl
 *.rwkdwpwsyv48.mikopono.nl
-*.ukns.milangas2.top
 *.dns.milkpie.one
 *.aitkcrev.minhduc.pw
 *.minilla.store
@@ -2201,7 +2200,6 @@
 *.dns.n23.io
 *.n8nmegapixar.online
 *.doh-ca.naftalie.net
-*.najiakeji.top
 *.dns.nako.kr
 *.chungocoai.name.vn
 *.adguard.quydang.name.vn
@@ -2238,7 +2236,6 @@
 *.ro-buc-w-f-1.nashkan.net
 *.ro-buc-w-p-1.nashkan.net
 *.sg-w-f-1.nashkan.net
-*.sg-w-f-2.nashkan.net
 *.sg-w-p-1.nashkan.net
 *.tr-ist-w-p-2.nashkan.net
 *.us-ash-w-f-1.nashkan.net

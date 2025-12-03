@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764754200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764783000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 09:30 UTC
-; Version: 2025.1203.0930.13
+; Last modified: 03 Dec 2025 17:30 UTC
+; Version: 2025.1203.1730.17
 ; Syntax: RPZ
-; Number of entries: 19016
+; Number of entries: 19010
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5151,8 +5151,6 @@ moveurls.com CNAME .
 *.moveurls.com CNAME .
 app.moviequik.com CNAME .
 *.app.moviequik.com CNAME .
-mozafer.com CNAME .
-*.mozafer.com CNAME .
 mpo-link.com CNAME .
 *.mpo-link.com CNAME .
 kt.mrmd.com CNAME .
@@ -11073,8 +11071,6 @@ yhoo.it CNAME .
 *.yhoo.it CNAME .
 z2h.it CNAME .
 *.z2h.it CNAME .
-ng.je CNAME .
-*.ng.je CNAME .
 pa.je CNAME .
 *.pa.je CNAME .
 kurz.jetzt CNAME .
@@ -13599,8 +13595,6 @@ ninjaurl.me CNAME .
 *.ninjaurl.me CNAME .
 njx.me CNAME .
 *.njx.me CNAME .
-ogwa.me CNAME .
-*.ogwa.me CNAME .
 okdc.me CNAME .
 *.okdc.me CNAME .
 okurl.me CNAME .

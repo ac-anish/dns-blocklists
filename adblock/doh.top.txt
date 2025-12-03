@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Dec 2025 10:36 UTC
-! Version: 2025.1203.1036.36
+! Last modified: 03 Dec 2025 18:34 UTC
+! Version: 2025.1203.1834.58
 ! Syntax: AdBlock
-! Number of entries: 795
+! Number of entries: 794
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -510,7 +510,6 @@
 ||myadg.ru^
 ||adblock.mydns.network^
 ||dns.n23.io^
-||najiakeji.top^
 ||chungocoai.name.vn^
 ||dns.narl.app^
 ||de-fra-w-p-1.nashkan.net^

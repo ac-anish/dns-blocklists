@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 09:30 UTC
-# Version: 2025.1203.0930.13
+# Last modified: 03 Dec 2025 17:30 UTC
+# Version: 2025.1203.1730.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9508
+# Number of entries: 9505
 #
 local=/0.gp/
 local=/00m.in/
@@ -4975,7 +4975,6 @@ local=/mou.sr/
 local=/moveurls.com/
 local=/app.moviequik.com/
 local=/moxe.me/
-local=/mozafer.com/
 local=/mpa.li/
 local=/url.mpay.pl/
 local=/mpit.io/
@@ -5248,7 +5247,6 @@ local=/nflx.it/
 local=/nfsurl.com/
 local=/nftchampions.info/
 local=/nfw.cz/
-local=/ng.je/
 local=/nghub.net/
 local=/nglink.id/
 local=/ngnbrand.com/
@@ -5411,7 +5409,6 @@ local=/oft.ovh/
 local=/ofx.ph/
 local=/og1.in/
 local=/ogori.one/
-local=/ogwa.me/
 local=/oh.pn/
 local=/ohmy.link/
 local=/ohstitans.org/

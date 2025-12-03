@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 10:36 UTC
-# Version: 2025.1203.1036.05
+# Last modified: 03 Dec 2025 18:34 UTC
+# Version: 2025.1203.1834.29
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3849
+# Number of entries: 3846
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2425,7 +2425,6 @@
 0.0.0.0 mikezhang.xyz
 0.0.0.0 dns.mikopono.nl
 0.0.0.0 rwkdwpwsyv48.mikopono.nl
-0.0.0.0 ukns.milangas2.top
 0.0.0.0 dns.milkpie.one
 0.0.0.0 aitkcrev.minhduc.pw
 0.0.0.0 minilla.store
@@ -2555,7 +2554,6 @@
 0.0.0.0 dns.n23.io
 0.0.0.0 n8nmegapixar.online
 0.0.0.0 doh-ca.naftalie.net
-0.0.0.0 najiakeji.top
 0.0.0.0 dns.nako.kr
 0.0.0.0 chungocoai.name.vn
 0.0.0.0 www.chungocoai.name.vn
@@ -2593,7 +2591,6 @@
 0.0.0.0 ro-buc-w-f-1.nashkan.net
 0.0.0.0 ro-buc-w-p-1.nashkan.net
 0.0.0.0 sg-w-f-1.nashkan.net
-0.0.0.0 sg-w-f-2.nashkan.net
 0.0.0.0 sg-w-p-1.nashkan.net
 0.0.0.0 tr-ist-w-p-2.nashkan.net
 0.0.0.0 us-ash-w-f-1.nashkan.net

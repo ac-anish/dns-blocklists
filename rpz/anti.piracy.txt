@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764757800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764786540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 10:30 UTC
-; Version: 2025.1203.1030.46
+; Last modified: 03 Dec 2025 18:29 UTC
+; Version: 2025.1203.1829.32
 ; Syntax: RPZ
-; Number of entries: 22614
+; Number of entries: 22592
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -238,8 +238,6 @@ losmovies.app CNAME .
 *.losmovies.app CNAME .
 macked.app CNAME .
 *.macked.app CNAME .
-mkvcinemas.app CNAME .
-*.mkvcinemas.app CNAME .
 mrgamingstreams.app CNAME .
 *.mrgamingstreams.app CNAME .
 myinsta.app CNAME .
@@ -2288,8 +2286,6 @@ movietorrent.co CNAME .
 *.movietorrent.co CNAME .
 ln.mtahost.co CNAME .
 *.ln.mtahost.co CNAME .
-newkatcr.co CNAME .
-*.newkatcr.co CNAME .
 olympicstreams.co CNAME .
 *.olympicstreams.co CNAME .
 onepiece-streaming.co CNAME .
@@ -8562,8 +8558,6 @@ film.kace.dev CNAME .
 *.film.kace.dev CNAME .
 massgrave.dev CNAME .
 *.massgrave.dev CNAME .
-megakino.dev CNAME .
-*.megakino.dev CNAME .
 moviesmod.dev CNAME .
 *.moviesmod.dev CNAME .
 1337x.pages.dev CNAME .
@@ -8896,8 +8890,6 @@ mkvcinemas.eu CNAME .
 *.mkvcinemas.eu CNAME .
 moviewatcher.eu CNAME .
 *.moviewatcher.eu CNAME .
-myfeed2all.eu CNAME .
-*.myfeed2all.eu CNAME .
 myp2px.eu CNAME .
 *.myp2px.eu CNAME .
 netmirror.eu CNAME .
@@ -9098,8 +9090,6 @@ guardaserietv.fit CNAME .
 *.guardaserietv.fit CNAME .
 hdmovie2.fit CNAME .
 *.hdmovie2.fit CNAME .
-mkvcinemas.fit CNAME .
-*.mkvcinemas.fit CNAME .
 pelisflix20.fit CNAME .
 *.pelisflix20.fit CNAME .
 streamingcommunity.fit CNAME .
@@ -9686,8 +9676,6 @@ hdmovie2.haus CNAME .
 *.hdmovie2.haus CNAME .
 kinox.haus CNAME .
 *.kinox.haus CNAME .
-mkvcinemas.haus CNAME .
-*.mkvcinemas.haus CNAME .
 streamingcommunity.haus CNAME .
 *.streamingcommunity.haus CNAME .
 hdmovie2.health CNAME .
@@ -10008,8 +9996,6 @@ mods4u.in CNAME .
 *.mods4u.in CNAME .
 moe4sale.in CNAME .
 *.moe4sale.in CNAME .
-moviewapi.in CNAME .
-*.moviewapi.in CNAME .
 ntrace.in CNAME .
 *.ntrace.in CNAME .
 nullednow.in CNAME .
@@ -10960,8 +10946,6 @@ vegamovies.ke CNAME .
 *.vegamovies.ke CNAME .
 rapidleech2011.eu.ki CNAME .
 *.rapidleech2011.eu.ki CNAME .
-mkvcinemas.kids CNAME .
-*.mkvcinemas.kids CNAME .
 1cinevood.kim CNAME .
 *.1cinevood.kim CNAME .
 altadefinizione.kim CNAME .
@@ -12372,8 +12356,6 @@ dood.mov CNAME .
 *.dood.mov CNAME .
 filmapik.mov CNAME .
 *.filmapik.mov CNAME .
-mkvanime.mov CNAME .
-*.mkvanime.mov CNAME .
 pirate-proxy.mov CNAME .
 *.pirate-proxy.mov CNAME .
 proxy-bay.mov CNAME .
@@ -17396,8 +17378,6 @@ xxxtorrents.pro CNAME .
 *.xxxtorrents.pro CNAME .
 kinox.prof CNAME .
 *.kinox.prof CNAME .
-mkvcinemas.prof CNAME .
-*.mkvcinemas.prof CNAME .
 vegamovies.prof CNAME .
 *.vegamovies.prof CNAME .
 123movies.promo CNAME .
@@ -21114,8 +21094,6 @@ hdmovie2.tw CNAME .
 *.hdmovie2.tw CNAME .
 mayi.tw CNAME .
 *.mayi.tw CNAME .
-mkvcinemas.tw CNAME .
-*.mkvcinemas.tw CNAME .
 rarbg.tw CNAME .
 *.rarbg.tw CNAME .
 vegamovies.tw CNAME .
