@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 02:39 UTC
-# Version: 2025.1203.0239.39
+# Last modified: 03 Dec 2025 10:36 UTC
+# Version: 2025.1203.1036.05
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3376
+# Number of entries: 3371
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -1657,7 +1657,6 @@
 *.doh.immerda.ch
 *.http-dns.imoim.net
 *.imperio.top
-*.hk.imtsui.com
 *.host8.248.cloudhost.in.th
 *.adguard.dbase.in.rs
 *.dns1.in-berlin.de
@@ -1751,7 +1750,6 @@
 *.srv5.jiripocta.cz
 *.dns.jiyi.eu
 *.jkdns.me
-*.dns.jluo.app
 *.vps.jmarkin.ru
 *.adg.jnorton.us
 *.jnprd.com
@@ -1846,7 +1844,6 @@
 *.doh.killtw.im
 *.blog.kimiblock.top
 *.noad.kipp.cool
-*.nimeserver.kirjakast.eu
 *.dns.kisnet.id
 *.adguard.kitakitsune.xyz
 *.kjmserwis.pl
@@ -1883,7 +1880,6 @@
 *.dns.kriswerry.nl
 *.xray.krnl.eu
 *.dns.krol.cloud
-*.ksedns.ru
 *.kstdownload.com
 *.hdns.ksyun.com
 *.dns.kugoapps.com
@@ -1972,7 +1968,6 @@
 *.doh.phdns3.lonet.org
 *.doh.phdns4.lonet.org
 *.doh.phdns5.lonet.org
-*.dns.loony-tech.de
 *.deweerd.loseyourip.com
 *.ddd.loukky.com
 *.lovekers.cn

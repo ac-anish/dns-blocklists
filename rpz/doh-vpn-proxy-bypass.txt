@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764729600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764758160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 02:40 UTC
-; Version: 2025.1203.0240.15
+; Last modified: 03 Dec 2025 10:36 UTC
+; Version: 2025.1203.1036.45
 ; Syntax: RPZ
-; Number of entries: 12444
+; Number of entries: 12422
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -69,8 +69,6 @@ gointerstellar.app CNAME .
 *.gointerstellar.app CNAME .
 dns-01.hir.app CNAME .
 *.dns-01.hir.app CNAME .
-dns.jluo.app CNAME .
-*.dns.jluo.app CNAME .
 interesting-molli-qj-9c49db8e.koyeb.app CNAME .
 *.interesting-molli-qj-9c49db8e.koyeb.app CNAME .
 puzzled-dulci-ballpit-1-5f558a50.koyeb.app CNAME .
@@ -693,8 +691,6 @@ idk.komanda.cl CNAME .
 *.idk.komanda.cl CNAME .
 orxwaicjss.laboratoriosdavis.cl CNAME .
 *.orxwaicjss.laboratoriosdavis.cl CNAME .
-btg.ludopop.cl CNAME .
-*.btg.ludopop.cl CNAME .
 dns.michelo.cl CNAME .
 *.dns.michelo.cl CNAME .
 katherine-dns.newcore.cl CNAME .
@@ -2551,8 +2547,6 @@ imnotaproxy.com CNAME .
 *.imnotaproxy.com CNAME .
 http-dns.imostatic.com CNAME .
 *.http-dns.imostatic.com CNAME .
-hk.imtsui.com CNAME .
-*.hk.imtsui.com CNAME .
 in-disguise.com CNAME .
 *.in-disguise.com CNAME .
 incaseineeditoneday.com CNAME .
@@ -2673,8 +2667,6 @@ dns.jamessliu.com CNAME .
 *.dns.jamessliu.com CNAME .
 hk.janebooom.com CNAME .
 *.hk.janebooom.com CNAME .
-woodshop.jbworks.com CNAME .
-*.woodshop.jbworks.com CNAME .
 aghome.jcconnell.com CNAME .
 *.aghome.jcconnell.com CNAME .
 dns.jd.com CNAME .
@@ -2709,8 +2701,6 @@ dns.jstockley.com CNAME .
 *.dns.jstockley.com CNAME .
 dns.juancamos.com CNAME .
 *.dns.juancamos.com CNAME .
-everyonewantstocrackshawnp.jumpingcrab.com CNAME .
-*.everyonewantstocrackshawnp.jumpingcrab.com CNAME .
 skoolisawsom76.nien.jumpingcrab.com CNAME .
 *.skoolisawsom76.nien.jumpingcrab.com CNAME .
 qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com CNAME .
@@ -2873,8 +2863,6 @@ lopana.com CNAME .
 *.lopana.com CNAME .
 deweerd.loseyourip.com CNAME .
 *.deweerd.loseyourip.com CNAME .
-bolt.louis-ip.com CNAME .
-*.bolt.louis-ip.com CNAME .
 ddd.loukky.com CNAME .
 *.ddd.loukky.com CNAME .
 n5.lsasss.com CNAME .
@@ -4731,8 +4719,6 @@ polisitogel.contractors CNAME .
 *.polisitogel.contractors CNAME .
 123proxy.cool CNAME .
 *.123proxy.cool CNAME .
-is-super.cool CNAME .
-*.is-super.cool CNAME .
 noad.kipp.cool CNAME .
 *.noad.kipp.cool CNAME .
 mabuktogel.creditcard CNAME .
@@ -5011,8 +4997,6 @@ koxy.de CNAME .
 *.koxy.de CNAME .
 agh.kul-lippek.de CNAME .
 *.agh.kul-lippek.de CNAME .
-dns.loony-tech.de CNAME .
-*.dns.loony-tech.de CNAME .
 dns.lvl-network.de CNAME .
 *.dns.lvl-network.de CNAME .
 home.marcrnt.de CNAME .
@@ -5207,8 +5191,6 @@ dns.hanahira.dev CNAME .
 *.dns.hanahira.dev CNAME .
 adg.herry.dev CNAME .
 *.adg.herry.dev CNAME .
-beepboopbop.iamadeveloper.dev CNAME .
-*.beepboopbop.iamadeveloper.dev CNAME .
 dns.jinwoo.dev CNAME .
 *.dns.jinwoo.dev CNAME .
 pihole.aws.ketan.dev CNAME .
@@ -5465,8 +5447,6 @@ protective.joindns4.eu CNAME .
 *.protective.joindns4.eu CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
-nimeserver.kirjakast.eu CNAME .
-*.nimeserver.kirjakast.eu CNAME .
 dns1.klcd.eu CNAME .
 *.dns1.klcd.eu CNAME .
 dns2.klcd.eu CNAME .
@@ -10803,8 +10783,6 @@ kondrcloud.ru CNAME .
 *.kondrcloud.ru CNAME .
 kopcm.ru CNAME .
 *.kopcm.ru CNAME .
-ksedns.ru CNAME .
-*.ksedns.ru CNAME .
 landerbrauver.ru CNAME .
 *.landerbrauver.ru CNAME .
 malanser.ru CNAME .

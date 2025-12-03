@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764725520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764754200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 01:32 UTC
-; Version: 2025.1203.0132.49
+; Last modified: 03 Dec 2025 09:30 UTC
+; Version: 2025.1203.0930.13
 ; Syntax: RPZ
-; Number of entries: 19030
+; Number of entries: 19016
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4463,8 +4463,6 @@ ijaresm.com CNAME .
 *.ijaresm.com CNAME .
 ikwer.com CNAME .
 *.ikwer.com CNAME .
-iligstein.com CNAME .
-*.iligstein.com CNAME .
 ilyadin.com CNAME .
 *.ilyadin.com CNAME .
 kutt.inarix.com CNAME .
@@ -4679,8 +4677,6 @@ businesslink.leonidea.com CNAME .
 *.businesslink.leonidea.com CNAME .
 leuralla.com CNAME .
 *.leuralla.com CNAME .
-lfeinst.com CNAME .
-*.lfeinst.com CNAME .
 lighthouse-scholarship.com CNAME .
 *.lighthouse-scholarship.com CNAME .
 lihi1.com CNAME .
@@ -9343,8 +9339,6 @@ kwiklinks.in CNAME .
 *.kwiklinks.in CNAME .
 labb.in CNAME .
 *.labb.in CNAME .
-lcut.in CNAME .
-*.lcut.in CNAME .
 lelink.in CNAME .
 *.lelink.in CNAME .
 link-ease.in CNAME .
@@ -12597,8 +12591,6 @@ limiteds.live CNAME .
 *.limiteds.live CNAME .
 linkgo.live CNAME .
 *.linkgo.live CNAME .
-linkinc.live CNAME .
-*.linkinc.live CNAME .
 linkins.live CNAME .
 *.linkins.live CNAME .
 linkmpomax.live CNAME .
@@ -16001,8 +15993,6 @@ linkinbio.pro CNAME .
 *.linkinbio.pro CNAME .
 linkpad.pro CNAME .
 *.linkpad.pro CNAME .
-linkshare.pro CNAME .
-*.linkshare.pro CNAME .
 linxy.pro CNAME .
 *.linxy.pro CNAME .
 loginmaxwin.pro CNAME .
@@ -16583,8 +16573,6 @@ vi.sa CNAME .
 *.vi.sa CNAME .
 doods.sbs CNAME .
 *.doods.sbs CNAME .
-lgay.sbs CNAME .
-*.lgay.sbs CNAME .
 retireetravelcare.sbs CNAME .
 *.retireetravelcare.sbs CNAME .
 shortlink.sbs CNAME .
@@ -18241,8 +18229,6 @@ jasj.us CNAME .
 *.jasj.us CNAME .
 kask.us CNAME .
 *.kask.us CNAME .
-kjd.us CNAME .
-*.kjd.us CNAME .
 kristal777.us CNAME .
 *.kristal777.us CNAME .
 kuty.us CNAME .

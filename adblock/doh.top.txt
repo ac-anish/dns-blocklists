@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 02 Dec 2025 10:45 UTC
-! Version: 2025.1202.1045.53
+! Last modified: 03 Dec 2025 10:36 UTC
+! Version: 2025.1203.1036.36
 ! Syntax: AdBlock
-! Number of entries: 794
+! Number of entries: 795
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -257,6 +257,7 @@
 ||yyc01.dnscry.pt^
 ||dns1.dnscrypt.ca^
 ||do.dnscrypt.uk^
+||dnsdoh.art^
 ||dnsforfamily.com^
 ||dnsforge.de^
 ||dnsguard.pub^

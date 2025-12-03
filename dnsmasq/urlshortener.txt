@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 01:32 UTC
-# Version: 2025.1203.0132.49
+# Last modified: 03 Dec 2025 09:30 UTC
+# Version: 2025.1203.0930.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9515
+# Number of entries: 9508
 #
 local=/0.gp/
 local=/00m.in/
@@ -3431,7 +3431,6 @@ local=/ikwer.com/
 local=/iky.fr/
 local=/ilang.in/
 local=/ild.info/
-local=/iligstein.com/
 local=/ilink-to.net/
 local=/ilinky.info/
 local=/ilix.in/
@@ -3829,7 +3828,6 @@ local=/kishurim.co/
 local=/kissa.be/
 local=/kit.do/
 local=/kiteww.com/
-local=/kjd.us/
 local=/kk.rs/
 local=/kkc.tech/
 local=/kkday.me/
@@ -4002,7 +4000,6 @@ local=/lccs.ovh/
 local=/url.lcisd.net/
 local=/lcp.ovh/
 local=/lcra-tamu.org/
-local=/lcut.in/
 local=/leakslinks.com/
 local=/learn.to/
 local=/learnit.today/
@@ -4029,9 +4026,7 @@ local=/letx.be/
 local=/leuralla.com/
 local=/lexus.tw/
 local=/lf8.info/
-local=/lfeinst.com/
 local=/lft.to/
-local=/lgay.sbs/
 local=/lhg.app/
 local=/li.bi/
 local=/li-nk.eu/
@@ -4226,7 +4221,6 @@ local=/linkim.cc/
 local=/linkin.icu/
 local=/linkinbio.pro/
 local=/linkinbio.to/
-local=/linkinc.live/
 local=/linking.is/
 local=/linkins.live/
 local=/linkinto.net/
@@ -4333,7 +4327,6 @@ local=/linksfire.net/
 local=/linksflow.bio/
 local=/linksfly.net/
 local=/linkshaft.com/
-local=/linkshare.pro/
 local=/linkshort.co/
 local=/linkshort.eu/
 local=/linkshort.uk/

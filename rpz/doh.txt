@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764729540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764758160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 02:39 UTC
-; Version: 2025.1203.0239.39
+; Last modified: 03 Dec 2025 10:36 UTC
+; Version: 2025.1203.1036.05
 ; Syntax: RPZ
-; Number of entries: 6752
+; Number of entries: 6742
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -37,8 +37,6 @@ doh.futa.app CNAME .
 *.doh.futa.app CNAME .
 dns-01.hir.app CNAME .
 *.dns-01.hir.app CNAME .
-dns.jluo.app CNAME .
-*.dns.jluo.app CNAME .
 dns.narl.app CNAME .
 *.dns.narl.app CNAME .
 dns.nieto.app CNAME .
@@ -1247,8 +1245,6 @@ noads.imbuffering.com CNAME .
 *.noads.imbuffering.com CNAME .
 dns1.imkvq.com CNAME .
 *.dns1.imkvq.com CNAME .
-hk.imtsui.com CNAME .
-*.hk.imtsui.com CNAME .
 incaseineeditoneday.com CNAME .
 *.incaseineeditoneday.com CNAME .
 dns.inclusioproject.com CNAME .
@@ -2143,8 +2139,6 @@ knight1.de CNAME .
 *.knight1.de CNAME .
 agh.kul-lippek.de CNAME .
 *.agh.kul-lippek.de CNAME .
-dns.loony-tech.de CNAME .
-*.dns.loony-tech.de CNAME .
 dns.lvl-network.de CNAME .
 *.dns.lvl-network.de CNAME .
 home.marcrnt.de CNAME .
@@ -2505,8 +2499,6 @@ protective.joindns4.eu CNAME .
 *.protective.joindns4.eu CNAME .
 unfiltered.joindns4.eu CNAME .
 *.unfiltered.joindns4.eu CNAME .
-nimeserver.kirjakast.eu CNAME .
-*.nimeserver.kirjakast.eu CNAME .
 dns1.klcd.eu CNAME .
 *.dns1.klcd.eu CNAME .
 dns2.klcd.eu CNAME .
@@ -5677,8 +5669,6 @@ kondrcloud.ru CNAME .
 *.kondrcloud.ru CNAME .
 kopcm.ru CNAME .
 *.kopcm.ru CNAME .
-ksedns.ru CNAME .
-*.ksedns.ru CNAME .
 landerbrauver.ru CNAME .
 *.landerbrauver.ru CNAME .
 malanser.ru CNAME .

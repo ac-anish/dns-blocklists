@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 02:34 UTC
-# Version: 2025.1203.0234.30
+# Last modified: 03 Dec 2025 10:30 UTC
+# Version: 2025.1203.1030.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11313
+# Number of entries: 11307
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -4908,7 +4908,6 @@ local=/ilgeniodellostreaming.de/
 local=/ilgeniodellostreaming.eu/
 local=/ilgeniodellostreaming.fm/
 local=/ilgeniodellostreaming.golf/
-local=/ilgeniodellostreaming.group/
 local=/ilgeniodellostreaming.hair/
 local=/ilgeniodellostreaming.info/
 local=/ilgeniodellostreaming.io/
@@ -5135,10 +5134,8 @@ local=/javmix.tv/
 local=/javtorrent.me/
 local=/javtorrent.re/
 local=/jdbooks.xyz/
-local=/jennymodapk.info/
 local=/jetanime.cc/
 local=/jetanimes.com/
-local=/jetload.net/
 local=/jhakkas.live/
 local=/jhalmuri.com/
 local=/jhalmuri.xyz/
@@ -5606,7 +5603,6 @@ local=/letgames.org/
 local=/letitbit.net/
 local=/letiziagolosa.com/
 local=/letmewatchthis.is/
-local=/letmewatchthis.watch/
 local=/letsroll911.org/
 local=/letstream.site/
 local=/letsupload.co/
@@ -5677,7 +5673,6 @@ local=/linuxtracker.org/
 local=/tracker.linvk.com/
 local=/linxdown.com/
 local=/smart.lionsmart.cc/
-local=/liteapke.com/
 local=/liteapks.com/
 local=/liteapks.mobi/
 local=/litemodapk.com/
@@ -5699,7 +5694,6 @@ local=/livescorehunter.com/
 local=/livesoccer.sx/
 local=/livesoccertv.com/
 local=/livesx.eu/
-local=/livetorrents.com/
 local=/livetv.sx/
 local=/livetv802.me/
 local=/livetv806.me/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 02:39 UTC
-# Version: 2025.1203.0239.39
+# Last modified: 03 Dec 2025 10:36 UTC
+# Version: 2025.1203.1036.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3376
+# Number of entries: 3371
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1657,7 +1657,6 @@ local=/dns.immanuelschaffer.de/
 local=/doh.immerda.ch/
 local=/http-dns.imoim.net/
 local=/imperio.top/
-local=/hk.imtsui.com/
 local=/host8.248.cloudhost.in.th/
 local=/adguard.dbase.in.rs/
 local=/dns1.in-berlin.de/
@@ -1751,7 +1750,6 @@ local=/dns.jinwoo.dev/
 local=/srv5.jiripocta.cz/
 local=/dns.jiyi.eu/
 local=/jkdns.me/
-local=/dns.jluo.app/
 local=/vps.jmarkin.ru/
 local=/adg.jnorton.us/
 local=/jnprd.com/
@@ -1846,7 +1844,6 @@ local=/kilabit.info/
 local=/doh.killtw.im/
 local=/blog.kimiblock.top/
 local=/noad.kipp.cool/
-local=/nimeserver.kirjakast.eu/
 local=/dns.kisnet.id/
 local=/adguard.kitakitsune.xyz/
 local=/kjmserwis.pl/
@@ -1883,7 +1880,6 @@ local=/adblock.krctech.dev/
 local=/dns.kriswerry.nl/
 local=/xray.krnl.eu/
 local=/dns.krol.cloud/
-local=/ksedns.ru/
 local=/kstdownload.com/
 local=/hdns.ksyun.com/
 local=/dns.kugoapps.com/
@@ -1972,7 +1968,6 @@ local=/doh.phdns2.lonet.org/
 local=/doh.phdns3.lonet.org/
 local=/doh.phdns4.lonet.org/
 local=/doh.phdns5.lonet.org/
-local=/dns.loony-tech.de/
 local=/deweerd.loseyourip.com/
 local=/ddd.loukky.com/
 local=/lovekers.cn/

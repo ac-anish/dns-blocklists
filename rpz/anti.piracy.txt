@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764729240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764757800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 02:34 UTC
-; Version: 2025.1203.0234.30
+; Last modified: 03 Dec 2025 10:30 UTC
+; Version: 2025.1203.1030.46
 ; Syntax: RPZ
-; Number of entries: 22626
+; Number of entries: 22614
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5294,8 +5294,6 @@ tracker.linvk.com CNAME .
 *.tracker.linvk.com CNAME .
 linxdown.com CNAME .
 *.linxdown.com CNAME .
-liteapke.com CNAME .
-*.liteapke.com CNAME .
 liteapks.com CNAME .
 *.liteapks.com CNAME .
 litemodapk.com CNAME .
@@ -5310,8 +5308,6 @@ livescorehunter.com CNAME .
 *.livescorehunter.com CNAME .
 livesoccertv.com CNAME .
 *.livesoccertv.com CNAME .
-livetorrents.com CNAME .
-*.livetorrents.com CNAME .
 livingtorrents.com CNAME .
 *.livingtorrents.com CNAME .
 lizaonlinebd.com CNAME .
@@ -9648,8 +9644,6 @@ altadefinizione.group CNAME .
 *.altadefinizione.group CNAME .
 filmpertutti.group CNAME .
 *.filmpertutti.group CNAME .
-ilgeniodellostreaming.group CNAME .
-*.ilgeniodellostreaming.group CNAME .
 kinox.group CNAME .
 *.kinox.group CNAME .
 vegamovies.group CNAME .
@@ -10218,8 +10212,6 @@ iphonebooks.info CNAME .
 *.iphonebooks.info CNAME .
 itoma.info CNAME .
 *.itoma.info CNAME .
-jennymodapk.info CNAME .
-*.jennymodapk.info CNAME .
 kickassunblock.info CNAME .
 *.kickassunblock.info CNAME .
 kisscartoon.info CNAME .
@@ -13316,8 +13308,6 @@ italia-film.net CNAME .
 *.italia-film.net CNAME .
 itorrents-igruha.net CNAME .
 *.itorrents-igruha.net CNAME .
-jetload.net CNAME .
-*.jetload.net CNAME .
 jkanime.net CNAME .
 *.jkanime.net CNAME .
 jokerlivestream.net CNAME .
@@ -21670,8 +21660,6 @@ hdmovie2.watch CNAME .
 *.hdmovie2.watch CNAME .
 hesgoal.watch CNAME .
 *.hesgoal.watch CNAME .
-letmewatchthis.watch CNAME .
-*.letmewatchthis.watch CNAME .
 miru.watch CNAME .
 *.miru.watch CNAME .
 olamovies.watch CNAME .
