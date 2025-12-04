@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 09:30 UTC
-# Version: 2025.1204.0930.58
+# Last modified: 04 Dec 2025 17:30 UTC
+# Version: 2025.1204.1730.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9494
+# Number of entries: 9484
 #
 local=/0.gp/
 local=/00m.in/
@@ -7204,7 +7204,6 @@ local=/smurl.link/
 local=/smw.sh/
 local=/sn.im/
 local=/sn.rs/
-local=/snap-url.pro/
 local=/snapbtg.com/
 local=/snapitqr.com/
 local=/snapiturl.com/
@@ -7725,7 +7724,6 @@ local=/tibco.cm/
 local=/tibco.co/
 local=/tibly.it/
 local=/ticino.ch/
-local=/tick.is/
 local=/tick.news/
 local=/ticketsecuredph.com/
 local=/tidd.ly/
@@ -7761,7 +7759,6 @@ local=/tinu.be/
 local=/tinurl.pro/
 local=/tiny.ae/
 local=/tiny.cc/
-local=/tiny.do/
 local=/tiny.ee/
 local=/tiny.lt/
 local=/tiny.ms/
@@ -7973,7 +7970,6 @@ local=/tr.ee/
 local=/tr.im/
 local=/tr.link/
 local=/tr1.pw/
-local=/tr5.in/
 local=/traceurl.com/
 local=/track-tag.com/
 local=/trackdynamiclinks.com/
@@ -8127,7 +8123,6 @@ local=/tweetburner.com/
 local=/twi.im/
 local=/twi.kz/
 local=/twilink.me/
-local=/twirl.at/
 local=/twishx.com/
 local=/twishx.io/
 local=/twitspin.win/
@@ -8316,14 +8311,12 @@ local=/url-l.com/
 local=/url-qr.tk/
 local=/url-s.xyz/
 local=/url-shortener.in/
-local=/url-shortener.info/
 local=/url-shortener.me/
 local=/url1.io/
 local=/url11xx.com/
 local=/app.url180.com/
 local=/url2.fr/
 local=/url2.in/
-local=/url24.ir/
 local=/url24.link/
 local=/url27x.com/
 local=/url28x.com/
@@ -8371,7 +8364,6 @@ local=/urlcort.com/
 local=/urlcover.com/
 local=/urlcrop.com/
 local=/urlcut.at/
-local=/urlcut.ch/
 local=/urlcut.com/
 local=/urlcut.cv/
 local=/urlcut.in/
@@ -8386,7 +8378,6 @@ local=/urlers.com/
 local=/urless.com/
 local=/urlexpander.org/
 local=/urlfile.xyz/
-local=/urlfirm.com/
 local=/urlflea.com/
 local=/urlforyou.com/
 local=/urlfy.pro/
@@ -8545,7 +8536,6 @@ local=/urlzones.com/
 local=/urlzs.com/
 local=/urstoron.com/
 local=/urt.io/
-local=/urto.us/
 local=/urweb.net/
 local=/urwebs.it/
 local=/us.sa/

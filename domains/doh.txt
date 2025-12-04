@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 10:41 UTC
-# Version: 2025.1204.1041.08
+# Last modified: 04 Dec 2025 18:35 UTC
+# Version: 2025.1204.1835.14
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3824
+# Number of entries: 3822
 #
 ss.0001.xyz
 003153.xyz
@@ -3272,7 +3272,6 @@ wifrousl.spdns.de
 doh-01.spectrum.com
 doh-02.spectrum.com
 doh-03.spectrum.com
-speeddns.top
 dns.spirio.fr
 squidmall.vip
 s1.srch.top
@@ -3337,7 +3336,6 @@ dns.surfsharkdns.com
 dns.surobe.com
 surt.ovh
 dns.sv-zauner.at
-adguard.sverzhe.com
 svg33.eu
 www.svg33.eu
 dns2.svip.one

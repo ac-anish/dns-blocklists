@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764844860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764873300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Dec 2025 10:41 UTC
-; Version: 2025.1204.1041.08
+; Last modified: 04 Dec 2025 18:35 UTC
+; Version: 2025.1204.1835.14
 ; Syntax: RPZ
-; Number of entries: 6698
+; Number of entries: 6694
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -1757,8 +1757,6 @@ dns.surfsharkdns.com CNAME .
 *.dns.surfsharkdns.com CNAME .
 dns.surobe.com CNAME .
 *.dns.surobe.com CNAME .
-adguard.sverzhe.com CNAME .
-*.adguard.sverzhe.com CNAME .
 dns.syaifullah.com CNAME .
 *.dns.syaifullah.com CNAME .
 doh.sz-dns.com CNAME .
@@ -6067,8 +6065,6 @@ dns.seekfor.top CNAME .
 *.dns.seekfor.top CNAME .
 servis4u.top CNAME .
 *.servis4u.top CNAME .
-speeddns.top CNAME .
-*.speeddns.top CNAME .
 s1.srch.top CNAME .
 *.s1.srch.top CNAME .
 adguard.stoian.top CNAME .

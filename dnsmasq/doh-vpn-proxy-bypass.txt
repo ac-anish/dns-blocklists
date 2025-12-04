@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 10:41 UTC
-# Version: 2025.1204.1041.41
+# Last modified: 04 Dec 2025 18:35 UTC
+# Version: 2025.1204.1835.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6172
+# Number of entries: 6165
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4901,7 +4901,6 @@ local=/doh-01.spectrum.com/
 local=/doh-02.spectrum.com/
 local=/doh-03.spectrum.com/
 local=/spedo.co/
-local=/speeddns.top/
 local=/speedify.com/
 local=/speedproxy.online/
 local=/speedshare.app/
@@ -5013,7 +5012,6 @@ local=/studysurf.com/
 local=/stupidproxy.com/
 local=/la-doh.stuptech.com/
 local=/doh.sublime9.xyz/
-local=/start.succeed.cl/
 local=/doh.suche.org/
 local=/suedeproxy.info/
 local=/dns.suhaila.dev/
@@ -5049,7 +5047,6 @@ local=/surfcovertly.com/
 local=/surfdoge.pro/
 local=/surfeasy.com/
 local=/surfeasy.mobi/
-local=/thisisagreat.surfiesta.cl/
 local=/surfly.com/
 local=/surfmenow.com/
 local=/surfmo.com/
@@ -5080,7 +5077,6 @@ local=/surprise.pics/
 local=/surt.ovh/
 local=/surtshark.com/
 local=/dns.sv-zauner.at/
-local=/adguard.sverzhe.com/
 local=/svg33.eu/
 local=/dns2.svip.one/
 local=/dns.svoi.dev/
@@ -5183,7 +5179,6 @@ local=/dns.tesem.dog/
 local=/testvpn.info/
 local=/adguard.tetnet.net/
 local=/cloud.tezoi.com/
-local=/bigchez.thailandhappiness.com/
 local=/thankvpn.com/
 local=/the-cloak.com/
 local=/thebestproxy.info/
@@ -5391,7 +5386,6 @@ local=/tuxlervpn.com/
 local=/tvone.info/
 local=/duck.twilightparadox.com/
 local=/perdona.my.twilightparadox.com/
-local=/schoology2.twilightparadox.com/
 local=/twingate.com/
 local=/dns.twnic.tw/
 local=/twoproxy.net/
@@ -5418,7 +5412,6 @@ local=/ultimatepro.us/
 local=/ultimateproxy.net/
 local=/ultrabestproxy.com/
 local=/doh.ultradns.com/
-local=/ultrafastproxy.com/
 local=/ultrafun.net/
 local=/ultraproxy.biz/
 local=/ultrasurf.es/

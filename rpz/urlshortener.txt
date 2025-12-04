@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764840600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764869400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Dec 2025 09:30 UTC
-; Version: 2025.1204.0930.58
+; Last modified: 04 Dec 2025 17:30 UTC
+; Version: 2025.1204.1730.59
 ; Syntax: RPZ
-; Number of entries: 18988
+; Number of entries: 18968
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -771,8 +771,6 @@ tnyz.at CNAME .
 *.tnyz.at CNAME .
 tres.at CNAME .
 *.tres.at CNAME .
-twirl.at CNAME .
-*.twirl.at CNAME .
 urlcut.at CNAME .
 *.urlcut.at CNAME .
 urlshortener.at CNAME .
@@ -1863,8 +1861,6 @@ tyurl.ch CNAME .
 *.tyurl.ch CNAME .
 u4y.ch CNAME .
 *.u4y.ch CNAME .
-urlcut.ch CNAME .
-*.urlcut.ch CNAME .
 urlsear.ch CNAME .
 *.urlsear.ch CNAME .
 wef.ch CNAME .
@@ -6807,8 +6803,6 @@ urlers.com CNAME .
 *.urlers.com CNAME .
 urless.com CNAME .
 *.urless.com CNAME .
-urlfirm.com CNAME .
-*.urlfirm.com CNAME .
 urlflea.com CNAME .
 *.urlflea.com CNAME .
 urlforyou.com CNAME .
@@ -7797,8 +7791,6 @@ short.do CNAME .
 *.short.do CNAME .
 thedo.do CNAME .
 *.thedo.do CNAME .
-tiny.do CNAME .
-*.tiny.do CNAME .
 wejdz.do CNAME .
 *.wejdz.do CNAME .
 zln.do CNAME .
@@ -9557,8 +9549,6 @@ toi.in CNAME .
 *.toi.in CNAME .
 tourl.in CNAME .
 *.tourl.in CNAME .
-tr5.in CNAME .
-*.tr5.in CNAME .
 trib.in CNAME .
 *.trib.in CNAME .
 twrd.in CNAME .
@@ -9823,8 +9813,6 @@ ttdt.info CNAME .
 *.ttdt.info CNAME .
 unclic.info CNAME .
 *.unclic.info CNAME .
-url-shortener.info CNAME .
-*.url-shortener.info CNAME .
 urli.info CNAME .
 *.urli.info CNAME .
 utrend.info CNAME .
@@ -10753,8 +10741,6 @@ ttr.ir CNAME .
 *.ttr.ir CNAME .
 ul3.ir CNAME .
 *.ul3.ir CNAME .
-url24.ir CNAME .
-*.url24.ir CNAME .
 wats.ir CNAME .
 *.wats.ir CNAME .
 xo0.ir CNAME .
@@ -10847,8 +10833,6 @@ swa.is CNAME .
 *.swa.is CNAME .
 tamar.is CNAME .
 *.tamar.is CNAME .
-tick.is CNAME .
-*.tick.is CNAME .
 toss.is CNAME .
 *.toss.is CNAME .
 trv.is CNAME .
@@ -16035,8 +16019,6 @@ sipetir.pro CNAME .
 *.sipetir.pro CNAME .
 smalllink.pro CNAME .
 *.smalllink.pro CNAME .
-snap-url.pro CNAME .
-*.snap-url.pro CNAME .
 socialbio.pro CNAME .
 *.socialbio.pro CNAME .
 st3.pro CNAME .
@@ -18371,8 +18353,6 @@ urlme.us CNAME .
 *.urlme.us CNAME .
 urlsh.us CNAME .
 *.urlsh.us CNAME .
-urto.us CNAME .
-*.urto.us CNAME .
 utag.us CNAME .
 *.utag.us CNAME .
 vars.us CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764844860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764873300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Dec 2025 10:41 UTC
-; Version: 2025.1204.1041.41
+; Last modified: 04 Dec 2025 18:35 UTC
+; Version: 2025.1204.1835.45
 ; Syntax: RPZ
-; Number of entries: 12344
+; Number of entries: 12330
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -701,10 +701,6 @@ topwriting.redalameda.cl CNAME .
 *.topwriting.redalameda.cl CNAME .
 pteryla.solicituddemateriales.cl CNAME .
 *.pteryla.solicituddemateriales.cl CNAME .
-start.succeed.cl CNAME .
-*.start.succeed.cl CNAME .
-thisisagreat.surfiesta.cl CNAME .
-*.thisisagreat.surfiesta.cl CNAME .
 math.swift.cl CNAME .
 *.math.swift.cl CNAME .
 owens-chemistry-tutor-info.topcargoteam.cl CNAME .
@@ -3977,8 +3973,6 @@ dns.surobe.com CNAME .
 *.dns.surobe.com CNAME .
 surtshark.com CNAME .
 *.surtshark.com CNAME .
-adguard.sverzhe.com CNAME .
-*.adguard.sverzhe.com CNAME .
 swapip.com CNAME .
 *.swapip.com CNAME .
 swiftshieldvpn.com CNAME .
@@ -4029,8 +4023,6 @@ tenta.com CNAME .
 *.tenta.com CNAME .
 cloud.tezoi.com CNAME .
 *.cloud.tezoi.com CNAME .
-bigchez.thailandhappiness.com CNAME .
-*.bigchez.thailandhappiness.com CNAME .
 thankvpn.com CNAME .
 *.thankvpn.com CNAME .
 the-cloak.com CNAME .
@@ -4151,8 +4143,6 @@ duck.twilightparadox.com CNAME .
 *.duck.twilightparadox.com CNAME .
 perdona.my.twilightparadox.com CNAME .
 *.perdona.my.twilightparadox.com CNAME .
-schoology2.twilightparadox.com CNAME .
-*.schoology2.twilightparadox.com CNAME .
 twingate.com CNAME .
 *.twingate.com CNAME .
 typaza.com CNAME .
@@ -4173,8 +4163,6 @@ ultrabestproxy.com CNAME .
 *.ultrabestproxy.com CNAME .
 doh.ultradns.com CNAME .
 *.doh.ultradns.com CNAME .
-ultrafastproxy.com CNAME .
-*.ultrafastproxy.com CNAME .
 ultravpn.com CNAME .
 *.ultravpn.com CNAME .
 dns.umbrella.com CNAME .
@@ -11337,8 +11325,6 @@ dns.seekfor.top CNAME .
 *.dns.seekfor.top CNAME .
 servis4u.top CNAME .
 *.servis4u.top CNAME .
-speeddns.top CNAME .
-*.speeddns.top CNAME .
 s1.srch.top CNAME .
 *.s1.srch.top CNAME .
 adguard.stoian.top CNAME .
