@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764786540 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764815400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 18:29 UTC
-; Version: 2025.1203.1829.32
+; Last modified: 04 Dec 2025 02:30 UTC
+; Version: 2025.1204.0230.13
 ; Syntax: RPZ
-; Number of entries: 22592
+; Number of entries: 22578
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -198,8 +198,6 @@ bitcine.app CNAME .
 *.bitcine.app CNAME .
 buffstreams.app CNAME .
 *.buffstreams.app CNAME .
-burmese.app CNAME .
-*.burmese.app CNAME .
 cb01.app CNAME .
 *.cb01.app CNAME .
 cineblog01.app CNAME .
@@ -2298,8 +2296,6 @@ oxtorrent.co CNAME .
 *.oxtorrent.co CNAME .
 thepiratebay-org.pbproxy2.co CNAME .
 *.thepiratebay-org.pbproxy2.co CNAME .
-pelis-plus.co CNAME .
-*.pelis-plus.co CNAME .
 pelisflix20.co CNAME .
 *.pelisflix20.co CNAME .
 pelisplus.co CNAME .
@@ -6092,10 +6088,6 @@ pakcoder.com CNAME .
 *.pakcoder.com CNAME .
 pallok.com CNAME .
 *.pallok.com CNAME .
-pandaclubbd.com CNAME .
-*.pandaclubbd.com CNAME .
-pangzitv.com CNAME .
-*.pangzitv.com CNAME .
 panoric.com CNAME .
 *.panoric.com CNAME .
 pantherabits.com CNAME .
@@ -9618,8 +9610,6 @@ hdmovie2.gratis CNAME .
 *.hdmovie2.gratis CNAME .
 megakino.gratis CNAME .
 *.megakino.gratis CNAME .
-partidosenvivo.gratis CNAME .
-*.partidosenvivo.gratis CNAME .
 pelisplus.gratis CNAME .
 *.pelisplus.gratis CNAME .
 verfilmeshd.gratis CNAME .
@@ -11334,8 +11324,6 @@ noxe.live CNAME .
 *.noxe.live CNAME .
 piratestreaming.nuovo.live CNAME .
 *.piratestreaming.nuovo.live CNAME .
-pelisflix20.live CNAME .
-*.pelisflix20.live CNAME .
 pelisplus.live CNAME .
 *.pelisplus.live CNAME .
 piratebay.live CNAME .
@@ -11960,8 +11948,6 @@ openloadfreetv.me CNAME .
 *.openloadfreetv.me CNAME .
 tracker.openlook.me CNAME .
 *.tracker.openlook.me CNAME .
-oxtorrent.me CNAME .
-*.oxtorrent.me CNAME .
 passthepopcorn.me CNAME .
 *.passthepopcorn.me CNAME .
 pelisflix20.me CNAME .
@@ -12278,6 +12264,8 @@ haho.moe CNAME .
 *.haho.moe CNAME .
 ilgeniodellostreaming.moe CNAME .
 *.ilgeniodellostreaming.moe CNAME .
+tracker.iochimari.moe CNAME .
+*.tracker.iochimari.moe CNAME .
 tracker.iro.moe CNAME .
 *.tracker.iro.moe CNAME .
 leet-tracker.moe CNAME .
@@ -20354,8 +20342,6 @@ ol-am.top CNAME .
 *.ol-am.top CNAME .
 olamovies.top CNAME .
 *.olamovies.top CNAME .
-pelisflix20.top CNAME .
-*.pelisflix20.top CNAME .
 piratbit.top CNAME .
 *.piratbit.top CNAME .
 pirateproxy.top CNAME .

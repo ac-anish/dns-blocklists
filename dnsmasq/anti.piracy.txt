@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 18:29 UTC
-# Version: 2025.1203.1829.32
+# Last modified: 04 Dec 2025 02:30 UTC
+# Version: 2025.1204.0230.13
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11296
+# Number of entries: 11289
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1565,7 +1565,6 @@ local=/bundesliga-streams.net/
 local=/bunkr.tv/
 local=/buny.uk/
 local=/torrent.burgas.org/
-local=/burmese.app/
 local=/burning-series.io/
 local=/burning-series.net/
 local=/burningseries.co/
@@ -5010,6 +5009,7 @@ local=/intos382gos.com/
 local=/intrepidbd.com/
 local=/invalid.pw/
 local=/watch.inzi.dev/
+local=/tracker.iochimari.moe/
 local=/ionbooter.com/
 local=/app.iosgods.com/
 local=/ioshaven.com/
@@ -7084,7 +7084,6 @@ local=/owijfsldkjf.store/
 local=/oxtorrent.cc/
 local=/oxtorrent.co/
 local=/oxtorrent.com/
-local=/oxtorrent.me/
 local=/oxygen-warez.com/
 local=/p-games.ru/
 local=/p0pcorn.com/
@@ -7125,9 +7124,7 @@ local=/pallok.com/
 local=/panda.cd/
 local=/panda-streaming.net/
 local=/pandacd.io/
-local=/pandaclubbd.com/
 local=/pandoworld.cn/
-local=/pangzitv.com/
 local=/panoric.com/
 local=/pantherabits.com/
 local=/nyaa.pantsu.cat/
@@ -7140,7 +7137,6 @@ local=/paranetinfo.com/
 local=/parliamentlive.tv/
 local=/tracker.parrotlinux.org/
 local=/tracker.parrotsec.org/
-local=/partidosenvivo.gratis/
 local=/partis.si/
 local=/passion-musique.net/
 local=/passthepopcorn.me/
@@ -7183,7 +7179,6 @@ local=/peers.fm/
 local=/peersteers.org/
 local=/pegleg.it/
 local=/peliculaswarez.net/
-local=/pelis-plus.co/
 local=/pelis24.se/
 local=/pelis24.to/
 local=/pelisflix20.at/
@@ -7203,7 +7198,6 @@ local=/pelisflix20.icu/
 local=/pelisflix20.info/
 local=/pelisflix20.ink/
 local=/pelisflix20.lat/
-local=/pelisflix20.live/
 local=/pelisflix20.me/
 local=/pelisflix20.mom/
 local=/pelisflix20.my/
@@ -7213,7 +7207,6 @@ local=/pelisflix20.online/
 local=/pelisflix20.pro/
 local=/pelisflix20.pw/
 local=/pelisflix20.site/
-local=/pelisflix20.top/
 local=/pelisflix20.uno/
 local=/pelisflix20.vip/
 local=/pelisflix20.wiki/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764783000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764811800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 17:30 UTC
-; Version: 2025.1203.1730.17
+; Last modified: 04 Dec 2025 01:30 UTC
+; Version: 2025.1204.0130.20
 ; Syntax: RPZ
-; Number of entries: 19010
+; Number of entries: 19000
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2631,8 +2631,6 @@ oncliq.co CNAME .
 *.oncliq.co CNAME .
 oneurl.co CNAME .
 *.oneurl.co CNAME .
-ottv.co CNAME .
-*.ottv.co CNAME .
 ourl.co CNAME .
 *.ourl.co CNAME .
 panaceainc.co CNAME .
@@ -5387,8 +5385,6 @@ oporajitashop.com CNAME .
 *.oporajitashop.com CNAME .
 opportunityonlinebusiness.com CNAME .
 *.opportunityonlinebusiness.com CNAME .
-opzai.com CNAME .
-*.opzai.com CNAME .
 originsprogramme.com CNAME .
 *.originsprogramme.com CNAME .
 oriurl.com CNAME .
@@ -5471,8 +5467,6 @@ perrinator.com CNAME .
 *.perrinator.com CNAME .
 persocheck.com CNAME .
 *.persocheck.com CNAME .
-petesmarketinghub.com CNAME .
-*.petesmarketinghub.com CNAME .
 petrovay.com CNAME .
 *.petrovay.com CNAME .
 pgoapps.com CNAME .
@@ -9453,8 +9447,6 @@ pgrs.in CNAME .
 *.pgrs.in CNAME .
 phst.in CNAME .
 *.phst.in CNAME .
-pich.in CNAME .
-*.pich.in CNAME .
 psfl.in CNAME .
 *.psfl.in CNAME .
 puext.in CNAME .
@@ -17045,8 +17037,6 @@ nyp.st CNAME .
 *.nyp.st CNAME .
 p.st CNAME .
 *.p.st CNAME .
-pin.st CNAME .
-*.pin.st CNAME .
 po.st CNAME .
 *.po.st CNAME .
 rol.st CNAME .

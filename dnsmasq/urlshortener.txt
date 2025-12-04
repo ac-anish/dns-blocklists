@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 17:30 UTC
-# Version: 2025.1203.1730.17
+# Last modified: 04 Dec 2025 01:30 UTC
+# Version: 2025.1204.0130.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9505
+# Number of entries: 9500
 #
 local=/0.gp/
 local=/00m.in/
@@ -5518,7 +5518,6 @@ local=/opr.as/
 local=/opr.news/
 local=/ops.consulting/
 local=/optimize.ly/
-local=/opzai.com/
 local=/oqp.ru/
 local=/url.fti.or.th/
 local=/user.spring8.or.jp/
@@ -5559,7 +5558,6 @@ local=/otgk.ir/
 local=/otlnk.com/
 local=/otolink.pl/
 local=/otp.li/
-local=/ottv.co/
 local=/ou.gd/
 local=/k20.ou.edu/
 local=/oua.be/
@@ -5708,7 +5706,6 @@ local=/perrinator.com/
 local=/perseal.app/
 local=/persocheck.com/
 local=/pesc.pw/
-local=/petesmarketinghub.com/
 local=/petir.io/
 local=/petir.vip/
 local=/petrobr.as/
@@ -5738,7 +5735,6 @@ local=/link.phsz.ch/
 local=/phygo.io/
 local=/pia.sh/
 local=/pic.gd/
-local=/pich.in/
 local=/picklink.me/
 local=/picsee.co/
 local=/picsee.io/
@@ -5750,7 +5746,6 @@ local=/pigmy.co/
 local=/pigmyurl.com/
 local=/pin.it/
 local=/pin.onl/
-local=/pin.st/
 local=/pinball.click/
 local=/ping.fm/
 local=/pino.link/

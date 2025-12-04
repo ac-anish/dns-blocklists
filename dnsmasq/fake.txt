@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 17:28 UTC
-# Version: 2025.1203.1728.34
+# Last modified: 04 Dec 2025 01:28 UTC
+# Version: 2025.1204.0128.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13834
+# Number of entries: 13824
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -9250,11 +9250,9 @@ local=/orthoday.de/
 local=/orthofabrik.de/
 local=/orthofrei.com/
 local=/orthomode.de/
-local=/orthoomed.com/
 local=/orthopadie-berlin.com/
 local=/ortliebpack.com/
 local=/ortorex.at/
-local=/ortovox-hot.com/
 local=/ortovoxde.com/
 local=/ortovoxdes.com/
 local=/ortovoxeu.com/
@@ -9353,7 +9351,6 @@ local=/outletladywear.com/
 local=/outletlivingstore.com/
 local=/outletmilitarymodel.com/
 local=/outletnewin.com/
-local=/outletpickleball.com/
 local=/outletrevel.com/
 local=/outletsadv.com/
 local=/cheap-sale.outletsale2022.ru/
@@ -9421,7 +9418,6 @@ local=/pandabrokersvip.com/
 local=/pandaliebedeeu.shop/
 local=/pandora-at.at/
 local=/pandora-deutschland.de/
-local=/pandoraaustria.at/
 local=/pandorade.de/
 local=/pandorajapan.net/
 local=/pandorakorut.com/
@@ -9433,7 +9429,6 @@ local=/panolu-shop.com/
 local=/panonlineshop.com/
 local=/pansycase.com/
 local=/pantsin.com/
-local=/paolopuppo.shop/
 local=/papabau.com/
 local=/papagei-papageieneier.de/
 local=/papageienzuchtheim.de/
@@ -9453,8 +9448,6 @@ local=/part-time-work-de.online/
 local=/partenaire-finance.com/
 local=/participanti.com/
 local=/participati.com/
-local=/client.partnersce.cm/
-local=/webtrader.partnersce.cm/
 local=/partpack-tech.de/
 local=/partsdeviceshop.com/
 local=/partydekorabatt.com/
@@ -9476,14 +9469,12 @@ local=/pavan.top/
 local=/pavelaholz.com/
 local=/pavlik24.at/
 local=/pavolpangrac.shop/
-local=/pawheartmission.com/
 local=/pawnature.de/
 local=/pawshoebox.com/
 local=/payforweal.com/
 local=/pazarst.com/
 local=/pb-capital.net/
 local=/pc-akku.at/
-local=/pc-medienagentur.de/
 local=/pcakkusdirekt.de/
 local=/pclv-finances.com/
 local=/pd-handel.de/
@@ -9582,7 +9573,6 @@ local=/pflanzmaschine.com/
 local=/pflegeschonheit.com/
 local=/pfotentrend.com/
 local=/pg99.cc/
-local=/pgimpro.shop/
 local=/pgmvip.com/
 local=/phaidon-eu-online.shop/
 local=/phaidon-online.shop/

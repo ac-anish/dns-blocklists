@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764782880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764811680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 17:28 UTC
-; Version: 2025.1203.1728.34
+; Last modified: 04 Dec 2025 01:28 UTC
+; Version: 2025.1204.0128.41
 ; Syntax: RPZ
-; Number of entries: 27668
+; Number of entries: 27648
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -696,8 +696,6 @@ panamajackwien.at CNAME .
 *.panamajackwien.at CNAME .
 pandora-at.at CNAME .
 *.pandora-at.at CNAME .
-pandoraaustria.at CNAME .
-*.pandoraaustria.at CNAME .
 patagoniasat.at CNAME .
 *.patagoniasat.at CNAME .
 pavlik24.at CNAME .
@@ -1442,10 +1440,6 @@ runons.club CNAME .
 *.runons.club CNAME .
 sporty-you.club CNAME .
 *.sporty-you.club CNAME .
-client.partnersce.cm CNAME .
-*.client.partnersce.cm CNAME .
-webtrader.partnersce.cm CNAME .
-*.webtrader.partnersce.cm CNAME .
 smartrade.cm CNAME .
 *.smartrade.cm CNAME .
 eu.2bagsvalley.cn CNAME .
@@ -11970,14 +11964,10 @@ orthoback.com CNAME .
 *.orthoback.com CNAME .
 orthofrei.com CNAME .
 *.orthofrei.com CNAME .
-orthoomed.com CNAME .
-*.orthoomed.com CNAME .
 orthopadie-berlin.com CNAME .
 *.orthopadie-berlin.com CNAME .
 ortliebpack.com CNAME .
 *.ortliebpack.com CNAME .
-ortovox-hot.com CNAME .
-*.ortovox-hot.com CNAME .
 ortovoxde.com CNAME .
 *.ortovoxde.com CNAME .
 ortovoxdes.com CNAME .
@@ -12104,8 +12094,6 @@ outletmilitarymodel.com CNAME .
 *.outletmilitarymodel.com CNAME .
 outletnewin.com CNAME .
 *.outletnewin.com CNAME .
-outletpickleball.com CNAME .
-*.outletpickleball.com CNAME .
 outletrevel.com CNAME .
 *.outletrevel.com CNAME .
 outletsadv.com CNAME .
@@ -12260,8 +12248,6 @@ paulinasinger.com CNAME .
 *.paulinasinger.com CNAME .
 pavelaholz.com CNAME .
 *.pavelaholz.com CNAME .
-pawheartmission.com CNAME .
-*.pawheartmission.com CNAME .
 pawshoebox.com CNAME .
 *.pawshoebox.com CNAME .
 payforweal.com CNAME .
@@ -21788,8 +21774,6 @@ patrickvetter.de CNAME .
 *.patrickvetter.de CNAME .
 pawnature.de CNAME .
 *.pawnature.de CNAME .
-pc-medienagentur.de CNAME .
-*.pc-medienagentur.de CNAME .
 pcakkusdirekt.de CNAME .
 *.pcakkusdirekt.de CNAME .
 pd-handel.de CNAME .
@@ -26430,8 +26414,6 @@ oxlora.shop CNAME .
 *.oxlora.shop CNAME .
 pandaliebedeeu.shop CNAME .
 *.pandaliebedeeu.shop CNAME .
-paolopuppo.shop CNAME .
-*.paolopuppo.shop CNAME .
 pavolpangrac.shop CNAME .
 *.pavolpangrac.shop CNAME .
 pdfadm.shop CNAME .
@@ -26442,8 +26424,6 @@ perfectaccessories.shop CNAME .
 *.perfectaccessories.shop CNAME .
 perfumology.shop CNAME .
 *.perfumology.shop CNAME .
-pgimpro.shop CNAME .
-*.pgimpro.shop CNAME .
 phaidon-eu-online.shop CNAME .
 *.phaidon-eu-online.shop CNAME .
 phaidon-online.shop CNAME .

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 18:35 UTC
-# Version: 2025.1203.1835.07
+# Last modified: 04 Dec 2025 02:35 UTC
+# Version: 2025.1204.0235.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6201
+# Number of entries: 6198
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1426,7 +1426,6 @@ local=/doh.denypradana.com/
 local=/adguard.depieri.net/
 local=/deproxyserver.com/
 local=/adguard.dervart.ru/
-local=/desec.io/
 local=/desertsand.us/
 local=/adguard.lege.despagne.net/
 local=/adguard.rennes.despagne.net/
@@ -3931,7 +3930,6 @@ local=/openvpn.com/
 local=/openvpn-ssh.com/
 local=/httpdns.ocloud.oppomobile.com/
 local=/httpdns.push.oppomobile.com/
-local=/jacksunblocked.malam.or.id/
 local=/vercel.or-g.net/
 local=/dns.eu-frankfurt-1.oraclecloud.com/
 local=/dns.uk-london-1.oraclecloud.com/
@@ -3952,7 +3950,6 @@ local=/os4work.com/
 local=/oscnl.site/
 local=/dns.osmenoga.com/
 local=/wireguard.osmenoga.com/
-local=/tails.ospa.fi/
 local=/ospylac.com/
 local=/osqcsmm.shop/
 local=/adguard.ota.moe/

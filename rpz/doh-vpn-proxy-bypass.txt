@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764786900 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764815700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 18:35 UTC
-; Version: 2025.1203.1835.07
+; Last modified: 04 Dec 2025 02:35 UTC
+; Version: 2025.1204.0235.53
 ; Syntax: RPZ
-; Number of entries: 12402
+; Number of entries: 12396
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -5543,8 +5543,6 @@ dns.musikantit.fi CNAME .
 *.dns.musikantit.fi CNAME .
 ns.nwps.fi CNAME .
 *.ns.nwps.fi CNAME .
-tails.ospa.fi CNAME .
-*.tails.ospa.fi CNAME .
 tor2web.fi CNAME .
 *.tor2web.fi CNAME .
 ns.trcnet.fi CNAME .
@@ -5983,8 +5981,6 @@ homelab.terabit.net.id CNAME .
 *.homelab.terabit.net.id CNAME .
 dns.ningkelle.id CNAME .
 *.dns.ningkelle.id CNAME .
-jacksunblocked.malam.or.id CNAME .
-*.jacksunblocked.malam.or.id CNAME .
 proxygratis.id CNAME .
 *.proxygratis.id CNAME .
 doh.runsel.id CNAME .
@@ -6451,8 +6447,6 @@ dns.skous.dedyn.io CNAME .
 *.dns.skous.dedyn.io CNAME .
 unraid.dedyn.io CNAME .
 *.unraid.dedyn.io CNAME .
-desec.io CNAME .
-*.desec.io CNAME .
 freeproxy.io CNAME .
 *.freeproxy.io CNAME .
 geosurf.io CNAME .

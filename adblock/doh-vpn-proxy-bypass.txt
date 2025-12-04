@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Dec 2025 18:35 UTC
-! Version: 2025.1203.1835.07
+! Last modified: 04 Dec 2025 02:35 UTC
+! Version: 2025.1204.0235.53
 ! Syntax: AdBlock
-! Number of entries: 6201
+! Number of entries: 6198
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1427,7 +1427,6 @@
 ||adguard.depieri.net^
 ||deproxyserver.com^
 ||adguard.dervart.ru^
-||desec.io^
 ||desertsand.us^
 ||adguard.lege.despagne.net^
 ||adguard.rennes.despagne.net^
@@ -3932,7 +3931,6 @@
 ||openvpn-ssh.com^
 ||httpdns.ocloud.oppomobile.com^
 ||httpdns.push.oppomobile.com^
-||jacksunblocked.malam.or.id^
 ||vercel.or-g.net^
 ||dns.eu-frankfurt-1.oraclecloud.com^
 ||dns.uk-london-1.oraclecloud.com^
@@ -3953,7 +3951,6 @@
 ||oscnl.site^
 ||dns.osmenoga.com^
 ||wireguard.osmenoga.com^
-||tails.ospa.fi^
 ||ospylac.com^
 ||osqcsmm.shop^
 ||adguard.ota.moe^
