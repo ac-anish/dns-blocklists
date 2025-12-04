@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Dec 2025 18:35 UTC
-! Version: 2025.1204.1835.14
+! Last modified: 04 Dec 2025 22:37 UTC
+! Version: 2025.1204.2237.16
 ! Syntax: AdBlock
-! Number of entries: 3347
+! Number of entries: 3345
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -3134,7 +3134,6 @@
 ||dns.virtual-qr.ir^
 ||ad.visbran.fr^
 ||dns.vk09.ru^
-||dns.vkhudyakov.ru^
 ||vladpro.ru^
 ||dns.vlo.cc^
 ||dns.vmisch.tech^
@@ -3145,7 +3144,6 @@
 ||vorlif.org^
 ||dns.voronin.uk^
 ||vpn.vosjes.cloud^
-||dns.voyager2.space^
 ||adguard.vozersky.com^
 ||killads.vpms.xyz^
 ||vpnhellings.nl^

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764869400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764883800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Dec 2025 17:30 UTC
-; Version: 2025.1204.1730.59
+; Last modified: 04 Dec 2025 21:30 UTC
+; Version: 2025.1204.2130.46
 ; Syntax: RPZ
-; Number of entries: 18968
+; Number of entries: 18958
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1215,8 +1215,6 @@ iam.builders CNAME .
 *.iam.builders CNAME .
 klikmodus.buzz CNAME .
 *.klikmodus.buzz CNAME .
-xaheed.buzz CNAME .
-*.xaheed.buzz CNAME .
 zap.buzz CNAME .
 *.zap.buzz CNAME .
 b.bw CNAME .
@@ -7137,10 +7135,6 @@ wlinky.com CNAME .
 *.wlinky.com CNAME .
 wmojo.com CNAME .
 *.wmojo.com CNAME .
-woflpackciye.com CNAME .
-*.woflpackciye.com CNAME .
-wojiech.com CNAME .
-*.wojiech.com CNAME .
 go.wootwp.com CNAME .
 *.go.wootwp.com CNAME .
 robul.saas.workertm.com CNAME .
@@ -9591,10 +9585,6 @@ vlnq.in CNAME .
 *.vlnq.in CNAME .
 vprozone.in CNAME .
 *.vprozone.in CNAME .
-way3.in CNAME .
-*.way3.in CNAME .
-webn.in CNAME .
-*.webn.in CNAME .
 weeurl.in CNAME .
 *.weeurl.in CNAME .
 wellwish.in CNAME .

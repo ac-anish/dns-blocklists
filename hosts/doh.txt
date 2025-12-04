@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 18:35 UTC
-# Version: 2025.1204.1835.14
+# Last modified: 04 Dec 2025 22:37 UTC
+# Version: 2025.1204.2237.16
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3822
+# Number of entries: 3820
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3583,7 +3583,6 @@
 0.0.0.0 dns.virtual-qr.ir
 0.0.0.0 ad.visbran.fr
 0.0.0.0 dns.vk09.ru
-0.0.0.0 dns.vkhudyakov.ru
 0.0.0.0 vladpro.ru
 0.0.0.0 dns.vladpro.ru
 0.0.0.0 family.dns.vladpro.ru
@@ -3600,7 +3599,6 @@
 0.0.0.0 vorlif.org
 0.0.0.0 dns.voronin.uk
 0.0.0.0 vpn.vosjes.cloud
-0.0.0.0 dns.voyager2.space
 0.0.0.0 adguard.vozersky.com
 0.0.0.0 killads.vpms.xyz
 0.0.0.0 vpnhellings.nl

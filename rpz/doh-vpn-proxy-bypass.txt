@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764873300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764887820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Dec 2025 18:35 UTC
-; Version: 2025.1204.1835.45
+; Last modified: 04 Dec 2025 22:37 UTC
+; Version: 2025.1204.2237.56
 ; Syntax: RPZ
-; Number of entries: 12330
+; Number of entries: 12322
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -707,8 +707,6 @@ owens-chemistry-tutor-info.topcargoteam.cl CNAME .
 *.owens-chemistry-tutor-info.topcargoteam.cl CNAME .
 andrewnotgay.trustmi.cl CNAME .
 *.andrewnotgay.trustmi.cl CNAME .
-shop.woodworker.cl CNAME .
-*.shop.woodworker.cl CNAME .
 vinnyisbunslol.yao.cl CNAME .
 *.vinnyisbunslol.yao.cl CNAME .
 baconmania.click CNAME .
@@ -8731,8 +8729,6 @@ vpntunnel.net CNAME .
 *.vpntunnel.net CNAME .
 vpnuk.net CNAME .
 *.vpnuk.net CNAME .
-webproxyfree.net CNAME .
-*.webproxyfree.net CNAME .
 websiteproxy.net CNAME .
 *.websiteproxy.net CNAME .
 websiteunblock.net CNAME .
@@ -10819,8 +10815,6 @@ dns.vectorsigma.ru CNAME .
 *.dns.vectorsigma.ru CNAME .
 dns.vk09.ru CNAME .
 *.dns.vk09.ru CNAME .
-dns.vkhudyakov.ru CNAME .
-*.dns.vkhudyakov.ru CNAME .
 vladpro.ru CNAME .
 *.vladpro.ru CNAME .
 vpnmonster.ru CNAME .
@@ -11083,8 +11077,6 @@ adguard.vegann.space CNAME .
 *.adguard.vegann.space CNAME .
 venum.space CNAME .
 *.venum.space CNAME .
-dns.voyager2.space CNAME .
-*.dns.voyager2.space CNAME .
 adguard.wifri.space CNAME .
 *.adguard.wifri.space CNAME .
 physics.sciencestudy.biz.st CNAME .

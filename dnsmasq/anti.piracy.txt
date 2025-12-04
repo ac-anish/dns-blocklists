@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 18:30 UTC
-# Version: 2025.1204.1830.13
+# Last modified: 04 Dec 2025 22:32 UTC
+# Version: 2025.1204.2232.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11253
+# Number of entries: 11251
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -10849,7 +10849,6 @@ local=/wtftrackr.pw/
 local=/wunza.ws/
 local=/wushare.com/
 local=/wvw-fmovies.com/
-local=/wwatchseries.com/
 local=/wwereleases.com/
 local=/u.wwwww.wtf/
 local=/w.wwwww.wtf/
@@ -10879,7 +10878,6 @@ local=/xcine.to/
 local=/xcine.tv/
 local=/xcine-tv.com/
 local=/xcinema.ro/
-local=/xd-movie.com/
 local=/xdcc.eu/
 local=/xdude.net/
 local=/tracker.xdvdz.com/

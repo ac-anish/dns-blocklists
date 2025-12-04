@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 17:29 UTC
-# Version: 2025.1204.1729.12
+# Last modified: 04 Dec 2025 21:29 UTC
+# Version: 2025.1204.2129.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13748
+# Number of entries: 13733
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -13033,7 +13033,6 @@ local=/vocabularyt.com/
 local=/vodebike.com/
 local=/vodoro-shop.de/
 local=/vodula.de/
-local=/voelker-musik.com/
 local=/vogany.com/
 local=/vogelfutterde.com/
 local=/vogelfutterhausde.com/
@@ -13060,7 +13059,6 @@ local=/vollmer-replica.com/
 local=/vollwertlust.de/
 local=/vollytools.shop/
 local=/voltbankinternational.com/
-local=/voltryzapex.app/
 local=/voltryzapex.at/
 local=/voltsbikeshop.com/
 local=/volture.de/
@@ -13088,7 +13086,6 @@ local=/vorwerk-tm7.de/
 local=/vorzeltede.com/
 local=/vow.foundation/
 local=/vowtrlleoy.com/
-local=/voxoku.com/
 local=/vozero.de/
 local=/vozol6000osterreich.com/
 local=/vplan-beratung.org/
@@ -13111,7 +13108,6 @@ local=/vytor.de/
 local=/vzbuch.shop/
 local=/waco-logistics.com/
 local=/wadada.online/
-local=/waffenteile.shop/
 local=/waffenundjagdwelt.com/
 local=/wagand-tech.de/
 local=/wagner-mode.com/
@@ -13141,7 +13137,6 @@ local=/wanduhru.de/
 local=/wanfangmaier.com/
 local=/wanster.shop/
 local=/wapo-shop.de/
-local=/wardglam.com/
 local=/warenhausdeutschland.com/
 local=/warenmax.com/
 local=/warenwelt-eu.com/
@@ -13153,9 +13148,7 @@ local=/warmind.de/
 local=/warmlogic.de/
 local=/warmsettle.com/
 local=/warmtepompe.com/
-local=/warmwinkelen.com/
 local=/warrantyi.com/
-local=/wartungstechniker.at/
 local=/wascheparfum.at/
 local=/wascheparfume.de/
 local=/washingtonposttoday.com/
@@ -13174,7 +13167,6 @@ local=/watchesbuy.to/
 local=/watchesreplica.is/
 local=/watchesstore.co/
 local=/watchfaceshub.com/
-local=/watchharbor.de/
 local=/watermotionod.com/
 local=/watersportsgalaxy.com/
 local=/watson-manchester.com/
@@ -13194,7 +13186,6 @@ local=/wearekinglife.com/
 local=/weareturbo.io/
 local=/wearnwatt.de/
 local=/wearowner.com/
-local=/wearshapeup.com/
 local=/wearstudios.com/
 local=/weathergaugesstore.com/
 local=/weatherwear.de/
@@ -13307,7 +13298,6 @@ local=/werkzeugversorgung.com/
 local=/werner-lederer.de/
 local=/werner-mode.de/
 local=/werners24.de/
-local=/wernersweinwelt.shop/
 local=/wernerzapp.de/
 local=/west-tek.com/
 local=/westen-berg.de/
@@ -13334,12 +13324,9 @@ local=/whiskybests.com/
 local=/whiskysorten.com/
 local=/whiteboxgarten.com/
 local=/whlshop.com/
-local=/wholesalefactory.ru/
-local=/wieburg-handel.de/
 local=/wiener-install.at/
 local=/wienschmidt.at/
 local=/wiesmann-mode.de/
-local=/wievano.de/
 local=/wiitrader.com/
 local=/adl.wiksh.shop/
 local=/wilax.de/
@@ -13356,7 +13343,6 @@ local=/wildlingshoesnederland.com/
 local=/wildlingshoesportugal.com/
 local=/wildlingshoessverige.com/
 local=/wildlingshoesuk.com/
-local=/wilhelmfoodshop.com/
 local=/wilkobigsale.com/
 local=/wilsonsquare.com/
 local=/wilteck.shop/
@@ -13460,7 +13446,6 @@ local=/worldkite.org/
 local=/wos-tech.de/
 local=/wotoba.de/
 local=/woumc.com/
-local=/wp-invest.ch/
 local=/wp-welt-pelletsgmbh.de/
 local=/wpautopecas.com/
 local=/wps-register.com/

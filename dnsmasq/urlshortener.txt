@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 17:30 UTC
-# Version: 2025.1204.1730.59
+# Last modified: 04 Dec 2025 21:30 UTC
+# Version: 2025.1204.2130.46
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9484
+# Number of entries: 9479
 #
 local=/0.gp/
 local=/00m.in/
@@ -8913,7 +8913,6 @@ local=/watti.me/
 local=/watva.org/
 local=/waveurl.net/
 local=/way.to/
-local=/way3.in/
 local=/waysto.be/
 local=/wayurl.com/
 local=/waze.link/
@@ -8949,7 +8948,6 @@ local=/url.webifo.com/
 local=/webixcard.me/
 local=/weblink.biz/
 local=/webmienphi.net/
-local=/webn.in/
 local=/url.webof.xyz/
 local=/l.webopt.eu/
 local=/webprotech.live/
@@ -9049,8 +9047,6 @@ local=/s.wnmu.edu/
 local=/wns-academy.live/
 local=/wo.ws/
 local=/woah.top/
-local=/woflpackciye.com/
-local=/wojiech.com/
 local=/woki.me/
 local=/wolftravels.live/
 local=/wonderl.ink/
@@ -9126,7 +9122,6 @@ local=/x3.cx/
 local=/x5n.cn/
 local=/x7.lv/
 local=/xaddr.com/
-local=/xaheed.buzz/
 local=/xailr.com/
 local=/xb5.com/
 local=/xbig.info/

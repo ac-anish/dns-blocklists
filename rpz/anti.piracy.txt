@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764873000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764887520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Dec 2025 18:30 UTC
-; Version: 2025.1204.1830.13
+; Last modified: 04 Dec 2025 22:32 UTC
+; Version: 2025.1204.2232.05
 ; Syntax: RPZ
-; Number of entries: 22506
+; Number of entries: 22502
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7906,8 +7906,6 @@ wushare.com CNAME .
 *.wushare.com CNAME .
 wvw-fmovies.com CNAME .
 *.wvw-fmovies.com CNAME .
-wwatchseries.com CNAME .
-*.wwatchseries.com CNAME .
 wwereleases.com CNAME .
 *.wwereleases.com CNAME .
 ns-1.x-fins.com CNAME .
@@ -7920,8 +7918,6 @@ xbox360iso.com CNAME .
 *.xbox360iso.com CNAME .
 xcine-tv.com CNAME .
 *.xcine-tv.com CNAME .
-xd-movie.com CNAME .
-*.xd-movie.com CNAME .
 tracker.xdvdz.com CNAME .
 *.tracker.xdvdz.com CNAME .
 xforce-cracks.com CNAME .
