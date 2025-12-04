@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Dec 2025 01:30 UTC
-! Version: 2025.1204.0130.20
+! Last modified: 04 Dec 2025 09:30 UTC
+! Version: 2025.1204.0930.58
 ! Syntax: AdBlock
-! Number of entries: 9500
+! Number of entries: 9494
 !
 ||0.gp^
 ||00m.in^
@@ -5760,7 +5760,6 @@
 ||pixel.xin^
 ||pixelfy.me^
 ||link.pixelida.com^
-||pixllink.com^
 ||pixly.me^
 ||pj.pizza^
 ||pjps.to^
@@ -5945,11 +5944,9 @@
 ||puri.na^
 ||purls.eu^
 ||pushlimit.org^
-||putar.link^
 ||putar.win^
 ||puugs.com^
 ||puulp.it^
-||puxep.com^
 ||pwc.to^
 ||pwgo.to^
 ||pws1ooo.xyz^
@@ -6094,7 +6091,6 @@
 ||quickchart.io^
 ||quickcode.digital^
 ||quicklinkpro.io^
-||quickshortlink.com^
 ||quickshr.ink^
 ||quickshrink.ovh^
 ||quicky.digital^
@@ -6460,7 +6456,6 @@
 ||safely.to^
 ||saferurl.net^
 ||safeurl.ch^
-||safeurl.in^
 ||safl.it^
 ||go.sagesure.com^
 ||saggiolink.it^
@@ -6898,7 +6893,6 @@
 ||shortu.be^
 ||shortu.in^
 ||shortuel.asia^
-||shorturl.ac^
 ||shorturl.ae^
 ||shorturl.asia^
 ||shorturl.at^

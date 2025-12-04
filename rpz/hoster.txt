@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764813420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764842220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Dec 2025 01:57 UTC
-; Version: 2025.1204.0157.43
+; Last modified: 04 Dec 2025 09:57 UTC
+; Version: 2025.1204.0957.58
 ; Syntax: RPZ
 ; Number of entries: 2646
 ;
@@ -228,6 +228,8 @@ online.cm CNAME .
 *.online.cm CNAME .
 ru.cm CNAME .
 *.ru.cm CNAME .
+blogspot.com.cn CNAME .
+*.blogspot.com.cn CNAME .
 duanwenzi.cn CNAME .
 *.duanwenzi.cn CNAME .
 guzhibo.cn CNAME .
@@ -1368,8 +1370,6 @@ live-stream.eu CNAME .
 *.live-stream.eu CNAME .
 only4u.eu CNAME .
 *.only4u.eu CNAME .
-q77.eu CNAME .
-*.q77.eu CNAME .
 seite24.eu CNAME .
 *.seite24.eu CNAME .
 server2.eu CNAME .

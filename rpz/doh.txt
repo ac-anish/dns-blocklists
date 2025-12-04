@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764786840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764844860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 03 Dec 2025 18:34 UTC
-; Version: 2025.1203.1834.29
+; Last modified: 04 Dec 2025 10:41 UTC
+; Version: 2025.1204.1041.08
 ; Syntax: RPZ
-; Number of entries: 6736
+; Number of entries: 6698
 ;
 extra.mask.ad CNAME .
 *.extra.mask.ad CNAME .
@@ -147,8 +147,6 @@ d51538618.access.telenet.be CNAME .
 *.d51538618.access.telenet.be CNAME .
 doh.beauty CNAME .
 *.doh.beauty CNAME .
-polisitogel.beauty CNAME .
-*.polisitogel.beauty CNAME .
 ad.tzockt.beer CNAME .
 *.ad.tzockt.beer CNAME .
 dns.schlagheck.berlin CNAME .
@@ -201,8 +199,6 @@ dns-br.leonardo.tec.br CNAME .
 *.dns-br.leonardo.tec.br CNAME .
 mabuktogel.builders CNAME .
 *.mabuktogel.builders CNAME .
-polisitogel.builders CNAME .
-*.polisitogel.builders CNAME .
 mabuktogel.business CNAME .
 *.mabuktogel.business CNAME .
 doh.buzz CNAME .
@@ -1723,14 +1719,6 @@ adguard.shoupperuser.com CNAME .
 *.adguard.shoupperuser.com CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dnsovertls.sinodun.com CNAME .
-*.dnsovertls.sinodun.com CNAME .
-dnsovertls1.sinodun.com CNAME .
-*.dnsovertls1.sinodun.com CNAME .
-dnsovertls2.sinodun.com CNAME .
-*.dnsovertls2.sinodun.com CNAME .
-dnsovertls3.sinodun.com CNAME .
-*.dnsovertls3.sinodun.com CNAME .
 sitdns.com CNAME .
 *.sitdns.com CNAME .
 skydragoness.com CNAME .
@@ -1919,14 +1907,10 @@ dns.unitech.company CNAME .
 *.dns.unitech.company CNAME .
 dns1.luan.contact CNAME .
 *.dns1.luan.contact CNAME .
-polisitogel.contractors CNAME .
-*.polisitogel.contractors CNAME .
 noad.kipp.cool CNAME .
 *.noad.kipp.cool CNAME .
 mabuktogel.creditcard CNAME .
 *.mabuktogel.creditcard CNAME .
-polisitogel.cruises CNAME .
-*.polisitogel.cruises CNAME .
 vps.avc.cx CNAME .
 *.vps.avc.cx CNAME .
 adguard.dantynes.cyou CNAME .
@@ -2211,8 +2195,6 @@ sascha-rabold.de CNAME .
 *.sascha-rabold.de CNAME .
 dns.schmidt-zoarn.de CNAME .
 *.dns.schmidt-zoarn.de CNAME .
-dns.sethost.de CNAME .
-*.dns.sethost.de CNAME .
 adguard.sixxi.de CNAME .
 *.adguard.sixxi.de CNAME .
 plex.skin57.de CNAME .
@@ -2369,8 +2351,6 @@ dns.goertz.digital CNAME .
 *.dns.goertz.digital CNAME .
 mabuktogel.directory CNAME .
 *.mabuktogel.directory CNAME .
-polisitogel.diy CNAME .
-*.polisitogel.diy CNAME .
 anycast.censurfridns.dk CNAME .
 *.anycast.censurfridns.dk CNAME .
 unicast2.servers.censurfridns.dk CNAME .
@@ -2781,10 +2761,6 @@ dot.libredns.gr CNAME .
 *.dot.libredns.gr CNAME .
 dns.rbn.gr CNAME .
 *.dns.rbn.gr CNAME .
-polisitogel.green CNAME .
-*.polisitogel.green CNAME .
-polisitogel.hair CNAME .
-*.polisitogel.hair CNAME .
 mail.data.haus CNAME .
 *.mail.data.haus CNAME .
 ns.data.haus CNAME .
@@ -2813,8 +2789,6 @@ dns.devopscloud.icu CNAME .
 *.dns.devopscloud.icu CNAME .
 dns.maybe.icu CNAME .
 *.dns.maybe.icu CNAME .
-d2.shabi.icu CNAME .
-*.d2.shabi.icu CNAME .
 dns.sineone.icu CNAME .
 *.dns.sineone.icu CNAME .
 sq.trin.icu CNAME .
@@ -3065,8 +3039,6 @@ adguard.onlyfriends.info CNAME .
 *.adguard.onlyfriends.info CNAME .
 agh.printk.info CNAME .
 *.agh.printk.info CNAME .
-defsnldns01.sc-hosting.info CNAME .
-*.defsnldns01.sc-hosting.info CNAME .
 selsby.info CNAME .
 *.selsby.info CNAME .
 gr.skrsteam.info CNAME .
@@ -3339,8 +3311,6 @@ xins.live CNAME .
 *.xins.live CNAME .
 v2.xx3210766.live CNAME .
 *.v2.xx3210766.live CNAME .
-polisitogel.living CNAME .
-*.polisitogel.living CNAME .
 acomit.lk CNAME .
 *.acomit.lk CNAME .
 d.bod.lol CNAME .
@@ -3389,8 +3359,6 @@ dnspub.restena.lu CNAME .
 *.dnspub.restena.lu CNAME .
 dns.ours.luxe CNAME .
 *.dns.ours.luxe CNAME .
-polisitogel.luxe CNAME .
-*.polisitogel.luxe CNAME .
 doh.lv CNAME .
 *.doh.lv CNAME .
 guard-1.vilbav.id.lv CNAME .
@@ -5101,8 +5069,6 @@ dns.pierzchlewicz.pl CNAME .
 *.dns.pierzchlewicz.pl CNAME .
 ad.r60.pl CNAME .
 *.ad.r60.pl CNAME .
-dns.skrzypiec.pl CNAME .
-*.dns.skrzypiec.pl CNAME .
 szyrzyk.pl CNAME .
 *.szyrzyk.pl CNAME .
 domeq.waw.pl CNAME .
@@ -5717,8 +5683,6 @@ owa.pvmedia.ru CNAME .
 *.owa.pvmedia.ru CNAME .
 log.qrsoft.ru CNAME .
 *.log.qrsoft.ru CNAME .
-randn.ru CNAME .
-*.randn.ru CNAME .
 dns.reolinks.ru CNAME .
 *.dns.reolinks.ru CNAME .
 1.rock-review.ru CNAME .
@@ -5971,8 +5935,6 @@ dns.everdns.tech CNAME .
 *.dns.everdns.tech CNAME .
 makatla.tech CNAME .
 *.makatla.tech CNAME .
-qqmcfw.tech CNAME .
-*.qqmcfw.tech CNAME .
 dns.romain.tech CNAME .
 *.dns.romain.tech CNAME .
 dns.startupstack.tech CNAME .

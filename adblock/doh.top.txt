@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 03 Dec 2025 18:34 UTC
-! Version: 2025.1203.1834.58
+! Last modified: 04 Dec 2025 10:41 UTC
+! Version: 2025.1204.1041.35
 ! Syntax: AdBlock
-! Number of entries: 794
+! Number of entries: 791
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -264,7 +264,6 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
-||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
@@ -349,7 +348,6 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
-||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -673,7 +671,6 @@
 ||adguard.senthil.us^
 ||dns1.serdcebolit.ru^
 ||pates.services.sfr.fr.casepp.sfr.fr^
-||d2.shabi.icu^
 ||shalenkov.dev^
 ||free.shecan.ir^
 ||do.shimul.me^

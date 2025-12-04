@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 17:17 UTC
-# Version: 2025.1203.1717.18
+# Last modified: 04 Dec 2025 09:17 UTC
+# Version: 2025.1204.0917.44
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1570
+# Number of entries: 1573
 #
 1-aclk.net
 1aurl.io
@@ -405,6 +405,7 @@ bcp.crwdcntrl.net
 m-6pyms.custobar.com
 m-fqlpo.custobar.com
 m-gzmk5.custobar.com
+m-s6iau.custobar.com
 track.customer.io
 track-eu.customer.io
 track-sdk.customer.io
@@ -1101,6 +1102,7 @@ mkto-sj210107.com
 mkto-sj230006.com
 mkto-sj240021.com
 mkto-sj250145.com
+mkto-sj250187.com
 mkto-sj270080.com
 mkto-sj270148.com
 mkto-sj310061.com
@@ -1426,6 +1428,7 @@ dominos.sng.link
 rides.sng.link
 tracking.socketlabs.com
 jump.soesii.com
+mkto-qa-stage.softwareone.com
 receive-us.solar-engine.io
 cmodul.solutenetwork.com
 click.email.sonos.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764815700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764844860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Dec 2025 02:35 UTC
-; Version: 2025.1204.0235.53
+; Last modified: 04 Dec 2025 10:41 UTC
+; Version: 2025.1204.1041.41
 ; Syntax: RPZ
-; Number of entries: 12396
+; Number of entries: 12344
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -35,8 +35,6 @@ dns.glsoft.ai CNAME .
 *.dns.glsoft.ai CNAME .
 nodepay.ai CNAME .
 *.nodepay.ai CNAME .
-itrsa.sic.al CNAME .
-*.itrsa.sic.al CNAME .
 onion.am CNAME .
 *.onion.am CNAME .
 zealginjoka.periodico.am CNAME .
@@ -265,8 +263,6 @@ d51538618.access.telenet.be CNAME .
 *.d51538618.access.telenet.be CNAME .
 doh.beauty CNAME .
 *.doh.beauty CNAME .
-polisitogel.beauty CNAME .
-*.polisitogel.beauty CNAME .
 ad.tzockt.beer CNAME .
 *.ad.tzockt.beer CNAME .
 dns.schlagheck.berlin CNAME .
@@ -379,8 +375,6 @@ dns-br.leonardo.tec.br CNAME .
 *.dns-br.leonardo.tec.br CNAME .
 mabuktogel.builders CNAME .
 *.mabuktogel.builders CNAME .
-polisitogel.builders CNAME .
-*.polisitogel.builders CNAME .
 mabuktogel.business CNAME .
 *.mabuktogel.business CNAME .
 doh.buzz CNAME .
@@ -945,8 +939,6 @@ ea-dns.rubyfish.cn CNAME .
 *.ea-dns.rubyfish.cn CNAME .
 uw-dns.rubyfish.cn CNAME .
 *.uw-dns.rubyfish.cn CNAME .
-scienceforkids.saahee.cn CNAME .
-*.scienceforkids.saahee.cn CNAME .
 us.sc92.cn CNAME .
 *.us.sc92.cn CNAME .
 dns.tefuir0829.cn CNAME .
@@ -3353,8 +3345,6 @@ dns2.porteii.com CNAME .
 *.dns2.porteii.com CNAME .
 portssh.com CNAME .
 *.portssh.com CNAME .
-itrsa.poteica.com CNAME .
-*.itrsa.poteica.com CNAME .
 ppira.com CNAME .
 *.ppira.com CNAME .
 pq7hdf.com CNAME .
@@ -3651,10 +3641,6 @@ drs.rustsword.com CNAME .
 *.drs.rustsword.com CNAME .
 rustynailspace.com CNAME .
 *.rustynailspace.com CNAME .
-rusvpn.com CNAME .
-*.rusvpn.com CNAME .
-myapforums.rwbcode.com CNAME .
-*.myapforums.rwbcode.com CNAME .
 dns1.ryan-palmer.com CNAME .
 *.dns1.ryan-palmer.com CNAME .
 math.sachhot.com CNAME .
@@ -3777,14 +3763,6 @@ old-soul-492.shuttleproxy.com CNAME .
 *.old-soul-492.shuttleproxy.com CNAME .
 dns.silentlybren.com CNAME .
 *.dns.silentlybren.com CNAME .
-dnsovertls.sinodun.com CNAME .
-*.dnsovertls.sinodun.com CNAME .
-dnsovertls1.sinodun.com CNAME .
-*.dnsovertls1.sinodun.com CNAME .
-dnsovertls2.sinodun.com CNAME .
-*.dnsovertls2.sinodun.com CNAME .
-dnsovertls3.sinodun.com CNAME .
-*.dnsovertls3.sinodun.com CNAME .
 sinovpn.com CNAME .
 *.sinovpn.com CNAME .
 sitdns.com CNAME .
@@ -4701,16 +4679,12 @@ vpn-professional.company CNAME .
 *.vpn-professional.company CNAME .
 dns1.luan.contact CNAME .
 *.dns1.luan.contact CNAME .
-polisitogel.contractors CNAME .
-*.polisitogel.contractors CNAME .
 123proxy.cool CNAME .
 *.123proxy.cool CNAME .
 noad.kipp.cool CNAME .
 *.noad.kipp.cool CNAME .
 mabuktogel.creditcard CNAME .
 *.mabuktogel.creditcard CNAME .
-polisitogel.cruises CNAME .
-*.polisitogel.cruises CNAME .
 vps.avc.cx CNAME .
 *.vps.avc.cx CNAME .
 freedom.cx CNAME .
@@ -5069,8 +5043,6 @@ dns.schmidt-zoarn.de CNAME .
 *.dns.schmidt-zoarn.de CNAME .
 proxy.searchfiles.de CNAME .
 *.proxy.searchfiles.de CNAME .
-dns.sethost.de CNAME .
-*.dns.sethost.de CNAME .
 adguard.sixxi.de CNAME .
 *.adguard.sixxi.de CNAME .
 plex.skin57.de CNAME .
@@ -5265,8 +5237,6 @@ onion.direct CNAME .
 *.onion.direct CNAME .
 mabuktogel.directory CNAME .
 *.mabuktogel.directory CNAME .
-polisitogel.diy CNAME .
-*.polisitogel.diy CNAME .
 anycast.censurfridns.dk CNAME .
 *.anycast.censurfridns.dk CNAME .
 unicast2.servers.censurfridns.dk CNAME .
@@ -5795,12 +5765,8 @@ dot.libredns.gr CNAME .
 *.dot.libredns.gr CNAME .
 dns.rbn.gr CNAME .
 *.dns.rbn.gr CNAME .
-polisitogel.green CNAME .
-*.polisitogel.green CNAME .
 unblocked.green CNAME .
 *.unblocked.green CNAME .
-polisitogel.hair CNAME .
-*.polisitogel.hair CNAME .
 mail.data.haus CNAME .
 *.mail.data.haus CNAME .
 ns.data.haus CNAME .
@@ -5863,8 +5829,6 @@ dvprovider.icu CNAME .
 *.dvprovider.icu CNAME .
 dns.maybe.icu CNAME .
 *.dns.maybe.icu CNAME .
-d2.shabi.icu CNAME .
-*.d2.shabi.icu CNAME .
 dns.sineone.icu CNAME .
 *.dns.sineone.icu CNAME .
 siteunblocked.icu CNAME .
@@ -6327,8 +6291,6 @@ revko.info CNAME .
 *.revko.info CNAME .
 saoudiproxy.info CNAME .
 *.saoudiproxy.info CNAME .
-defsnldns01.sc-hosting.info CNAME .
-*.defsnldns01.sc-hosting.info CNAME .
 searchproxy.info CNAME .
 *.searchproxy.info CNAME .
 selsby.info CNAME .
@@ -6851,8 +6813,6 @@ v2.xx3210766.live CNAME .
 *.v2.xx3210766.live CNAME .
 youtubeunblocked.live CNAME .
 *.youtubeunblocked.live CNAME .
-polisitogel.living CNAME .
-*.polisitogel.living CNAME .
 acomit.lk CNAME .
 *.acomit.lk CNAME .
 unblocked.llc CNAME .
@@ -6947,8 +6907,6 @@ dnspub.restena.lu CNAME .
 *.dnspub.restena.lu CNAME .
 dns.ours.luxe CNAME .
 *.dns.ours.luxe CNAME .
-polisitogel.luxe CNAME .
-*.polisitogel.luxe CNAME .
 doh.lv CNAME .
 *.doh.lv CNAME .
 guard-1.vilbav.id.lv CNAME .
@@ -8583,8 +8541,6 @@ test3.adg.siudzinski.net CNAME .
 *.test3.adg.siudzinski.net CNAME .
 test4.adg.siudzinski.net CNAME .
 *.test4.adg.siudzinski.net CNAME .
-made-by-itrsa.sjno.net CNAME .
-*.made-by-itrsa.sjno.net CNAME .
 skyvpn.net CNAME .
 *.skyvpn.net CNAME .
 dns.slinkyman.net CNAME .
@@ -10081,8 +10037,6 @@ poxy.pl CNAME .
 *.poxy.pl CNAME .
 ad.r60.pl CNAME .
 *.ad.r60.pl CNAME .
-dns.skrzypiec.pl CNAME .
-*.dns.skrzypiec.pl CNAME .
 szyrzyk.pl CNAME .
 *.szyrzyk.pl CNAME .
 domeq.waw.pl CNAME .
@@ -10817,8 +10771,6 @@ owa.pvmedia.ru CNAME .
 *.owa.pvmedia.ru CNAME .
 log.qrsoft.ru CNAME .
 *.log.qrsoft.ru CNAME .
-randn.ru CNAME .
-*.randn.ru CNAME .
 dns.reolinks.ru CNAME .
 *.dns.reolinks.ru CNAME .
 1.rock-review.ru CNAME .
@@ -11199,8 +11151,6 @@ crypto.sx CNAME .
 *.crypto.sx CNAME .
 proxy.sx CNAME .
 *.proxy.sx CNAME .
-jaiguneeds.root.sx CNAME .
-*.jaiguneeds.root.sx CNAME .
 adguard.fatu.systems CNAME .
 *.adguard.fatu.systems CNAME .
 mustafaiguess.app.tc CNAME .
@@ -11219,8 +11169,6 @@ makatla.tech CNAME .
 *.makatla.tech CNAME .
 mathlearning.tech CNAME .
 *.mathlearning.tech CNAME .
-qqmcfw.tech CNAME .
-*.qqmcfw.tech CNAME .
 dns.romain.tech CNAME .
 *.dns.romain.tech CNAME .
 romirely.tech CNAME .

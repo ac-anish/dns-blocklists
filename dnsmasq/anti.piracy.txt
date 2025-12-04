@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 02:30 UTC
-# Version: 2025.1204.0230.13
+# Last modified: 04 Dec 2025 10:35 UTC
+# Version: 2025.1204.1035.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11289
+# Number of entries: 11280
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -7284,7 +7284,6 @@ local=/piratebayproxy.info/
 local=/piratebayproxy.live/
 local=/piratebayproxy.net/
 local=/piratebayproxy.rocks/
-local=/piratebayproxy.tf/
 local=/piratebayproxy1.org/
 local=/piratebayproxyz.com/
 local=/piratebays.co/
@@ -7310,7 +7309,6 @@ local=/pirateproxy.id/
 local=/pirateproxy.ink/
 local=/pirateproxy.lat/
 local=/pirateproxy.live/
-local=/pirateproxy.name/
 local=/pirateproxy.net/
 local=/pirateproxy.quest/
 local=/pirateproxy.site/
@@ -7328,7 +7326,6 @@ local=/pirates-zone.co/
 local=/piratesbay.sbs/
 local=/piratesbaycc.com/
 local=/pirateshit.com/
-local=/piratestreaming.fyi/
 local=/piratetoday.xyz/
 local=/piratetorrent.org/
 local=/pirateworld.org/
@@ -7390,7 +7387,6 @@ local=/pokemonxenoverse.com/
 local=/pokent.com/
 local=/bt.poletracker.org/
 local=/polishbytes.net/
-local=/polishsource.org/
 local=/polishtorrent.top/
 local=/polishtracker.org/
 local=/pollyflix.com/
@@ -7431,7 +7427,6 @@ local=/pornotrack.net/
 local=/porntorrents.ws/
 local=/pornux.de/
 local=/portable4pc.com/
-local=/tpb.portalimg.com/
 local=/portalultautv.com/
 local=/porytka.com/
 local=/poshbd.net/
@@ -7496,7 +7491,6 @@ local=/progmetalzone.com/
 local=/warez.programasfull.com/
 local=/programaswarez.com/
 local=/programmi-skachat.club/
-local=/projapoti.live/
 local=/projectfreetv.sx/
 local=/projectfreetv.watch/
 local=/projectfreetv.xyz/
@@ -7645,7 +7639,6 @@ local=/putlockerss.online/
 local=/putlockerstoworld2.com/
 local=/putlockert.com/
 local=/putlockertv.onl/
-local=/putlockertv.to/
 local=/putlockerwatch.com/
 local=/puzo.org/
 local=/pwtorrents.net/
@@ -7880,7 +7873,6 @@ local=/ripple.is/
 local=/ripple.stream/
 local=/rips.cc/
 local=/rips.club/
-local=/ripstresser.net/
 local=/rivestream.live/
 local=/rivestream.org/
 local=/rivestream.xyz/
@@ -7911,7 +7903,6 @@ local=/rojadirecta.top/
 local=/rojadirecta.tv/
 local=/rojadirecta.video/
 local=/rojadirecta.watch/
-local=/rojadirectaenhd.live/
 local=/rojadirectaenvivo.club/
 local=/rojadirectaenvivo.com/
 local=/rojadirectaenvivo.site/

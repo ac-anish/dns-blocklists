@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 01:30 UTC
-# Version: 2025.1204.0130.20
+# Last modified: 04 Dec 2025 09:30 UTC
+# Version: 2025.1204.0930.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9500
+# Number of entries: 9494
 #
 local=/0.gp/
 local=/00m.in/
@@ -5759,7 +5759,6 @@ local=/pixel.link/
 local=/pixel.xin/
 local=/pixelfy.me/
 local=/link.pixelida.com/
-local=/pixllink.com/
 local=/pixly.me/
 local=/pj.pizza/
 local=/pjps.to/
@@ -5944,11 +5943,9 @@ local=/purefla.sh/
 local=/puri.na/
 local=/purls.eu/
 local=/pushlimit.org/
-local=/putar.link/
 local=/putar.win/
 local=/puugs.com/
 local=/puulp.it/
-local=/puxep.com/
 local=/pwc.to/
 local=/pwgo.to/
 local=/pws1ooo.xyz/
@@ -6093,7 +6090,6 @@ local=/quickcard-smartbusinesscard.me/
 local=/quickchart.io/
 local=/quickcode.digital/
 local=/quicklinkpro.io/
-local=/quickshortlink.com/
 local=/quickshr.ink/
 local=/quickshrink.ovh/
 local=/quicky.digital/
@@ -6459,7 +6455,6 @@ local=/safelinku.com/
 local=/safely.to/
 local=/saferurl.net/
 local=/safeurl.ch/
-local=/safeurl.in/
 local=/safl.it/
 local=/go.sagesure.com/
 local=/saggiolink.it/
@@ -6897,7 +6892,6 @@ local=/shortturl.co/
 local=/shortu.be/
 local=/shortu.in/
 local=/shortuel.asia/
-local=/shorturl.ac/
 local=/shorturl.ae/
 local=/shorturl.asia/
 local=/shorturl.at/

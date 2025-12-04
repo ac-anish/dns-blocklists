@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 18:34 UTC
-# Version: 2025.1203.1834.29
+# Last modified: 04 Dec 2025 10:41 UTC
+# Version: 2025.1204.1041.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3368
+# Number of entries: 3349
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2515,15 +2515,6 @@ local=/adguard.pmoebi.xyz/
 local=/dns.pmxu.link/
 local=/muppy.pnamae.com/
 local=/dns.pointless.chat/
-local=/polisitogel.beauty/
-local=/polisitogel.builders/
-local=/polisitogel.contractors/
-local=/polisitogel.cruises/
-local=/polisitogel.diy/
-local=/polisitogel.green/
-local=/polisitogel.hair/
-local=/polisitogel.living/
-local=/polisitogel.luxe/
 local=/polisitogel.show/
 local=/polisitogel.webcam/
 local=/vps.poly-tank.jp/
@@ -2596,7 +2587,6 @@ local=/httpdns.kg.qq.com/
 local=/dns.weixin.qq.com/
 local=/paydns.weixin.qq.com/
 local=/udns.weixin.qq.com/
-local=/qqmcfw.tech/
 local=/ns1.qquack.org/
 local=/log.qrsoft.ru/
 local=/dns.qrtz.club/
@@ -2637,7 +2627,6 @@ local=/dns.api.rackspacecloud.com/
 local=/raj.pw/
 local=/ns.ral9005.org/
 local=/dns.ramansarda.com/
-local=/randn.ru/
 local=/doh.rasmusminde.dk/
 local=/emby.rasp.tv/
 local=/dns.rayanbab.com/
@@ -2749,7 +2738,6 @@ local=/sascha-rabold.de/
 local=/dns.homenet.saschagaspar.net/
 local=/vpn.satadru.dev/
 local=/dns.sbstructure.ir/
-local=/defsnldns01.sc-hosting.info/
 local=/ns1.sc-lezhi.com/
 local=/us.sc92.cn/
 local=/dns.scarx.net/
@@ -2791,11 +2779,9 @@ local=/adguard.serverrune.be/
 local=/servis4u.top/
 local=/dns.servizimv.it/
 local=/alidns.session.pub/
-local=/dns.sethost.de/
 local=/dns.sev.monster/
 local=/pates.services.sfr.fr.casepp.sfr.fr/
 local=/sgdns.site/
-local=/d2.shabi.icu/
 local=/shadowart.online/
 local=/s1.s2.shahramv1.site/
 local=/shakdns.cc/
@@ -2824,10 +2810,6 @@ local=/dns2.sillav.dev/
 local=/dns.simplylinux.ch/
 local=/dns.sindominio.net/
 local=/dns.sineone.icu/
-local=/dnsovertls.sinodun.com/
-local=/dnsovertls1.sinodun.com/
-local=/dnsovertls2.sinodun.com/
-local=/dnsovertls3.sinodun.com/
 local=/sitdns.com/
 local=/moto.adg.siudzinski.net/
 local=/sams.adg.siudzinski.net/
@@ -2840,7 +2822,6 @@ local=/plex.skin57.de/
 local=/dns.skrep.eu/
 local=/dns.skrep.in/
 local=/gr.skrsteam.info/
-local=/dns.skrzypiec.pl/
 local=/skydragoness.com/
 local=/dns.sledge.cc/
 local=/homeguard.sleziona.org/

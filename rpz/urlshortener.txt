@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764811800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764840600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Dec 2025 01:30 UTC
-; Version: 2025.1204.0130.20
+; Last modified: 04 Dec 2025 09:30 UTC
+; Version: 2025.1204.0930.58
 ; Syntax: RPZ
-; Number of entries: 19000
+; Number of entries: 18988
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -45,8 +45,6 @@ nii.ac CNAME .
 *.nii.ac CNAME .
 shortcut.ac CNAME .
 *.shortcut.ac CNAME .
-shorturl.ac CNAME .
-*.shorturl.ac CNAME .
 tpm.ac CNAME .
 *.tpm.ac CNAME .
 direct.starbets.academy CNAME .
@@ -5487,8 +5485,6 @@ pitlink.com CNAME .
 *.pitlink.com CNAME .
 link.pixelida.com CNAME .
 *.link.pixelida.com CNAME .
-pixllink.com CNAME .
-*.pixllink.com CNAME .
 plabtainment.com CNAME .
 *.plabtainment.com CNAME .
 pladollmo.com CNAME .
@@ -5565,8 +5561,6 @@ punylinks.com CNAME .
 *.punylinks.com CNAME .
 puugs.com CNAME .
 *.puugs.com CNAME .
-puxep.com CNAME .
-*.puxep.com CNAME .
 pymoinfo.com CNAME .
 *.pymoinfo.com CNAME .
 qclickbio.com CNAME .
@@ -5641,8 +5635,6 @@ quamiller.com CNAME .
 *.quamiller.com CNAME .
 url.quick-social.com CNAME .
 *.url.quick-social.com CNAME .
-quickshortlink.com CNAME .
-*.quickshortlink.com CNAME .
 quicurl.com CNAME .
 *.quicurl.com CNAME .
 quip-art.com CNAME .
@@ -9471,8 +9463,6 @@ rwps.in CNAME .
 *.rwps.in CNAME .
 s4w.in CNAME .
 *.s4w.in CNAME .
-safeurl.in CNAME .
-*.safeurl.in CNAME .
 savg.in CNAME .
 *.savg.in CNAME .
 scts.in CNAME .
@@ -12197,8 +12187,6 @@ prosescepatkilat.link CNAME .
 *.prosescepatkilat.link CNAME .
 puny.link CNAME .
 *.puny.link CNAME .
-putar.link CNAME .
-*.putar.link CNAME .
 q8at.link CNAME .
 *.q8at.link CNAME .
 qdrop.link CNAME .

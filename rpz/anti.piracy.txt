@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764815400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764844500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Dec 2025 02:30 UTC
-; Version: 2025.1204.0230.13
+; Last modified: 04 Dec 2025 10:35 UTC
+; Version: 2025.1204.1035.59
 ; Syntax: RPZ
-; Number of entries: 22578
+; Number of entries: 22560
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -6234,8 +6234,6 @@ pornoshara.com CNAME .
 *.pornoshara.com CNAME .
 portable4pc.com CNAME .
 *.portable4pc.com CNAME .
-tpb.portalimg.com CNAME .
-*.tpb.portalimg.com CNAME .
 portalultautv.com CNAME .
 *.portalultautv.com CNAME .
 porytka.com CNAME .
@@ -9446,8 +9444,6 @@ egydead.fyi CNAME .
 *.egydead.fyi CNAME .
 kinox.fyi CNAME .
 *.kinox.fyi CNAME .
-piratestreaming.fyi CNAME .
-*.piratestreaming.fyi CNAME .
 putlocker.fyi CNAME .
 *.putlocker.fyi CNAME .
 tantifilm.fyi CNAME .
@@ -11336,8 +11332,6 @@ pirateproxy.live CNAME .
 *.pirateproxy.live CNAME .
 predb.live CNAME .
 *.predb.live CNAME .
-projapoti.live CNAME .
-*.projapoti.live CNAME .
 rangdhanu.live CNAME .
 *.rangdhanu.live CNAME .
 rarbg.live CNAME .
@@ -11348,8 +11342,6 @@ redditmlbstreams.live CNAME .
 *.redditmlbstreams.live CNAME .
 rivestream.live CNAME .
 *.rivestream.live CNAME .
-rojadirectaenhd.live CNAME .
-*.rojadirectaenhd.live CNAME .
 roxiestreams.live CNAME .
 *.roxiestreams.live CNAME .
 fs.satrong.live CNAME .
@@ -12440,8 +12432,6 @@ hesgoal.name CNAME .
 *.hesgoal.name CNAME .
 keygen.name CNAME .
 *.keygen.name CNAME .
-pirateproxy.name CNAME .
-*.pirateproxy.name CNAME .
 qoob.name CNAME .
 *.qoob.name CNAME .
 socceron.name CNAME .
@@ -13778,8 +13768,6 @@ bt.rghost.net CNAME .
 *.bt.rghost.net CNAME .
 rintor.net CNAME .
 *.rintor.net CNAME .
-ripstresser.net CNAME .
-*.ripstresser.net CNAME .
 rmovi.net CNAME .
 *.rmovi.net CNAME .
 rockmods.net CNAME .
@@ -16122,8 +16110,6 @@ playzona.org CNAME .
 *.playzona.org CNAME .
 bt.poletracker.org CNAME .
 *.bt.poletracker.org CNAME .
-polishsource.org CNAME .
-*.polishsource.org CNAME .
 polishtracker.org CNAME .
 *.polishtracker.org CNAME .
 popcorn-tracker.org CNAME .
@@ -19464,8 +19450,6 @@ dood.tf CNAME .
 *.dood.tf CNAME .
 eztv.tf CNAME .
 *.eztv.tf CNAME .
-piratebayproxy.tf CNAME .
-*.piratebayproxy.tf CNAME .
 pirateproxy.tf CNAME .
 *.pirateproxy.tf CNAME .
 primewire.tf CNAME .
@@ -19944,8 +19928,6 @@ putlocker1.to CNAME .
 *.putlocker1.to CNAME .
 putlocker123.to CNAME .
 *.putlocker123.to CNAME .
-putlockertv.to CNAME .
-*.putlockertv.to CNAME .
 rainierland.to CNAME .
 *.rainierland.to CNAME .
 rarbg.to CNAME .

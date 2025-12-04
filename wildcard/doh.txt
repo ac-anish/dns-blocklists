@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Dec 2025 18:34 UTC
-# Version: 2025.1203.1834.29
+# Last modified: 04 Dec 2025 10:41 UTC
+# Version: 2025.1204.1041.08
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3368
+# Number of entries: 3349
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -2515,15 +2515,6 @@
 *.dns.pmxu.link
 *.muppy.pnamae.com
 *.dns.pointless.chat
-*.polisitogel.beauty
-*.polisitogel.builders
-*.polisitogel.contractors
-*.polisitogel.cruises
-*.polisitogel.diy
-*.polisitogel.green
-*.polisitogel.hair
-*.polisitogel.living
-*.polisitogel.luxe
 *.polisitogel.show
 *.polisitogel.webcam
 *.vps.poly-tank.jp
@@ -2596,7 +2587,6 @@
 *.dns.weixin.qq.com
 *.paydns.weixin.qq.com
 *.udns.weixin.qq.com
-*.qqmcfw.tech
 *.ns1.qquack.org
 *.log.qrsoft.ru
 *.dns.qrtz.club
@@ -2637,7 +2627,6 @@
 *.raj.pw
 *.ns.ral9005.org
 *.dns.ramansarda.com
-*.randn.ru
 *.doh.rasmusminde.dk
 *.emby.rasp.tv
 *.dns.rayanbab.com
@@ -2749,7 +2738,6 @@
 *.dns.homenet.saschagaspar.net
 *.vpn.satadru.dev
 *.dns.sbstructure.ir
-*.defsnldns01.sc-hosting.info
 *.ns1.sc-lezhi.com
 *.us.sc92.cn
 *.dns.scarx.net
@@ -2791,11 +2779,9 @@
 *.servis4u.top
 *.dns.servizimv.it
 *.alidns.session.pub
-*.dns.sethost.de
 *.dns.sev.monster
 *.pates.services.sfr.fr.casepp.sfr.fr
 *.sgdns.site
-*.d2.shabi.icu
 *.shadowart.online
 *.s1.s2.shahramv1.site
 *.shakdns.cc
@@ -2824,10 +2810,6 @@
 *.dns.simplylinux.ch
 *.dns.sindominio.net
 *.dns.sineone.icu
-*.dnsovertls.sinodun.com
-*.dnsovertls1.sinodun.com
-*.dnsovertls2.sinodun.com
-*.dnsovertls3.sinodun.com
 *.sitdns.com
 *.moto.adg.siudzinski.net
 *.sams.adg.siudzinski.net
@@ -2840,7 +2822,6 @@
 *.dns.skrep.eu
 *.dns.skrep.in
 *.gr.skrsteam.info
-*.dns.skrzypiec.pl
 *.skydragoness.com
 *.dns.sledge.cc
 *.homeguard.sleziona.org
