@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764887820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764930780 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 04 Dec 2025 22:37 UTC
-; Version: 2025.1204.2237.56
+; Last modified: 05 Dec 2025 10:33 UTC
+; Version: 2025.1205.1033.48
 ; Syntax: RPZ
-; Number of entries: 12322
+; Number of entries: 12350
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -291,6 +291,8 @@ bit123.biz CNAME .
 *.bit123.biz CNAME .
 ewon.biz CNAME .
 *.ewon.biz CNAME .
+iloveshrek.madhacker.biz CNAME .
+*.iloveshrek.madhacker.biz CNAME .
 megaproxy.biz CNAME .
 *.megaproxy.biz CNAME .
 dns.nubecita.biz CNAME .
@@ -611,6 +613,10 @@ usvpn.cf CNAME .
 *.usvpn.cf CNAME .
 ychen.cf CNAME .
 *.ychen.cf CNAME .
+meow.teddynunyah.cfd CNAME .
+*.meow.teddynunyah.cfd CNAME .
+rh.teddynunyah.cfd CNAME .
+*.rh.teddynunyah.cfd CNAME .
 ajlxwk4kedu5.absq.ch CNAME .
 *.ajlxwk4kedu5.absq.ch CNAME .
 pebdbvi58gbc.absq.ch CNAME .
@@ -1415,6 +1421,8 @@ dns.bgeneto.com CNAME .
 *.dns.bgeneto.com CNAME .
 bgvpn.com CNAME .
 *.bgvpn.com CNAME .
+bjc.bigjockcock.com CNAME .
+*.bjc.bigjockcock.com CNAME .
 httpdns.bilivideo.com CNAME .
 *.httpdns.bilivideo.com CNAME .
 tips.bitesmagazine.com CNAME .
@@ -2045,6 +2053,8 @@ fiberproxy.com CNAME .
 *.fiberproxy.com CNAME .
 filesdownloader.com CNAME .
 *.filesdownloader.com CNAME .
+learngeometryfr.fin-tech.com CNAME .
+*.learngeometryfr.fin-tech.com CNAME .
 finchvpn.com CNAME .
 *.finchvpn.com CNAME .
 xcomvpn-7000b-default-rtdb.firebaseio.com CNAME .
@@ -4149,6 +4159,8 @@ u-proxy.com CNAME .
 *.u-proxy.com CNAME .
 u8sj3.com CNAME .
 *.u8sj3.com CNAME .
+studytimer.ufodns.com CNAME .
+*.studytimer.ufodns.com CNAME .
 vless-service.ufodns.com CNAME .
 *.vless-service.ufodns.com CNAME .
 ufreevpn.com CNAME .
@@ -5327,6 +5339,8 @@ doh3.almir1904.eu CNAME .
 *.doh3.almir1904.eu CNAME .
 anonproxy.eu CNAME .
 *.anonproxy.eu CNAME .
+pulsewire.atamanco.eu CNAME .
+*.pulsewire.atamanco.eu CNAME .
 home.basthorst.eu CNAME .
 *.home.basthorst.eu CNAME .
 dns.bermeitinger.eu CNAME .
@@ -5475,8 +5489,6 @@ dns.wdnts.eu CNAME .
 *.dns.wdnts.eu CNAME .
 workhost.eu CNAME .
 *.workhost.eu CNAME .
-adsfysdfgiuy.ydns.eu CNAME .
-*.adsfysdfgiuy.ydns.eu CNAME .
 vdska-pl.ydns.eu CNAME .
 *.vdska-pl.ydns.eu CNAME .
 zougloub.eu CNAME .
@@ -7195,6 +7207,8 @@ br.servers.legat.ml CNAME .
 *.br.servers.legat.ml CNAME .
 notfound-google.404.mn CNAME .
 *.notfound-google.404.mn CNAME .
+franzosen.bad.mn CNAME .
+*.franzosen.bad.mn CNAME .
 hide.mn CNAME .
 *.hide.mn CNAME .
 fiberproxy.mobi CNAME .
@@ -7425,6 +7439,8 @@ boltnixe.baselinux.net CNAME .
 *.boltnixe.baselinux.net CNAME .
 bootnbo.baselinux.net CNAME .
 *.bootnbo.baselinux.net CNAME .
+gnomedesktop44.baselinux.net CNAME .
+*.gnomedesktop44.baselinux.net CNAME .
 nirbolt.baselinux.net CNAME .
 *.nirbolt.baselinux.net CNAME .
 nirbyteproxbolt.baselinux.net CNAME .
@@ -7953,8 +7969,12 @@ us-ny.foxyfy.net CNAME .
 *.us-ny.foxyfy.net CNAME .
 us-sj.foxyfy.net CNAME .
 *.us-sj.foxyfy.net CNAME .
+securly.com.fpr.net CNAME .
+*.securly.com.fpr.net CNAME .
 hotmoms.fpr.net CNAME .
 *.hotmoms.fpr.net CNAME .
+turtlelover.fpr.net CNAME .
+*.turtlelover.fpr.net CNAME .
 free-proxy-list.net CNAME .
 *.free-proxy-list.net CNAME .
 freedome-vpn.net CNAME .
@@ -8087,6 +8107,8 @@ jailbreaked.net CNAME .
 *.jailbreaked.net CNAME .
 google.jaygraz.net CNAME .
 *.google.jaygraz.net CNAME .
+securly.com.jedimasters.net CNAME .
+*.securly.com.jedimasters.net CNAME .
 green2.jnraptor.net CNAME .
 *.green2.jnraptor.net CNAME .
 green3.jnraptor.net CNAME .
@@ -9195,6 +9217,8 @@ dns.blokada.org CNAME .
 *.dns.blokada.org CNAME .
 bmetrics.org CNAME .
 *.bmetrics.org CNAME .
+ram.br3xality.org CNAME .
+*.ram.br3xality.org CNAME .
 jujuba.cafuringa.org CNAME .
 *.jujuba.cafuringa.org CNAME .
 tor.calyxinstitute.org CNAME .
@@ -9689,6 +9713,8 @@ radminvpn.org CNAME .
 *.radminvpn.org CNAME .
 ns.ral9005.org CNAME .
 *.ns.ral9005.org CNAME .
+clashsoccer.ranftl.org CNAME .
+*.clashsoccer.ranftl.org CNAME .
 relayon.org CNAME .
 *.relayon.org CNAME .
 dns.resoft.org CNAME .
@@ -10105,8 +10131,6 @@ unblockit.pro CNAME .
 *.unblockit.pro CNAME .
 doh.xcom.pro CNAME .
 *.doh.xcom.pro CNAME .
-yasosy.pro CNAME .
-*.yasosy.pro CNAME .
 mabuktogel.properties CNAME .
 *.mabuktogel.properties CNAME .
 abe01.dnscry.pt CNAME .
@@ -10703,6 +10727,8 @@ landerbrauver.ru CNAME .
 *.landerbrauver.ru CNAME .
 malanser.ru CNAME .
 *.malanser.ru CNAME .
+rc-1140.malskoy-med.ru CNAME .
+*.rc-1140.malskoy-med.ru CNAME .
 running.marchd.ru CNAME .
 *.running.marchd.ru CNAME .
 n10.martkotur.ru CNAME .
@@ -10755,6 +10781,8 @@ owa.pvmedia.ru CNAME .
 *.owa.pvmedia.ru CNAME .
 log.qrsoft.ru CNAME .
 *.log.qrsoft.ru CNAME .
+securly.redozubov.ru CNAME .
+*.securly.redozubov.ru CNAME .
 dns.reolinks.ru CNAME .
 *.dns.reolinks.ru CNAME .
 1.rock-review.ru CNAME .

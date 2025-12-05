@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 22:37 UTC
-# Version: 2025.1204.2237.16
+# Last modified: 05 Dec 2025 10:33 UTC
+# Version: 2025.1205.1033.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3820
+# Number of entries: 3819
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3754,7 +3754,6 @@
 0.0.0.0 lion.yazilimatolye.com
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
-0.0.0.0 adsfysdfgiuy.ydns.eu
 0.0.0.0 vdska-pl.ydns.eu
 0.0.0.0 sg.yepdns.com
 0.0.0.0 yeralin.net

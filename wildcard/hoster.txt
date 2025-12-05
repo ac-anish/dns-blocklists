@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 17:57 UTC
-# Version: 2025.1204.1757.52
+# Last modified: 05 Dec 2025 09:56 UTC
+# Version: 2025.1205.0956.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1324
+# Number of entries: 1323
 #
 *.000a.de
 *.000space.com
@@ -1120,7 +1120,6 @@
 *.teenradio.shop
 *.tehno-politen.ru
 *.teleporthq.app
-*.telrock.org
 *.tempisite.com
 *.temporary.site
 *.temporary-demo.site

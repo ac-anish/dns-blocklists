@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 04 Dec 2025 21:29 UTC
-# Version: 2025.1204.2129.05
+# Last modified: 05 Dec 2025 09:29 UTC
+# Version: 2025.1205.0929.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13733
+# Number of entries: 13727
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -7539,6 +7539,7 @@ local=/lovercloth.com/
 local=/lovert.de/
 local=/lovessivs.life/
 local=/lovethefleamarket.com/
+local=/lovetruar.click/
 local=/lovezhuvs.click/
 local=/lovinal.com/
 local=/lovozo.de/
@@ -12272,6 +12273,7 @@ local=/topoffice24.de/
 local=/toponlinepharmacies.com/
 local=/topoutdoorsport.com/
 local=/topoutdoorstore.com/
+local=/toppillsstore.com/
 local=/toppreis24.com/
 local=/topreinigungsmittel.com/
 local=/toprolexes.com/
@@ -13562,7 +13564,6 @@ local=/yebeas.shop/
 local=/yeezy.at/
 local=/yeezy-450.com/
 local=/yeezyadidas.de/
-local=/yeloxo.shop/
 local=/yem.foundation/
 local=/yesmole.com/
 local=/yinga-vital.de/
@@ -13651,7 +13652,6 @@ local=/zavanova.com/
 local=/zavettiireland.com/
 local=/zavosjuncker.com/
 local=/zayajoias.com/
-local=/zcrnt.shop/
 local=/zctszj.com/
 local=/zddbbb.com/
 local=/zebrainvest.com/
@@ -13685,8 +13685,6 @@ local=/zetko-waren.de/
 local=/app.zety.de/
 local=/zfggmbh.de/
 local=/ziegler-handel.de/
-local=/ziegler-kanzlei.de/
-local=/ziegler-rechtsanwaelte.de/
 local=/zieglerzurich.ch/
 local=/zigaretten-bestellen.net/
 local=/zigaretten-steuerfrei-bestellen.com/
@@ -13696,7 +13694,6 @@ local=/zimtahorn.de/
 local=/zinniafolkartsdeeu.shop/
 local=/zinpp.com/
 local=/zinsacm.com/
-local=/zinsanlageexperten.com/
 local=/zinskapital.com/
 local=/zinzendorf-mode.at/
 local=/zipgoat.com/
@@ -13705,7 +13702,6 @@ local=/ziviveo5.pro/
 local=/zivyastore.com/
 local=/ziyarafashion.shop/
 local=/ziyaratelaviv.com/
-local=/zloweb.me/
 local=/zmr-handel.de/
 local=/zodernus.com/
 local=/zofita.com/
@@ -13717,7 +13713,6 @@ local=/zoomil.de/
 local=/zoomoption.com/
 local=/zooroyalde.com/
 local=/zotatees.com/
-local=/zteinberg-modehaus.de/
 local=/zubehorfahrrad.com/
 local=/zubehorgeschaft.com/
 local=/zuedy.de/
@@ -13741,5 +13736,4 @@ local=/zwischenportal.com/
 local=/zycrian.com/
 local=/zynexorai.at/
 local=/zynexorai.com/
-local=/zyskoro.app/
 local=/zytocapitalnew.com/
