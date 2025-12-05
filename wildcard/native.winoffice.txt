@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 18:03 UTC
-# Version: 2025.1128.1803.28
+# Last modified: 05 Dec 2025 18:02 UTC
+# Version: 2025.1205.1802.15
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 378
+# Number of entries: 381
 #
 *.c-bingapis-com.dual-a-0034.a-msedge.net
 *.measure.office.com.akamaized.net
@@ -56,6 +56,7 @@
 *.c.live.com
 *.location.live.net
 *.nexusrules.live.com
+*.aec-visio-telemetry.officeapps.live.com
 *.auc-visio-telemetry.officeapps.live.com
 *.brc-visio-telemetry.officeapps.live.com
 *.cac-visio-telemetry.officeapps.live.com
@@ -210,6 +211,8 @@
 *.t-ring-fallback.msedge.net
 *.t-ring-fallback-s2.msedge.net
 *.t-ring-fallbacks1.msedge.net
+*.t-ring-fallbacks2.msedge.net
+*.t-ring-fdv2.msedge.net
 *.t-ring-s.msedge.net
 *.t-ring-s2.msedge.net
 *.t-s1-ring.msedge.net

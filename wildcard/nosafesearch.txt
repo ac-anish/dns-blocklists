@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 17:54 UTC
-# Version: 2025.1128.1754.16
+# Last modified: 05 Dec 2025 17:52 UTC
+# Version: 2025.1205.1752.36
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 180
+# Number of entries: 178
 #
 *.search.0xcb.dev
 *.search.0xgingi.com
@@ -68,7 +68,6 @@
 *.search.fascinated.cc
 *.fireball.de
 *.searx.foo.li
-*.searx.fossencdi.org
 *.search.funami.tech
 *.search.garudalinux.org
 *.gibiru.com
@@ -132,7 +131,6 @@
 *.privacia.org
 *.search.privacytools.io
 *.search.in.projectsegfau.lt
-*.search.us.projectsegfau.lt
 *.searx.prvcy.eu
 *.librex.pufe.org
 *.lite.qwant.com

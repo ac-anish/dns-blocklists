@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764930780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764957240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Dec 2025 10:33 UTC
-; Version: 2025.1205.1033.48
+; Last modified: 05 Dec 2025 17:54 UTC
+; Version: 2025.1205.1754.01
 ; Syntax: RPZ
-; Number of entries: 12350
+; Number of entries: 12346
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1421,8 +1421,6 @@ dns.bgeneto.com CNAME .
 *.dns.bgeneto.com CNAME .
 bgvpn.com CNAME .
 *.bgvpn.com CNAME .
-bjc.bigjockcock.com CNAME .
-*.bjc.bigjockcock.com CNAME .
 httpdns.bilivideo.com CNAME .
 *.httpdns.bilivideo.com CNAME .
 tips.bitesmagazine.com CNAME .
@@ -10781,8 +10779,6 @@ owa.pvmedia.ru CNAME .
 *.owa.pvmedia.ru CNAME .
 log.qrsoft.ru CNAME .
 *.log.qrsoft.ru CNAME .
-securly.redozubov.ru CNAME .
-*.securly.redozubov.ru CNAME .
 dns.reolinks.ru CNAME .
 *.dns.reolinks.ru CNAME .
 1.rock-review.ru CNAME .

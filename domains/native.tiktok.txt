@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Nov 2025 19:31 UTC
-# Version: 2025.1119.1931.34
+# Last modified: 05 Dec 2025 18:03 UTC
+# Version: 2025.1205.1803.39
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 366
+# Number of entries: 367
 #
 frontier.byteoversea.com
 gplog-sg.byteoversea.com
@@ -124,6 +124,7 @@ ads-api.tiktok.com
 ads-frontier.tiktok.com
 ads-service.tiktok.com
 ads-sg.tiktok.com
+ads-useast2a.tiktok.com
 analytics.tiktok.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com

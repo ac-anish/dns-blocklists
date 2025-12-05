@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 10:33 UTC
-# Version: 2025.1205.1033.48
+# Last modified: 05 Dec 2025 17:54 UTC
+# Version: 2025.1205.1754.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6175
+# Number of entries: 6173
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -623,7 +623,6 @@ local=/dns.bgeneto.com/
 local=/bgvpn.com/
 local=/dns.bibica.net/
 local=/dns.bibitos.cc/
-local=/bjc.bigjockcock.com/
 local=/bigma.org/
 local=/httpdns.bilivideo.com/
 local=/carverd.bine.me/
@@ -4506,7 +4505,6 @@ local=/dns.reckoningslug.name/
 local=/vladimirloljk.lollipopyum.liveastheman.reconectar.cl/
 local=/topwriting.redalameda.cl/
 local=/redhoodie.site/
-local=/securly.redozubov.ru/
 local=/redproxy.info/
 local=/dns.redroot.cc/
 local=/redschool.info/

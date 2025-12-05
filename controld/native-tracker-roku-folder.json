@@ -421,35 +421,7 @@
       }
     },
     {
-      "PK": "ravm-qa-e.data.roku.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ravm-qa-w.data.roku.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "ravm-staging.data.roku.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ravm-staging-e.data.roku.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ravm-staging-w.data.roku.com",
       "action": {
         "do": 0,
         "status": 1

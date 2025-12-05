@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749733080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764957900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Roku Tracker DNS Blocklist
@@ -7,11 +7,12 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
+; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Jun 2025 12:58 UTC
-; Version: 2025.0612.1258.51
+; Last modified: 05 Dec 2025 18:05 UTC
+; Version: 2025.1205.1805.53
 ; Syntax: RPZ
-; Number of entries: 148
+; Number of entries: 140
 ;
 h4g3z1-native.roku.web.app CNAME .
 *.h4g3z1-native.roku.web.app CNAME .
@@ -45,16 +46,8 @@ cloudservices.roku.com CNAME .
 *.cloudservices.roku.com CNAME .
 samples.voice.cti.roku.com CNAME .
 *.samples.voice.cti.roku.com CNAME .
-ravm-qa-e.data.roku.com CNAME .
-*.ravm-qa-e.data.roku.com CNAME .
-ravm-qa-w.data.roku.com CNAME .
-*.ravm-qa-w.data.roku.com CNAME .
 ravm-staging.data.roku.com CNAME .
 *.ravm-staging.data.roku.com CNAME .
-ravm-staging-e.data.roku.com CNAME .
-*.ravm-staging-e.data.roku.com CNAME .
-ravm-staging-w.data.roku.com CNAME .
-*.ravm-staging-w.data.roku.com CNAME .
 ads-aka-us-east-1.delivery.roku.com CNAME .
 *.ads-aka-us-east-1.delivery.roku.com CNAME .
 ads-aka-us-west-2.delivery.roku.com CNAME .

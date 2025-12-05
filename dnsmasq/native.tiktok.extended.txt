@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Nov 2025 18:04 UTC
-# Version: 2025.1121.1804.44
+# Last modified: 05 Dec 2025 18:04 UTC
+# Version: 2025.1205.1804.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 462
+# Number of entries: 461
 #
 local=/frontier.byteoversea.com/
 local=/gplog-sg.byteoversea.com/
@@ -131,6 +131,7 @@ local=/ads-api.tiktok.com/
 local=/ads-frontier.tiktok.com/
 local=/ads-service.tiktok.com/
 local=/ads-sg.tiktok.com/
+local=/ads-useast2a.tiktok.com/
 local=/analytics.tiktok.com/
 local=/analytics-attribution.tiktok.com/
 local=/analytics-attribution-va.tiktok.com/
@@ -326,8 +327,6 @@ local=/mssdk22-normal-useast2a.tiktokv.com/
 local=/mssdk22-normal-zr.tiktokv.com/
 local=/mssdk22-normal-zr-alisg.tiktokv.com/
 local=/mssdk22-normal-zr-useast1a.tiktokv.com/
-local=/mssdk23-normal-zr-alisg.tiktokv.com/
-local=/mssdk23-normal-zr-useast1a.tiktokv.com/
 local=/mssdk24-normal.tiktokv.com/
 local=/mssdk24-normal-alisg.tiktokv.com/
 local=/mssdk24-normal-useast1a.tiktokv.com/

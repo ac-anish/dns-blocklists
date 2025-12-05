@@ -134,6 +134,13 @@
       }
     },
     {
+      "PK": "ads-useast2a.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "ads.us.tiktok.com",
       "action": {
         "do": 0,
@@ -1899,20 +1906,6 @@
     },
     {
       "PK": "mssdk22-normal-zr-useast1a.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mssdk23-normal-zr-alisg.tiktokv.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mssdk23-normal-zr-useast1a.tiktokv.com",
       "action": {
         "do": 0,
         "status": 1

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764930480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764957240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Dec 2025 10:28 UTC
-; Version: 2025.1205.1028.26
+; Last modified: 05 Dec 2025 17:54 UTC
+; Version: 2025.1205.1754.57
 ; Syntax: RPZ
-; Number of entries: 22608
+; Number of entries: 22586
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -500,8 +500,6 @@ ettv.mrunblock.bar CNAME .
 *.ettv.mrunblock.bar CNAME .
 putlockers.bar CNAME .
 *.putlockers.bar CNAME .
-seriesflix.bar CNAME .
-*.seriesflix.bar CNAME .
 unblocked.bar CNAME .
 *.unblocked.bar CNAME .
 watchseries.bar CNAME .
@@ -674,8 +672,6 @@ tracker.mywaifu.best CNAME .
 *.tracker.mywaifu.best CNAME .
 pirateproxy.best CNAME .
 *.pirateproxy.best CNAME .
-seriesflix.best CNAME .
-*.seriesflix.best CNAME .
 torrent-games.best CNAME .
 *.torrent-games.best CNAME .
 altadefinizione.bet CNAME .
@@ -858,8 +854,6 @@ serienjunkies.biz CNAME .
 *.serienjunkies.biz CNAME .
 serienstream.biz CNAME .
 *.serienstream.biz CNAME .
-seriesflix.biz CNAME .
-*.seriesflix.biz CNAME .
 sinezy.biz CNAME .
 *.sinezy.biz CNAME .
 soap2day.biz CNAME .
@@ -1178,8 +1172,6 @@ pelisflix20.cam CNAME .
 *.pelisflix20.cam CNAME .
 serien.cam CNAME .
 *.serien.cam CNAME .
-seriesflix.cam CNAME .
-*.seriesflix.cam CNAME .
 songslover.cam CNAME .
 *.songslover.cam CNAME .
 streamingcommunity.cam CNAME .
@@ -9190,8 +9182,6 @@ hdfilme.food CNAME .
 *.hdfilme.food CNAME .
 kinox.food CNAME .
 *.kinox.food CNAME .
-seriesflix.food CNAME .
-*.seriesflix.food CNAME .
 tantifilm.food CNAME .
 *.tantifilm.food CNAME .
 pirlotv.football CNAME .
@@ -11514,8 +11504,6 @@ ipv4.rer.lol CNAME .
 *.ipv4.rer.lol CNAME .
 ipv6.rer.lol CNAME .
 *.ipv6.rer.lol CNAME .
-seriesflix.lol CNAME .
-*.seriesflix.lol CNAME .
 skytorrents.lol CNAME .
 *.skytorrents.lol CNAME .
 solarmovies-sc.lol CNAME .
@@ -12436,8 +12424,6 @@ netmirror.my CNAME .
 *.netmirror.my CNAME .
 pelisflix20.my CNAME .
 *.pelisflix20.my CNAME .
-seriesflix.my CNAME .
-*.seriesflix.my CNAME .
 streamcloud.my CNAME .
 *.streamcloud.my CNAME .
 y2meta.my CNAME .
@@ -18618,8 +18604,6 @@ popcorntime.sh CNAME .
 *.popcorntime.sh CNAME .
 redacted.sh CNAME .
 *.redacted.sh CNAME .
-seriesflix.sh CNAME .
-*.seriesflix.sh CNAME .
 soap2day.sh CNAME .
 *.soap2day.sh CNAME .
 torrent9.sh CNAME .
@@ -21218,8 +21202,6 @@ pelisflix20.uno CNAME .
 *.pelisflix20.uno CNAME .
 seehd.uno CNAME .
 *.seehd.uno CNAME .
-seriesflix.uno CNAME .
-*.seriesflix.uno CNAME .
 sportsurge.uno CNAME .
 *.sportsurge.uno CNAME .
 tantifilm.uno CNAME .
@@ -21354,8 +21336,6 @@ primewire.vc CNAME .
 *.primewire.vc CNAME .
 putlocker.vc CNAME .
 *.putlocker.vc CNAME .
-seriesflix.vc CNAME .
-*.seriesflix.vc CNAME .
 superflix.vc CNAME .
 *.superflix.vc CNAME .
 yesmovies.vc CNAME .
@@ -21662,8 +21642,6 @@ rojadirecta.watch CNAME .
 *.rojadirecta.watch CNAME .
 rojadirectaenvivo.watch CNAME .
 *.rojadirectaenvivo.watch CNAME .
-seriesflix.watch CNAME .
-*.seriesflix.watch CNAME .
 vegamovies.watch CNAME .
 *.vegamovies.watch CNAME .
 vmovee.watch CNAME .

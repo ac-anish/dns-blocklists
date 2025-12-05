@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 10:28 UTC
-# Version: 2025.1205.1028.26
+# Last modified: 05 Dec 2025 17:54 UTC
+# Version: 2025.1205.1754.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11304
+# Number of entries: 11293
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -8165,15 +8165,11 @@ local=/series9.to/
 local=/series9mx.pro/
 local=/seriesfilmestorrent.net/
 local=/seriesflix.app/
-local=/seriesflix.bar/
 local=/seriesflix.beauty/
-local=/seriesflix.best/
 local=/seriesflix.bio/
-local=/seriesflix.biz/
 local=/seriesflix.blog/
 local=/seriesflix.boats/
 local=/seriesflix.bond/
-local=/seriesflix.cam/
 local=/seriesflix.cc/
 local=/seriesflix.cfd/
 local=/seriesflix.city/
@@ -8181,7 +8177,6 @@ local=/seriesflix.click/
 local=/seriesflix.co/
 local=/seriesflix.cool/
 local=/seriesflix.dog/
-local=/seriesflix.food/
 local=/seriesflix.gold/
 local=/seriesflix.golf/
 local=/seriesflix.in/
@@ -8191,15 +8186,12 @@ local=/seriesflix.la/
 local=/seriesflix.lat/
 local=/seriesflix.live/
 local=/seriesflix.loan/
-local=/seriesflix.lol/
 local=/seriesflix.men/
-local=/seriesflix.my/
 local=/seriesflix.org/
 local=/seriesflix.pics/
 local=/seriesflix.pro/
 local=/seriesflix.rest/
 local=/seriesflix.sbs/
-local=/seriesflix.sh/
 local=/seriesflix.skin/
 local=/seriesflix.space/
 local=/seriesflix.taxi/
@@ -8207,11 +8199,8 @@ local=/seriesflix.team/
 local=/seriesflix.top/
 local=/seriesflix.trade/
 local=/seriesflix.tv/
-local=/seriesflix.uno/
-local=/seriesflix.vc/
 local=/seriesflix.video/
 local=/seriesflix.vip/
-local=/seriesflix.watch/
 local=/seriesflix.world/
 local=/seriesflix.ws/
 local=/serieslan.com/
