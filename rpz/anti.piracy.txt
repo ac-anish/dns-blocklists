@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764957240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1764974100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Dec 2025 17:54 UTC
-; Version: 2025.1205.1754.57
+; Last modified: 05 Dec 2025 22:35 UTC
+; Version: 2025.1205.2235.17
 ; Syntax: RPZ
-; Number of entries: 22586
+; Number of entries: 22590
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -11510,6 +11510,8 @@ solarmovies-sc.lol CNAME .
 *.solarmovies-sc.lol CNAME .
 streamingcommunity.lol CNAME .
 *.streamingcommunity.lol CNAME .
+streamingcommunityz.lol CNAME .
+*.streamingcommunityz.lol CNAME .
 sudo-flix.lol CNAME .
 *.sudo-flix.lol CNAME .
 susmovies.lol CNAME .
@@ -12152,6 +12154,8 @@ showbox.media CNAME .
 *.showbox.media CNAME .
 streamingcommunity.media CNAME .
 *.streamingcommunity.media CNAME .
+streamingcommunityz.media CNAME .
+*.streamingcommunityz.media CNAME .
 tantifilm.media CNAME .
 *.tantifilm.media CNAME .
 unimay.media CNAME .

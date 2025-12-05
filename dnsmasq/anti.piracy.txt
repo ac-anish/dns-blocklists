@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 17:54 UTC
-# Version: 2025.1205.1754.57
+# Last modified: 05 Dec 2025 22:35 UTC
+# Version: 2025.1205.2235.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11293
+# Number of entries: 11295
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -8860,7 +8860,9 @@ local=/streamingcommunityz.date/
 local=/streamingcommunityz.info/
 local=/streamingcommunityz.it/
 local=/streamingcommunityz.li/
+local=/streamingcommunityz.lol/
 local=/streamingcommunityz.me/
+local=/streamingcommunityz.media/
 local=/streamingcommunityz.tv/
 local=/streamingdivx.ch/
 local=/streaminggratuit.cc/
