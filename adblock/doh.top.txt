@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 05 Dec 2025 10:33 UTC
-! Version: 2025.1205.1033.42
+! Last modified: 06 Dec 2025 10:39 UTC
+! Version: 2025.1206.1039.01
 ! Syntax: AdBlock
-! Number of entries: 792
+! Number of entries: 794
 !
 ||ns.00dani.me^
 ||dns.0ooo.icu^
@@ -126,6 +126,7 @@
 ||stratus.bugz.fr^
 ||c-dns.com^
 ||doh.captnemo.in^
+||dns.caspervk.net^
 ||catdns.org^
 ||doh.ccb-net.it^
 ||dns.cctld.kg^
@@ -348,7 +349,6 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
-||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -363,6 +363,7 @@
 ||google-public-dns-a.google.com^
 ||google-public-dns-b.google.com^
 ||dns.green-ping.lol^
+||dnsblock.grisumedia.de^
 ||dns.grqu.de^
 ||dns.guard.io^
 ||dns.guardmydns.com^
@@ -437,6 +438,7 @@
 ||dns.kastner-online.de^
 ||kavkaz.monster^
 ||dns.kawa.tf^
+||doh.kel.pe^
 ||dns.keweon.center^
 ||adguard.kiboko.it^
 ||dns1.klcd.eu^

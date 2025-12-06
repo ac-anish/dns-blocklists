@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 09:29 UTC
-# Version: 2025.1205.0929.00
+# Last modified: 06 Dec 2025 09:30 UTC
+# Version: 2025.1206.0930.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13727
+# Number of entries: 13721
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1234,7 +1234,6 @@ local=/bemyo.xyz/
 local=/bender-baumarkt.com/
 local=/bendoffice.com/
 local=/beneathk.com/
-local=/beneficialx.com/
 local=/benefitw.com/
 local=/benettonaustria.at/
 local=/benjamin-scheuer.de/
@@ -3544,7 +3543,6 @@ local=/egapark-erfurt.com/
 local=/ege-exquisit.de/
 local=/eggelingen.de/
 local=/egooutdoortools.com/
-local=/egoryspecies.com/
 local=/egotoolshop.com/
 local=/ehandler.de/
 local=/ehkschutzengel.de/
@@ -3758,7 +3756,6 @@ local=/enormous.shop/
 local=/enrichor.com/
 local=/ensemble4cyclisme.com/
 local=/entermusic.it/
-local=/entertainl.com/
 local=/enthusiastichaic.com/
 local=/enthusiastip.com/
 local=/entornobanoes.com/
@@ -4338,7 +4335,6 @@ local=/firat-handel24.de/
 local=/firat-shopping.de/
 local=/firegemss.com/
 local=/firewood-versand.de/
-local=/firmadmire.com/
 local=/firmeneintrag.net/
 local=/first-bikes.de/
 local=/first-investcapital.com/
@@ -4458,6 +4454,7 @@ local=/fokoomall.com/
 local=/fokusfinanz.com/
 local=/foldcase.co/
 local=/foldingboxesstore.com/
+local=/foldingsbikedk.com/
 local=/folger-kollegen.com/
 local=/folioflare.com/
 local=/followintg.com/
@@ -4557,7 +4554,6 @@ local=/free-maket.com/
 local=/freeacnevs.xyz/
 local=/freeacy.com/
 local=/freemobile24.de/
-local=/freeseem.com/
 local=/freesmarttools.com/
 local=/freeteck.shop/
 local=/freiemarkt.de/
@@ -6048,7 +6044,6 @@ local=/huck24.com/
 local=/hudyrc.com/
 local=/huelstamoebelhaus.com/
 local=/huewi.xyz/
-local=/hugetsky.com/
 local=/hugfirst.com/
 local=/hugoverkauf.de/
 local=/huiiltn.shop/
@@ -6342,7 +6337,6 @@ local=/inteiograly.com/
 local=/intelilawllp.com/
 local=/intellectokids.com/
 local=/intellisynex.com/
-local=/intentionalk.com/
 local=/inter-investissement-holding.com/
 local=/interactionm.com/
 local=/interactivecoins.com/
@@ -7446,7 +7440,6 @@ local=/lockedintrading.co/
 local=/lockenbarava.shop/
 local=/lockenbareur.shop/
 local=/lockpickingstore.de/
-local=/locomotivey.com/
 local=/lodiac.com/
 local=/lodischuhedeutschland.com/
 local=/loefflerrandalllove.com/
@@ -12994,6 +12987,7 @@ local=/vitalvigoury.com/
 local=/viva-markets.com/
 local=/vivagopro.com/
 local=/vivaiabuty.pl/
+local=/vivaiacollection.com/
 local=/vivaiaschuhe.at/
 local=/vivaiaschuhe.com/
 local=/vivaiaschuhe.de/
