@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765070940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765099740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Dec 2025 01:29 UTC
-; Version: 2025.1207.0129.03
+; Last modified: 07 Dec 2025 09:29 UTC
+; Version: 2025.1207.0929.41
 ; Syntax: RPZ
-; Number of entries: 27444
+; Number of entries: 27440
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1368,6 +1368,8 @@ lovezhuvs.click CNAME .
 *.lovezhuvs.click CNAME .
 weichrn.qualitatmv.click CNAME .
 *.weichrn.qualitatmv.click CNAME .
+saleshedet.click CNAME .
+*.saleshedet.click CNAME .
 zimmerpikk.sicherkamt.click CNAME .
 *.zimmerpikk.sicherkamt.click CNAME .
 fastrepair.verolixz.cloud CNAME .
@@ -1634,6 +1636,8 @@ eoutlet.2023shoponline.com CNAME .
 *.24hr-premiumpricepills.com CNAME .
 24usefultoolsstore.com CNAME .
 *.24usefultoolsstore.com CNAME .
+2cequipements.com CNAME .
+*.2cequipements.com CNAME .
 2f-kanzlei.com CNAME .
 *.2f-kanzlei.com CNAME .
 2wheelshero.com CNAME .
@@ -1710,8 +1714,6 @@ abrisphere.com CNAME .
 *.abrisphere.com CNAME .
 absolutelk.com CNAME .
 *.absolutelk.com CNAME .
-absolutelyn.com CNAME .
-*.absolutelyn.com CNAME .
 absoluteo.com CNAME .
 *.absoluteo.com CNAME .
 absorbpath.com CNAME .
@@ -1758,6 +1760,8 @@ accomplishk.com CNAME .
 *.accomplishk.com CNAME .
 acer-de.com CNAME .
 *.acer-de.com CNAME .
+achat-bitcoin.com CNAME .
+*.achat-bitcoin.com CNAME .
 achatbois.com CNAME .
 *.achatbois.com CNAME .
 acheterdubitcoin.com CNAME .
@@ -4870,8 +4874,6 @@ dasrichtigeholz.com CNAME .
 *.dasrichtigeholz.com CNAME .
 daswirthshaus.com CNAME .
 *.daswirthshaus.com CNAME .
-datactively.com CNAME .
-*.datactively.com CNAME .
 davanu.com CNAME .
 *.davanu.com CNAME .
 daveintheshop.com CNAME .
@@ -5618,6 +5620,8 @@ egapark-erfurt.com CNAME .
 *.egapark-erfurt.com CNAME .
 egooutdoortools.com CNAME .
 *.egooutdoortools.com CNAME .
+egoryspecies.com CNAME .
+*.egoryspecies.com CNAME .
 egotoolshop.com CNAME .
 *.egotoolshop.com CNAME .
 ehreer.com CNAME .
@@ -5960,8 +5964,6 @@ estate-view.com CNAME .
 *.estate-view.com CNAME .
 estilobrasilofertas.com CNAME .
 *.estilobrasilofertas.com CNAME .
-etercitenal.com CNAME .
-*.etercitenal.com CNAME .
 eternity-diamond.com CNAME .
 *.eternity-diamond.com CNAME .
 ether-invest.com CNAME .
@@ -8686,6 +8688,8 @@ intellectokids.com CNAME .
 *.intellectokids.com CNAME .
 intellisynex.com CNAME .
 *.intellisynex.com CNAME .
+intentionalk.com CNAME .
+*.intentionalk.com CNAME .
 inter-investissement-holding.com CNAME .
 *.inter-investissement-holding.com CNAME .
 interactionm.com CNAME .
@@ -11616,8 +11620,6 @@ obstbaumwelt.com CNAME .
 *.obstbaumwelt.com CNAME .
 occasionak.com CNAME .
 *.occasionak.com CNAME .
-occasionk.com CNAME .
-*.occasionk.com CNAME .
 ochsner-agrarhandel.com CNAME .
 *.ochsner-agrarhandel.com CNAME .
 octa-trade.com CNAME .
@@ -12792,8 +12794,6 @@ proupwholesale.com CNAME .
 *.proupwholesale.com CNAME .
 provenxperts.com CNAME .
 *.provenxperts.com CNAME .
-providedes.com CNAME .
-*.providedes.com CNAME .
 provise24.com CNAME .
 *.provise24.com CNAME .
 prowerkparts.com CNAME .
@@ -19902,8 +19902,6 @@ hhb-garten.de CNAME .
 *.hhb-garten.de CNAME .
 hibote.de CNAME .
 *.hibote.de CNAME .
-hicity.de CNAME .
-*.hicity.de CNAME .
 hier-brennts.de CNAME .
 *.hier-brennts.de CNAME .
 hike-schuhware.de CNAME .
@@ -20914,8 +20912,6 @@ medosashop.de CNAME .
 *.medosashop.de CNAME .
 meduu-tech.de CNAME .
 *.meduu-tech.de CNAME .
-meertickets.de CNAME .
-*.meertickets.de CNAME .
 meetcurve.de CNAME .
 *.meetcurve.de CNAME .
 megafliesen24.de CNAME .

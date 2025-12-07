@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 10:33 UTC
-# Version: 2025.1205.1033.17
+# Last modified: 07 Dec 2025 10:36 UTC
+# Version: 2025.1207.1036.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3819
+# Number of entries: 3822
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -20,6 +20,8 @@
 0.0.0.0 adblock.0815cloud.de
 0.0.0.0 passwordsafe.0815cloud.de
 0.0.0.0 wlan.0815cloud.de
+0.0.0.0 0ms.dev
+0.0.0.0 cdn.0ms.dev
 0.0.0.0 dns.0ooo.icu
 0.0.0.0 1.0rz.space
 0.0.0.0 2.0rz.space
@@ -137,6 +139,7 @@
 0.0.0.0 arches-srv2.8ws.net
 0.0.0.0 outie.8ws.net
 0.0.0.0 outiejr.8ws.net
+0.0.0.0 tokyo.92-m.com
 0.0.0.0 de-passage.9273082020.ru
 0.0.0.0 jp.95576.app
 0.0.0.0 959818.xyz

@@ -7,12 +7,13 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 06 Dec 2025 10:39 UTC
-! Version: 2025.1206.1039.01
+! Last modified: 07 Dec 2025 10:37 UTC
+! Version: 2025.1207.1037.08
 ! Syntax: AdBlock
-! Number of entries: 794
+! Number of entries: 801
 !
 ||ns.00dani.me^
+||0ms.dev^
 ||dns.0ooo.icu^
 ||123000123.xyz^
 ||httpdns.music.163.com^
@@ -41,6 +42,7 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
+||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
 ||dns.abdullahabas.de^
@@ -83,6 +85,7 @@
 ||dandelionsprout.asuscomm.com^
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
+||dohtrial.att.net^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
 ||dns.b33.space^
@@ -184,6 +187,8 @@
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
+||dns.decloudus.com^
+||frank-web.dedyn.io^
 ||adguard.dekonix.ru^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
@@ -265,6 +270,7 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
+||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
@@ -349,6 +355,7 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
+||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^

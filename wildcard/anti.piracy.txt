@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 02:28 UTC
-# Version: 2025.1207.0228.01
+# Last modified: 07 Dec 2025 10:31 UTC
+# Version: 2025.1207.1031.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 11296
+# Number of entries: 11299
 #
 *.003396815.xyz
 *.0123456789nonexistent.com
@@ -280,6 +280,7 @@
 *.33rapfr.com
 *.33seriestreaming.rip
 *.33seriestreaming.site
+*.33voirseries.com
 *.pcd.345.pl
 *.345movie.net
 *.h5.365streams.world
@@ -311,6 +312,7 @@
 *.4mirrorlink.com
 *.4movierulz.mn
 *.4pda.to
+*.4players.org
 *.4realtorrentz.com
 *.4shared.com
 *.4stream.gg
@@ -398,6 +400,7 @@
 *.abandon5000.com
 *.abandonhouse.com
 *.abbaspc.net
+*.abcflixbd.com
 *.crazyhack.abclan.com
 *.abcmovies.tv
 *.abcmoviesbd.com

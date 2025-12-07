@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 01:29 UTC
-# Version: 2025.1207.0129.03
+# Last modified: 07 Dec 2025 09:29 UTC
+# Version: 2025.1207.0929.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 13722
+# Number of entries: 13720
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -40,6 +40,7 @@ local=/24trading.co/
 local=/24usefultoolsstore.com/
 local=/eu.2bagsvalley.cn/
 local=/2bgreen.at/
+local=/2cequipements.com/
 local=/2f-kanzlei.com/
 local=/2radwelten.de/
 local=/2smart4me.de/
@@ -95,7 +96,6 @@ local=/abrahamr.com/
 local=/abrisphere.com/
 local=/abrorabatt.de/
 local=/absolutelk.com/
-local=/absolutelyn.com/
 local=/absoluteo.com/
 local=/absorbpath.com/
 local=/absorrption.com/
@@ -123,6 +123,7 @@ local=/accidentalw.com/
 local=/accomplishk.com/
 local=/accsmarket.net/
 local=/acer-de.com/
+local=/achat-bitcoin.com/
 local=/achatbois.com/
 local=/acheterdubitcoin.com/
 local=/achicwomen.com/
@@ -2866,7 +2867,6 @@ local=/dasoffiziellespadel.com/
 local=/dasorevaparis.de/
 local=/dasrichtigeholz.com/
 local=/daswirthshaus.com/
-local=/datactively.com/
 local=/dateideen.at/
 local=/davanu.com/
 local=/daveamor.us/
@@ -3543,6 +3543,7 @@ local=/egapark-erfurt.com/
 local=/ege-exquisit.de/
 local=/eggelingen.de/
 local=/egooutdoortools.com/
+local=/egoryspecies.com/
 local=/egotoolshop.com/
 local=/ehandler.de/
 local=/ehkschutzengel.de/
@@ -3858,7 +3859,6 @@ local=/estilobrasilofertas.com/
 local=/estrategen.de/
 local=/esyqefp.top/
 local=/etcydecor.de/
-local=/etercitenal.com/
 local=/eternity.business/
 local=/eternity-diamond.com/
 local=/hippo2.eth.limo/
@@ -5783,7 +5783,6 @@ local=/heydudeschuhereduziert.com/
 local=/heydudeschuheschweiz.com/
 local=/hhb-garten.de/
 local=/hibote.de/
-local=/hicity.de/
 local=/hiddenhertz.com/
 local=/hidrogota.com/
 local=/hier-brennts.de/
@@ -6337,6 +6336,7 @@ local=/inteiograly.com/
 local=/intelilawllp.com/
 local=/intellectokids.com/
 local=/intellisynex.com/
+local=/intentionalk.com/
 local=/inter-investissement-holding.com/
 local=/interactionm.com/
 local=/interactivecoins.com/
@@ -7934,7 +7934,6 @@ local=/medshopcpl.com/
 local=/medsinfoshop.com/
 local=/meduu-tech.de/
 local=/medzrezeptfrei.com/
-local=/meertickets.de/
 local=/meester-werk.com/
 local=/meetcurve.de/
 local=/meetfigure.com/
@@ -8957,7 +8956,6 @@ local=/obroker.com/
 local=/obstbaumwelt.com/
 local=/ocayo.de/
 local=/occasionak.com/
-local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
@@ -9931,7 +9929,6 @@ local=/protovfurniture.com/
 local=/proupwholesale.com/
 local=/provenxperts.com/
 local=/proveri.de/
-local=/providedes.com/
 local=/provise24.com/
 local=/prowerkparts.com/
 local=/proximitye.com/
@@ -10603,6 +10600,7 @@ local=/salesceramic.com/
 local=/salescomplex.com/
 local=/salesconsulter.de/
 local=/salesdaddymasterclass.com/
+local=/saleshedet.click/
 local=/salesorganics.com/
 local=/salesportshoe.com/
 local=/salesspoint.com/

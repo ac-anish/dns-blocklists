@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765074480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765103460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Dec 2025 02:28 UTC
-; Version: 2025.1207.0228.01
+; Last modified: 07 Dec 2025 10:31 UTC
+; Version: 2025.1207.1031.28
 ; Syntax: RPZ
-; Number of entries: 22592
+; Number of entries: 22598
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2568,6 +2568,8 @@ danime.2ya.com CNAME .
 *.33filmstreaming.com CNAME .
 33rapfr.com CNAME .
 *.33rapfr.com CNAME .
+33voirseries.com CNAME .
+*.33voirseries.com CNAME .
 365watchtv.com CNAME .
 *.365watchtv.com CNAME .
 36dm.com CNAME .
@@ -2644,6 +2646,8 @@ abandon5000.com CNAME .
 *.abandon5000.com CNAME .
 abandonhouse.com CNAME .
 *.abandonhouse.com CNAME .
+abcflixbd.com CNAME .
+*.abcflixbd.com CNAME .
 crazyhack.abclan.com CNAME .
 *.crazyhack.abclan.com CNAME .
 abcmoviesbd.com CNAME .
@@ -14990,6 +14994,8 @@ streamingcommunity.ooo CNAME .
 *.3dsroms.org CNAME .
 420project.org CNAME .
 *.420project.org CNAME .
+4players.org CNAME .
+*.4players.org CNAME .
 5play.org CNAME .
 *.5play.org CNAME .
 60-fps.org CNAME .

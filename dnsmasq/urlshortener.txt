@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 09:30 UTC
-# Version: 2025.1205.0930.40
+# Last modified: 07 Dec 2025 09:31 UTC
+# Version: 2025.1207.0931.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9478
+# Number of entries: 9481
 #
 local=/0.gp/
 local=/00m.in/
@@ -191,10 +191,12 @@ local=/2shorter.com/
 local=/2tea.ch/
 local=/2tf.net/
 local=/2tiny.in/
+local=/2ty.in/
 local=/2u.lc/
 local=/2u.pw/
 local=/2ur.jp/
 local=/2vu.me/
+local=/2wo.ir/
 local=/2wsb.tv/
 local=/2ww.me/
 local=/2x0.net/
@@ -415,6 +417,7 @@ local=/aakem.click/
 local=/aarp.info/
 local=/aawsat.news/
 local=/ab.co/
+local=/abacaxii.com/
 local=/abar.in/
 local=/abbr.site/
 local=/abbreurl.com/

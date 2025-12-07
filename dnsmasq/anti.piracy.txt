@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 02:28 UTC
-# Version: 2025.1207.0228.01
+# Last modified: 07 Dec 2025 10:31 UTC
+# Version: 2025.1207.1031.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11296
+# Number of entries: 11299
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -280,6 +280,7 @@ local=/33filmstreaming.com/
 local=/33rapfr.com/
 local=/33seriestreaming.rip/
 local=/33seriestreaming.site/
+local=/33voirseries.com/
 local=/pcd.345.pl/
 local=/345movie.net/
 local=/h5.365streams.world/
@@ -311,6 +312,7 @@ local=/4megaupload.com/
 local=/4mirrorlink.com/
 local=/4movierulz.mn/
 local=/4pda.to/
+local=/4players.org/
 local=/4realtorrentz.com/
 local=/4shared.com/
 local=/4stream.gg/
@@ -398,6 +400,7 @@ local=/aarsen.me/
 local=/abandon5000.com/
 local=/abandonhouse.com/
 local=/abbaspc.net/
+local=/abcflixbd.com/
 local=/crazyhack.abclan.com/
 local=/abcmovies.tv/
 local=/abcmoviesbd.com/

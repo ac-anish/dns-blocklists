@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764927000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765099860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Dec 2025 09:30 UTC
-; Version: 2025.1205.0930.40
+; Last modified: 07 Dec 2025 09:31 UTC
+; Version: 2025.1207.0931.31
 ; Syntax: RPZ
-; Number of entries: 18956
+; Number of entries: 18962
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3071,6 +3071,8 @@ go.9nl.com CNAME .
 *.go.9nl.com CNAME .
 9oz.com CNAME .
 *.9oz.com CNAME .
+abacaxii.com CNAME .
+*.abacaxii.com CNAME .
 abbreurl.com CNAME .
 *.abbreurl.com CNAME .
 abbriv.com CNAME .
@@ -9087,6 +9089,8 @@ zxc.im CNAME .
 *.2one.in CNAME .
 2tiny.in CNAME .
 *.2tiny.in CNAME .
+2ty.in CNAME .
+*.2ty.in CNAME .
 4qt.in CNAME .
 *.4qt.in CNAME .
 6bit.in CNAME .
@@ -10607,6 +10611,8 @@ zubbit.io CNAME .
 *.20l.ir CNAME .
 2ad.ir CNAME .
 *.2ad.ir CNAME .
+2wo.ir CNAME .
+*.2wo.ir CNAME .
 301l.ir CNAME .
 *.301l.ir CNAME .
 4eq.ir CNAME .

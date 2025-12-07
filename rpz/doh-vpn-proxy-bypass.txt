@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1764957240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765103820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 05 Dec 2025 17:54 UTC
-; Version: 2025.1205.1754.01
+; Last modified: 07 Dec 2025 10:37 UTC
+; Version: 2025.1207.1037.16
 ; Syntax: RPZ
-; Number of entries: 12346
+; Number of entries: 12350
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1111,6 +1111,8 @@ dns.7vpn.com CNAME .
 *.8proxy.com CNAME .
 8v9m.com CNAME .
 *.8v9m.com CNAME .
+tokyo.92-m.com CNAME .
+*.tokyo.92-m.com CNAME .
 922proxy.com CNAME .
 *.922proxy.com CNAME .
 adb.aadityakushwaha.com CNAME .
@@ -5109,6 +5111,8 @@ constitutional.design CNAME .
 *.constitutional.design CNAME .
 gingerbread.design CNAME .
 *.gingerbread.design CNAME .
+0ms.dev CNAME .
+*.0ms.dev CNAME .
 dns.applewebkit.dev CNAME .
 *.dns.applewebkit.dev CNAME .
 adguard.avdkishore.dev CNAME .
