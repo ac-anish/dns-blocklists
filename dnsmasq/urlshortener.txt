@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 09:31 UTC
-# Version: 2025.1207.0931.31
+# Last modified: 07 Dec 2025 13:32 UTC
+# Version: 2025.1207.1332.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9481
+# Number of entries: 9485
 #
 local=/0.gp/
 local=/00m.in/
@@ -568,12 +568,14 @@ local=/ai1.link/
 local=/ai18.link/
 local=/ai6.net/
 local=/aiecj2.com/
+local=/aighy.com/
 local=/go.aim.edu/
 local=/aim2.cc/
 local=/aimetath.com/
 local=/aintok.com/
 local=/ainurl.pro/
 local=/docs.airship.com/
+local=/airshort.de/
 local=/aishorterlink.com/
 local=/aisurl.com/
 local=/aitwwl.co/
@@ -869,6 +871,7 @@ local=/avl.mx/
 local=/avlne.ws/
 local=/avlr.co/
 local=/avtk.io/
+local=/avtub.pw/
 local=/avyc.io/
 local=/avydn.co/
 local=/awactools.com/
@@ -900,6 +903,7 @@ local=/azipurl.com/
 local=/azl.one/
 local=/azlink.me/
 local=/azshrtr.com/
+local=/azx.az/
 local=/b.bw/
 local=/b.link/
 local=/b.mw/

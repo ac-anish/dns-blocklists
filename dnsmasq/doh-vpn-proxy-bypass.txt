@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 10:37 UTC
-# Version: 2025.1207.1037.16
+# Last modified: 07 Dec 2025 14:40 UTC
+# Version: 2025.1207.1440.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6175
+# Number of entries: 6177
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -422,6 +422,7 @@ local=/anonymurl.biz/
 local=/anonypost.com/
 local=/anonyproxy.biz/
 local=/anonysurf.com/
+local=/know.core.antidemon.com/
 local=/antpeak.com/
 local=/antycenzor.pl/
 local=/dns2.anuar.me/
@@ -485,6 +486,7 @@ local=/atlasvpn.com/
 local=/next.atomix.in/
 local=/vps.atomix.in/
 local=/atozproxy.com/
+local=/atris.cyou/
 local=/atsilva.link/
 local=/atsssgo.xyz/
 local=/dohtrial.att.net/

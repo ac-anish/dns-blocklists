@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 10:37 UTC
-# Version: 2025.1207.1037.16
+# Last modified: 07 Dec 2025 14:40 UTC
+# Version: 2025.1207.1440.48
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6175
+# Number of entries: 6177
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -422,6 +422,7 @@
 *.anonypost.com
 *.anonyproxy.biz
 *.anonysurf.com
+*.know.core.antidemon.com
 *.antpeak.com
 *.antycenzor.pl
 *.dns2.anuar.me
@@ -485,6 +486,7 @@
 *.next.atomix.in
 *.vps.atomix.in
 *.atozproxy.com
+*.atris.cyou
 *.atsilva.link
 *.atsssgo.xyz
 *.dohtrial.att.net

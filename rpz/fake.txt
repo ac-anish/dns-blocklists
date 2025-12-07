@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765099740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765114200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Dec 2025 09:29 UTC
-; Version: 2025.1207.0929.41
+; Last modified: 07 Dec 2025 13:30 UTC
+; Version: 2025.1207.1330.16
 ; Syntax: RPZ
-; Number of entries: 27440
+; Number of entries: 27476
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1890,6 +1890,8 @@ aghhome.com CNAME .
 *.aghhome.com CNAME .
 agrial-culture.com CNAME .
 *.agrial-culture.com CNAME .
+agricolaindustrial.com CNAME .
+*.agricolaindustrial.com CNAME .
 agriculturi.com CNAME .
 *.agriculturi.com CNAME .
 agrimodul.com CNAME .
@@ -2052,6 +2054,8 @@ allskigear.com CNAME .
 *.allskigear.com CNAME .
 alltaghero.com CNAME .
 *.alltaghero.com CNAME .
+alltimesupermarket.com CNAME .
+*.alltimesupermarket.com CNAME .
 alltopinvest.com CNAME .
 *.alltopinvest.com CNAME .
 alltopjewels.com CNAME .
@@ -2082,6 +2086,8 @@ alpbeat.com CNAME .
 *.alpbeat.com CNAME .
 alpenrose-mode.com CNAME .
 *.alpenrose-mode.com CNAME .
+alpexoplus.com CNAME .
+*.alpexoplus.com CNAME .
 alphabetk.com CNAME .
 *.alphabetk.com CNAME .
 alphabetw.com CNAME .
@@ -2096,6 +2102,8 @@ alphamed-medical.com CNAME .
 *.alphamed-medical.com CNAME .
 alphastocking.com CNAME .
 *.alphastocking.com CNAME .
+alpine-vista.com CNAME .
+*.alpine-vista.com CNAME .
 alpineskiequipment.com CNAME .
 *.alpineskiequipment.com CNAME .
 alpionki.com CNAME .
@@ -2120,12 +2128,20 @@ altituden.com CNAME .
 *.altituden.com CNAME .
 altogelther.com CNAME .
 *.altogelther.com CNAME .
+altrabelgie.com CNAME .
+*.altrabelgie.com CNAME .
 altradanmarkshop.com CNAME .
 *.altradanmarkshop.com CNAME .
 altrafi.com CNAME .
 *.altrafi.com CNAME .
+altrafinland.com CNAME .
+*.altrafinland.com CNAME .
 altralaufschuhe.com CNAME .
 *.altralaufschuhe.com CNAME .
+altraroadshoesnz.com CNAME .
+*.altraroadshoesnz.com CNAME .
+altrashoesdk.com CNAME .
+*.altrashoesdk.com CNAME .
 altrasuomi.com CNAME .
 *.altrasuomi.com CNAME .
 altrasuomioutlet.com CNAME .
@@ -2386,6 +2402,8 @@ aquavibespro.com CNAME .
 *.aquavibespro.com CNAME .
 aquinoexpress.com CNAME .
 *.aquinoexpress.com CNAME .
+aranayan.com CNAME .
+*.aranayan.com CNAME .
 arbeit-zuhause.com CNAME .
 *.arbeit-zuhause.com CNAME .
 arbeitjetzt.com CNAME .
@@ -2430,6 +2448,8 @@ armourygear.com CNAME .
 *.armourygear.com CNAME .
 aroma-finanz.com CNAME .
 *.aroma-finanz.com CNAME .
+aroma-tec.com CNAME .
+*.aroma-tec.com CNAME .
 aromaleben.com CNAME .
 *.aromaleben.com CNAME .
 aroxcapital.com CNAME .
@@ -2632,6 +2652,10 @@ autrydeutschland.com CNAME .
 *.autrydeutschland.com CNAME .
 autryoutlet.com CNAME .
 *.autryoutlet.com CNAME .
+autryschuhesale.com CNAME .
+*.autryschuhesale.com CNAME .
+autryweb.com CNAME .
+*.autryweb.com CNAME .
 availablek.com CNAME .
 *.availablek.com CNAME .
 avamirae.com CNAME .
@@ -17266,6 +17290,8 @@ addmich.de CNAME .
 *.addmich.de CNAME .
 adeliamode.de CNAME .
 *.adeliamode.de CNAME .
+adidasyeezyboost.de CNAME .
+*.adidasyeezyboost.de CNAME .
 adler-energie.de CNAME .
 *.adler-energie.de CNAME .
 adreim.de CNAME .
@@ -17398,6 +17424,8 @@ amep-tech.de CNAME .
 *.amep-tech.de CNAME .
 americaneagledeutschland.de CNAME .
 *.americaneagledeutschland.de CNAME .
+americanvintagestore.de CNAME .
+*.americanvintagestore.de CNAME .
 amessa24.de CNAME .
 *.amessa24.de CNAME .
 amethysts.de CNAME .
@@ -17462,6 +17490,8 @@ applenext.de CNAME .
 *.applenext.de CNAME .
 aprodello.de CNAME .
 *.aprodello.de CNAME .
+aprs-karlsruhe.de CNAME .
+*.aprs-karlsruhe.de CNAME .
 aquarisonlineshop.de CNAME .
 *.aquarisonlineshop.de CNAME .
 arabues.de CNAME .
@@ -17806,6 +17836,8 @@ beti-digital.de CNAME .
 *.beti-digital.de CNAME .
 betthimmel.de CNAME .
 *.betthimmel.de CNAME .
+beuniger.de CNAME .
+*.beuniger.de CNAME .
 beweich.de CNAME .
 *.beweich.de CNAME .
 bewerte-den-shop.de CNAME .
@@ -23556,6 +23588,8 @@ gbgroup.ee CNAME .
 *.gbgroup.ee CNAME .
 xiaomiofficial.ee CNAME .
 *.xiaomiofficial.ee CNAME .
+aneaf.es CNAME .
+*.aneaf.es CNAME .
 edfarm.es CNAME .
 *.edfarm.es CNAME .
 facepets.es CNAME .
@@ -24244,6 +24278,8 @@ gamer-held.b-cdn.net CNAME .
 *.gamer-held.b-cdn.net CNAME .
 b2b-consulting.net CNAME .
 *.b2b-consulting.net CNAME .
+trader.bankwiz.net CNAME .
+*.trader.bankwiz.net CNAME .
 bapedanmark.net CNAME .
 *.bapedanmark.net CNAME .
 bapenederland.net CNAME .

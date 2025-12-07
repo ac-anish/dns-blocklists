@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765103820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765118400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Dec 2025 10:37 UTC
-; Version: 2025.1207.1037.16
+; Last modified: 07 Dec 2025 14:40 UTC
+; Version: 2025.1207.1440.48
 ; Syntax: RPZ
-; Number of entries: 12350
+; Number of entries: 12354
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1269,6 +1269,8 @@ anonypost.com CNAME .
 *.anonypost.com CNAME .
 anonysurf.com CNAME .
 *.anonysurf.com CNAME .
+know.core.antidemon.com CNAME .
+*.know.core.antidemon.com CNAME .
 antpeak.com CNAME .
 *.antpeak.com CNAME .
 dns1.api110.com CNAME .
@@ -4687,6 +4689,8 @@ vps.avc.cx CNAME .
 *.vps.avc.cx CNAME .
 freedom.cx CNAME .
 *.freedom.cx CNAME .
+atris.cyou CNAME .
+*.atris.cyou CNAME .
 adguard.dantynes.cyou CNAME .
 *.adguard.dantynes.cyou CNAME .
 acrea.cz CNAME .

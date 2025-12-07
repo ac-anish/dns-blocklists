@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Dec 2025 09:31 UTC
-! Version: 2025.1207.0931.31
+! Last modified: 07 Dec 2025 13:32 UTC
+! Version: 2025.1207.1332.02
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -546,12 +546,14 @@
 @@||ai18.link^
 @@||ai6.net^
 @@||aiecj2.com^
+@@||aighy.com^
 @@||go.aim.edu^
 @@||aim2.cc^
 @@||aimetath.com^
 @@||aintok.com^
 @@||ainurl.pro^
 @@||docs.airship.com^
+@@||airshort.de^
 @@||aishorterlink.com^
 @@||aisurl.com^
 @@||aitwwl.co^
@@ -839,6 +841,7 @@
 @@||avlne.ws^
 @@||avlr.co^
 @@||avtk.io^
+@@||avtub.pw^
 @@||avyc.io^
 @@||avydn.co^
 @@||awactools.com^
@@ -870,6 +873,7 @@
 @@||azl.one^
 @@||azlink.me^
 @@||azshrtr.com^
+@@||azx.az^
 @@||b.bw^
 @@||b.link^
 @@||b.mw^

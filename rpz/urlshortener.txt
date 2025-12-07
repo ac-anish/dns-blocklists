@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765099860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765114320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Dec 2025 09:31 UTC
-; Version: 2025.1207.0931.31
+; Last modified: 07 Dec 2025 13:32 UTC
+; Version: 2025.1207.1332.02
 ; Syntax: RPZ
-; Number of entries: 18962
+; Number of entries: 18970
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -849,6 +849,8 @@ rem.ax CNAME .
 *.rem.ax CNAME .
 v1.ax CNAME .
 *.v1.ax CNAME .
+azx.az CNAME .
+*.azx.az CNAME .
 rdv.az CNAME .
 *.rdv.az CNAME .
 dft.ba CNAME .
@@ -3151,6 +3153,8 @@ aholink.com CNAME .
 *.aholink.com CNAME .
 aiecj2.com CNAME .
 *.aiecj2.com CNAME .
+aighy.com CNAME .
+*.aighy.com CNAME .
 aimetath.com CNAME .
 *.aimetath.com CNAME .
 aintok.com CNAME .
@@ -7479,6 +7483,8 @@ go1.day CNAME .
 *.7oi.de CNAME .
 9u9.de CNAME .
 *.9u9.de CNAME .
+airshort.de CNAME .
+*.airshort.de CNAME .
 amplt.de CNAME .
 *.amplt.de CNAME .
 amtb.de CNAME .
@@ -16121,6 +16127,8 @@ thefp.pub CNAME .
 *.8u.pw CNAME .
 amzn.pw CNAME .
 *.amzn.pw CNAME .
+avtub.pw CNAME .
+*.avtub.pw CNAME .
 bely.pw CNAME .
 *.bely.pw CNAME .
 bitly.pw CNAME .

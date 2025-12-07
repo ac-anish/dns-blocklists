@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765103460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765118040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Dec 2025 10:31 UTC
-; Version: 2025.1207.1031.28
+; Last modified: 07 Dec 2025 14:34 UTC
+; Version: 2025.1207.1434.59
 ; Syntax: RPZ
-; Number of entries: 22598
+; Number of entries: 22644
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -756,6 +756,8 @@ amedia.biz CNAME .
 *.amedia.biz CNAME .
 animeflv.biz CNAME .
 *.animeflv.biz CNAME .
+animesonline.biz CNAME .
+*.animesonline.biz CNAME .
 assistir.biz CNAME .
 *.assistir.biz CNAME .
 beeflix.biz CNAME .
@@ -1148,6 +1150,8 @@ hdmovie2.cafe CNAME .
 *.hdmovie2.cafe CNAME .
 www1.putlockers.cafe CNAME .
 *.www1.putlockers.cafe CNAME .
+altadefinizione.cam CNAME .
+*.altadefinizione.cam CNAME .
 doodstream.cam CNAME .
 *.doodstream.cam CNAME .
 egydead.cam CNAME .
@@ -1258,10 +1262,14 @@ aerowa.cc CNAME .
 *.aerowa.cc CNAME .
 alpharatio.cc CNAME .
 *.alpharatio.cc CNAME .
+altadefinizione01.cc CNAME .
+*.altadefinizione01.cc CNAME .
 animeflv.cc CNAME .
 *.animeflv.cc CNAME .
 animeid.cc CNAME .
 *.animeid.cc CNAME .
+animeram.cc CNAME .
+*.animeram.cc CNAME .
 animesonline.cc CNAME .
 *.animesonline.cc CNAME .
 anix.cc CNAME .
@@ -2710,6 +2718,8 @@ aiowares.com CNAME .
 *.aiowares.com CNAME .
 airplanechefsmodapk.com CNAME .
 *.airplanechefsmodapk.com CNAME .
+akiba-online.com CNAME .
+*.akiba-online.com CNAME .
 aklivetv.com CNAME .
 *.aklivetv.com CNAME .
 alabout.com CNAME .
@@ -2818,6 +2828,8 @@ animelon.com CNAME .
 *.animelon.com CNAME .
 animemolecules.com CNAME .
 *.animemolecules.com CNAME .
+animemoviespot.com CNAME .
+*.animemoviespot.com CNAME .
 animencodes.com CNAME .
 *.animencodes.com CNAME .
 animepahe.com CNAME .
@@ -2862,6 +2874,8 @@ antbd.com CNAME .
 *.antbd.com CNAME .
 anzaq.com CNAME .
 *.anzaq.com CNAME .
+apk-download-free.com CNAME .
+*.apk-download-free.com CNAME .
 apk-zone-101.com CNAME .
 *.apk-zone-101.com CNAME .
 apk4all.com CNAME .
@@ -2908,6 +2922,8 @@ apkmodct.com CNAME .
 *.apkmodct.com CNAME .
 apkmoddone.com CNAME .
 *.apkmoddone.com CNAME .
+apkmodea.com CNAME .
+*.apkmodea.com CNAME .
 apkmodget.com CNAME .
 *.apkmodget.com CNAME .
 apkmodgo.com CNAME .
@@ -8224,6 +8240,8 @@ tracker.startwork.cv CNAME .
 *.tracker.startwork.cv CNAME .
 allin1.cx CNAME .
 *.allin1.cx CNAME .
+altadefinizione.cx CNAME .
+*.altadefinizione.cx CNAME .
 tracker.animeworld.cx CNAME .
 *.tracker.animeworld.cx CNAME .
 k.avc.cx CNAME .
@@ -9466,6 +9484,8 @@ tracker.trackton.ga CNAME .
 *.123movies.gallery CNAME .
 hdmovie2.gallery CNAME .
 *.hdmovie2.gallery CNAME .
+altadefinizione01.games CNAME .
+*.altadefinizione01.games CNAME .
 emulator.games CNAME .
 *.emulator.games CNAME .
 eurostreaming.games CNAME .
@@ -10052,6 +10072,8 @@ allseek.info CNAME .
 *.allseek.info CNAME .
 altadefinizione.info CNAME .
 *.altadefinizione.info CNAME .
+altadefinizione01.info CNAME .
+*.altadefinizione01.info CNAME .
 anidb.info CNAME .
 *.anidb.info CNAME .
 anidex.info CNAME .
@@ -10446,6 +10468,8 @@ animeflix.io CNAME .
 *.animeflix.io CNAME .
 animesuge.io CNAME .
 *.animesuge.io CNAME .
+apkfolks.io CNAME .
+*.apkfolks.io CNAME .
 apkhome.io CNAME .
 *.apkhome.io CNAME .
 apkloo.io CNAME .
@@ -11716,6 +11740,8 @@ apklite.me CNAME .
 *.apklite.me CNAME .
 embx224539.apl366.me CNAME .
 *.embx224539.apl366.me CNAME .
+tracker.asiancinema.me CNAME .
+*.tracker.asiancinema.me CNAME .
 audiobookbay.me CNAME .
 *.audiobookbay.me CNAME .
 avistaz.me CNAME .
@@ -12544,6 +12570,8 @@ bt.ali213.net CNAME .
 *.bt.ali213.net CNAME .
 tracker.ali213.net CNAME .
 *.tracker.ali213.net CNAME .
+alibabanetwork.net CNAME .
+*.alibabanetwork.net CNAME .
 alienflix.net CNAME .
 *.alienflix.net CNAME .
 all4nothin.net CNAME .
@@ -17148,6 +17176,8 @@ vegamovies.press CNAME .
 *.123myflixer.pro CNAME .
 anidub.pro CNAME .
 *.anidub.pro CNAME .
+aovivo.pro CNAME .
+*.aovivo.pro CNAME .
 atdhe.pro CNAME .
 *.atdhe.pro CNAME .
 bigwarp.pro CNAME .
@@ -17556,6 +17586,8 @@ hdmovie2.realty CNAME .
 *.hdmovie2.realty CNAME .
 vegamovies.realty CNAME .
 *.vegamovies.realty CNAME .
+altadefinizione.red CNAME .
+*.altadefinizione.red CNAME .
 btkitty.red CNAME .
 *.btkitty.red CNAME .
 casacinema.red CNAME .
@@ -17894,6 +17926,8 @@ aimweb.ru CNAME .
 *.aimweb.ru CNAME .
 retracker.akado-ural.ru CNAME .
 *.retracker.akado-ural.ru CNAME .
+alles.ru CNAME .
+*.alles.ru CNAME .
 allrepack.ru CNAME .
 *.allrepack.ru CNAME .
 alpha-ag.ru CNAME .
@@ -18946,6 +18980,8 @@ vegamovies.sm CNAME .
 *.vegamovies.sm CNAME .
 amedia.so CNAME .
 *.amedia.so CNAME .
+animes.so CNAME .
+*.animes.so CNAME .
 animeworld.so CNAME .
 *.animeworld.so CNAME .
 attackertv.so CNAME .
@@ -19572,6 +19608,8 @@ animekai.to CNAME .
 *.animekai.to CNAME .
 animenosub.to CNAME .
 *.animenosub.to CNAME .
+animesugetv.to CNAME .
+*.animesugetv.to CNAME .
 animeultima.to CNAME .
 *.animeultima.to CNAME .
 animixplay.to CNAME .
@@ -20584,6 +20622,10 @@ baibako.tv CNAME .
 *.baibako.tv CNAME .
 barbiemovies.tv CNAME .
 *.barbiemovies.tv CNAME .
+batman-stream.tv CNAME .
+*.batman-stream.tv CNAME .
+batstream.tv CNAME .
+*.batstream.tv CNAME .
 beeriptv.tv CNAME .
 *.beeriptv.tv CNAME .
 biggapan.tv CNAME .
@@ -21492,6 +21534,8 @@ yesmovies.vin CNAME .
 *.100zhaocili.vip CNAME .
 altadefinizione.vip CNAME .
 *.altadefinizione.vip CNAME .
+apkmody.vip CNAME .
+*.apkmody.vip CNAME .
 app-valley.vip CNAME .
 *.app-valley.vip CNAME .
 ashdi.vip CNAME .
@@ -22224,6 +22268,8 @@ animeout.xyz CNAME .
 *.animeout.xyz CNAME .
 animestotais.xyz CNAME .
 *.animestotais.xyz CNAME .
+tracker.anonwebz.xyz CNAME .
+*.tracker.anonwebz.xyz CNAME .
 arrr.xyz CNAME .
 *.arrr.xyz CNAME .
 asger.xyz CNAME .

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Dec 2025 10:37 UTC
-! Version: 2025.1207.1037.08
+! Last modified: 07 Dec 2025 14:40 UTC
+! Version: 2025.1207.1440.40
 ! Syntax: AdBlock
-! Number of entries: 801
+! Number of entries: 802
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -85,6 +85,7 @@
 ||dandelionsprout.asuscomm.com^
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
+||atris.cyou^
 ||dohtrial.att.net^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^

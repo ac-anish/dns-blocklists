@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 10:36 UTC
-# Version: 2025.1207.1036.38
+# Last modified: 07 Dec 2025 14:40 UTC
+# Version: 2025.1207.1440.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3346
+# Number of entries: 3347
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -309,6 +309,7 @@
 *.adguardhome.atakorah.com
 *.next.atomix.in
 *.vps.atomix.in
+*.atris.cyou
 *.atsilva.link
 *.atsssgo.xyz
 *.dohtrial.att.net
