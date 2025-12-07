@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 22:35 UTC
-# Version: 2025.1205.2235.17
+# Last modified: 07 Dec 2025 02:28 UTC
+# Version: 2025.1207.0228.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11295
+# Number of entries: 11296
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -467,6 +467,7 @@ local=/ahashare.com/
 local=/ahoy.one/
 local=/tracker.aibt.xyz/
 local=/aimhaven.com/
+local=/play.aimisayo.com/
 local=/aimweb.ru/
 local=/ainiesta.com/
 local=/aiosearch.com/
