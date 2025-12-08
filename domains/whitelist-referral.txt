@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 09:18 UTC
-# Version: 2025.1207.0918.03
+# Last modified: 08 Dec 2025 09:17 UTC
+# Version: 2025.1208.0917.53
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1582
+# Number of entries: 1590
 #
 1-aclk.net
 1aurl.io
@@ -235,6 +235,7 @@ static-mobile.cleverpush.com
 seu.cleverreach.com
 16255.seu.cleverreach.com
 17509.seu.cleverreach.com
+149654.17729.seu.cleverreach.com
 19706.seu.cleverreach.com
 22503.seu.cleverreach.com
 23196.seu.cleverreach.com
@@ -242,17 +243,20 @@ seu.cleverreach.com
 seu1.cleverreach.com
 94147.47223.seu1.cleverreach.com
 52586.seu1.cleverreach.com
+54310.seu1.cleverreach.com
 57361.seu1.cleverreach.com
 59131.seu1.cleverreach.com
 68214.seu1.cleverreach.com
 72611.seu1.cleverreach.com
 76216.seu1.cleverreach.com
+85516.seu1.cleverreach.com
 seu2.cleverreach.com
 103149.seu2.cleverreach.com
 123961.seu2.cleverreach.com
 131729.seu2.cleverreach.com
 140539.seu2.cleverreach.com
 163840.seu2.cleverreach.com
+164394.seu2.cleverreach.com
 166541.seu2.cleverreach.com
 174192.seu2.cleverreach.com
 192792.seu2.cleverreach.com
@@ -264,6 +268,7 @@ seu2.cleverreach.com
 227080.seu2.cleverreach.com
 227421.seu2.cleverreach.com
 229280.seu2.cleverreach.com
+234207.seu2.cleverreach.com
 237609.seu2.cleverreach.com
 245176.seu2.cleverreach.com
 248553.seu2.cleverreach.com
@@ -278,6 +283,7 @@ seu2.cleverreach.com
 361290.seu2.cleverreach.com
 382058.seu2.cleverreach.com
 393666.seu2.cleverreach.com
+426304.seu2.cleverreach.com
 92652.seu2.cleverreach.com
 94324.seu2.cleverreach.com
 click-trk.com
@@ -517,6 +523,7 @@ suite56.emarsys.net
 suite57.emarsys.net
 suite58.emarsys.net
 suite59.emarsys.net
+suite6.emarsys.net
 suite60.emarsys.net
 suite63.emarsys.net
 suite67-cf.emarsys.net
@@ -863,6 +870,7 @@ one.impact-ad.jp
 customtraffic.impactradius.com
 impulseonline.shop
 t.indeed.com
+tracking.inflection.io
 email-tracking.infobip.com
 rubsy.ingenious.cloud
 system360.inistrack.net

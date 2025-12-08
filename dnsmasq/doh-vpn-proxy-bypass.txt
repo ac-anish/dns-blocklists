@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 02:41 UTC
-# Version: 2025.1208.0241.07
+# Last modified: 08 Dec 2025 10:38 UTC
+# Version: 2025.1208.1038.21
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6208
+# Number of entries: 6223
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -492,6 +492,7 @@ local=/atsssgo.xyz/
 local=/dohtrial.att.net/
 local=/dns.audet.cloud/
 local=/dns.auffray.org/
+local=/read.aurdetailing.be/
 local=/auto-aufladen.de/
 local=/avanquestusa.com/
 local=/vanheim.ff.avast.com/
@@ -727,6 +728,7 @@ local=/dns2.bortus.io/
 local=/dns4.bortus.io/
 local=/doh.bortzmeyer.fr/
 local=/cloudns.bosco.ovh/
+local=/use.bostoncareercounselor.com/
 local=/botclassic.com/
 local=/pakupaku.bounceme.net/
 local=/dns.bovat.net/
@@ -929,6 +931,8 @@ local=/doh.cloud-sekeng.com/
 local=/dns.cloudfiction.eu/
 local=/meow.partedu.club.cdn.cloudflare.net/
 local=/dns.233py.com.cdn.cloudflare.net/
+local=/study.info.east-kazakhstan.su.cdn.cloudflare.net/
+local=/site.artweb.website.cdn.cloudflare.net/
 local=/learn.wiki-edu.xyz.cdn.cloudflare.net/
 local=/dns.cloudflare.com/
 local=/cloudflare-dns.com/
@@ -2469,6 +2473,7 @@ local=/grass.io/
 local=/gratisproxy.nl/
 local=/gratisvpn.com/
 local=/graveofhope.ru/
+local=/greatestfreeproxy.com/
 local=/dns.green-ping.lol/
 local=/adguard.green1052.com/
 local=/c00lkiddtech.ut.greenaudio.ch/
@@ -2503,6 +2508,7 @@ local=/dns2.guidocioni.it/
 local=/homedns.gumeniuk.com/
 local=/gumm.org/
 local=/dns.gupthabrothers.in/
+local=/edu.gurdit.com/
 local=/guruproxy.net/
 local=/dns.gussguss.ovh/
 local=/dns.gutwe.in/
@@ -2665,6 +2671,7 @@ local=/beta.holyunblocker.org/
 local=/cloud2.holzmannclouddns.de/
 local=/socolov.home.ro/
 local=/adguard.home-lab-network.com/
+local=/home-server.store/
 local=/pi.homeanywhere.org/
 local=/admin.homedns.uk/
 local=/isolacje.homeip.net/
@@ -3021,6 +3028,7 @@ local=/dns.juancamos.com/
 local=/judua3rtinpst0s.xyz/
 local=/juicysalmon.ru/
 local=/addns.jujuland.net/
+local=/abcmathforkids.jumpingcrab.com/
 local=/skoolisawsom76.nien.jumpingcrab.com/
 local=/qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com/
 local=/dns.jundev.org/
@@ -3172,6 +3180,7 @@ local=/dns.kukal.cz/
 local=/agh.kul-lippek.de/
 local=/dns.kusoneko.moe/
 local=/dns.kuuhaku.moe/
+local=/kx-97795-tr.xyz/
 local=/dns.kxy.ink/
 local=/dn.kyay006.cn/
 local=/joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org/
@@ -3192,6 +3201,7 @@ local=/2024.laijy.top/
 local=/adguard.lamhoangtung.space/
 local=/landerbrauver.ru/
 local=/ads-ch.landgame.net/
+local=/vpninuk.lant.info/
 local=/lantern.io/
 local=/x.laoban.fun/
 local=/mx1.laoxiao789.com/
@@ -3227,6 +3237,7 @@ local=/externalmobiel.lekdijk.online/
 local=/lelux.fi/
 local=/dns.lepilleur.com/
 local=/dns.lermer.nl/
+local=/lesuo.top/
 local=/letsvpn.world/
 local=/dns.levonet.sk/
 local=/lewsha.lol/
@@ -3933,6 +3944,7 @@ local=/onlineproxy.us/
 local=/adns.onlinetools.rocks/
 local=/adguard.onlyfriends.info/
 local=/d.onlyjsmylord.org/
+local=/info.onnemaa.ee/
 local=/andybunn.onthewifi.com/
 local=/onweb.info/
 local=/onyx7.com/
@@ -4528,6 +4540,7 @@ local=/dns.rbn.gr/
 local=/rcsm.ir/
 local=/searxng.rcxpony.name/
 local=/adguard.rdekuyper.nl/
+local=/edu.readerwrangler.com/
 local=/login.readinghelper.online/
 local=/dns.readlook.tk/
 local=/agh.realwap.net/
@@ -4840,6 +4853,7 @@ local=/dns.sindominio.net/
 local=/dns.sineone.icu/
 local=/sinesprox.cloud/
 local=/sinovpn.com/
+local=/family.sinuabi.ee/
 local=/sitdns.com/
 local=/site2unblock.com/
 local=/siteblockedbypass.com/
@@ -5367,6 +5381,7 @@ local=/totallyacdn.com/
 local=/totalvpn.com/
 local=/doh.totoro.pub/
 local=/touchvpn.net/
+local=/site.tovamiasto.com/
 local=/towervpn.com/
 local=/home.sso.toythieves.com/
 local=/chronicle14.tplinkdns.com/

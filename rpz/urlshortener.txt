@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765157700 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765186260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Dec 2025 01:35 UTC
-; Version: 2025.1208.0135.39
+; Last modified: 08 Dec 2025 09:31 UTC
+; Version: 2025.1208.0931.53
 ; Syntax: RPZ
-; Number of entries: 18994
+; Number of entries: 19006
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4297,6 +4297,8 @@ gosniply.com CNAME .
 *.gosniply.com CNAME .
 gozepher.com CNAME .
 *.gozepher.com CNAME .
+gpaylink.com CNAME .
+*.gpaylink.com CNAME .
 gplbaba.com CNAME .
 *.gplbaba.com CNAME .
 gplsouq.com CNAME .
@@ -4865,6 +4867,8 @@ linkrbio.com CNAME .
 *.linkrbio.com CNAME .
 links-bio.com CNAME .
 *.links-bio.com CNAME .
+links4money.com CNAME .
+*.links4money.com CNAME .
 linksdr.com CNAME .
 *.linksdr.com CNAME .
 linksero.com CNAME .
@@ -8549,6 +8553,8 @@ fce.gg CNAME .
 *.fce.gg CNAME .
 fn.gg CNAME .
 *.fn.gg CNAME .
+gg.gg CNAME .
+*.gg.gg CNAME .
 gir.gg CNAME .
 *.gir.gg CNAME .
 hier.gg CNAME .
@@ -9735,6 +9741,8 @@ lanjutkan.info CNAME .
 *.lanjutkan.info CNAME .
 lapaksensa.info CNAME .
 *.lapaksensa.info CNAME .
+ldgr.info CNAME .
+*.ldgr.info CNAME .
 lf8.info CNAME .
 *.lf8.info CNAME .
 lihat.info CNAME .
@@ -13355,6 +13363,8 @@ goo-gl.me CNAME .
 *.goo-gl.me CNAME .
 goqr.me CNAME .
 *.goqr.me CNAME .
+gotlink.me CNAME .
+*.gotlink.me CNAME .
 gourl.me CNAME .
 *.gourl.me CNAME .
 govhub.me CNAME .
@@ -13403,6 +13413,8 @@ iny.me CNAME .
 *.iny.me CNAME .
 t.iotex.me CNAME .
 *.t.iotex.me CNAME .
+ipoy.me CNAME .
+*.ipoy.me CNAME .
 itlinks.me CNAME .
 *.itlinks.me CNAME .
 izip.me CNAME .

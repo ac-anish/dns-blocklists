@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 02:40 UTC
-# Version: 2025.1208.0240.31
+# Last modified: 08 Dec 2025 10:37 UTC
+# Version: 2025.1208.1037.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3362
+# Number of entries: 3365
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1572,6 +1572,7 @@ local=/dns.hoian.one/
 local=/cloud2.holzmannclouddns.de/
 local=/socolov.home.ro/
 local=/adguard.home-lab-network.com/
+local=/home-server.store/
 local=/pi.homeanywhere.org/
 local=/admin.homedns.uk/
 local=/isolacje.homeip.net/
@@ -1906,6 +1907,7 @@ local=/dns.kukal.cz/
 local=/agh.kul-lippek.de/
 local=/dns.kusoneko.moe/
 local=/dns.kuuhaku.moe/
+local=/kx-97795-tr.xyz/
 local=/dns.kxy.ink/
 local=/dn.kyay006.cn/
 local=/agh.kyusang.win/
@@ -1945,6 +1947,7 @@ local=/externalmobiel.lekdijk.online/
 local=/lelux.fi/
 local=/dns.lepilleur.com/
 local=/dns.lermer.nl/
+local=/lesuo.top/
 local=/dns.levonet.sk/
 local=/lewsha.lol/
 local=/br2.lezainski.com/

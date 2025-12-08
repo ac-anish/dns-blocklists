@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 01:35 UTC
-# Version: 2025.1208.0135.39
+# Last modified: 08 Dec 2025 09:31 UTC
+# Version: 2025.1208.0931.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9497
+# Number of entries: 9503
 #
 local=/0.gp/
 local=/00m.in/
@@ -2911,6 +2911,7 @@ local=/gfl2exilium.link/
 local=/gfmt.link/
 local=/gfree.fr/
 local=/gfuel.ly/
+local=/gg.gg/
 local=/ggd.bz/
 local=/ggilfz.link/
 local=/ggl.link/
@@ -3063,6 +3064,7 @@ local=/gosniply.com/
 local=/got.cr/
 local=/got.to/
 local=/gotds.ru/
+local=/gotlink.me/
 local=/goto.my/
 local=/goto.now/
 local=/goto.pt/
@@ -3081,6 +3083,7 @@ local=/gowedia.link/
 local=/gowes.in/
 local=/goworldwide.co/
 local=/gozepher.com/
+local=/gpaylink.com/
 local=/gph.to/
 local=/gplbaba.com/
 local=/gplsouq.com/
@@ -3559,6 +3562,7 @@ local=/iplogger.org/
 local=/iplogger.ru/
 local=/iplwin.us/
 local=/ipm.mo/
+local=/ipoy.me/
 local=/iqiyi.cn/
 local=/iql.ink/
 local=/ir.cx/
@@ -4019,6 +4023,7 @@ local=/lccs.ovh/
 local=/url.lcisd.net/
 local=/lcp.ovh/
 local=/lcra-tamu.org/
+local=/ldgr.info/
 local=/leakslinks.com/
 local=/learn.to/
 local=/learnit.today/
@@ -4337,6 +4342,7 @@ local=/links.ec/
 local=/links.sl/
 local=/links-bio.com/
 local=/links2.me/
+local=/links4money.com/
 local=/linksa.me/
 local=/linksable.to/
 local=/linksdr.com/

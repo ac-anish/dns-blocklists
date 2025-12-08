@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 08 Dec 2025 02:41 UTC
-! Version: 2025.1208.0241.07
+! Last modified: 08 Dec 2025 10:38 UTC
+! Version: 2025.1208.1038.21
 ! Syntax: AdBlock
-! Number of entries: 6208
+! Number of entries: 6223
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -493,6 +493,7 @@
 ||dohtrial.att.net^
 ||dns.audet.cloud^
 ||dns.auffray.org^
+||read.aurdetailing.be^
 ||auto-aufladen.de^
 ||avanquestusa.com^
 ||vanheim.ff.avast.com^
@@ -728,6 +729,7 @@
 ||dns4.bortus.io^
 ||doh.bortzmeyer.fr^
 ||cloudns.bosco.ovh^
+||use.bostoncareercounselor.com^
 ||botclassic.com^
 ||pakupaku.bounceme.net^
 ||dns.bovat.net^
@@ -930,6 +932,8 @@
 ||dns.cloudfiction.eu^
 ||meow.partedu.club.cdn.cloudflare.net^
 ||dns.233py.com.cdn.cloudflare.net^
+||study.info.east-kazakhstan.su.cdn.cloudflare.net^
+||site.artweb.website.cdn.cloudflare.net^
 ||learn.wiki-edu.xyz.cdn.cloudflare.net^
 ||dns.cloudflare.com^
 ||cloudflare-dns.com^
@@ -2470,6 +2474,7 @@
 ||gratisproxy.nl^
 ||gratisvpn.com^
 ||graveofhope.ru^
+||greatestfreeproxy.com^
 ||dns.green-ping.lol^
 ||adguard.green1052.com^
 ||c00lkiddtech.ut.greenaudio.ch^
@@ -2504,6 +2509,7 @@
 ||homedns.gumeniuk.com^
 ||gumm.org^
 ||dns.gupthabrothers.in^
+||edu.gurdit.com^
 ||guruproxy.net^
 ||dns.gussguss.ovh^
 ||dns.gutwe.in^
@@ -2666,6 +2672,7 @@
 ||cloud2.holzmannclouddns.de^
 ||socolov.home.ro^
 ||adguard.home-lab-network.com^
+||home-server.store^
 ||pi.homeanywhere.org^
 ||admin.homedns.uk^
 ||isolacje.homeip.net^
@@ -3022,6 +3029,7 @@
 ||judua3rtinpst0s.xyz^
 ||juicysalmon.ru^
 ||addns.jujuland.net^
+||abcmathforkids.jumpingcrab.com^
 ||skoolisawsom76.nien.jumpingcrab.com^
 ||qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com^
 ||dns.jundev.org^
@@ -3173,6 +3181,7 @@
 ||agh.kul-lippek.de^
 ||dns.kusoneko.moe^
 ||dns.kuuhaku.moe^
+||kx-97795-tr.xyz^
 ||dns.kxy.ink^
 ||dn.kyay006.cn^
 ||joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org^
@@ -3193,6 +3202,7 @@
 ||adguard.lamhoangtung.space^
 ||landerbrauver.ru^
 ||ads-ch.landgame.net^
+||vpninuk.lant.info^
 ||lantern.io^
 ||x.laoban.fun^
 ||mx1.laoxiao789.com^
@@ -3228,6 +3238,7 @@
 ||lelux.fi^
 ||dns.lepilleur.com^
 ||dns.lermer.nl^
+||lesuo.top^
 ||letsvpn.world^
 ||dns.levonet.sk^
 ||lewsha.lol^
@@ -3934,6 +3945,7 @@
 ||adns.onlinetools.rocks^
 ||adguard.onlyfriends.info^
 ||d.onlyjsmylord.org^
+||info.onnemaa.ee^
 ||andybunn.onthewifi.com^
 ||onweb.info^
 ||onyx7.com^
@@ -4529,6 +4541,7 @@
 ||rcsm.ir^
 ||searxng.rcxpony.name^
 ||adguard.rdekuyper.nl^
+||edu.readerwrangler.com^
 ||login.readinghelper.online^
 ||dns.readlook.tk^
 ||agh.realwap.net^
@@ -4841,6 +4854,7 @@
 ||dns.sineone.icu^
 ||sinesprox.cloud^
 ||sinovpn.com^
+||family.sinuabi.ee^
 ||sitdns.com^
 ||site2unblock.com^
 ||siteblockedbypass.com^
@@ -5368,6 +5382,7 @@
 ||totalvpn.com^
 ||doh.totoro.pub^
 ||touchvpn.net^
+||site.tovamiasto.com^
 ||towervpn.com^
 ||home.sso.toythieves.com^
 ||chronicle14.tplinkdns.com^

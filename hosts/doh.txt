@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 02:40 UTC
-# Version: 2025.1208.0240.31
+# Last modified: 08 Dec 2025 10:37 UTC
+# Version: 2025.1208.1037.44
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3838
+# Number of entries: 3841
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1815,6 +1815,7 @@
 0.0.0.0 cloud2.holzmannclouddns.de
 0.0.0.0 socolov.home.ro
 0.0.0.0 adguard.home-lab-network.com
+0.0.0.0 home-server.store
 0.0.0.0 pi.homeanywhere.org
 0.0.0.0 admin.homedns.uk
 0.0.0.0 isolacje.homeip.net
@@ -2229,6 +2230,7 @@
 0.0.0.0 agh.kul-lippek.de
 0.0.0.0 dns.kusoneko.moe
 0.0.0.0 dns.kuuhaku.moe
+0.0.0.0 kx-97795-tr.xyz
 0.0.0.0 dns.kxy.ink
 0.0.0.0 dn.kyay006.cn
 0.0.0.0 agh.kyusang.win
@@ -2269,6 +2271,7 @@
 0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
 0.0.0.0 dns.lermer.nl
+0.0.0.0 lesuo.top
 0.0.0.0 dns.levonet.sk
 0.0.0.0 lewsha.lol
 0.0.0.0 br2.lezainski.com

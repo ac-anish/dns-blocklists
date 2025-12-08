@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765161660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765190280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Dec 2025 02:41 UTC
-; Version: 2025.1208.0241.07
+; Last modified: 08 Dec 2025 10:38 UTC
+; Version: 2025.1208.1038.21
 ; Syntax: RPZ
-; Number of entries: 12416
+; Number of entries: 12446
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -235,6 +235,8 @@ xfer.au CNAME .
 *.xfer.au CNAME .
 adg.dz.ax CNAME .
 *.adg.dz.ax CNAME .
+read.aurdetailing.be CNAME .
+*.read.aurdetailing.be CNAME .
 dns.belnet.be CNAME .
 *.dns.belnet.be CNAME .
 9132706292.cloudns.be CNAME .
@@ -1511,6 +1513,8 @@ boomproxy.com CNAME .
 *.boomproxy.com CNAME .
 booster456.com CNAME .
 *.booster456.com CNAME .
+use.bostoncareercounselor.com CNAME .
+*.use.bostoncareercounselor.com CNAME .
 botclassic.com CNAME .
 *.botclassic.com CNAME .
 boxpn.com CNAME .
@@ -2321,6 +2325,8 @@ adguard.grantbruneau.com CNAME .
 *.adguard.grantbruneau.com CNAME .
 gratisvpn.com CNAME .
 *.gratisvpn.com CNAME .
+greatestfreeproxy.com CNAME .
+*.greatestfreeproxy.com CNAME .
 adguard.green1052.com CNAME .
 *.adguard.green1052.com CNAME .
 greenssh.com CNAME .
@@ -2343,6 +2349,8 @@ guavi.com CNAME .
 *.guavi.com CNAME .
 homedns.gumeniuk.com CNAME .
 *.homedns.gumeniuk.com CNAME .
+edu.gurdit.com CNAME .
+*.edu.gurdit.com CNAME .
 gvirabi.com CNAME .
 *.gvirabi.com CNAME .
 gwopboyded.com CNAME .
@@ -2711,6 +2719,8 @@ dns.jstockley.com CNAME .
 *.dns.jstockley.com CNAME .
 dns.juancamos.com CNAME .
 *.dns.juancamos.com CNAME .
+abcmathforkids.jumpingcrab.com CNAME .
+*.abcmathforkids.jumpingcrab.com CNAME .
 skoolisawsom76.nien.jumpingcrab.com CNAME .
 *.skoolisawsom76.nien.jumpingcrab.com CNAME .
 qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com CNAME .
@@ -3619,6 +3629,8 @@ dns.rayanbab.com CNAME .
 *.dns.rayanbab.com CNAME .
 rayobyte.com CNAME .
 *.rayobyte.com CNAME .
+edu.readerwrangler.com CNAME .
+*.edu.readerwrangler.com CNAME .
 hk.reaticle.com CNAME .
 *.hk.reaticle.com CNAME .
 redscrape.com CNAME .
@@ -4123,6 +4135,8 @@ totallyacdn.com CNAME .
 *.totallyacdn.com CNAME .
 totalvpn.com CNAME .
 *.totalvpn.com CNAME .
+site.tovamiasto.com CNAME .
+*.site.tovamiasto.com CNAME .
 towervpn.com CNAME .
 *.towervpn.com CNAME .
 home.sso.toythieves.com CNAME .
@@ -5309,6 +5323,10 @@ doh.koduarve.ee CNAME .
 *.doh.koduarve.ee CNAME .
 dns.l6.ee CNAME .
 *.dns.l6.ee CNAME .
+info.onnemaa.ee CNAME .
+*.info.onnemaa.ee CNAME .
+family.sinuabi.ee CNAME .
+*.family.sinuabi.ee CNAME .
 ahoj.email CNAME .
 *.ahoj.email CNAME .
 mabuktogel.enterprises CNAME .
@@ -6247,6 +6265,8 @@ kilabit.info CNAME .
 *.kilabit.info CNAME .
 lorc17-dns.komeho.info CNAME .
 *.lorc17-dns.komeho.info CNAME .
+vpninuk.lant.info CNAME .
+*.vpninuk.lant.info CNAME .
 legalweb.info CNAME .
 *.legalweb.info CNAME .
 literally.info CNAME .
@@ -7557,6 +7577,10 @@ meow.partedu.club.cdn.cloudflare.net CNAME .
 *.meow.partedu.club.cdn.cloudflare.net CNAME .
 dns.233py.com.cdn.cloudflare.net CNAME .
 *.dns.233py.com.cdn.cloudflare.net CNAME .
+study.info.east-kazakhstan.su.cdn.cloudflare.net CNAME .
+*.study.info.east-kazakhstan.su.cdn.cloudflare.net CNAME .
+site.artweb.website.cdn.cloudflare.net CNAME .
+*.site.artweb.website.cdn.cloudflare.net CNAME .
 learn.wiki-edu.xyz.cdn.cloudflare.net CNAME .
 *.learn.wiki-edu.xyz.cdn.cloudflare.net CNAME .
 d101vabyweqq2v.cloudfront.net CNAME .
@@ -11177,6 +11201,8 @@ center-crm.store CNAME .
 *.center-crm.store CNAME .
 fun4school.store CNAME .
 *.fun4school.store CNAME .
+home-server.store CNAME .
+*.home-server.store CNAME .
 minilla.store CNAME .
 *.minilla.store CNAME .
 node9.servernode.store CNAME .
@@ -11369,6 +11395,8 @@ blog.kimiblock.top CNAME .
 *.2024.laijy.top CNAME .
 lboxtv.top CNAME .
 *.lboxtv.top CNAME .
+lesuo.top CNAME .
+*.lesuo.top CNAME .
 litevpn.top CNAME .
 *.litevpn.top CNAME .
 xm.ln7371.top CNAME .
@@ -12239,6 +12267,8 @@ ko-18948-tr.xyz CNAME .
 *.ko-18948-tr.xyz CNAME .
 www-proxy.konstl01.xyz CNAME .
 *.www-proxy.konstl01.xyz CNAME .
+kx-97795-tr.xyz CNAME .
+*.kx-97795-tr.xyz CNAME .
 tr.league1.xyz CNAME .
 *.tr.league1.xyz CNAME .
 ledfordmiddleschool.xyz CNAME .
