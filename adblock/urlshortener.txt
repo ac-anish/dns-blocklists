@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Dec 2025 13:32 UTC
-! Version: 2025.1207.1332.02
+! Last modified: 08 Dec 2025 01:35 UTC
+! Version: 2025.1208.0135.39
 ! Syntax: AdBlock
-! Number of entries: 9485
+! Number of entries: 9497
 !
 ||0.gp^
 ||00m.in^
@@ -1109,6 +1109,7 @@
 ||bit-ely.com^
 ||bit24.live^
 ||go.bitcomma.com^
+||bitded.com^
 ||bitesli.com^
 ||bitfy.cc^
 ||bitgg.co^
@@ -1121,6 +1122,7 @@
 ||bitli.pro^
 ||bitlink.one^
 ||bitlnx.com^
+||bitly.best^
 ||bitly.bz^
 ||bitly.com^
 ||bitly.cx^
@@ -1150,6 +1152,7 @@
 ||bittylink.com^
 ||bittyurl.co^
 ||biturl.in^
+||biturl.site^
 ||biturl.top^
 ||bitw.in^
 ||bitx.bio^
@@ -1412,6 +1415,7 @@
 ||c6.rip^
 ||c80.us^
 ||c87.to^
+||cabletv.live^
 ||cactusskyonline.com^
 ||cadill.ac^
 ||cal.link^
@@ -1671,6 +1675,7 @@
 ||clk.asia^
 ||clk.bz^
 ||clk.sh^
+||clk.vc^
 ||clkd.io^
 ||clkon.us^
 ||clkro.com^
@@ -2113,6 +2118,7 @@
 ||s.deemos.com^
 ||url.deep.sg^
 ||deepcore.in^
+||defigodirect.com^
 ||defwdsccvf.today^
 ||dehe.ir^
 ||deheh.ir^
@@ -2148,6 +2154,7 @@
 ||dft.ba^
 ||dfthethao.com^
 ||dfy.is^
+||dgkad.com^
 ||dglnk.me^
 ||dgms.es^
 ||dgo.to^
@@ -2224,12 +2231,14 @@
 ||dockr.ly^
 ||docremedio.xyz^
 ||docthem.link^
+||docusignredirectsharepoint.life^
 ||dogelexus.win^
 ||dogelexusin.store^
 ||doiop.com^
 ||dojobe.link^
 ||dokdo.in^
 ||dolr.in^
+||domainul.com^
 ||domi.link^
 ||domixox.com^
 ||domlink.ink^
@@ -2294,6 +2303,7 @@
 ||dtdg.co^
 ||dte.bz^
 ||dti.io^
+||dtl.la^
 ||dtsx.io^
 ||duakale.me^
 ||dub.co^
@@ -2309,6 +2319,7 @@
 ||durvainfratech.com^
 ||dus.im^
 ||dv.gd^
+||dviel.com^
 ||link.dvlog.vn^
 ||dvlr.it^
 ||dvo.tips^
@@ -2632,6 +2643,7 @@
 ||ffxiv.link^
 ||fgurl.net^
 ||fhurl.com^
+||fi9.ir^
 ||fiatconnect.app^
 ||fibr.ai^
 ||ficken.ws^

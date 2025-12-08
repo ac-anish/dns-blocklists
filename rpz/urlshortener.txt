@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765114320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765157700 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 07 Dec 2025 13:32 UTC
-; Version: 2025.1207.1332.02
+; Last modified: 08 Dec 2025 01:35 UTC
+; Version: 2025.1208.0135.39
 ; Syntax: RPZ
-; Number of entries: 18970
+; Number of entries: 18994
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -935,6 +935,8 @@ radiances.beauty CNAME .
 *.radiances.beauty CNAME .
 hu.berlin CNAME .
 *.hu.berlin CNAME .
+bitly.best CNAME .
+*.bitly.best CNAME .
 fighter234.best CNAME .
 *.fighter234.best CNAME .
 klik.best CNAME .
@@ -3429,6 +3431,8 @@ bit-ely.com CNAME .
 *.bit-ely.com CNAME .
 go.bitcomma.com CNAME .
 *.go.bitcomma.com CNAME .
+bitded.com CNAME .
+*.bitded.com CNAME .
 bitesli.com CNAME .
 *.bitesli.com CNAME .
 bitigee.com CNAME .
@@ -3861,6 +3865,8 @@ decenturl.com CNAME .
 *.decenturl.com CNAME .
 s.deemos.com CNAME .
 *.s.deemos.com CNAME .
+defigodirect.com CNAME .
+*.defigodirect.com CNAME .
 delivr.com CNAME .
 *.delivr.com CNAME .
 demcon24.com CNAME .
@@ -3889,6 +3895,8 @@ dfkr77.com CNAME .
 *.dfkr77.com CNAME .
 dfthethao.com CNAME .
 *.dfthethao.com CNAME .
+dgkad.com CNAME .
+*.dgkad.com CNAME .
 digbig.com CNAME .
 *.digbig.com CNAME .
 digg.com CNAME .
@@ -3917,6 +3925,8 @@ doburl.com CNAME .
 *.doburl.com CNAME .
 doiop.com CNAME .
 *.doiop.com CNAME .
+domainul.com CNAME .
+*.domainul.com CNAME .
 domixox.com CNAME .
 *.domixox.com CNAME .
 dotalink.com CNAME .
@@ -3949,6 +3959,8 @@ dukehealthwiki.com CNAME .
 *.dukehealthwiki.com CNAME .
 durvainfratech.com CNAME .
 *.durvainfratech.com CNAME .
+dviel.com CNAME .
+*.dviel.com CNAME .
 p.dw.com CNAME .
 *.p.dw.com CNAME .
 dwarfurl.com CNAME .
@@ -10659,6 +10671,8 @@ ebbco.ir CNAME .
 *.ebbco.ir CNAME .
 ee9.ir CNAME .
 *.ee9.ir CNAME .
+fi9.ir CNAME .
+*.fi9.ir CNAME .
 fna.ir CNAME .
 *.fna.ir CNAME .
 go2l.ir CNAME .
@@ -11219,6 +11233,8 @@ coba.la CNAME .
 *.coba.la CNAME .
 dow.la CNAME .
 *.dow.la CNAME .
+dtl.la CNAME .
+*.dtl.la CNAME .
 hubs.la CNAME .
 *.hubs.la CNAME .
 krazy.la CNAME .
@@ -11583,6 +11599,8 @@ cuoinamdiedm.life CNAME .
 *.cuoinamdiedm.life CNAME .
 decimalegion.life CNAME .
 *.decimalegion.life CNAME .
+docusignredirectsharepoint.life CNAME .
+*.docusignredirectsharepoint.life CNAME .
 dr-lisa.life CNAME .
 *.dr-lisa.life CNAME .
 dreamshigh.life CNAME .
@@ -12487,6 +12505,8 @@ bit24.live CNAME .
 *.bit24.live CNAME .
 builthow.live CNAME .
 *.builthow.live CNAME .
+cabletv.live CNAME .
+*.cabletv.live CNAME .
 cgvoice.live CNAME .
 *.cgvoice.live CNAME .
 clotplaynews.live CNAME .
@@ -16767,6 +16787,8 @@ as1ansl0t88.site CNAME .
 *.as1ansl0t88.site CNAME .
 bitlee.site CNAME .
 *.bitlee.site CNAME .
+biturl.site CNAME .
+*.biturl.site CNAME .
 bprl.site CNAME .
 *.bprl.site CNAME .
 easyurl.site CNAME .
@@ -18409,6 +18431,8 @@ yww.uy CNAME .
 *.1link.vc CNAME .
 bc.vc CNAME .
 *.bc.vc CNAME .
+clk.vc CNAME .
+*.clk.vc CNAME .
 natura.com.vc CNAME .
 *.natura.com.vc CNAME .
 tim.com.vc CNAME .

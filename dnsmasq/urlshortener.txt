@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 13:32 UTC
-# Version: 2025.1207.1332.02
+# Last modified: 08 Dec 2025 01:35 UTC
+# Version: 2025.1208.0135.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9485
+# Number of entries: 9497
 #
 local=/0.gp/
 local=/00m.in/
@@ -1108,6 +1108,7 @@ local=/bit.ly/
 local=/bit-ely.com/
 local=/bit24.live/
 local=/go.bitcomma.com/
+local=/bitded.com/
 local=/bitesli.com/
 local=/bitfy.cc/
 local=/bitgg.co/
@@ -1120,6 +1121,7 @@ local=/bitli.li/
 local=/bitli.pro/
 local=/bitlink.one/
 local=/bitlnx.com/
+local=/bitly.best/
 local=/bitly.bz/
 local=/bitly.com/
 local=/bitly.cx/
@@ -1149,6 +1151,7 @@ local=/bitstackhub.com/
 local=/bittylink.com/
 local=/bittyurl.co/
 local=/biturl.in/
+local=/biturl.site/
 local=/biturl.top/
 local=/bitw.in/
 local=/bitx.bio/
@@ -1411,6 +1414,7 @@ local=/c4x.ir/
 local=/c6.rip/
 local=/c80.us/
 local=/c87.to/
+local=/cabletv.live/
 local=/cactusskyonline.com/
 local=/cadill.ac/
 local=/cal.link/
@@ -1670,6 +1674,7 @@ local=/clixtrac.com/
 local=/clk.asia/
 local=/clk.bz/
 local=/clk.sh/
+local=/clk.vc/
 local=/clkd.io/
 local=/clkon.us/
 local=/clkro.com/
@@ -2112,6 +2117,7 @@ local=/dee.pl/
 local=/s.deemos.com/
 local=/url.deep.sg/
 local=/deepcore.in/
+local=/defigodirect.com/
 local=/defwdsccvf.today/
 local=/dehe.ir/
 local=/deheh.ir/
@@ -2147,6 +2153,7 @@ local=/dfl8.me/
 local=/dft.ba/
 local=/dfthethao.com/
 local=/dfy.is/
+local=/dgkad.com/
 local=/dglnk.me/
 local=/dgms.es/
 local=/dgo.to/
@@ -2223,12 +2230,14 @@ local=/doburl.com/
 local=/dockr.ly/
 local=/docremedio.xyz/
 local=/docthem.link/
+local=/docusignredirectsharepoint.life/
 local=/dogelexus.win/
 local=/dogelexusin.store/
 local=/doiop.com/
 local=/dojobe.link/
 local=/dokdo.in/
 local=/dolr.in/
+local=/domainul.com/
 local=/domi.link/
 local=/domixox.com/
 local=/domlink.ink/
@@ -2293,6 +2302,7 @@ local=/dsyixm.com/
 local=/dtdg.co/
 local=/dte.bz/
 local=/dti.io/
+local=/dtl.la/
 local=/dtsx.io/
 local=/duakale.me/
 local=/dub.co/
@@ -2308,6 +2318,7 @@ local=/durl.pw/
 local=/durvainfratech.com/
 local=/dus.im/
 local=/dv.gd/
+local=/dviel.com/
 local=/link.dvlog.vn/
 local=/dvlr.it/
 local=/dvo.tips/
@@ -2631,6 +2642,7 @@ local=/ffm.to/
 local=/ffxiv.link/
 local=/fgurl.net/
 local=/fhurl.com/
+local=/fi9.ir/
 local=/fiatconnect.app/
 local=/fibr.ai/
 local=/ficken.ws/

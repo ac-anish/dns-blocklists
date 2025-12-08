@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 07 Dec 2025 14:40 UTC
-! Version: 2025.1207.1440.40
+! Last modified: 08 Dec 2025 02:41 UTC
+! Version: 2025.1208.0241.00
 ! Syntax: AdBlock
-! Number of entries: 802
+! Number of entries: 804
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -190,6 +190,7 @@
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
 ||dns.decloudus.com^
 ||frank-web.dedyn.io^
+||deep-henchman-excuse.cfd^
 ||adguard.dekonix.ru^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
@@ -265,6 +266,7 @@
 ||dns1.dnscrypt.ca^
 ||do.dnscrypt.uk^
 ||dnsdoh.art^
+||dnsenc.com^
 ||dnsforfamily.com^
 ||dnsforge.de^
 ||dnsguard.pub^

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 14:40 UTC
-# Version: 2025.1207.1440.11
+# Last modified: 08 Dec 2025 02:40 UTC
+# Version: 2025.1208.0240.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3347
+# Number of entries: 3362
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -448,6 +448,7 @@ local=/botclassic.com/
 local=/dns.bovat.net/
 local=/adguard.boykevanvugt.nl/
 local=/adguard2.boykevanvugt.nl/
+local=/dns.braene.com/
 local=/dns.brahma.world/
 local=/bravedns.com/
 local=/dns.brembeck.cloud/
@@ -482,6 +483,7 @@ local=/doh.captnemo.in/
 local=/unifi.carioka.com/
 local=/dns.carson-family.com/
 local=/dns.caspervk.net/
+local=/catchen121299.top/
 local=/catdns.org/
 local=/sg-119.cattery.work/
 local=/alidns.cb1999.top/
@@ -678,6 +680,7 @@ local=/hk.conana.info/
 local=/dns1.conne.net/
 local=/dns.connect.fail/
 local=/dns.consoro.eu/
+local=/dns.containerpi.com/
 local=/dns.controld.com/
 local=/doh.controld.com/
 local=/freedns.controld.com/
@@ -709,7 +712,9 @@ local=/qual.cuprum.ru/
 local=/curser.dev/
 local=/dns.cwlys.com/
 local=/gc.cyberbeta.cn/
+local=/dns.cybertonic.tech/
 local=/dns2.cybrespace.net/
+local=/cynntex.fun/
 local=/dns.cynthialabs.net/
 local=/nextcloud.d-alahmad.de/
 local=/dns.d365.in/
@@ -796,6 +801,7 @@ local=/k03.dedyn.io/
 local=/dns.skous.dedyn.io/
 local=/unraid.dedyn.io/
 local=/dns.deekshith.in/
+local=/deep-henchman-excuse.cfd/
 local=/doh.defaultroutes.de/
 local=/defendfrienddns.fyi/
 local=/de.deghy.ir/
@@ -847,6 +853,7 @@ local=/dns.sb/
 local=/dns.watch/
 local=/fargos2.dns.army/
 local=/guigu.dns.army/
+local=/homec92.dns.army/
 local=/dns.dns-53.com/
 local=/dns.dns-53.uk/
 local=/dns.dns-53.us/
@@ -1027,6 +1034,7 @@ local=/do.dnscrypt.uk/
 local=/doh.dnscrypt.uk/
 local=/v.dnscrypt.uk/
 local=/dnsdoh.art/
+local=/dnsenc.com/
 local=/th1.dnsfinder.ir/
 local=/doh-lb-atl.dnsflex.com/
 local=/doh-lb-br.dnsflex.com/
@@ -1069,6 +1077,7 @@ local=/sg1.dnswarden.com/
 local=/uncensored-dot.dnswarden.com/
 local=/doh.us.dnswarden.com/
 local=/dnswebvsn.com/
+local=/do-39574-tr.xyz/
 local=/docker-hub.ir/
 local=/doh.beauty/
 local=/doh.best/
@@ -1150,6 +1159,8 @@ local=/vpich.duckdns.org/
 local=/wired-guardian.duckdns.org/
 local=/wisehomeguard.duckdns.org/
 local=/workcavestl.duckdns.org/
+local=/x-o-x.duckdns.org/
+local=/x861g.duckdns.org/
 local=/test.zkwg.duckdns.org/
 local=/duii.de/
 local=/dukun.de/
@@ -1169,6 +1180,7 @@ local=/flyloadguard.dynu.net/
 local=/oostelbos.dynu.com/
 local=/quangdo92.dynu.net/
 local=/saomai.dynu.com/
+local=/gustamadh.dynv6.net/
 local=/dns.dynx.pro/
 local=/adg.dz.ax/
 local=/az.dz4fun.top/
@@ -1183,6 +1195,7 @@ local=/dns.eddi.net/
 local=/doh.eddi.net/
 local=/dns.edgeburnmedia.com/
 local=/dns.edgeworkssystems.ca/
+local=/dns.edgy.network/
 local=/edgy-dns.com/
 local=/agh.amber.edu.vn/
 local=/adblocker.institutobancario.edu.mx/
@@ -1241,6 +1254,7 @@ local=/beautifullife.eu.org/
 local=/beautifulthings.eu.org/
 local=/jp.dns.bliod.eu.org/
 local=/clic.eu.org/
+local=/resolver.dns.eban.eu.org/
 local=/doh.excdn.eu.org/
 local=/doh.greenwood.eu.org/
 local=/sweethome.in.eu.org/
@@ -1323,6 +1337,7 @@ local=/dns.flatuslifir.is/
 local=/spyro-the-bat.fleuryk.ovh/
 local=/spyrothebat.fleuryk.ovh/
 local=/vps.fleuryk.ovh/
+local=/dns.flightspace.net/
 local=/dns01.flm9.net/
 local=/ns1.flodns.net/
 local=/ns2.flodns.net/

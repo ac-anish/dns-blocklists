@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 14:40 UTC
-# Version: 2025.1207.1440.11
+# Last modified: 08 Dec 2025 02:40 UTC
+# Version: 2025.1208.0240.31
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3823
+# Number of entries: 3838
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -517,6 +517,7 @@
 0.0.0.0 dns.bovat.net
 0.0.0.0 adguard.boykevanvugt.nl
 0.0.0.0 adguard2.boykevanvugt.nl
+0.0.0.0 dns.braene.com
 0.0.0.0 dns.brahma.world
 0.0.0.0 bravedns.com
 0.0.0.0 basic.bravedns.com
@@ -555,6 +556,7 @@
 0.0.0.0 unifi.carioka.com
 0.0.0.0 dns.carson-family.com
 0.0.0.0 dns.caspervk.net
+0.0.0.0 catchen121299.top
 0.0.0.0 catdns.org
 0.0.0.0 sg-119.cattery.work
 0.0.0.0 alidns.cb1999.top
@@ -805,6 +807,7 @@
 0.0.0.0 dns1.conne.net
 0.0.0.0 dns.connect.fail
 0.0.0.0 dns.consoro.eu
+0.0.0.0 dns.containerpi.com
 0.0.0.0 dns.controld.com
 0.0.0.0 doh.controld.com
 0.0.0.0 freedns.controld.com
@@ -850,7 +853,9 @@
 0.0.0.0 dns.curser.dev
 0.0.0.0 dns.cwlys.com
 0.0.0.0 gc.cyberbeta.cn
+0.0.0.0 dns.cybertonic.tech
 0.0.0.0 dns2.cybrespace.net
+0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 nextcloud.d-alahmad.de
 0.0.0.0 dns.d365.in
@@ -937,6 +942,7 @@
 0.0.0.0 dns.skous.dedyn.io
 0.0.0.0 unraid.dedyn.io
 0.0.0.0 dns.deekshith.in
+0.0.0.0 deep-henchman-excuse.cfd
 0.0.0.0 doh.defaultroutes.de
 0.0.0.0 defendfrienddns.fyi
 0.0.0.0 de.deghy.ir
@@ -1008,6 +1014,7 @@
 0.0.0.0 doh.dns.sb
 0.0.0.0 fargos2.dns.army
 0.0.0.0 guigu.dns.army
+0.0.0.0 homec92.dns.army
 0.0.0.0 public-dns-a.dns.sb
 0.0.0.0 public-dns-b.dns.sb
 0.0.0.0 dns.dns-53.com
@@ -1206,6 +1213,7 @@
 0.0.0.0 doh.dnscrypt.uk
 0.0.0.0 v.dnscrypt.uk
 0.0.0.0 dnsdoh.art
+0.0.0.0 dnsenc.com
 0.0.0.0 th1.dnsfinder.ir
 0.0.0.0 doh-lb-atl.dnsflex.com
 0.0.0.0 doh-lb-br.dnsflex.com
@@ -1256,6 +1264,7 @@
 0.0.0.0 uncensored-dot.dnswarden.com
 0.0.0.0 doh.us.dnswarden.com
 0.0.0.0 dnswebvsn.com
+0.0.0.0 do-39574-tr.xyz
 0.0.0.0 docker-hub.ir
 0.0.0.0 doh.beauty
 0.0.0.0 doh.best
@@ -1374,6 +1383,8 @@
 0.0.0.0 wired-guardian.duckdns.org
 0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
+0.0.0.0 x-o-x.duckdns.org
+0.0.0.0 x861g.duckdns.org
 0.0.0.0 test.zkwg.duckdns.org
 0.0.0.0 duii.de
 0.0.0.0 dukun.de
@@ -1394,6 +1405,7 @@
 0.0.0.0 oostelbos.dynu.com
 0.0.0.0 quangdo92.dynu.net
 0.0.0.0 saomai.dynu.com
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
@@ -1408,6 +1420,7 @@
 0.0.0.0 doh.eddi.net
 0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 dns.edgeworkssystems.ca
+0.0.0.0 dns.edgy.network
 0.0.0.0 edgy-dns.com
 0.0.0.0 agh.amber.edu.vn
 0.0.0.0 adblocker.institutobancario.edu.mx
@@ -1471,6 +1484,7 @@
 0.0.0.0 www.beautifulthings.eu.org
 0.0.0.0 jp.dns.bliod.eu.org
 0.0.0.0 clic.eu.org
+0.0.0.0 resolver.dns.eban.eu.org
 0.0.0.0 doh.excdn.eu.org
 0.0.0.0 doh.greenwood.eu.org
 0.0.0.0 sweethome.in.eu.org
@@ -1556,6 +1570,7 @@
 0.0.0.0 spyro-the-bat.fleuryk.ovh
 0.0.0.0 spyrothebat.fleuryk.ovh
 0.0.0.0 vps.fleuryk.ovh
+0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
 0.0.0.0 ns1.flodns.net
 0.0.0.0 ns2.flodns.net
