@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765186260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765215120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Dec 2025 09:31 UTC
-; Version: 2025.1208.0931.53
+; Last modified: 08 Dec 2025 17:32 UTC
+; Version: 2025.1208.1732.00
 ; Syntax: RPZ
-; Number of entries: 19006
+; Number of entries: 19020
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5035,6 +5035,8 @@ u.mavrev.com CNAME .
 *.u.mavrev.com CNAME .
 maxiurl.com CNAME .
 *.maxiurl.com CNAME .
+maxurlz.com CNAME .
+*.maxurlz.com CNAME .
 maxvancollenburg.com CNAME .
 *.maxvancollenburg.com CNAME .
 mayaediciones.com CNAME .
@@ -5143,6 +5145,8 @@ mmgurl.com CNAME .
 *.mmgurl.com CNAME .
 mmo-it.com CNAME .
 *.mmo-it.com CNAME .
+mnbef.com CNAME .
+*.mnbef.com CNAME .
 ai.mobirise.com CNAME .
 *.ai.mobirise.com CNAME .
 moderncampus.com CNAME .
@@ -5481,6 +5485,8 @@ perrinator.com CNAME .
 *.perrinator.com CNAME .
 persocheck.com CNAME .
 *.persocheck.com CNAME .
+petesmarketinghub.com CNAME .
+*.petesmarketinghub.com CNAME .
 petrovay.com CNAME .
 *.petrovay.com CNAME .
 pgoapps.com CNAME .
@@ -9453,6 +9459,8 @@ pgrs.in CNAME .
 *.pgrs.in CNAME .
 phst.in CNAME .
 *.phst.in CNAME .
+pich.in CNAME .
+*.pich.in CNAME .
 psfl.in CNAME .
 *.psfl.in CNAME .
 puext.in CNAME .
@@ -11191,6 +11199,8 @@ me2.kr CNAME .
 *.me2.kr CNAME .
 nyr.kr CNAME .
 *.nyr.kr CNAME .
+ozz.kr CNAME .
+*.ozz.kr CNAME .
 link.payple.kr CNAME .
 *.link.payple.kr CNAME .
 plz.kr CNAME .
@@ -17043,6 +17053,8 @@ nyp.st CNAME .
 *.nyp.st CNAME .
 p.st CNAME .
 *.p.st CNAME .
+pin.st CNAME .
+*.pin.st CNAME .
 po.st CNAME .
 *.po.st CNAME .
 rol.st CNAME .
@@ -18907,6 +18919,8 @@ mylnks.xyz CNAME .
 *.mylnks.xyz CNAME .
 nakama420.xyz CNAME .
 *.nakama420.xyz CNAME .
+opli.xyz CNAME .
+*.opli.xyz CNAME .
 pc-helper.xyz CNAME .
 *.pc-helper.xyz CNAME .
 pgnt.xyz CNAME .

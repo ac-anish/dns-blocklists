@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 09:31 UTC
-# Version: 2025.1208.0931.53
+# Last modified: 08 Dec 2025 17:32 UTC
+# Version: 2025.1208.1732.00
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9503
+# Number of entries: 9510
 #
 local=/0.gp/
 local=/00m.in/
@@ -4743,6 +4743,7 @@ local=/maxiurl.com/
 local=/maxlink.lol/
 local=/maxlink.ly/
 local=/maxurl.app/
+local=/maxurlz.com/
 local=/maxvan.co/
 local=/maxvancollenburg.com/
 local=/maxwin.top/
@@ -4947,6 +4948,7 @@ local=/mmcgalena.org/
 local=/mmgurl.com/
 local=/mmo-it.com/
 local=/mnaw.uk/
+local=/mnbef.com/
 local=/mney.co/
 local=/mng.bz/
 local=/mnge.it/
@@ -5534,6 +5536,7 @@ local=/opent2.com/
 local=/opf.sh/
 local=/opizo.com/
 local=/opkale.me/
+local=/opli.xyz/
 local=/oplink.club/
 local=/opn.my/
 local=/n.opn.tl/
@@ -5615,6 +5618,7 @@ local=/oyo.net/
 local=/oyz.io/
 local=/oz.mk/
 local=/ozb.me/
+local=/ozz.kr/
 local=/p.asia/
 local=/p.pw/
 local=/p.st/
@@ -5731,6 +5735,7 @@ local=/perrinator.com/
 local=/perseal.app/
 local=/persocheck.com/
 local=/pesc.pw/
+local=/petesmarketinghub.com/
 local=/petir.io/
 local=/petir.vip/
 local=/petrobr.as/
@@ -5760,6 +5765,7 @@ local=/link.phsz.ch/
 local=/phygo.io/
 local=/pia.sh/
 local=/pic.gd/
+local=/pich.in/
 local=/picklink.me/
 local=/picsee.co/
 local=/picsee.io/
@@ -5771,6 +5777,7 @@ local=/pigmy.co/
 local=/pigmyurl.com/
 local=/pin.it/
 local=/pin.onl/
+local=/pin.st/
 local=/pinball.click/
 local=/ping.fm/
 local=/pino.link/

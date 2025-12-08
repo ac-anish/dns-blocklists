@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 10:37 UTC
-# Version: 2025.1208.1037.44
+# Last modified: 08 Dec 2025 18:38 UTC
+# Version: 2025.1208.1838.32
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3841
+# Number of entries: 3845
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2550,6 +2550,7 @@
 0.0.0.0 justfor.myasustor.com
 0.0.0.0 nas-scheiben34.myasustor.com
 0.0.0.0 zanty123456.myasustor.com
+0.0.0.0 myatris.sbs
 0.0.0.0 adguard.myddns.org
 0.0.0.0 adguard-home.myddns.me
 0.0.0.0 mydevpn.eu
@@ -2758,6 +2759,7 @@
 0.0.0.0 x.ns1net.com
 0.0.0.0 ns3.com
 0.0.0.0 dnscache0.ns71.net
+0.0.0.0 nsown.com
 0.0.0.0 dns.ntr.lol
 0.0.0.0 ntwrkh.pro
 0.0.0.0 dns.nubecita.biz
@@ -2904,6 +2906,8 @@
 0.0.0.0 dns.pieterdherde.com
 0.0.0.0 dns1.pietjacobs.be
 0.0.0.0 dns.pine-home.de
+0.0.0.0 pingbi.xyz
+0.0.0.0 www.pingbi.xyz
 0.0.0.0 pioko.net
 0.0.0.0 dns.pizzari.me
 0.0.0.0 doh.plaawan.uk

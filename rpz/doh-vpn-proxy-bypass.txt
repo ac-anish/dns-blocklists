@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765190280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765219140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Dec 2025 10:38 UTC
-; Version: 2025.1208.1038.21
+; Last modified: 08 Dec 2025 18:39 UTC
+; Version: 2025.1208.1839.09
 ; Syntax: RPZ
-; Number of entries: 12446
+; Number of entries: 12472
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -235,8 +235,6 @@ xfer.au CNAME .
 *.xfer.au CNAME .
 adg.dz.ax CNAME .
 *.adg.dz.ax CNAME .
-read.aurdetailing.be CNAME .
-*.read.aurdetailing.be CNAME .
 dns.belnet.be CNAME .
 *.dns.belnet.be CNAME .
 9132706292.cloudns.be CNAME .
@@ -695,6 +693,8 @@ idk.komanda.cl CNAME .
 *.idk.komanda.cl CNAME .
 orxwaicjss.laboratoriosdavis.cl CNAME .
 *.orxwaicjss.laboratoriosdavis.cl CNAME .
+btg.ludopop.cl CNAME .
+*.btg.ludopop.cl CNAME .
 dns.michelo.cl CNAME .
 *.dns.michelo.cl CNAME .
 katherine-dns.newcore.cl CNAME .
@@ -2923,6 +2923,8 @@ maskedip.com CNAME .
 *.maskedip.com CNAME .
 ultraus.masplenedigitalworld.com CNAME .
 *.ultraus.masplenedigitalworld.com CNAME .
+media.level.mastergolfworld.com CNAME .
+*.media.level.mastergolfworld.com CNAME .
 masterssh.com CNAME .
 *.masterssh.com CNAME .
 dns.matthias-prost.com CNAME .
@@ -3037,6 +3039,16 @@ nas-scheiben34.myasustor.com CNAME .
 *.nas-scheiben34.myasustor.com CNAME .
 zanty123456.myasustor.com CNAME .
 *.zanty123456.myasustor.com CNAME .
+abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com CNAME .
+*.abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com CNAME .
+example.myclarevision.com CNAME .
+*.example.myclarevision.com CNAME .
+freelearn.myclarevision.com CNAME .
+*.freelearn.myclarevision.com CNAME .
+i.myclarevision.com CNAME .
+*.i.myclarevision.com CNAME .
+learn.myclarevision.com CNAME .
+*.learn.myclarevision.com CNAME .
 thisismathteach.myclarevision.com CNAME .
 *.thisismathteach.myclarevision.com CNAME .
 myiphide.com CNAME .
@@ -3081,6 +3093,10 @@ netsneak.com CNAME .
 *.netsneak.com CNAME .
 scienceisfun11.networkguru.com CNAME .
 *.scienceisfun11.networkguru.com CNAME .
+itrsa.nevuer.com CNAME .
+*.itrsa.nevuer.com CNAME .
+study-math.nevuer.com CNAME .
+*.study-math.nevuer.com CNAME .
 newipnow.com CNAME .
 *.newipnow.com CNAME .
 ngrok.com CNAME .
@@ -3155,6 +3171,8 @@ x.ns1net.com CNAME .
 *.x.ns1net.com CNAME .
 ns3.com CNAME .
 *.ns3.com CNAME .
+nsown.com CNAME .
+*.nsown.com CNAME .
 nsv4w.com CNAME .
 *.nsv4w.com CNAME .
 tech.vocab.nucktech.com CNAME .
@@ -3259,6 +3277,8 @@ dns.us-phoenix-1.oraclecloud.com CNAME .
 *.dns.us-phoenix-1.oraclecloud.com CNAME .
 oraclevpn.com CNAME .
 *.oraclevpn.com CNAME .
+learning.orestpena.com CNAME .
+*.learning.orestpena.com CNAME .
 ortudns.com CNAME .
 *.ortudns.com CNAME .
 dns.oryxlabs.com CNAME .
@@ -10109,6 +10129,8 @@ dns.kzrz.pl CNAME .
 *.dns.kzrz.pl CNAME .
 dns.multi30.pl CNAME .
 *.dns.multi30.pl CNAME .
+idea.guide.dns1.one.pl CNAME .
+*.idea.guide.dns1.one.pl CNAME .
 noads.api.org.pl CNAME .
 *.noads.api.org.pl CNAME .
 dns.panszelescik.pl CNAME .
@@ -10963,6 +10985,8 @@ doh.sb CNAME .
 *.doh.sb CNAME .
 dns.butterfly87.sbs CNAME .
 *.dns.butterfly87.sbs CNAME .
+myatris.sbs CNAME .
+*.myatris.sbs CNAME .
 dns.tbs6920.sbs CNAME .
 *.dns.tbs6920.sbs CNAME .
 b-dns.se CNAME .
@@ -12337,6 +12361,8 @@ loan.paymdm.xyz CNAME .
 *.loan.paymdm.xyz CNAME .
 pepetio.xyz CNAME .
 *.pepetio.xyz CNAME .
+pingbi.xyz CNAME .
+*.pingbi.xyz CNAME .
 pinkproxy.xyz CNAME .
 *.pinkproxy.xyz CNAME .
 pm1239-bd.xyz CNAME .

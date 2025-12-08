@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 10:37 UTC
-# Version: 2025.1208.1037.44
+# Last modified: 08 Dec 2025 18:38 UTC
+# Version: 2025.1208.1838.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3365
+# Number of entries: 3368
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2196,6 +2196,7 @@ local=/che.myasustor.com/
 local=/justfor.myasustor.com/
 local=/nas-scheiben34.myasustor.com/
 local=/zanty123456.myasustor.com/
+local=/myatris.sbs/
 local=/adguard.myddns.org/
 local=/adguard-home.myddns.me/
 local=/mydevpn.eu/
@@ -2377,6 +2378,7 @@ local=/xpen.ns01.info/
 local=/x.ns1net.com/
 local=/ns3.com/
 local=/dnscache0.ns71.net/
+local=/nsown.com/
 local=/dns.ntr.lol/
 local=/ntwrkh.pro/
 local=/dns.nubecita.biz/
@@ -2513,6 +2515,7 @@ local=/dns.pierzchlewicz.pl/
 local=/dns.pieterdherde.com/
 local=/dns1.pietjacobs.be/
 local=/dns.pine-home.de/
+local=/pingbi.xyz/
 local=/pioko.net/
 local=/dns.pizzari.me/
 local=/doh.plaawan.uk/

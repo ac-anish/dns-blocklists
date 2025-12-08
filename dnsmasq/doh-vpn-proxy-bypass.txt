@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 10:38 UTC
-# Version: 2025.1208.1038.21
+# Last modified: 08 Dec 2025 18:39 UTC
+# Version: 2025.1208.1839.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6223
+# Number of entries: 6236
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -492,7 +492,6 @@ local=/atsssgo.xyz/
 local=/dohtrial.att.net/
 local=/dns.audet.cloud/
 local=/dns.auffray.org/
-local=/read.aurdetailing.be/
 local=/auto-aufladen.de/
 local=/avanquestusa.com/
 local=/vanheim.ff.avast.com/
@@ -3313,6 +3312,7 @@ local=/dns.lsho.top/
 local=/lslnyjq.uk/
 local=/ltlxvxjjmvhn.me/
 local=/dns1.luan.contact/
+local=/btg.ludopop.cl/
 local=/e.luismedeiros.pt/
 local=/dns.luismm2311.com/
 local=/doh.lujiacai.top/
@@ -3397,6 +3397,7 @@ local=/maskedip.com/
 local=/ultraus.masplenedigitalworld.com/
 local=/master-clock.us/
 local=/mastergad.me/
+local=/media.level.mastergolfworld.com/
 local=/masters-of-cloud.de/
 local=/masterssh.com/
 local=/dns.mateo.ovh/
@@ -3586,7 +3587,13 @@ local=/che.myasustor.com/
 local=/justfor.myasustor.com/
 local=/nas-scheiben34.myasustor.com/
 local=/zanty123456.myasustor.com/
+local=/myatris.sbs/
 local=/mycelium.site/
+local=/abcdefghijklmnopqrstuvwxynowikmyabcs.myclarevision.com/
+local=/example.myclarevision.com/
+local=/freelearn.myclarevision.com/
+local=/i.myclarevision.com/
+local=/learn.myclarevision.com/
 local=/thisismathteach.myclarevision.com/
 local=/adguard.myddns.org/
 local=/adguard-home.myddns.me/
@@ -3738,6 +3745,8 @@ local=/dns.netvpn.net/
 local=/scienceisfun11.networkguru.com/
 local=/cube.neubsi.at/
 local=/dns.neubsi.at/
+local=/itrsa.nevuer.com/
+local=/study-math.nevuer.com/
 local=/katherine-dns.newcore.cl/
 local=/newipnow.com/
 local=/newproxylist.net/
@@ -3855,6 +3864,7 @@ local=/dnscache0.ns71.net/
 local=/ns8469rfvth42.xyz/
 local=/nslookup.io/
 local=/nsocks.net/
+local=/nsown.com/
 local=/bright-storm-767.nstabiology.org/
 local=/deep-lake-819.nstabiology.org/
 local=/fair-bear-832.nstabiology.org/
@@ -3914,6 +3924,7 @@ local=/dns.omee4.ru/
 local=/omegaproxy.com/
 local=/adguard.oms-ctr.ru/
 local=/onconnect.info/
+local=/idea.guide.dns1.one.pl/
 local=/one.one.one.one/
 local=/doh.onedns.net/
 local=/doh-pure.onedns.net/
@@ -3993,6 +4004,7 @@ local=/oraclevpn.com/
 local=/orangeproxy.net/
 local=/proxy.ordentlichbreit.de/
 local=/historyofutopia.orekhov.space/
+local=/learning.orestpena.com/
 local=/noads.api.org.pl/
 local=/resolver.dnsprivacy.org.uk/
 local=/teslacoils.org.uk/
@@ -4120,6 +4132,7 @@ local=/dns.pieterdherde.com/
 local=/dns1.pietjacobs.be/
 local=/rothschild.pii.at/
 local=/dns.pine-home.de/
+local=/pingbi.xyz/
 local=/pingproxy.com/
 local=/pinkproxy.xyz/
 local=/pioko.net/
