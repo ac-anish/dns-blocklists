@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Dec 2025 09:28 UTC
-# Version: 2025.1209.0928.57
+# Last modified: 09 Dec 2025 17:29 UTC
+# Version: 2025.1209.1729.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14107
+# Number of entries: 14111
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2166,6 +2166,7 @@ local=/cbdhanf.at/
 local=/cbeoeql.shop/
 local=/cbhandlife.com/
 local=/cbleurope.com/
+local=/cbre-capital-advisors.com/
 local=/cbsstyles.com/
 local=/ccmangebote.com/
 local=/ccmedia.news/
@@ -8192,6 +8193,7 @@ local=/mein-gartentor.de/
 local=/mein-gewaechshaus-shop.de/
 local=/mein-holz.store/
 local=/mein-kleinerhuhnerstall.com/
+local=/mein-pluschtier.de/
 local=/mein-thermenwartung.at/
 local=/mein-vintage-kleid.de/
 local=/meinautoprofi.at/
@@ -9900,6 +9902,7 @@ local=/pinkowien.at/
 local=/pintaro.de/
 local=/pipz.xyz/
 local=/piragroup.com/
+local=/piscineria.shop/
 local=/pismaprawne.com/
 local=/pitec-vertrieb.de/
 local=/pitviperaustria.com/
@@ -13749,6 +13752,7 @@ local=/wisebanc.com/
 local=/wisecapitalx.com/
 local=/wisevests.com/
 local=/withstndridg.com/
+local=/wittelsbach-partner.com/
 local=/wittelsheimholz.com/
 local=/wivaro.de/
 local=/reiseweltat6.wixsite.com/

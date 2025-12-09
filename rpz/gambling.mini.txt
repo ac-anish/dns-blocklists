@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765276140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765305240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Dec 2025 10:29 UTC
-; Version: 2025.1209.1029.30
+; Last modified: 09 Dec 2025 18:34 UTC
+; Version: 2025.1209.1834.23
 ; Syntax: RPZ
-; Number of entries: 85656
+; Number of entries: 85632
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -6880,8 +6880,6 @@ kilogramm.casino CNAME .
 *.kilogramm.casino CNAME .
 king-hills.casino CNAME .
 *.king-hills.casino CNAME .
-kingscastle.casino CNAME .
-*.kingscastle.casino CNAME .
 klubrejse.casino CNAME .
 *.klubrejse.casino CNAME .
 klwin.casino CNAME .
@@ -14054,8 +14052,6 @@ assoff6.6ffoss.com CNAME .
 *.777bdcasinologin.com CNAME .
 777becasino.com CNAME .
 *.777becasino.com CNAME .
-777betsa.com CNAME .
-*.777betsa.com CNAME .
 777betsapk.com CNAME .
 *.777betsapk.com CNAME .
 777betsbra.com CNAME .
@@ -19490,8 +19486,6 @@ blackhawkhelicopters.com CNAME .
 *.blackhawkhelicopters.com CNAME .
 blackhillpress.com CNAME .
 *.blackhillpress.com CNAME .
-blackjack-apps.com CNAME .
-*.blackjack-apps.com CNAME .
 blackjack-latino.com CNAME .
 *.blackjack-latino.com CNAME .
 blackjack-pizza.com CNAME .
@@ -21124,8 +21118,6 @@ casino-del-rio.com CNAME .
 *.casino-del-rio.com CNAME .
 casino-dengi-rubli.com CNAME .
 *.casino-dengi-rubli.com CNAME .
-casino-deposit-bonuses.com CNAME .
-*.casino-deposit-bonuses.com CNAME .
 casino-dudespin.com CNAME .
 *.casino-dudespin.com CNAME .
 casino-energy-online.com CNAME .
@@ -35178,8 +35170,6 @@ mariinskylabel.com CNAME .
 *.mariinskylabel.com CNAME .
 marina-casino.com CNAME .
 *.marina-casino.com CNAME .
-marinasmoda.com CNAME .
-*.marinasmoda.com CNAME .
 marineslotsq.com CNAME .
 *.marineslotsq.com CNAME .
 marketconnectsmm.com CNAME .
@@ -40816,8 +40806,6 @@ pmaffiliates.com CNAME .
 *.pmaffiliates.com CNAME .
 pmcasino.com CNAME .
 *.pmcasino.com CNAME .
-pmibaru.com CNAME .
-*.pmibaru.com CNAME .
 pngbet.com CNAME .
 *.pngbet.com CNAME .
 pnqonline.com CNAME .
@@ -41124,8 +41112,6 @@ pokersavvy.com CNAME .
 *.pokersavvy.com CNAME .
 pokerscout.com CNAME .
 *.pokerscout.com CNAME .
-pokershades.com CNAME .
-*.pokershades.com CNAME .
 pokershare.com CNAME .
 *.pokershare.com CNAME .
 pokershuttle.com CNAME .
@@ -43762,8 +43748,6 @@ scratchmania.com CNAME .
 *.scratchmania.com CNAME .
 scratchmania-casino.com CNAME .
 *.scratchmania-casino.com CNAME .
-scratchpadusa.com CNAME .
-*.scratchpadusa.com CNAME .
 scrumplanningpoker.com CNAME .
 *.scrumplanningpoker.com CNAME .
 sdfgxvbsedfrg.com CNAME .
@@ -44502,8 +44486,6 @@ slots-6666.com CNAME .
 *.slots-6666.com CNAME .
 slots-777-br.com CNAME .
 *.slots-777-br.com CNAME .
-slots-apps.com CNAME .
-*.slots-apps.com CNAME .
 slots-empire-casino.com CNAME .
 *.slots-empire-casino.com CNAME .
 slots-gemkasyno.com CNAME .
@@ -73010,8 +72992,6 @@ pola-rjslot88.site CNAME .
 *.pola-rjslot88.site CNAME .
 polajitu.site CNAME .
 *.polajitu.site CNAME .
-powerslots.site CNAME .
-*.powerslots.site CNAME .
 powerup-casino.site CNAME .
 *.powerup-casino.site CNAME .
 powerupcasino.site CNAME .
@@ -81298,6 +81278,8 @@ recifepg.vip CNAME .
 *.recifepg.vip CNAME .
 rei777.vip CNAME .
 *.rei777.vip CNAME .
+ri88.vip CNAME .
+*.ri88.vip CNAME .
 richcasino.vip CNAME .
 *.richcasino.vip CNAME .
 rik.vip CNAME .
@@ -83932,8 +83914,6 @@ linkbathlife.xyz CNAME .
 *.linkbathlife.xyz CNAME .
 linkbets.xyz CNAME .
 *.linkbets.xyz CNAME .
-linksdanawin2.xyz CNAME .
-*.linksdanawin2.xyz CNAME .
 linksinar.xyz CNAME .
 *.linksinar.xyz CNAME .
 linkuangmantap.xyz CNAME .
@@ -84322,8 +84302,6 @@ onlinecasino-newzealand.xyz CNAME .
 *.onlinecasino-newzealand.xyz CNAME .
 onlinecasino-nz.xyz CNAME .
 *.onlinecasino-nz.xyz CNAME .
-onlinecasino-southafrica.xyz CNAME .
-*.onlinecasino-southafrica.xyz CNAME .
 onlinecasino-za.xyz CNAME .
 *.onlinecasino-za.xyz CNAME .
 onlineyy.xyz CNAME .
@@ -84532,8 +84510,6 @@ pokerbox.xyz CNAME .
 *.pokerbox.xyz CNAME .
 pokercbd.xyz CNAME .
 *.pokercbd.xyz CNAME .
-pokerdao.xyz CNAME .
-*.pokerdao.xyz CNAME .
 pokerdex.xyz CNAME .
 *.pokerdex.xyz CNAME .
 pokerdna.xyz CNAME .
