@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 18:38 UTC
-# Version: 2025.1208.1838.32
+# Last modified: 09 Dec 2025 10:34 UTC
+# Version: 2025.1209.1034.39
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3368
+# Number of entries: 3369
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3269,6 +3269,7 @@ local=/xfer.au/
 local=/doh.xfinity.com/
 local=/dot.xfinity.com/
 local=/doh2.gslb2.xfinity.com/
+local=/xholgm.top/
 local=/xiaoxinhui.cn/
 local=/xie.ke/
 local=/agh.xinfeng16m.top/

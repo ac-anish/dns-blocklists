@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Dec 2025 01:31 UTC
-# Version: 2025.1209.0131.05
+# Last modified: 09 Dec 2025 09:30 UTC
+# Version: 2025.1209.0930.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9520
+# Number of entries: 9531
 #
 local=/0.gp/
 local=/00m.in/
@@ -7867,6 +7867,7 @@ local=/tinyurl.rocks/
 local=/tinyurl.se/
 local=/tinyurl.win/
 local=/tinyurlforbusiness.com/
+local=/tinyurls.biz/
 local=/tinyurls.io/
 local=/tinyurlshortener.com/
 local=/tinyurlwebsite.com/
@@ -8315,6 +8316,7 @@ local=/uplifter.ai/
 local=/uplinks.co/
 local=/upltps.com/
 local=/upmchp.us/
+local=/upriserz.link/
 local=/upstriderlinks.com/
 local=/upt.sh/
 local=/upyun.online/
@@ -8386,6 +8388,7 @@ local=/url84.com/
 local=/url8x.com/
 local=/url9xx.com/
 local=/urla.ru/
+local=/urladda.com/
 local=/urlah.com/
 local=/urlao.com/
 local=/urlb.io/
@@ -8401,6 +8404,7 @@ local=/urlbrief.com/
 local=/urlbutter.link/
 local=/urlc.net/
 local=/urlcentre.com/
+local=/urlchecker.info/
 local=/urlco.co/
 local=/urlcort.com/
 local=/urlcover.com/
@@ -8419,6 +8423,7 @@ local=/urlenco.de/
 local=/urlers.com/
 local=/urless.com/
 local=/urlexpander.org/
+local=/urlf.cc/
 local=/urlfile.xyz/
 local=/urlflea.com/
 local=/urlforyou.com/
@@ -8847,6 +8852,7 @@ local=/vix.cx/
 local=/vk.cc/
 local=/vk.sv/
 local=/vkei.eu/
+local=/vl.am/
 local=/vla.lu/
 local=/vlgc.io/
 local=/vlink.cz/
@@ -8987,6 +8993,7 @@ local=/webcut.net/
 local=/webdevtutor.net/
 local=/webi.li/
 local=/url.webifo.com/
+local=/webinfos.info/
 local=/webixcard.me/
 local=/weblink.biz/
 local=/webmienphi.net/
@@ -9025,6 +9032,7 @@ local=/wes.la/
 local=/go.westco.mobi/
 local=/weworkers.io/
 local=/novaurllight.wexisstudios.com/
+local=/wez.info/
 local=/wf0.xin/
 local=/wfly.co/
 local=/wfryer.me/
@@ -9071,6 +9079,7 @@ local=/wit.to/
 local=/withtask.com/
 local=/wiwir.cc/
 local=/curt.wiz.co/
+local=/wjcf.co/
 local=/wkf.ms/
 local=/wkpwr.be/
 local=/wl.co/
@@ -9158,6 +9167,7 @@ local=/x0xdesign.com/
 local=/x10.mx/
 local=/x11.pw/
 local=/x1a.eu/
+local=/x2c.eu/
 local=/x2t.com/
 local=/x2y.me/
 local=/x3.cx/
@@ -9299,6 +9309,7 @@ local=/yes.link/
 local=/yesb.app/
 local=/yex.tt/
 local=/yfrog.com/
+local=/yh6.us/
 local=/yh9.page/
 local=/yhoo.it/
 local=/yhqapp.com/

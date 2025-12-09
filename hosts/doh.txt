@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 18:38 UTC
-# Version: 2025.1208.1838.32
+# Last modified: 09 Dec 2025 10:34 UTC
+# Version: 2025.1209.1034.39
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3845
+# Number of entries: 3846
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3735,6 +3735,7 @@
 0.0.0.0 doh.xfinity.com
 0.0.0.0 dot.xfinity.com
 0.0.0.0 doh2.gslb2.xfinity.com
+0.0.0.0 xholgm.top
 0.0.0.0 xiaoxinhui.cn
 0.0.0.0 dns.xiaoxinhui.cn
 0.0.0.0 mail.xiaoxinhui.cn

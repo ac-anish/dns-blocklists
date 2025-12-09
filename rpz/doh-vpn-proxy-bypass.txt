@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765247820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765276500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Dec 2025 02:37 UTC
-; Version: 2025.1209.0237.25
+; Last modified: 09 Dec 2025 10:35 UTC
+; Version: 2025.1209.1035.12
 ; Syntax: RPZ
-; Number of entries: 12494
+; Number of entries: 12532
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -685,6 +685,10 @@ needhelp.callmark.cl CNAME .
 *.needhelp.callmark.cl CNAME .
 lvpqirhbat.castroyasociados.cl CNAME .
 *.lvpqirhbat.castroyasociados.cl CNAME .
+aminip.ctx.cl CNAME .
+*.aminip.ctx.cl CNAME .
+joinpd.ctx.cl CNAME .
+*.joinpd.ctx.cl CNAME .
 te.decolores.cl CNAME .
 *.te.decolores.cl CNAME .
 deepcs.estiloescencial.cl CNAME .
@@ -697,6 +701,8 @@ orxwaicjss.laboratoriosdavis.cl CNAME .
 *.orxwaicjss.laboratoriosdavis.cl CNAME .
 btg.ludopop.cl CNAME .
 *.btg.ludopop.cl CNAME .
+doctorphd.medscience.cl CNAME .
+*.doctorphd.medscience.cl CNAME .
 dns.michelo.cl CNAME .
 *.dns.michelo.cl CNAME .
 katherine-dns.newcore.cl CNAME .
@@ -719,6 +725,8 @@ math.swift.cl CNAME .
 *.math.swift.cl CNAME .
 owens-chemistry-tutor-info.topcargoteam.cl CNAME .
 *.owens-chemistry-tutor-info.topcargoteam.cl CNAME .
+diddyblud-6767-61-41-bentennis.transporteswys.cl CNAME .
+*.diddyblud-6767-61-41-bentennis.transporteswys.cl CNAME .
 andrewnotgay.trustmi.cl CNAME .
 *.andrewnotgay.trustmi.cl CNAME .
 vinnyisbunslol.yao.cl CNAME .
@@ -1591,6 +1599,8 @@ dns.carson-family.com CNAME .
 *.dns.carson-family.com CNAME .
 casinovpn.com CNAME .
 *.casinovpn.com CNAME .
+history.cassettica.com CNAME .
+*.history.cassettica.com CNAME .
 httpdns.cctv.com CNAME .
 *.httpdns.cctv.com CNAME .
 httpdns.c.cdnhwc2.com CNAME .
@@ -2389,6 +2399,8 @@ turtle.happyforever.com CNAME .
 *.turtle.happyforever.com CNAME .
 yessir.happyforever.com CNAME .
 *.yessir.happyforever.com CNAME .
+courses.happyrobotics.com CNAME .
+*.courses.happyrobotics.com CNAME .
 harbaletsstudy.com CNAME .
 *.harbaletsstudy.com CNAME .
 resolver.haringstad.com CNAME .
@@ -3703,6 +3715,8 @@ rustynailspace.com CNAME .
 *.rustynailspace.com CNAME .
 dns1.ryan-palmer.com CNAME .
 *.dns1.ryan-palmer.com CNAME .
+ebn.s4r4.com CNAME .
+*.ebn.s4r4.com CNAME .
 math.sachhot.com CNAME .
 *.math.sachhot.com CNAME .
 pns2.sadraidc.com CNAME .
@@ -4221,6 +4235,8 @@ u-proxy.com CNAME .
 *.u-proxy.com CNAME .
 u8sj3.com CNAME .
 *.u8sj3.com CNAME .
+uas2.com CNAME .
+*.uas2.com CNAME .
 studytimer.ufodns.com CNAME .
 *.studytimer.ufodns.com CNAME .
 vless-service.ufodns.com CNAME .
@@ -5561,6 +5577,8 @@ dns.wdnts.eu CNAME .
 *.dns.wdnts.eu CNAME .
 workhost.eu CNAME .
 *.workhost.eu CNAME .
+wtools.eu CNAME .
+*.wtools.eu CNAME .
 vdska-pl.ydns.eu CNAME .
 *.vdska-pl.ydns.eu CNAME .
 zougloub.eu CNAME .
@@ -5593,6 +5611,8 @@ dns.truong.fi CNAME .
 *.dns.truong.fi CNAME .
 dns.xv.fi CNAME .
 *.dns.xv.fi CNAME .
+unblocked.foo CNAME .
+*.unblocked.foo CNAME .
 unblockit.foo CNAME .
 *.unblockit.foo CNAME .
 doh.42l.fr CNAME .
@@ -6283,6 +6303,8 @@ homevpn.info CNAME .
 *.homevpn.info CNAME .
 hotvpn.info CNAME .
 *.hotvpn.info CNAME .
+learningwiki.iiiii.info CNAME .
+*.learningwiki.iiiii.info CNAME .
 interncloud.info CNAME .
 *.interncloud.info CNAME .
 iweb365.info CNAME .
@@ -6759,6 +6781,8 @@ tor2web.it CNAME .
 *.tor2web.it CNAME .
 unblock.it CNAME .
 *.unblock.it CNAME .
+cheesepizza.undo.it CNAME .
+*.cheesepizza.undo.it CNAME .
 galileo.math.unipd.it CNAME .
 *.galileo.math.unipd.it CNAME .
 dns1-secure.wifire.it CNAME .
@@ -8791,6 +8815,8 @@ tubeunblock.net CNAME .
 *.tubeunblock.net CNAME .
 twoproxy.net CNAME .
 *.twoproxy.net CNAME .
+ubint.net CNAME .
+*.ubint.net CNAME .
 ultimateproxy.net CNAME .
 *.ultimateproxy.net CNAME .
 ultrafun.net CNAME .
@@ -8867,6 +8893,8 @@ whatsonthebox.net CNAME .
 *.whatsonthebox.net CNAME .
 whoer.net CNAME .
 *.whoer.net CNAME .
+tests.excel.wild1.net CNAME .
+*.tests.excel.wild1.net CNAME .
 windscribe.net CNAME .
 *.windscribe.net CNAME .
 tls.windyvale.net CNAME .
@@ -9481,6 +9509,8 @@ test.zkwg.duckdns.org CNAME .
 *.test.zkwg.duckdns.org CNAME .
 67godpromaxultra61isbettersorry.dylix.org CNAME .
 *.67godpromaxultra61isbettersorry.dylix.org CNAME .
+anything.dylix.org CNAME .
+*.anything.dylix.org CNAME .
 akhilkalwakurthy.dyndns.org CNAME .
 *.akhilkalwakurthy.dyndns.org CNAME .
 ueni.dyndns.org CNAME .
@@ -9919,6 +9949,8 @@ doh.syshero.org CNAME .
 *.doh.syshero.org CNAME .
 dn5.talesam.org CNAME .
 *.dn5.talesam.org CNAME .
+smokerstale.tantrum.org CNAME .
+*.smokerstale.tantrum.org CNAME .
 dns1.techeasy.org CNAME .
 *.dns1.techeasy.org CNAME .
 au.teradns.org CNAME .
@@ -10973,6 +11005,8 @@ vpnonelove.ru CNAME .
 *.vpnonelove.ru CNAME .
 44c.wakemeup.ru CNAME .
 *.44c.wakemeup.ru CNAME .
+baldwinprepbyjerrydaniels.wakemeup.ru CNAME .
+*.baldwinprepbyjerrydaniels.wakemeup.ru CNAME .
 kailovefurries.wakemeup.ru CNAME .
 *.kailovefurries.wakemeup.ru CNAME .
 waydnes.ru CNAME .
@@ -11501,6 +11535,8 @@ bwh.why4free.top CNAME .
 *.bwh.why4free.top CNAME .
 wiqi.top CNAME .
 *.wiqi.top CNAME .
+xholgm.top CNAME .
+*.xholgm.top CNAME .
 agh.xinfeng16m.top CNAME .
 *.agh.xinfeng16m.top CNAME .
 dns.yingroad.top CNAME .
@@ -12439,6 +12475,8 @@ unblock2.xyz CNAME .
 *.unblock2.xyz CNAME .
 unblockedsite.xyz CNAME .
 *.unblockedsite.xyz CNAME .
+yescool.upcg.xyz CNAME .
+*.yescool.upcg.xyz CNAME .
 uproxy.xyz CNAME .
 *.uproxy.xyz CNAME .
 uproxy2.xyz CNAME .

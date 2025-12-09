@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Dec 2025 01:59 UTC
-# Version: 2025.1209.0159.18
+# Last modified: 09 Dec 2025 09:57 UTC
+# Version: 2025.1209.0957.09
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1327
+# Number of entries: 1329
 #
 local=/000a.de/
 local=/000space.com/
@@ -1220,6 +1220,7 @@ local=/wallinside.com/
 local=/wallst.ru/
 local=/wapka.club/
 local=/wapka.site/
+local=/wapka.store/
 local=/wapka.top/
 local=/wapka.website/
 local=/web.gg/
@@ -1316,6 +1317,7 @@ local=/xxxxxxxx.jp/
 local=/y.gp/
 local=/y0.pl/
 local=/y55.eu/
+local=/ygrrvlvvgf.top/
 local=/yi.org/
 local=/yj.ae/
 local=/yola.com/

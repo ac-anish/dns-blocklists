@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 09 Dec 2025 01:31 UTC
-! Version: 2025.1209.0131.05
+! Last modified: 09 Dec 2025 09:30 UTC
+! Version: 2025.1209.0930.35
 ! Syntax: AdBlock
-! Number of entries: 9520
+! Number of entries: 9531
 !
 ||0.gp^
 ||00m.in^
@@ -7868,6 +7868,7 @@
 ||tinyurl.se^
 ||tinyurl.win^
 ||tinyurlforbusiness.com^
+||tinyurls.biz^
 ||tinyurls.io^
 ||tinyurlshortener.com^
 ||tinyurlwebsite.com^
@@ -8316,6 +8317,7 @@
 ||uplinks.co^
 ||upltps.com^
 ||upmchp.us^
+||upriserz.link^
 ||upstriderlinks.com^
 ||upt.sh^
 ||upyun.online^
@@ -8387,6 +8389,7 @@
 ||url8x.com^
 ||url9xx.com^
 ||urla.ru^
+||urladda.com^
 ||urlah.com^
 ||urlao.com^
 ||urlb.io^
@@ -8402,6 +8405,7 @@
 ||urlbutter.link^
 ||urlc.net^
 ||urlcentre.com^
+||urlchecker.info^
 ||urlco.co^
 ||urlcort.com^
 ||urlcover.com^
@@ -8420,6 +8424,7 @@
 ||urlers.com^
 ||urless.com^
 ||urlexpander.org^
+||urlf.cc^
 ||urlfile.xyz^
 ||urlflea.com^
 ||urlforyou.com^
@@ -8848,6 +8853,7 @@
 ||vk.cc^
 ||vk.sv^
 ||vkei.eu^
+||vl.am^
 ||vla.lu^
 ||vlgc.io^
 ||vlink.cz^
@@ -8988,6 +8994,7 @@
 ||webdevtutor.net^
 ||webi.li^
 ||url.webifo.com^
+||webinfos.info^
 ||webixcard.me^
 ||weblink.biz^
 ||webmienphi.net^
@@ -9026,6 +9033,7 @@
 ||go.westco.mobi^
 ||weworkers.io^
 ||novaurllight.wexisstudios.com^
+||wez.info^
 ||wf0.xin^
 ||wfly.co^
 ||wfryer.me^
@@ -9072,6 +9080,7 @@
 ||withtask.com^
 ||wiwir.cc^
 ||curt.wiz.co^
+||wjcf.co^
 ||wkf.ms^
 ||wkpwr.be^
 ||wl.co^
@@ -9159,6 +9168,7 @@
 ||x10.mx^
 ||x11.pw^
 ||x1a.eu^
+||x2c.eu^
 ||x2t.com^
 ||x2y.me^
 ||x3.cx^
@@ -9300,6 +9310,7 @@
 ||yesb.app^
 ||yex.tt^
 ||yfrog.com^
+||yh6.us^
 ||yh9.page^
 ||yhoo.it^
 ||yhqapp.com^

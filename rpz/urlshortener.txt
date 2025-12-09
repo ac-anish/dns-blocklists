@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765243860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765272600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Dec 2025 01:31 UTC
-; Version: 2025.1209.0131.05
+; Last modified: 09 Dec 2025 09:30 UTC
+; Version: 2025.1209.0930.35
 ; Syntax: RPZ
-; Number of entries: 19040
+; Number of entries: 19062
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -289,6 +289,8 @@ sam.am CNAME .
 *.sam.am CNAME .
 viaja.am CNAME .
 *.viaja.am CNAME .
+vl.am CNAME .
+*.vl.am CNAME .
 vvt.am CNAME .
 *.vvt.am CNAME .
 vx.am CNAME .
@@ -1127,6 +1129,8 @@ shorturl.biz CNAME .
 *.shorturl.biz CNAME .
 sinyi.biz CNAME .
 *.sinyi.biz CNAME .
+tinyurls.biz CNAME .
+*.tinyurls.biz CNAME .
 trck.biz CNAME .
 *.trck.biz CNAME .
 urlshortener.biz CNAME .
@@ -1751,6 +1755,8 @@ urlbox.cc CNAME .
 *.urlbox.cc CNAME .
 urlday.cc CNAME .
 *.urlday.cc CNAME .
+urlf.cc CNAME .
+*.urlf.cc CNAME .
 urlme.cc CNAME .
 *.urlme.cc CNAME .
 urlsshares.cc CNAME .
@@ -2901,6 +2907,8 @@ wfly.co CNAME .
 *.wfly.co CNAME .
 curt.wiz.co CNAME .
 *.curt.wiz.co CNAME .
+wjcf.co CNAME .
+*.wjcf.co CNAME .
 wl.co CNAME .
 *.wl.co CNAME .
 wm0.co CNAME .
@@ -6807,6 +6815,8 @@ url8x.com CNAME .
 *.url8x.com CNAME .
 url9xx.com CNAME .
 *.url9xx.com CNAME .
+urladda.com CNAME .
+*.urladda.com CNAME .
 urlah.com CNAME .
 *.urlah.com CNAME .
 urlao.com CNAME .
@@ -8147,6 +8157,8 @@ weeurl.eu CNAME .
 *.weeurl.eu CNAME .
 x1a.eu CNAME .
 *.x1a.eu CNAME .
+x2c.eu CNAME .
+*.x2c.eu CNAME .
 xl8.eu CNAME .
 *.xl8.eu CNAME .
 xlnk.eu CNAME .
@@ -9855,12 +9867,18 @@ ttdt.info CNAME .
 *.ttdt.info CNAME .
 unclic.info CNAME .
 *.unclic.info CNAME .
+urlchecker.info CNAME .
+*.urlchecker.info CNAME .
 urli.info CNAME .
 *.urli.info CNAME .
 utrend.info CNAME .
 *.utrend.info CNAME .
 vip-gacha99.info CNAME .
 *.vip-gacha99.info CNAME .
+webinfos.info CNAME .
+*.webinfos.info CNAME .
+wez.info CNAME .
+*.wez.info CNAME .
 xbig.info CNAME .
 *.xbig.info CNAME .
 yourls.info CNAME .
@@ -12423,6 +12441,8 @@ unimma.link CNAME .
 *.unimma.link CNAME .
 uom.link CNAME .
 *.uom.link CNAME .
+upriserz.link CNAME .
+*.upriserz.link CNAME .
 ur.link CNAME .
 *.ur.link CNAME .
 ur0.link CNAME .
@@ -18453,6 +18473,8 @@ xrl.us CNAME .
 *.xrl.us CNAME .
 xuo.us CNAME .
 *.xuo.us CNAME .
+yh6.us CNAME .
+*.yh6.us CNAME .
 ylnk.us CNAME .
 *.ylnk.us CNAME .
 yourcs.us CNAME .
