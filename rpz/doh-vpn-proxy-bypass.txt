@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765219140 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765247820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Dec 2025 18:39 UTC
-; Version: 2025.1208.1839.09
+; Last modified: 09 Dec 2025 02:37 UTC
+; Version: 2025.1209.0237.25
 ; Syntax: RPZ
-; Number of entries: 12472
+; Number of entries: 12494
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -153,6 +153,8 @@ guigu.dns.army CNAME .
 *.guigu.dns.army CNAME .
 homec92.dns.army CNAME .
 *.homec92.dns.army CNAME .
+resolver.arpa CNAME .
+*.resolver.arpa CNAME .
 dnsdoh.art CNAME .
 *.dnsdoh.art CNAME .
 hugeph.art CNAME .
@@ -3529,6 +3531,8 @@ proxyium.com CNAME .
 *.proxyium.com CNAME .
 proxyiumi.com CNAME .
 *.proxyiumi.com CNAME .
+proxylib.com CNAME .
+*.proxylib.com CNAME .
 proxylister.com CNAME .
 *.proxylister.com CNAME .
 proxylistpro.com CNAME .
@@ -3851,6 +3855,10 @@ snowproxy.com CNAME .
 *.snowproxy.com CNAME .
 dove.soapagent.com CNAME .
 *.dove.soapagent.com CNAME .
+dove.soapclient.com CNAME .
+*.dove.soapclient.com CNAME .
+signup.soapclient.com CNAME .
+*.signup.soapclient.com CNAME .
 soax.com CNAME .
 *.soax.com CNAME .
 socksproxychecker.com CNAME .
@@ -5565,6 +5573,8 @@ dns.connect.fail CNAME .
 *.dns.connect.fail CNAME .
 vpn.fail CNAME .
 *.vpn.fail CNAME .
+proxydude.faith CNAME .
+*.proxydude.faith CNAME .
 dns.christerwaren.fi CNAME .
 *.dns.christerwaren.fi CNAME .
 lastentarvike.fi CNAME .
@@ -6325,6 +6335,8 @@ securly.com.pbdjarum.info CNAME .
 *.securly.com.pbdjarum.info CNAME .
 pkproxy.info CNAME .
 *.pkproxy.info CNAME .
+predecessor.info CNAME .
+*.predecessor.info CNAME .
 primeproxy23.info CNAME .
 *.primeproxy23.info CNAME .
 agh.printk.info CNAME .
@@ -6909,6 +6921,8 @@ myproxy.lol CNAME .
 *.myproxy.lol CNAME .
 dns.ntr.lol CNAME .
 *.dns.ntr.lol CNAME .
+proxy.lol CNAME .
+*.proxy.lol CNAME .
 proxyduke.lol CNAME .
 *.proxyduke.lol CNAME .
 quic.lol CNAME .
@@ -8615,6 +8629,8 @@ shopproxy.net CNAME .
 *.shopproxy.net CNAME .
 adguard.shutgaming.net CNAME .
 *.adguard.shutgaming.net CNAME .
+simplevpn.net CNAME .
+*.simplevpn.net CNAME .
 dns.sindominio.net CNAME .
 *.dns.sindominio.net CNAME .
 siteget.net CNAME .
@@ -9881,6 +9897,8 @@ spacedns.org CNAME .
 *.spacedns.org CNAME .
 spidervpn.org CNAME .
 *.spidervpn.org CNAME .
+sporium.org CNAME .
+*.sporium.org CNAME .
 physicaleducation.sportseducationinstructors.org CNAME .
 *.physicaleducation.sportseducationinstructors.org CNAME .
 sslpro.org CNAME .
@@ -11835,6 +11853,8 @@ socialnetworkinfo.us CNAME .
 *.socialnetworkinfo.us CNAME .
 sockslist.us CNAME .
 *.sockslist.us CNAME .
+sslproxy.us CNAME .
+*.sslproxy.us CNAME .
 starruby.us CNAME .
 *.starruby.us CNAME .
 thesafety.us CNAME .
@@ -11871,6 +11891,8 @@ leeway.uz CNAME .
 *.leeway.uz CNAME .
 104.36.85.232bolt.webs.vc CNAME .
 *.104.36.85.232bolt.webs.vc CNAME .
+proxysite.video CNAME .
+*.proxysite.video CNAME .
 unblockyoutube.video CNAME .
 *.unblockyoutube.video CNAME .
 doh.aipps.vip CNAME .

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 17:32 UTC
-# Version: 2025.1208.1732.00
+# Last modified: 09 Dec 2025 01:31 UTC
+# Version: 2025.1209.0131.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9510
+# Number of entries: 9520
 #
 local=/0.gp/
 local=/00m.in/
@@ -5966,6 +5966,7 @@ local=/publ.cc/
 local=/publicearn.online/
 local=/publiclinks.net/
 local=/puext.in/
+local=/puhli.icu/
 local=/t2mio.pulsem.me/
 local=/pulsemgmt.co/
 local=/puny.link/
@@ -5987,6 +5988,7 @@ local=/pxl.to/
 local=/pxlcrv.co/
 local=/pxlfy.me/
 local=/pxlme.me/
+local=/pxs.cl/
 local=/pxu.co/
 local=/pxxbet.promo/
 local=/py.md/
@@ -6114,6 +6116,7 @@ local=/quainator.com/
 local=/quamiller.com/
 local=/quanturl.xyz/
 local=/quee.link/
+local=/queer.li/
 local=/quick.lt/
 local=/url.quick-social.com/
 local=/quick2.de/
@@ -6280,6 +6283,7 @@ local=/regmovi.es/
 local=/reinachan.com/
 local=/s.reinhart1010.id/
 local=/reini.link/
+local=/reive.site/
 local=/rejoicing.com/
 local=/rejoindre.app/
 local=/rekale.me/
@@ -6471,6 +6475,7 @@ local=/s4.is/
 local=/s4w.in/
 local=/s7y.us/
 local=/s99.tech/
+local=/sa-link.cc/
 local=/saasmaster.link/
 local=/sabriabi.net/
 local=/sac23.top/
@@ -6749,6 +6754,8 @@ local=/short-it.cc/
 local=/short-link.co/
 local=/short-link.me/
 local=/short-ly.co/
+local=/short-me.me/
+local=/short-url.co/
 local=/short-url.dk/
 local=/short-url.link/
 local=/short-url.org/
@@ -7172,6 +7179,7 @@ local=/tools.slipstick.com/
 local=/slitcy.com/
 local=/slnig.link/
 local=/slnk.se/
+local=/slotamina.com/
 local=/slpre.com/
 local=/slptr.com/
 local=/slslink.com/
@@ -7217,6 +7225,7 @@ local=/smlk.es/
 local=/smll.cc/
 local=/smlnk.us/
 local=/smlr.nu/
+local=/smo.do/
 local=/smol.re/
 local=/smollq.cc/
 local=/smoner.com/
@@ -7571,6 +7580,7 @@ local=/taam.io/
 local=/taap.it/
 local=/tabsoft.co/
 local=/tabzi.com/
+local=/taedy.com/
 local=/tagbuilder.io/
 local=/taggpro.me/
 local=/tailurl.com/

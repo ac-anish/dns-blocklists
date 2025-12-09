@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 18:00 UTC
-# Version: 2025.1208.1800.15
+# Last modified: 09 Dec 2025 01:59 UTC
+# Version: 2025.1209.0159.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1326
+# Number of entries: 1327
 #
 local=/000a.de/
 local=/000space.com/
@@ -1009,6 +1009,7 @@ local=/psend.com/
 local=/pt.gp/
 local=/pt.kg/
 local=/q.gp/
+local=/q77.eu/
 local=/qipim.ru/
 local=/ql4h.net/
 local=/qu.am/

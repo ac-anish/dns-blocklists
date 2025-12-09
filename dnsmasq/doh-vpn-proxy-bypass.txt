@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Dec 2025 18:39 UTC
-# Version: 2025.1208.1839.09
+# Last modified: 09 Dec 2025 02:37 UTC
+# Version: 2025.1209.0237.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6236
+# Number of entries: 6247
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4221,6 +4221,7 @@ local=/mtr-ca.prcdn.net/
 local=/nyc-ny-us.prcdn.net/
 local=/tor-ca.prcdn.net/
 local=/waw-pl.prcdn.net/
+local=/predecessor.info/
 local=/premiumproxy.net/
 local=/premsocks.com/
 local=/presidentalhistory.wiki/
@@ -4309,6 +4310,7 @@ local=/proxtube.com/
 local=/proxy.am/
 local=/proxy.cc/
 local=/proxy.gd/
+local=/proxy.lol/
 local=/proxy.nu/
 local=/proxy.org/
 local=/proxy.red/
@@ -4354,6 +4356,7 @@ local=/proxycompass.com/
 local=/proxycroxy.site/
 local=/proxydb.net/
 local=/proxydrop.com/
+local=/proxydude.faith/
 local=/proxydude.red/
 local=/proxydude.xyz/
 local=/proxyduke.lol/
@@ -4381,6 +4384,7 @@ local=/proxyium.com/
 local=/proxyium.org/
 local=/proxyiumi.com/
 local=/proxyjet.io/
+local=/proxylib.com/
 local=/proxylister.com/
 local=/proxylistpro.com/
 local=/proxylists.org/
@@ -4423,6 +4427,7 @@ local=/proxysite.pro/
 local=/proxysite.site/
 local=/proxysite.top/
 local=/proxysite.us/
+local=/proxysite.video/
 local=/proxysitelist.net/
 local=/proxyslist.com/
 local=/proxysneak.com/
@@ -4587,6 +4592,7 @@ local=/reptis.online/
 local=/wg.req1.fr/
 local=/x.res.wang/
 local=/dns.resoft.org/
+local=/resolver.arpa/
 local=/restaurantgift.us/
 local=/dnspub.restena.lu/
 local=/dns.retakecs.com/
@@ -4861,6 +4867,7 @@ local=/dns.silen.org/
 local=/dns.silentlybren.com/
 local=/dns2.sillav.dev/
 local=/simplevpn.info/
+local=/simplevpn.net/
 local=/dns.simplylinux.ch/
 local=/dns.sindominio.net/
 local=/dns.sineone.icu/
@@ -4935,6 +4942,8 @@ local=/ag.snrka.ru/
 local=/guard.sntrk.ru/
 local=/vpn.snxi.de/
 local=/dove.soapagent.com/
+local=/dove.soapclient.com/
+local=/signup.soapclient.com/
 local=/soax.com/
 local=/socialnetworkinfo.us/
 local=/socks-proxy.net/
@@ -4978,6 +4987,7 @@ local=/speedssh.com/
 local=/speedyth.com/
 local=/spidervpn.org/
 local=/dns.spirio.fr/
+local=/sporium.org/
 local=/sportsballhub.com/
 local=/physicaleducation.sportseducationinstructors.org/
 local=/spys.one/
@@ -5015,6 +5025,7 @@ local=/sslpro.eu/
 local=/sslpro.org/
 local=/sslproxies.net/
 local=/sslproxies.org/
+local=/sslproxy.us/
 local=/sslsecureproxy.com/
 local=/sslunblocker.com/
 local=/doh.ntu.ssooss.win/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765215120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765243860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 08 Dec 2025 17:32 UTC
-; Version: 2025.1208.1732.00
+; Last modified: 09 Dec 2025 01:31 UTC
+; Version: 2025.1209.0131.05
 ; Syntax: RPZ
-; Number of entries: 19020
+; Number of entries: 19040
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1681,6 +1681,8 @@ ricn.cc CNAME .
 *.ricn.cc CNAME .
 rsgo.cc CNAME .
 *.rsgo.cc CNAME .
+sa-link.cc CNAME .
+*.sa-link.cc CNAME .
 sayapbola.cc CNAME .
 *.sayapbola.cc CNAME .
 short.cc CNAME .
@@ -1911,6 +1913,8 @@ n9.cl CNAME .
 *.n9.cl CNAME .
 social.ora.cl CNAME .
 *.social.ora.cl CNAME .
+pxs.cl CNAME .
+*.pxs.cl CNAME .
 short.cl CNAME .
 *.short.cl CNAME .
 ssff.cl CNAME .
@@ -2731,6 +2735,8 @@ short-link.co CNAME .
 *.short-link.co CNAME .
 short-ly.co CNAME .
 *.short-ly.co CNAME .
+short-url.co CNAME .
+*.short-url.co CNAME .
 shortbee.co CNAME .
 *.shortbee.co CNAME .
 shortenme.co CNAME .
@@ -6183,6 +6189,8 @@ tools.slipstick.com CNAME .
 *.tools.slipstick.com CNAME .
 slitcy.com CNAME .
 *.slitcy.com CNAME .
+slotamina.com CNAME .
+*.slotamina.com CNAME .
 slpre.com CNAME .
 *.slpre.com CNAME .
 slptr.com CNAME .
@@ -6385,6 +6393,8 @@ t2mio.com CNAME .
 *.t2mio.com CNAME .
 tabzi.com CNAME .
 *.tabzi.com CNAME .
+taedy.com CNAME .
+*.taedy.com CNAME .
 tailurl.com CNAME .
 *.tailurl.com CNAME .
 taiwangov.com CNAME .
@@ -7813,6 +7823,8 @@ ore.do CNAME .
 *.ore.do CNAME .
 short.do CNAME .
 *.short.do CNAME .
+smo.do CNAME .
+*.smo.do CNAME .
 thedo.do CNAME .
 *.thedo.do CNAME .
 wejdz.do CNAME .
@@ -8851,6 +8863,8 @@ linkin.icu CNAME .
 *.linkin.icu CNAME .
 oo0oo.icu CNAME .
 *.oo0oo.icu CNAME .
+puhli.icu CNAME .
+*.puhli.icu CNAME .
 short.icu CNAME .
 *.short.icu CNAME .
 skrbtfb.icu CNAME .
@@ -11513,6 +11527,8 @@ propub.li CNAME .
 *.propub.li CNAME .
 psh.li CNAME .
 *.psh.li CNAME .
+queer.li CNAME .
+*.queer.li CNAME .
 rbm.li CNAME .
 *.rbm.li CNAME .
 rdar.li CNAME .
@@ -13721,6 +13737,8 @@ shmz.me CNAME .
 *.shmz.me CNAME .
 short-link.me CNAME .
 *.short-link.me CNAME .
+short-me.me CNAME .
+*.short-me.me CNAME .
 shortenedurl.me CNAME .
 *.shortenedurl.me CNAME .
 shortenfor.me CNAME .
@@ -16851,6 +16869,8 @@ rajamahjong.site CNAME .
 *.rajamahjong.site CNAME .
 rdrct.site CNAME .
 *.rdrct.site CNAME .
+reive.site CNAME .
+*.reive.site CNAME .
 rj99.site CNAME .
 *.rj99.site CNAME .
 rsurl.site CNAME .
