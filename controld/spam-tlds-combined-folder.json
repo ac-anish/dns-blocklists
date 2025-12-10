@@ -5243,6 +5243,13 @@
       }
     },
     {
+      "PK": "prometko.cyou",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.promo",
       "action": {
         "do": 0,

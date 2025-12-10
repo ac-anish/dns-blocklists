@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 04 Dec 2025 18:36 UTC
-! Version: 2025.1204.1836.28
+! Last modified: 10 Dec 2025 14:36 UTC
+! Version: 2025.1210.1436.38
 ! Syntax: uBlock
 ! Number of latin TLDs: 283 - non-latin TLDs: 151
 !
@@ -75,7 +75,7 @@
 ||coupons^$doc
 ||courses^$doc
 ||credit^$doc
-||cyou^$doc,domain=~hammertime.cyou
+||cyou^$doc,domain=~hammertime.cyou|~prometko.cyou
 ||dad^$doc,domain=~daily.dad|~dear.dad|~gdflix.dad|~gdtot.dad|~rad.dad
 ||dance^$doc
 ||date^$doc,domain=~endoflife.date
