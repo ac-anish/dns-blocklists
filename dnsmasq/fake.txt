@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Dec 2025 09:28 UTC
-# Version: 2025.1210.0928.45
+# Last modified: 10 Dec 2025 21:28 UTC
+# Version: 2025.1210.2128.33
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 14169
 #
@@ -1319,6 +1319,7 @@ local=/berlinsprime.de/
 local=/berlinstil.de/
 local=/berlinwoch.com/
 local=/berluxe.de/
+local=/bermuda-musicshop.de/
 local=/bernardes.de/
 local=/bernhardthome.com/
 local=/beruhig-ende.de/
@@ -9298,7 +9299,6 @@ local=/oelza.de/
 local=/oelzone.de/
 local=/oelzy.de/
 local=/oesterreichischeapotheke.com/
-local=/oewist.com/
 local=/ofendeutschland.com/
 local=/ofenhausfuchs.com/
 local=/ofenrohr.eu/
