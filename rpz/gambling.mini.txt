@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765377000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765391280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 10 Dec 2025 14:30 UTC
-; Version: 2025.1210.1430.11
+; Last modified: 10 Dec 2025 18:28 UTC
+; Version: 2025.1210.1828.52
 ; Syntax: RPZ
-; Number of entries: 91090
+; Number of entries: 91086
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -618,8 +618,6 @@ dewacasino.art CNAME .
 *.dewacasino.art CNAME .
 gaulbapake.art CNAME .
 *.gaulbapake.art CNAME .
-giris-mostbet-casino.art CNAME .
-*.giris-mostbet-casino.art CNAME .
 hello88vina.art CNAME .
 *.hello88vina.art CNAME .
 jackpot-casino.art CNAME .
@@ -3224,8 +3222,6 @@ eldorado-casino1337.buzz CNAME .
 *.eldorado-casino1337.buzz CNAME .
 freshcasino77.buzz CNAME .
 *.freshcasino77.buzz CNAME .
-gamacasino523.buzz CNAME .
-*.gamacasino523.buzz CNAME .
 gamble.buzz CNAME .
 *.gamble.buzz CNAME .
 hugobets-2025.buzz CNAME .
@@ -6826,8 +6822,6 @@ ezcash142.casino CNAME .
 *.ezcash142.casino CNAME .
 ezcash149.casino CNAME .
 *.ezcash149.casino CNAME .
-ezcash150.casino CNAME .
-*.ezcash150.casino CNAME .
 ezcash281.casino CNAME .
 *.ezcash281.casino CNAME .
 ezcash309.casino CNAME .
@@ -28964,6 +28958,8 @@ evo-games.com CNAME .
 *.evo-games.com CNAME .
 evobet.com CNAME .
 *.evobet.com CNAME .
+evobetbdt.com CNAME .
+*.evobetbdt.com CNAME .
 evobetcasinologin.com CNAME .
 *.evobetcasinologin.com CNAME .
 evocasinos.com CNAME .
@@ -29876,8 +29872,6 @@ fr-slotsup.com CNAME .
 *.fr-slotsup.com CNAME .
 fraga-casino-azerbaycan.com CNAME .
 *.fraga-casino-azerbaycan.com CNAME .
-fragacasinogo.com CNAME .
-*.fragacasinogo.com CNAME .
 france-bonusesfinder.com CNAME .
 *.france-bonusesfinder.com CNAME .
 france-casinos-en-ligne.com CNAME .
@@ -30072,8 +30066,6 @@ freshqualityslotscasino.com CNAME .
 *.freshqualityslotscasino.com CNAME .
 freshsheetsbedandbreakfast.com CNAME .
 *.freshsheetsbedandbreakfast.com CNAME .
-freshwinnercasino.com CNAME .
-*.freshwinnercasino.com CNAME .
 friday-casino-no.com CNAME .
 *.friday-casino-no.com CNAME .
 friday-casino-nz.com CNAME .
@@ -43812,6 +43804,8 @@ playfina-online-casino.com CNAME .
 *.playfina-online-casino.com CNAME .
 playfina1.com CNAME .
 *.playfina1.com CNAME .
+playfina2.com CNAME .
+*.playfina2.com CNAME .
 playfina6.com CNAME .
 *.playfina6.com CNAME .
 playfinago.com CNAME .
@@ -45496,6 +45490,8 @@ rayyourcasinohost.com CNAME .
 *.rayyourcasinohost.com CNAME .
 razed.com CNAME .
 *.razed.com CNAME .
+razerbets.com CNAME .
+*.razerbets.com CNAME .
 razorbackparking.com CNAME .
 *.razorbackparking.com CNAME .
 rbfxdirect.com CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Dec 2025 14:29 UTC
-# Version: 2025.1210.1429.37
+# Last modified: 10 Dec 2025 18:28 UTC
+# Version: 2025.1210.1828.17
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 98539
+# Number of entries: 98537
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -40209,7 +40209,6 @@ local=/epicjackcasino.cz/
 local=/epicjackcasino.pl/
 local=/epicslots.online/
 local=/epicstar-casino.com/
-local=/epicstarcasino.biz/
 local=/epictoto4d.com/
 local=/epictotogacor.xyz/
 local=/epictotojp.xyz/
@@ -40486,6 +40485,7 @@ local=/evo-jili.org/
 local=/evo-jili.tw/
 local=/evo303resmi.bet/
 local=/evobet.com/
+local=/evobetbdt.com/
 local=/evobetcasino.win/
 local=/evobetcasinologin.com/
 local=/evocasinos.com/
@@ -40636,7 +40636,6 @@ local=/ezcash140.casino/
 local=/ezcash141.casino/
 local=/ezcash142.casino/
 local=/ezcash149.casino/
-local=/ezcash150.casino/
 local=/ezcash281.casino/
 local=/ezcash308.casino/
 local=/ezcash309.casino/
@@ -42503,7 +42502,6 @@ local=/fragacasino-az.org/
 local=/fragacasino-kz.com/
 local=/fragacasino-kz.kz/
 local=/fragacasino-official.kz/
-local=/fragacasinogo.com/
 local=/framecasino.com/
 local=/francaisonlinecasinos.net/
 local=/france-abonnements.fr/
@@ -43072,7 +43070,6 @@ local=/freshvip127.casino/
 local=/freshvip128.casino/
 local=/freshvip129.casino/
 local=/freshvip130.casino/
-local=/freshwinnercasino.com/
 local=/frht.casino/
 local=/friday-casino-no.com/
 local=/friday-casino-nz.com/
@@ -43939,7 +43936,6 @@ local=/gamacasino471.com/
 local=/gamacasino475.com/
 local=/gamacasino479.com/
 local=/gamacasino487.com/
-local=/gamacasino523.buzz/
 local=/gamacasino55.buzz/
 local=/gamacasino569.com/
 local=/gamacasino594.com/
@@ -45041,7 +45037,6 @@ local=/giracasino.com/
 local=/giris-bahiscasino.com/
 local=/giris-glorycasino.com/
 local=/giris-maltcasinoo.com/
-local=/giris-mostbet-casino.art/
 local=/giris-piabellacasino.com/
 local=/giris-vaycasino.org/
 local=/girisguncel-vdcasino.com/
@@ -65450,6 +65445,7 @@ local=/needforslotssite.com/
 local=/needforspin.com/
 local=/needforspin-casino-es.com/
 local=/needforspin-casino-no.com/
+local=/needforspin62.com/
 local=/needforspincasino.org/
 local=/needforspincasinof.com/
 local=/needforspinonlinecasino.com/
@@ -73735,6 +73731,7 @@ local=/playfina-casino-de.com/
 local=/playfina-casino-no.com/
 local=/playfina-online-casino.com/
 local=/playfina1.com/
+local=/playfina2.com/
 local=/playfina6.com/
 local=/playfinacasino1.net/
 local=/playfinacasinos-au.com/
@@ -77926,6 +77923,7 @@ local=/razed-casino-au.net/
 local=/razedbets.com/
 local=/razedcasinouk.uk/
 local=/razedcasinoy.com/
+local=/razerbets.com/
 local=/razorbackparking.com/
 local=/rbets.xyz/
 local=/rbett.org/

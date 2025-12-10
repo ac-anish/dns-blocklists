@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Dec 2025 14:30 UTC
-# Version: 2025.1210.1430.11
+# Last modified: 10 Dec 2025 18:28 UTC
+# Version: 2025.1210.1828.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 45545
+# Number of entries: 45543
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -18930,6 +18930,7 @@ local=/evo-games.com/
 local=/evo-jili.org/
 local=/evo-jili.tw/
 local=/evobet.com/
+local=/evobetbdt.com/
 local=/evobetcasino.win/
 local=/evobetcasinologin.com/
 local=/evocasinos.com/
@@ -19026,7 +19027,6 @@ local=/ezcash140.casino/
 local=/ezcash141.casino/
 local=/ezcash142.casino/
 local=/ezcash149.casino/
-local=/ezcash150.casino/
 local=/ezcash281.casino/
 local=/ezcash309.casino/
 local=/ezcashcasino.ru/
@@ -19851,7 +19851,6 @@ local=/fr-slotsup.com/
 local=/fraga-casino-azerbaycan.com/
 local=/fragacasino-az.net/
 local=/fragacasino-az.org/
-local=/fragacasinogo.com/
 local=/francaisonlinecasinos.net/
 local=/france-abonnements.fr/
 local=/france-bonusesfinder.com/
@@ -20022,7 +20021,6 @@ local=/freshqualityslotscasino.com/
 local=/freshschools.org/
 local=/freshsheetsbedandbreakfast.com/
 local=/freshsite.blog/
-local=/freshwinnercasino.com/
 local=/frht.casino/
 local=/friday-casino-no.com/
 local=/friday-casino-nz.com/
@@ -20369,7 +20367,6 @@ local=/gamacasino375.com/
 local=/gamacasino469.com/
 local=/gamacasino479.com/
 local=/gamacasino487.com/
-local=/gamacasino523.buzz/
 local=/gamacasino5r.top/
 local=/gamacasino660.com/
 local=/gamacasino713.com/
@@ -20967,7 +20964,6 @@ local=/gioventuperidirittiumani.org/
 local=/gipsyteam.ru/
 local=/giraaventura.casino/
 local=/giris-glorycasino.com/
-local=/giris-mostbet-casino.art/
 local=/giris-vaycasino.org/
 local=/girisjojobets2025.com/
 local=/girisvaycasino.net/
@@ -33914,6 +33910,7 @@ local=/playfina-casino.ie/
 local=/playfina-casino-no.com/
 local=/playfina-online-casino.com/
 local=/playfina1.com/
+local=/playfina2.com/
 local=/playfina6.com/
 local=/playfinacasinowin.net/
 local=/playfinago.com/
@@ -35846,6 +35843,7 @@ local=/rawrkrakatau.xyz/
 local=/rayyourcasinohost.com/
 local=/razed.com/
 local=/razed-casino-au.net/
+local=/razerbets.com/
 local=/razorbackparking.com/
 local=/rbets.xyz/
 local=/rbett.org/
