@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Dec 2025 10:35 UTC
-# Version: 2025.1209.1035.12
+# Last modified: 10 Dec 2025 10:50 UTC
+# Version: 2025.1210.1050.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6266
+# Number of entries: 6267
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3850,7 +3850,6 @@ local=/o2comm-prd.norton.com/
 local=/spoc.norton.com/
 local=/adguard.nostaloogia.ir/
 local=/easyschool.notesninjas.com/
-local=/dns.notjakob.com/
 local=/notlong.com/
 local=/notvpn.io/
 local=/dns.novali.date/
@@ -3905,6 +3904,7 @@ local=/qdns02.nymterm.com/
 local=/nymvpn.com/
 local=/5g.o0o.re/
 local=/o1.lt/
+local=/ha.o51r15.com/
 local=/obscura.net/
 local=/dot.occ.top/
 local=/oceanbrowser.co/
@@ -5057,6 +5057,7 @@ local=/eu2-browse.startpage.com/
 local=/eu3-browse.startpage.com/
 local=/proxy1.startpage.com/
 local=/proxy3.startpage.com/
+local=/proxy5.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us1-browse.startpage.com/
 local=/us2-browse.startpage.com/

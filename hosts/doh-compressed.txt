@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Dec 2025 10:34 UTC
-# Version: 2025.1209.1034.39
+# Last modified: 10 Dec 2025 10:50 UTC
+# Version: 2025.1210.1050.07
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 428
 #
@@ -315,10 +315,10 @@
 0.0.0.0 nop.mobi adguard.nop.mobi auth.nop.mobi callcontrol.nop.mobi dns.nop.mobi dsec.nop.mobi focus.nop.mobi guest.nop.mobi hallo.nop.mobi
 0.0.0.0 hello.nop.mobi jirecon.nop.mobi jitsi.nop.mobi m.nop.mobi meet.nop.mobi n.nop.mobi name.nop.mobi rslv.nop.mobi sinda.nop.mobi
 0.0.0.0 video.nop.mobi www.nop.mobi dns-cybersec.nordthreatprotection.com dns-malwaresec.nordthreatprotection.com dns1.nordvpn.com dns2.nordvpn.com 1.dns.noridev.moe 2.dns.noridev.moe 3.local-dns.noridev.moe
-0.0.0.0 adguard.nostaloogia.ir dns.notjakob.com dns.novali.date us.novali.date dns.novg.net dns.npe.bz adguard.npglocal.com ns.cd xpen.ns01.info
-0.0.0.0 x.ns1net.com ns3.com dnscache0.ns71.net nsown.com dns.ntr.lol ntwrkh.pro dns.nubecita.biz dns2.nubecita.biz doh.nukys.ca
-0.0.0.0 irgrdns.nullapp.xyz dns.nullgate.net dns.nullrecon.com dns.numerus.com ns.nwps.fi kids.ns.nwps.fi public.ns.nwps.fi dns.nxsyspro.com qdns02.nymterm.com
-0.0.0.0 5g.o0o.re o1.lt dot.occ.top dns.ocedric.net dns.octoworld.fr oculta.me vpn.odeccit.com dns.odinpl.com adguard.odysseusnetwork.com
+0.0.0.0 adguard.nostaloogia.ir dns.novali.date us.novali.date dns.novg.net dns.npe.bz adguard.npglocal.com ns.cd xpen.ns01.info x.ns1net.com
+0.0.0.0 ns3.com dnscache0.ns71.net nsown.com dns.ntr.lol ntwrkh.pro dns.nubecita.biz dns2.nubecita.biz doh.nukys.ca irgrdns.nullapp.xyz
+0.0.0.0 dns.nullgate.net dns.nullrecon.com dns.numerus.com ns.nwps.fi kids.ns.nwps.fi public.ns.nwps.fi dns.nxsyspro.com qdns02.nymterm.com 5g.o0o.re
+0.0.0.0 o1.lt ha.o51r15.com dot.occ.top dns.ocedric.net dns.octoworld.fr oculta.me vpn.odeccit.com dns.odinpl.com adguard.odysseusnetwork.com
 0.0.0.0 dns.ofdoom.net adguard.ohmhv57.org okado.online adh.olesgroup.com dns.oliverweinhold.de dns.olpploiopkuyhiopsfrt.info dns.omada.cafe dns.omee4.ru adguard.oms-ctr.ru
 0.0.0.0 one.one.one.one doh.onedns.net doh-pure.onedns.net adns.onlinetools.rocks adguard.onlyfriends.info d.onlyjsmylord.org andybunn.onthewifi.com hknat.ooguy.com hk2.ooroot.com
 0.0.0.0 jp2.ooroot.com kr1.ooroot.com kr2.ooroot.com sg2.ooroot.com tw2.ooroot.com oowo.de www.oowo.de openbld.net ada.openbld.net

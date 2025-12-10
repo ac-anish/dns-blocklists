@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765276500 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765363800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 09 Dec 2025 10:35 UTC
-; Version: 2025.1209.1035.12
+; Last modified: 10 Dec 2025 10:50 UTC
+; Version: 2025.1210.1050.40
 ; Syntax: RPZ
-; Number of entries: 12532
+; Number of entries: 12534
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3173,8 +3173,6 @@ spoc.norton.com CNAME .
 *.spoc.norton.com CNAME .
 easyschool.notesninjas.com CNAME .
 *.easyschool.notesninjas.com CNAME .
-dns.notjakob.com CNAME .
-*.dns.notjakob.com CNAME .
 notlong.com CNAME .
 *.notlong.com CNAME .
 nowcache.com CNAME .
@@ -3209,6 +3207,8 @@ qdns02.nymterm.com CNAME .
 *.qdns02.nymterm.com CNAME .
 nymvpn.com CNAME .
 *.nymvpn.com CNAME .
+ha.o51r15.com CNAME .
+*.ha.o51r15.com CNAME .
 octohide.com CNAME .
 *.octohide.com CNAME .
 vpn.odeccit.com CNAME .
@@ -3957,6 +3957,8 @@ proxy1.startpage.com CNAME .
 *.proxy1.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
+proxy5.startpage.com CNAME .
+*.proxy5.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
 us1-browse.startpage.com CNAME .

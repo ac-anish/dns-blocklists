@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Dec 2025 10:34 UTC
-# Version: 2025.1209.1034.39
+# Last modified: 10 Dec 2025 10:50 UTC
+# Version: 2025.1210.1050.07
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3369
 #
@@ -2367,7 +2367,6 @@ local=/1.dns.noridev.moe/
 local=/2.dns.noridev.moe/
 local=/3.local-dns.noridev.moe/
 local=/adguard.nostaloogia.ir/
-local=/dns.notjakob.com/
 local=/dns.novali.date/
 local=/us.novali.date/
 local=/dns.novg.net/
@@ -2393,6 +2392,7 @@ local=/dns.nxsyspro.com/
 local=/qdns02.nymterm.com/
 local=/5g.o0o.re/
 local=/o1.lt/
+local=/ha.o51r15.com/
 local=/dot.occ.top/
 local=/dns.ocedric.net/
 local=/dns.octoworld.fr/

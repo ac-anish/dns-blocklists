@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Dec 2025 10:34 UTC
-# Version: 2025.1209.1034.39
+# Last modified: 10 Dec 2025 10:50 UTC
+# Version: 2025.1210.1050.07
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 3846
 #
@@ -2748,7 +2748,6 @@
 0.0.0.0 2.dns.noridev.moe
 0.0.0.0 3.local-dns.noridev.moe
 0.0.0.0 adguard.nostaloogia.ir
-0.0.0.0 dns.notjakob.com
 0.0.0.0 dns.novali.date
 0.0.0.0 us.novali.date
 0.0.0.0 dns.novg.net
@@ -2776,6 +2775,7 @@
 0.0.0.0 qdns02.nymterm.com
 0.0.0.0 5g.o0o.re
 0.0.0.0 o1.lt
+0.0.0.0 ha.o51r15.com
 0.0.0.0 dot.occ.top
 0.0.0.0 dns.ocedric.net
 0.0.0.0 dns.octoworld.fr
