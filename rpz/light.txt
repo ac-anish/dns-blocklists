@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765476840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765490760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Dec 2025 18:14 UTC
-; Version: 2025.1211.1814.22
+; Last modified: 11 Dec 2025 22:06 UTC
+; Version: 2025.1211.2206.59
 ; Syntax: RPZ
-; Number of entries: 87510
+; Number of entries: 87514
 ;
 fixedfloat.ac CNAME .
 *.fixedfloat.ac CNAME .
@@ -2482,8 +2482,6 @@ seur-com.cc CNAME .
 *.seur-com.cc CNAME .
 seursen.cc CNAME .
 *.seursen.cc CNAME .
-shemrec.cc CNAME .
-*.shemrec.cc CNAME .
 shortwa.cc CNAME .
 *.shortwa.cc CNAME .
 site-maps.cc CNAME .
@@ -2556,6 +2554,8 @@ xoilacni.cc CNAME .
 *.xoilacni.cc CNAME .
 xywlapi.cc CNAME .
 *.xywlapi.cc CNAME .
+yuhuan.cc CNAME .
+*.yuhuan.cc CNAME .
 z-library.cc CNAME .
 *.z-library.cc CNAME .
 zecpu.cc CNAME .
@@ -2862,6 +2862,8 @@ guavaskavi.cfd CNAME .
 *.guavaskavi.cfd CNAME .
 gv9bykk4hi6eze9b8umymh3ggz.cfd CNAME .
 *.gv9bykk4hi6eze9b8umymh3ggz.cfd CNAME .
+h6b4ttcx643zcxqw4gcec.cfd CNAME .
+*.h6b4ttcx643zcxqw4gcec.cfd CNAME .
 harviontelasmin.cfd CNAME .
 *.harviontelasmin.cfd CNAME .
 hillersoxalite.cfd CNAME .
@@ -27288,6 +27290,8 @@ indemnity360.com CNAME .
 *.indemnity360.com CNAME .
 indentsrondels.com CNAME .
 *.indentsrondels.com CNAME .
+indexaxidpip-app.com CNAME .
+*.indexaxidpip-app.com CNAME .
 indexeseconomicsenrage.com CNAME .
 *.indexeseconomicsenrage.com CNAME .
 indexexchange.com CNAME .
@@ -57580,6 +57584,8 @@ responservbzh.icu CNAME .
 *.responservbzh.icu CNAME .
 rumelanthivore.icu CNAME .
 *.rumelanthivore.icu CNAME .
+s7m4iq.icu CNAME .
+*.s7m4iq.icu CNAME .
 sarnivalemthoxira.icu CNAME .
 *.sarnivalemthoxira.icu CNAME .
 sarvenqua.icu CNAME .
@@ -61172,16 +61178,12 @@ c1-apple.lat CNAME .
 *.c1-apple.lat CNAME .
 ft2k63g.lat CNAME .
 *.ft2k63g.lat CNAME .
-ghtroms5399.lat CNAME .
-*.ghtroms5399.lat CNAME .
 js78ksh.lat CNAME .
 *.js78ksh.lat CNAME .
 ku5pmh.lat CNAME .
 *.ku5pmh.lat CNAME .
 liqz.lat CNAME .
 *.liqz.lat CNAME .
-pffija658.lat CNAME .
-*.pffija658.lat CNAME .
 t4z9sw.lat CNAME .
 *.t4z9sw.lat CNAME .
 upstreu.lat CNAME .
@@ -61844,6 +61846,8 @@ galaxy88newgo7.lol CNAME .
 *.galaxy88newgo7.lol CNAME .
 grestalionverixa.lol CNAME .
 *.grestalionverixa.lol CNAME .
+h6x1od.lol CNAME .
+*.h6x1od.lol CNAME .
 halvorestinqualior.lol CNAME .
 *.halvorestinqualior.lol CNAME .
 harmelanthoria.lol CNAME .
@@ -70330,6 +70334,8 @@ www1.online CNAME .
 *.www1.online CNAME .
 xckuincrlohcm.online CNAME .
 *.xckuincrlohcm.online CNAME .
+xdpnnqurquvuc.online CNAME .
+*.xdpnnqurquvuc.online CNAME .
 xeuateppyqzcu.online CNAME .
 *.xeuateppyqzcu.online CNAME .
 xgkyprsxcizgc.online CNAME .
@@ -73068,6 +73074,8 @@ hj63erf3qmo8j179c842lyrznu27.rest CNAME .
 *.hj63erf3qmo8j179c842lyrznu27.rest CNAME .
 hllln1cci6g7jv4mupvunkv.rest CNAME .
 *.hllln1cci6g7jv4mupvunkv.rest CNAME .
+hy168mtcer1wku.rest CNAME .
+*.hy168mtcer1wku.rest CNAME .
 hymnsclipse.rest CNAME .
 *.hymnsclipse.rest CNAME .
 ic4m5hxo2lt86w.rest CNAME .
@@ -77222,8 +77230,6 @@ qualimodel.site CNAME .
 *.qualimodel.site CNAME .
 raccarecre.site CNAME .
 *.raccarecre.site CNAME .
-radar-help.site CNAME .
-*.radar-help.site CNAME .
 raffrtobog.site CNAME .
 *.raffrtobog.site CNAME .
 ralt.site CNAME .
@@ -78968,8 +78974,6 @@ claim-bonk.top CNAME .
 *.claim-bonk.top CNAME .
 clearskyspark.top CNAME .
 *.clearskyspark.top CNAME .
-cnwucnf.top CNAME .
-*.cnwucnf.top CNAME .
 copecfll.top CNAME .
 *.copecfll.top CNAME .
 coshas.top CNAME .

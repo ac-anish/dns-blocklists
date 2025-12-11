@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765477560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765491540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Pro++ mini DNS/Browser Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Dec 2025 18:26 UTC
-; Version: 2025.1211.1826.38
+; Last modified: 11 Dec 2025 22:19 UTC
+; Version: 2025.1211.2219.02
 ; Syntax: RPZ
-; Number of entries: 131022
+; Number of entries: 131030
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -4010,8 +4010,6 @@ seur-com.cc CNAME .
 *.seur-com.cc CNAME .
 seursen.cc CNAME .
 *.seursen.cc CNAME .
-shemrec.cc CNAME .
-*.shemrec.cc CNAME .
 shortwa.cc CNAME .
 *.shortwa.cc CNAME .
 site-maps.cc CNAME .
@@ -4106,6 +4104,8 @@ xywlapi.cc CNAME .
 *.xywlapi.cc CNAME .
 youareanidiot.cc CNAME .
 *.youareanidiot.cc CNAME .
+yuhuan.cc CNAME .
+*.yuhuan.cc CNAME .
 z-library.cc CNAME .
 *.z-library.cc CNAME .
 zecpu.cc CNAME .
@@ -4564,6 +4564,8 @@ guavaskavi.cfd CNAME .
 *.guavaskavi.cfd CNAME .
 gv9bykk4hi6eze9b8umymh3ggz.cfd CNAME .
 *.gv9bykk4hi6eze9b8umymh3ggz.cfd CNAME .
+h6b4ttcx643zcxqw4gcec.cfd CNAME .
+*.h6b4ttcx643zcxqw4gcec.cfd CNAME .
 harviontelasmin.cfd CNAME .
 *.harviontelasmin.cfd CNAME .
 hillersoxalite.cfd CNAME .
@@ -24786,8 +24788,6 @@ api.cloudsponge.com CNAME .
 *.api.cloudsponge.com CNAME .
 collect.cloudsponge.com CNAME .
 *.collect.cloudsponge.com CNAME .
-cloudstoragesigma01.com CNAME .
-*.cloudstoragesigma01.com CNAME .
 cloudstream-apk.com CNAME .
 *.cloudstream-apk.com CNAME .
 cloudtask.com CNAME .
@@ -74324,6 +74324,8 @@ ads.vizio.com CNAME .
 *.ads.vizio.com CNAME .
 rlog4.vizio.com CNAME .
 *.rlog4.vizio.com CNAME .
+viziuneluxaris.com CNAME .
+*.viziuneluxaris.com CNAME .
 analytics.internal-tools.vizor-games.com CNAME .
 *.analytics.internal-tools.vizor-games.com CNAME .
 vizu.com CNAME .
@@ -83706,6 +83708,8 @@ pattiabsor.digital CNAME .
 *.pattiabsor.digital CNAME .
 paupedisin.digital CNAME .
 *.paupedisin.digital CNAME .
+pelink.digital CNAME .
+*.pelink.digital CNAME .
 periopronu.digital CNAME .
 *.periopronu.digital CNAME .
 phonoscolo.digital CNAME .
@@ -83840,6 +83844,8 @@ wilkinson.digital CNAME .
 *.wilkinson.digital CNAME .
 ads.wmt.digital CNAME .
 *.ads.wmt.digital CNAME .
+xedebrt.digital CNAME .
+*.xedebrt.digital CNAME .
 yachtachil.digital CNAME .
 *.yachtachil.digital CNAME .
 zoppipreco.digital CNAME .
@@ -87092,6 +87098,8 @@ ax98.icu CNAME .
 *.ax98.icu CNAME .
 ax99.icu CNAME .
 *.ax99.icu CNAME .
+b0n8fr.icu CNAME .
+*.b0n8fr.icu CNAME .
 bellamassadelivery.icu CNAME .
 *.bellamassadelivery.icu CNAME .
 birthjeans.icu CNAME .
@@ -89200,8 +89208,12 @@ cleanshot.ink CNAME .
 *.cleanshot.ink CNAME .
 contactme.ink CNAME .
 *.contactme.ink CNAME .
+coppergateventures.ink CNAME .
+*.coppergateventures.ink CNAME .
 greenfox.ink CNAME .
 *.greenfox.ink CNAME .
+hollowrocksystems.ink CNAME .
+*.hollowrocksystems.ink CNAME .
 iconfinder-protector.ink CNAME .
 *.iconfinder-protector.ink CNAME .
 lnk.ink CNAME .
@@ -93306,8 +93318,6 @@ c1-apple.lat CNAME .
 *.c1-apple.lat CNAME .
 ft2k63g.lat CNAME .
 *.ft2k63g.lat CNAME .
-ghtroms5399.lat CNAME .
-*.ghtroms5399.lat CNAME .
 hadocraft.lat CNAME .
 *.hadocraft.lat CNAME .
 js78ksh.lat CNAME .
@@ -93320,8 +93330,6 @@ naturah.lat CNAME .
 *.naturah.lat CNAME .
 nflxcnat.lat CNAME .
 *.nflxcnat.lat CNAME .
-pffija658.lat CNAME .
-*.pffija658.lat CNAME .
 subetplay.lat CNAME .
 *.subetplay.lat CNAME .
 suspeter.lat CNAME .
@@ -108016,6 +108024,8 @@ www1.online CNAME .
 *.www1.online CNAME .
 xckuincrlohcm.online CNAME .
 *.xckuincrlohcm.online CNAME .
+xdpnnqurquvuc.online CNAME .
+*.xdpnnqurquvuc.online CNAME .
 xeuateppyqzcu.online CNAME .
 *.xeuateppyqzcu.online CNAME .
 xgkyprsxcizgc.online CNAME .
@@ -112122,6 +112132,8 @@ hj63erf3qmo8j179c842lyrznu27.rest CNAME .
 *.hj63erf3qmo8j179c842lyrznu27.rest CNAME .
 hllln1cci6g7jv4mupvunkv.rest CNAME .
 *.hllln1cci6g7jv4mupvunkv.rest CNAME .
+hy168mtcer1wku.rest CNAME .
+*.hy168mtcer1wku.rest CNAME .
 hymnsclipse.rest CNAME .
 *.hymnsclipse.rest CNAME .
 ic4m5hxo2lt86w.rest CNAME .
@@ -117804,8 +117816,6 @@ quiet-beggar.site CNAME .
 *.quiet-beggar.site CNAME .
 raccarecre.site CNAME .
 *.raccarecre.site CNAME .
-radar-help.site CNAME .
-*.radar-help.site CNAME .
 raffrtobog.site CNAME .
 *.raffrtobog.site CNAME .
 ralt.site CNAME .
@@ -120062,8 +120072,6 @@ cloudfastin.top CNAME .
 *.cloudfastin.top CNAME .
 cmsea.top CNAME .
 *.cmsea.top CNAME .
-cnwucnf.top CNAME .
-*.cnwucnf.top CNAME .
 com-cmkd.top CNAME .
 *.com-cmkd.top CNAME .
 comptieharries.top CNAME .

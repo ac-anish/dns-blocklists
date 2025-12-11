@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765478400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765492380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Dec 2025 18:40 UTC
-; Version: 2025.1211.1840.59
+; Last modified: 11 Dec 2025 22:33 UTC
+; Version: 2025.1211.2233.06
 ; Syntax: RPZ
-; Number of entries: 154990
+; Number of entries: 154996
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -23542,6 +23542,8 @@ clubphonesex.com CNAME .
 *.clubphonesex.com CNAME .
 clubpicx.com CNAME .
 *.clubpicx.com CNAME .
+clubpkv.com CNAME .
+*.clubpkv.com CNAME .
 clubplancul.com CNAME .
 *.clubplancul.com CNAME .
 clubpornpics.com CNAME .
@@ -47674,6 +47676,8 @@ mariedeluxe.com CNAME .
 *.mariedeluxe.com CNAME .
 marilynjayelewis.com CNAME .
 *.marilynjayelewis.com CNAME .
+marinaescort.com CNAME .
+*.marinaescort.com CNAME .
 marinepartsexc.com CNAME .
 *.marinepartsexc.com CNAME .
 marinepartsexchange.com CNAME .
@@ -84092,6 +84096,8 @@ viejuna.eljueves.es CNAME .
 *.viejuna.eljueves.es CNAME .
 elpicante.es CNAME .
 *.elpicante.es CNAME .
+erog.es CNAME .
+*.erog.es CNAME .
 eroticanum.es CNAME .
 *.eroticanum.es CNAME .
 erotikjuegos.es CNAME .
