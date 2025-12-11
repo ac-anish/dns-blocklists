@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765449120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765463580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,8 +9,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Dec 2025 10:32 UTC
-; Version: 2025.1211.1032.51
+; Last modified: 11 Dec 2025 14:33 UTC
+; Version: 2025.1211.1433.13
 ; Syntax: RPZ
 ; Number of entries: 154976
 ;
@@ -39346,6 +39346,8 @@ hotbustymoms.com CNAME .
 *.hotbustymoms.com CNAME .
 hotcamstreams.com CNAME .
 *.hotcamstreams.com CNAME .
+hotchatgirl.com CNAME .
+*.hotchatgirl.com CNAME .
 hotcherry.com CNAME .
 *.hotcherry.com CNAME .
 hotchyx.com CNAME .
@@ -102030,8 +102032,6 @@ gayo888.net CNAME .
 *.gayo888.net CNAME .
 gaypornlatino.net CNAME .
 *.gaypornlatino.net CNAME .
-gaypornotube.net CNAME .
-*.gaypornotube.net CNAME .
 gaypornsite.net CNAME .
 *.gaypornsite.net CNAME .
 gaypornxxx.net CNAME .
@@ -121354,6 +121354,8 @@ smutba.se CNAME .
 *.smutba.se CNAME .
 spermabrudar.se CNAME .
 *.spermabrudar.se CNAME .
+stfu.se CNAME .
+*.stfu.se CNAME .
 sthlmtjejer-adultforumhost.se CNAME .
 *.sthlmtjejer-adultforumhost.se CNAME .
 stryktipsexperten.se CNAME .
@@ -149998,8 +150000,6 @@ recordsexchange.xyz CNAME .
 *.recordsexchange.xyz CNAME .
 red-porn.xyz CNAME .
 *.red-porn.xyz CNAME .
-redporn.xyz CNAME .
-*.redporn.xyz CNAME .
 redporno.xyz CNAME .
 *.redporno.xyz CNAME .
 redtube8.xyz CNAME .
