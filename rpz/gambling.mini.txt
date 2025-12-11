@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765463400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765478280 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Dec 2025 14:30 UTC
-; Version: 2025.1211.1430.49
+; Last modified: 11 Dec 2025 18:38 UTC
+; Version: 2025.1211.1838.36
 ; Syntax: RPZ
-; Number of entries: 87288
+; Number of entries: 87286
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -35296,8 +35296,6 @@ loverspoker.com CNAME .
 *.loverspoker.com CNAME .
 low-deposits-casino.com CNAME .
 *.low-deposits-casino.com CNAME .
-lpdgmdmb.com CNAME .
-*.lpdgmdmb.com CNAME .
 lsbet.com CNAME .
 *.lsbet.com CNAME .
 lsbet-casino.com CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765463760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765478640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 11 Dec 2025 14:36 UTC
-; Version: 2025.1211.1436.27
+; Last modified: 11 Dec 2025 18:44 UTC
+; Version: 2025.1211.1844.16
 ; Syntax: RPZ
-; Number of entries: 12588
+; Number of entries: 12584
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -4199,8 +4199,6 @@ totallyacdn.com CNAME .
 *.totallyacdn.com CNAME .
 totalvpn.com CNAME .
 *.totalvpn.com CNAME .
-cleverportal.tovamiasto.com CNAME .
-*.cleverportal.tovamiasto.com CNAME .
 site.tovamiasto.com CNAME .
 *.site.tovamiasto.com CNAME .
 towervpn.com CNAME .
@@ -11131,8 +11129,6 @@ spongebob.cxhzegpg.shop CNAME .
 *.spongebob.cxhzegpg.shop CNAME .
 hfgx.shop CNAME .
 *.hfgx.shop CNAME .
-anyweatherispepsiweather.1903.jdymqic.shop CNAME .
-*.anyweatherispepsiweather.1903.jdymqic.shop CNAME .
 6767alpharizzmath.jdymqic.shop CNAME .
 *.6767alpharizzmath.jdymqic.shop CNAME .
 osqcsmm.shop CNAME .

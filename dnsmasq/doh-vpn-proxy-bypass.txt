@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Dec 2025 14:36 UTC
-# Version: 2025.1211.1436.27
+# Last modified: 11 Dec 2025 18:44 UTC
+# Version: 2025.1211.1844.16
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6294
+# Number of entries: 6292
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2986,7 +2986,6 @@ local=/aghome.jcconnell.com/
 local=/dns.jcdn.site/
 local=/jcdns.fun/
 local=/dns.jd.com/
-local=/anyweatherispepsiweather.1903.jdymqic.shop/
 local=/6767alpharizzmath.jdymqic.shop/
 local=/securly.com.jedimasters.net/
 local=/jellyvpn.com/
@@ -5441,7 +5440,6 @@ local=/totallyacdn.com/
 local=/totalvpn.com/
 local=/doh.totoro.pub/
 local=/touchvpn.net/
-local=/cleverportal.tovamiasto.com/
 local=/site.tovamiasto.com/
 local=/towervpn.com/
 local=/home.sso.toythieves.com/

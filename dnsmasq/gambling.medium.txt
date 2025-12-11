@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Dec 2025 14:30 UTC
-# Version: 2025.1211.1430.14
+# Last modified: 11 Dec 2025 18:38 UTC
+# Version: 2025.1211.1838.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 96114
+# Number of entries: 96113
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -57452,7 +57452,6 @@ local=/lp-dadu4d218.lat/
 local=/lp-harum4d121.lat/
 local=/lp-harumslot43.lol/
 local=/lp-harumwin35.lat/
-local=/lpdgmdmb.com/
 local=/lpheroslot77.store/
 local=/lpslotspy.site/
 local=/lqj7pokerdom.com/
