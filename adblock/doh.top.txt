@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 10 Dec 2025 10:50 UTC
-! Version: 2025.1210.1050.34
+! Last modified: 11 Dec 2025 10:36 UTC
+! Version: 2025.1211.1036.11
 ! Syntax: AdBlock
 ! Number of entries: 800
 !
@@ -109,6 +109,7 @@
 ||tky-dns.bitdefender.net^
 ||adguard.bitteeinbyte.de^
 ||dns-tls.bitwiseshift.net^
+||doh.blahdns.com^
 ||doh-ch.blahdns.com^
 ||doh-de.blahdns.com^
 ||doh-fi.blahdns.com^
@@ -116,6 +117,7 @@
 ||doh-sg.blahdns.com^
 ||dot-de.blahdns.com^
 ||dot-sg.blahdns.com^
+||us1.blissdns.net^
 ||example.doh.blockerdns.com^
 ||dns.blokada.org^
 ||bluemood.me^
@@ -208,6 +210,7 @@
 ||doq.dns4all.eu^
 ||doq64.dns4all.eu^
 ||dns4me.net^
+||dns8.org^
 ||dnsbunker.org^
 ||ns1.recursive.dnsbycomodo.com^
 ||ns2.recursive.dnsbycomodo.com^
@@ -270,7 +273,6 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
-||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
@@ -355,7 +357,6 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
-||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -538,7 +539,6 @@
 ||doh.luigi.nexific.it^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
-||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^

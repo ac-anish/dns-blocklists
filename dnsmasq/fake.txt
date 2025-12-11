@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Dec 2025 21:28 UTC
-# Version: 2025.1210.2128.33
+# Last modified: 11 Dec 2025 09:28 UTC
+# Version: 2025.1211.0928.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14169
+# Number of entries: 14181
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -1270,6 +1270,7 @@ local=/bemyo.xyz/
 local=/bender-baumarkt.com/
 local=/bendoffice.com/
 local=/beneathk.com/
+local=/beneficialx.com/
 local=/benefitw.com/
 local=/benettonaustria.at/
 local=/benjamin-scheuer.de/
@@ -2243,6 +2244,7 @@ local=/che.com/
 local=/cheapcharly.de/
 local=/cheapestcosmetic.com/
 local=/cheapmondo.com/
+local=/check24-anlagen.com/
 local=/checkaktiv.de/
 local=/chefsouppot.com/
 local=/chefthermomix.de/
@@ -3591,6 +3593,7 @@ local=/ecoalfosterreich.at/
 local=/ecoalfsale.at/
 local=/ecofuture-handel24.de/
 local=/ecogisolaire.com/
+local=/h5.ecoinf.vip/
 local=/ecomaher.com/
 local=/econoechomart.com/
 local=/econoessence.com/
@@ -3862,6 +3865,7 @@ local=/enormous.shop/
 local=/enrichor.com/
 local=/ensemble4cyclisme.com/
 local=/entermusic.it/
+local=/entertainl.com/
 local=/enthusiastichaic.com/
 local=/enthusiastip.com/
 local=/entornobanoes.com/
@@ -4082,6 +4086,7 @@ local=/eventus-ai.org/
 local=/everdeedy.com/
 local=/everestbtc.com/
 local=/evergreen-herne.com/
+local=/everhandmade.com/
 local=/everlast.fund/
 local=/everlastosterreich.at/
 local=/everlodge.io/
@@ -4461,6 +4466,7 @@ local=/firat-handel24.de/
 local=/firat-shopping.de/
 local=/firegemss.com/
 local=/firewood-versand.de/
+local=/firmadmire.com/
 local=/firmeneintrag.net/
 local=/first-bikes.de/
 local=/first-investcapital.com/
@@ -4691,6 +4697,7 @@ local=/free-maket.com/
 local=/freeacnevs.xyz/
 local=/freeacy.com/
 local=/freemobile24.de/
+local=/freeseem.com/
 local=/freesmarttools.com/
 local=/freeteck.shop/
 local=/frehit.com/
@@ -6237,6 +6244,7 @@ local=/huck24.com/
 local=/hudyrc.com/
 local=/huelstamoebelhaus.com/
 local=/huewi.xyz/
+local=/hugetsky.com/
 local=/hugfirst.com/
 local=/hugoverkauf.de/
 local=/huiiltn.shop/
@@ -6824,6 +6832,7 @@ local=/kachi-berlin.de/
 local=/kadewetasche.com/
 local=/kadiwo.de/
 local=/kadonimo.de/
+local=/kaeser-llc.com/
 local=/kaffee-burg.de/
 local=/kaffee-held24.de/
 local=/kaffee-kult.com/
@@ -7680,6 +7689,7 @@ local=/lockedintrading.co/
 local=/lockenbarava.shop/
 local=/lockenbareur.shop/
 local=/lockpickingstore.de/
+local=/locomotivey.com/
 local=/lodiac.com/
 local=/lodischuhedeutschland.com/
 local=/loefflerrandalllove.com/
@@ -14122,7 +14132,7 @@ local=/zesavi-tech.de/
 local=/zesbit.com/
 local=/zestara-berlin.de/
 local=/zetko-waren.de/
-local=/app.zety.de/
+local=/zety.de/
 local=/zfggmbh.de/
 local=/ziegler-handel.de/
 local=/zieglerzurich.ch/
@@ -14131,10 +14141,12 @@ local=/zigaretten-steuerfrei-bestellen.com/
 local=/zigber.com/
 local=/zilool.com/
 local=/zimtahorn.de/
+local=/zinderx.com/
 local=/zinniafolkartsdeeu.shop/
 local=/zinpp.com/
 local=/zinsacm.com/
 local=/zinskapital.com/
+local=/zinsmanager.de/
 local=/zinzendorf-mode.at/
 local=/zipgoat.com/
 local=/zitysports.com/

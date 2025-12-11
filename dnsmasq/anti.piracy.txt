@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Dec 2025 14:30 UTC
-# Version: 2025.1210.1430.46
+# Last modified: 11 Dec 2025 10:30 UTC
+# Version: 2025.1211.1030.35
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11532
+# Number of entries: 11531
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -8840,7 +8840,6 @@ local=/starshare.ro/
 local=/startflix.site/
 local=/startseite.cc/
 local=/startseite.to/
-local=/tracker.startwork.cv/
 local=/starwarez.to/
 local=/stealth.si/
 local=/steam-repacks.com/

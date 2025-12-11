@@ -2353,6 +2353,13 @@
       }
     },
     {
+      "PK": "telemetry.microsoft.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "telemetry.urs.microsoft.com",
       "action": {
         "do": 0,
