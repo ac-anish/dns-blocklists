@@ -176,7 +176,28 @@
       }
     },
     {
+      "PK": "analytics16-normal-no1a.tiktokw.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "analytics16-normal.tiktok.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics16-normal-useast5.tiktokw.us",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "analytics16-normal-useast8.tiktokw.us",
       "action": {
         "do": 0,
         "status": 1
@@ -3138,6 +3159,13 @@
     },
     {
       "PK": "xlog16-normal-c-useast2a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "xlog16-normal-no1a.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1

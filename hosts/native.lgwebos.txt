@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 18:05 UTC
-# Version: 2025.1205.1805.08
+# Last modified: 12 Dec 2025 18:09 UTC
+# Version: 2025.1212.1809.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1270
+# Number of entries: 1273
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 acpwdoni13.alphonso.tv
@@ -304,6 +304,7 @@
 0.0.0.0 krishnaw269.alphonso.tv
 0.0.0.0 krishnaw270.alphonso.tv
 0.0.0.0 krishnaw271.alphonso.tv
+0.0.0.0 krishnaw272.alphonso.tv
 0.0.0.0 krishnaw273.alphonso.tv
 0.0.0.0 krishnaw274.alphonso.tv
 0.0.0.0 krishnaw275.alphonso.tv
@@ -375,6 +376,7 @@
 0.0.0.0 krishnaw341.alphonso.tv
 0.0.0.0 krishnaw343.alphonso.tv
 0.0.0.0 krishnaw344.alphonso.tv
+0.0.0.0 krishnaw345.alphonso.tv
 0.0.0.0 krishnaw346.alphonso.tv
 0.0.0.0 krishnaw347.alphonso.tv
 0.0.0.0 krishnaw348.alphonso.tv
@@ -1108,6 +1110,7 @@
 0.0.0.0 tkacr774.alphonso.tv
 0.0.0.0 tkacr775.alphonso.tv
 0.0.0.0 tkacr776.alphonso.tv
+0.0.0.0 tkacr777.alphonso.tv
 0.0.0.0 tkacr778.alphonso.tv
 0.0.0.0 tkacr779.alphonso.tv
 0.0.0.0 tkacr780.alphonso.tv

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 10:37 UTC
-# Version: 2025.1212.1037.04
+# Last modified: 12 Dec 2025 17:58 UTC
+# Version: 2025.1212.1758.20
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6291
+# Number of entries: 6292
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -331,6 +331,7 @@ local=/dns.aliyun.com/
 local=/resolvers-cn.httpdns.aliyuncs.com/
 local=/httpdns-api.aliyuncs.com/
 local=/httpdns-sc.aliyuncs.com/
+local=/aliyunhttpdns.com/
 local=/alleesph.online/
 local=/scholastic.allez.la/
 local=/dns.alloxr.info/

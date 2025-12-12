@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 18:07 UTC
-# Version: 2025.1205.1807.53
+# Last modified: 12 Dec 2025 18:12 UTC
+# Version: 2025.1212.1812.27
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 355
+# Number of entries: 356
 #
 *.traffic-media.co.uk
 *.mistat.india.xiaomi.com.edgesuite.net
@@ -281,6 +281,7 @@
 *.11-c3.bigdata.ctc.neo.xiaomi.com
 *.5-c3.bigdata.ctc.neo.xiaomi.com
 *.tj1.staging.nfcpay.xiaomi.com
+*.3rdupgrade.pandora.xiaomi.com
 *.appstore.pandora.xiaomi.com
 *.bossadmin.pandora.xiaomi.com
 *.box.pandora.xiaomi.com

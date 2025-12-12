@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 17:52 UTC
-# Version: 2025.1205.1752.36
+# Last modified: 12 Dec 2025 17:56 UTC
+# Version: 2025.1212.1756.58
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 178
+# Number of entries: 181
 #
 *.search.0xcb.dev
 *.search.0xgingi.com
@@ -92,6 +92,7 @@
 *.searx.lynnesbian.space
 *.go.mail.ru
 *.searx.mastodontech.de
+*.searx.maxxblow.de
 *.metacrawler.com
 *.metager.de
 *.metager.org
@@ -131,6 +132,7 @@
 *.privacia.org
 *.search.privacytools.io
 *.search.in.projectsegfau.lt
+*.search.us.projectsegfau.lt
 *.searx.prvcy.eu
 *.librex.pufe.org
 *.lite.qwant.com
@@ -146,6 +148,7 @@
 *.searx.ch
 *.searx.info
 *.searx.ir
+*.searx.ninja
 *.searx.org
 *.searx.ru
 *.searx.run

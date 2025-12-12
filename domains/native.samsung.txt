@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 18:08 UTC
-# Version: 2025.1205.1808.50
+# Last modified: 12 Dec 2025 18:13 UTC
+# Version: 2025.1212.1813.25
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 266
+# Number of entries: 268
 #
 samsung-com.112.2o7.net
 metric.account-samsung.com
@@ -243,6 +243,8 @@ tracking.mkt-email.samsungsds.com
 samsungtvads.com
 www.samsungtvads.com
 business.samsungusa.com
+app.business.samsungusa.com
+images.business.samsungusa.com
 api-samsung.swypeconnect.com
 lbs-samsung.swypeconnect.com
 samsungau.api.useinsider.com

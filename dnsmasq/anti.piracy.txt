@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 02:30 UTC
-# Version: 2025.1212.0230.04
+# Last modified: 12 Dec 2025 17:59 UTC
+# Version: 2025.1212.1759.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11529
+# Number of entries: 11532
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1999,6 +1999,7 @@ local=/clipmovie.org/
 local=/clonebits.org/
 local=/clonehub.org/
 local=/cloudatacdn.com/
+local=/tracker.cloudbase.store/
 local=/cloudblink91.xyz/
 local=/cloudboxes.io/
 local=/cloudtorrents.com/
@@ -7182,6 +7183,7 @@ local=/openpirate.cc/
 local=/openpirate.org/
 local=/opensharing.org/
 local=/opentor.org/
+local=/tracker.opentorrent.top/
 local=/opentracker.cc/
 local=/opentracker.io/
 local=/opentracker.xyz/
@@ -8839,6 +8841,7 @@ local=/starshare.ro/
 local=/startflix.site/
 local=/startseite.cc/
 local=/startseite.to/
+local=/tracker.startwork.cv/
 local=/starwarez.to/
 local=/stealth.si/
 local=/steam-repacks.com/

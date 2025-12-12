@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 18:02 UTC
-# Version: 2025.1128.1802.36
+# Last modified: 12 Dec 2025 18:06 UTC
+# Version: 2025.1212.1806.03
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 620
+# Number of entries: 621
 #
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
@@ -582,6 +582,7 @@ vfw-ap.amazon-adsystem.com
 vfw-eu-gamma.amazon-adsystem.com
 vfw-eu.amazon-adsystem.com
 vfw-gamma.amazon-adsystem.com
+vfw-us-gamma.amazon-adsystem.com
 vfw-us-west-gamma.amazon-adsystem.com
 vfw-us-west.amazon-adsystem.com
 vfw-us.amazon-adsystem.com

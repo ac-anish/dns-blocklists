@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Dec 2025 18:07 UTC
-# Version: 2025.1205.1807.53
+# Last modified: 12 Dec 2025 18:12 UTC
+# Version: 2025.1212.1812.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 355
+# Number of entries: 356
 #
 local=/traffic-media.co.uk/
 local=/mistat.india.xiaomi.com.edgesuite.net/
@@ -281,6 +281,7 @@ local=/staging.api.zhuti.n.xiaomi.com/
 local=/11-c3.bigdata.ctc.neo.xiaomi.com/
 local=/5-c3.bigdata.ctc.neo.xiaomi.com/
 local=/tj1.staging.nfcpay.xiaomi.com/
+local=/3rdupgrade.pandora.xiaomi.com/
 local=/appstore.pandora.xiaomi.com/
 local=/bossadmin.pandora.xiaomi.com/
 local=/box.pandora.xiaomi.com/
