@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765566960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765579020 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Dec 2025 19:16 UTC
-; Version: 2025.1212.1916.11
+; Last modified: 12 Dec 2025 22:37 UTC
+; Version: 2025.1212.2237.29
 ; Syntax: RPZ
-; Number of entries: 155254
+; Number of entries: 155252
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -141066,8 +141066,6 @@ ukrainianbrides.us CNAME .
 *.ukrainianbrides.us CNAME .
 us055web-zoom.us CNAME .
 *.us055web-zoom.us CNAME .
-us08web.us CNAME .
-*.us08web.us CNAME .
 us20web.us CNAME .
 *.us20web.us CNAME .
 usexpedited.us CNAME .

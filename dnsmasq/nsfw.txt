@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 19:16 UTC
-# Version: 2025.1212.1916.11
+# Last modified: 12 Dec 2025 22:37 UTC
+# Version: 2025.1212.2237.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 77627
+# Number of entries: 77626
 #
 local=/000sexxx.com/
 local=/001-adult-toys-n-sex-dolls.com/
@@ -68935,7 +68935,6 @@ local=/us-en-adult-friendfinder.com/
 local=/us-us-pornhub.com/
 local=/us-xhamster.com/
 local=/us055web-zoom.us/
-local=/us08web.us/
 local=/us1033.com/
 local=/us20web.us/
 local=/us3r.com/
