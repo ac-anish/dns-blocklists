@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 11 Dec 2025 10:36 UTC
-! Version: 2025.1211.1036.11
+! Last modified: 12 Dec 2025 10:36 UTC
+! Version: 2025.1212.1036.57
 ! Syntax: AdBlock
-! Number of entries: 800
+! Number of entries: 802
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -377,6 +377,7 @@
 ||dns.guardmydns.com^
 ||dns.gutwe.in^
 ||gztech.me^
+||dns.haka.se^
 ||dns.hanahira.dev^
 ||adguard.haneulo.com^
 ||dns.hanmey.de^
@@ -397,6 +398,7 @@
 ||dns.huas.me^
 ||httpdns.huaweicloud.com^
 ||ads.hunga1k47.com^
+||doth.huque.com^
 ||dns.huseynov.work^
 ||dns.iamanuragh.in^
 ||dns.iamninja.ru^
@@ -489,7 +491,7 @@
 ||mabuktogel.marketing^
 ||mabuktogel.properties^
 ||mabuktogel.solutions^
-||multi.dns.marbledfennec.net^
+||dns.marbledfennec.net^
 ||adguard.marto.si^
 ||masters-of-cloud.de^
 ||mc-sft.cn^
