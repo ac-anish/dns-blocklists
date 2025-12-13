@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Dec 2025 09:57 UTC
-# Version: 2025.1209.0957.09
+# Last modified: 13 Dec 2025 09:57 UTC
+# Version: 2025.1213.0957.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1329
+# Number of entries: 1330
 #
 local=/000a.de/
 local=/000space.com/
@@ -1335,6 +1335,7 @@ local=/za.net/
 local=/zohosites.com/
 local=/zoomshare.com/
 local=/zustimmen.de/
+local=/zwphosting.com/
 local=/zx9.de/
 local=/zya.me/
 local=/zymic.com/

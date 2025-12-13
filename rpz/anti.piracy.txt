@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765562340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765621860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Dec 2025 17:59 UTC
-; Version: 2025.1212.1759.22
+; Last modified: 13 Dec 2025 10:31 UTC
+; Version: 2025.1213.1031.55
 ; Syntax: RPZ
-; Number of entries: 23064
+; Number of entries: 23060
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2480,8 +2480,6 @@ worldofpcgames.co CNAME .
 *.worldofpcgames.co CNAME .
 x265movies.co CNAME .
 *.x265movies.co CNAME .
-tracker.x6c.co CNAME .
-*.tracker.x6c.co CNAME .
 ytricks.co CNAME .
 *.ytricks.co CNAME .
 6ffc826b.yyv.co CNAME .
@@ -8360,8 +8358,6 @@ hdmovie2.cricket CNAME .
 *.hdmovie2.cricket CNAME .
 vegamovies.cricket CNAME .
 *.vegamovies.cricket CNAME .
-tracker.startwork.cv CNAME .
-*.tracker.startwork.cv CNAME .
 allin1.cx CNAME .
 *.allin1.cx CNAME .
 altadefinizione.cx CNAME .
