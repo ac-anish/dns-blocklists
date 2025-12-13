@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 18:04 UTC
-# Version: 2025.1212.1804.18
+# Last modified: 13 Dec 2025 14:12 UTC
+# Version: 2025.1213.1412.38
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 885
+# Number of entries: 886
 #
 *.2ch.org
 *.4cdn.org
@@ -834,6 +834,7 @@
 *.twitter.com
 *.twitter.co
 *.twitter.jp
+*.twitter.new
 *.twittercommunity.com
 *.twitterflightschool.com
 *.twitterinc.com

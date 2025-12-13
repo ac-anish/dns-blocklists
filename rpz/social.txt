@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765562640 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765635120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Social Networks DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Dec 2025 18:04 UTC
-; Version: 2025.1212.1804.18
+; Last modified: 13 Dec 2025 14:12 UTC
+; Version: 2025.1213.1412.38
 ; Syntax: RPZ
-; Number of entries: 1770
+; Number of entries: 1772
 ;
 masto.ai CNAME .
 *.masto.ai CNAME .
@@ -1450,6 +1450,8 @@ zuckerberg.net CNAME .
 *.zuckerberg.net CNAME .
 discord.new CNAME .
 *.discord.new CNAME .
+twitter.new CNAME .
+*.twitter.new CNAME .
 facebook.nl CNAME .
 *.facebook.nl CNAME .
 linkedin.nl CNAME .
