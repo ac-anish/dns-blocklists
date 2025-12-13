@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Dec 2025 17:53 UTC
-# Version: 2025.1213.1753.22
+# Last modified: 13 Dec 2025 21:55 UTC
+# Version: 2025.1213.2155.43
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 125141
+# Number of entries: 125282
 #
 *.0-230-23.rest
 *.0-cis.com
@@ -1500,6 +1500,7 @@
 *.13351839.click
 *.13351839.lol
 *.13353c49fd1343d7.com
+*.13355.vip
 *.1337x.cyou
 *.1337x.so
 *.133au.com
@@ -1721,6 +1722,7 @@
 *.161-google.com
 *.16107.cn
 *.161453.com
+*.1615222333.com
 *.161902.com
 *.162222.xyz
 *.162370376.cloud
@@ -2857,6 +2859,7 @@
 *.25104ed245a361d6.com
 *.251377bab0645811.com
 *.251892-kraken.com
+*.251892kraken.com
 *.2526be72a519695c.com
 *.252effda72861071.com
 *.252f55ec1b43dc95.com
@@ -3012,6 +3015,7 @@
 *.285475024.cfd
 *.285568b3e66bf235.com
 *.285592694.cfd
+*.285716coinbase.com
 *.28579dd0ba2741150e25a2e4d5d15ccc.com
 *.285eda6cc6736f12.com
 *.28615c7bebefc541.com
@@ -6491,6 +6495,7 @@
 *.6529icv1w2.shop
 *.652ffaa4de2342be3842800a8463a088.info
 *.6534019e95fabd5a.com
+*.65352.icu
 *.654178google.com
 *.6544332.com
 *.654668a2baf4d0dc.com
@@ -7033,6 +7038,7 @@
 *.6gzhx1h4m8b.buzz
 *.6h061.com
 *.6h073.com
+*.6h076.com
 *.6h078.com
 *.6h301.com
 *.6h309.com
@@ -7045,6 +7051,7 @@
 *.6h505.com
 *.6h509.com
 *.6h603.com
+*.6h605.com
 *.6h644.com
 *.6h692.com
 *.6h693.com
@@ -13109,6 +13116,7 @@
 *.ag-diehandwerker.de
 *.ag-eu.club
 *.ag-launch.icu
+*.ag-portal-edge-auth-api-gateway.pro
 *.ag-prod-online-edge-api-gateway.pro
 *.ag-secure-alpha-edge-auth.pro
 *.ag-secure-app-services-beta.pro
@@ -13275,6 +13283,7 @@
 *.agrofinace.com
 *.agronexusterratech.online
 *.old.agroonline.uz
+*.agropole.tg
 *.beta.agroskying.com
 *.agrowill.com
 *.ags-adguard.pro
@@ -14437,6 +14446,7 @@
 *.allegrodigital.shop
 *.allegrolokalnie.live
 *.allegromall.vip
+*.sandbox.allegromicro.cloud
 *.allegroweddings.com
 *.allenartinc.com
 *.allencomputers.ca
@@ -15524,6 +15534,7 @@
 *.amlcheck-trc20.com
 *.amlchecked.pro
 *.amlcheckerbot.net
+*.amlchecksecurity.com
 *.amlchecktrustwallet.com
 *.amlcrypto.cloud
 *.amlcrypto.finance
@@ -20899,6 +20910,7 @@
 *.baseisnotforeveryone.xyz
 *.basekb.xyz
 *.baselabs.app
+*.baselabs.global
 *.baselmarkets.com
 *.basement-wall-repair-leaks.click
 *.basement-water-repair-nearby-011.click
@@ -21325,6 +21337,7 @@
 *.bc0ec752f315df6c7e563f3912ec9090.com
 *.bc17dxm4rqhk.art
 *.bc1ce7a067c9c256.com
+*.bc1recovery.com
 *.bc2eaa5e0aa9d54e.com
 *.bc3a4c5bcc3ad20bc3a4c5bc.reisen
 *.bc4d406daece1ad4.com
@@ -22322,6 +22335,7 @@
 *.bewind.com
 *.bewing.xyz
 *.bewozeu.com
+*.bewyqao.com
 *.bexjrb.com
 *.bexstock.com
 *.beyond.re
@@ -22651,6 +22665,7 @@
 *.biffmugweed.cyou
 *.biffyai-platform.com
 *.bifidganza.help
+*.bifrost.pe
 *.bifrost.pl
 *.bifrostdesktopwallet.app
 *.bifrozt.io
@@ -25433,6 +25448,7 @@
 *.btbusdt.com
 *.btc-2x.io
 *.btc-535-elarionsoftware.com
+*.btc-860velaryon.fr
 *.btc-blunex-9-0.com
 *.btc-blunex-90.com
 *.btc-delivery.com
@@ -25471,6 +25487,7 @@
 *.btcperfectoptions.com
 *.btctoidr.com
 *.btcvdrttk.com
+*.btcvelaryon.fr
 *.btcwormhole.com
 *.btcwpd.com
 *.btda-api.mom
@@ -25568,6 +25585,7 @@
 *.buchhaltungs-management.com
 *.buchungssystem-wordpress.com
 *.bucicif.com
+*.bucketadd.org
 *.buckheadhs.com
 *.buckscountytaxattorney.com
 *.bucky-bonk.com
@@ -28774,6 +28792,7 @@
 *.chaingw.xyz
 *.chainhn.xyz
 *.chainht.xyz
+*.chainhx.xyz
 *.chainhy.xyz
 *.chainilnk.com
 *.chainintegrator.xyz
@@ -28781,24 +28800,32 @@
 *.chainjz.xyz
 *.chainkw.xyz
 *.chainky.xyz
+*.chainlh.xyz
 *.chainlink.club
 *.chainlink-vault.com
 *.chainln.xyz
 *.chainlotemax.com
 *.chainmm.xyz
 *.chainnc.xyz
+*.chainng.xyz
 *.chainofficer.xyz
 *.chainoffices.xyz
+*.chainqh.xyz
 *.chainql.com
 *.chainreaction-solution.com
 *.chainrh.xyz
 *.chainsol.live
 *.chainsupdate.top
+*.chainsw.xyz
 *.chainsync.app
 *.chainsyncs.com
 *.chaintalk.top
 *.chainva.xyz
+*.chainwf.xyz
+*.chainws.xyz
+*.chainwt.xyz
 *.chainwz.xyz
+*.chainxe.xyz
 *.chainyf.xyz
 *.chainyo.xyz
 *.chainzv.xyz
@@ -31334,6 +31361,7 @@
 *.beema.co.in
 *.bellajazz.co.uk
 *.bellwebsite.co.uk
+*.www.benshamcentre.co.uk
 *.berca-mp.co.id
 *.berkahinternasional.co.id
 *.bestmovepropertyservices.co.uk
@@ -32325,6 +32353,7 @@
 *.coinbas-news-view.com
 *.coinbase.free
 *.coinbase.fun
+*.coinbase.hu
 *.coinbase.security
 *.coinbase.spot
 *.coinbase.work
@@ -32343,6 +32372,7 @@
 *.coinbase-mail.help
 *.coinbase-pt.com
 *.coinbase-recover.com
+*.coinbase-reply.help
 *.coinbase-review.net
 *.coinbase-s.com
 *.coinbase-safestoragevault.com
@@ -32407,6 +32437,7 @@
 *.coinbasesupportsystem.com
 *.coinbaseteam.com
 *.coinbasetools.com
+*.coinbaseuk.org
 *.coinbasewallet.online
 *.coinbasewebsafe.com
 *.coinbaze.xyz
@@ -33812,6 +33843,7 @@
 *.com--connect.com
 *.com-522161.help
 *.com-54q.cfd
+*.com-8pkt822.top
 *.paypal.com-account.online
 *.com-account-activate.help
 *.com-alpha-api-auth-main.pro
@@ -33831,6 +33863,7 @@
 *.com-api-gateway-app-edge-portal.pro
 *.com-api-gateway-broker-edge.pro
 *.com-api-gateway-edge-prod-portal.pro
+*.com-api-gateway-external-management-auth.pro
 *.com-api-gateway-frontend-client-dev.pro
 *.com-api-gateway-management-portal-ci.pro
 *.com-api-gateway-platform-internal-prod.pro
@@ -33852,6 +33885,7 @@
 *.com-auth-apps-prod-dex.ltd
 *.com-auth-cdn-beta-portal.pro
 *.com-auth-cdn-edge-v5.pro
+*.com-auth-checkout-step.shop
 *.com-auth-cluster-alpha-beta.pro
 *.com-auth-customer-account-openid-connect.help
 *.com-auth-customer-connect-invoice.com
@@ -33859,6 +33893,9 @@
 *.com-auth-id-9851384.com
 *.com-auth-portal-partner-cdn.pro
 *.com-auth-prod-api-gateway-api.online
+*.com-auth-service-dex-secure.pro
+*.com-auth-swap-dex-apps.pro
+*.com-authconnectin.ru
 *.com-authrequestid883.pro
 *.com-backend-api-corp-ci.pro
 *.com-backend-cd-cluster-ci.pro
@@ -33895,6 +33932,7 @@
 *.com-connects-wallets-gateway-api-gateway.pro
 *.com-consign.click
 *.com-core-ai-portal-platform.pro
+*.com-core-alpha-dev-gateway.pro
 *.com-core-secure-external-edge.pro
 *.com-corp-cd-auth-stage.pro
 *.driveezmd.com-cwef.vip
@@ -33903,6 +33941,7 @@
 *.com-deliveries.click
 *.com-dex-beta-portal-connects.pro
 *.com-dex-connect-secure-v3.ltd
+*.com-dex-edge-beta-alpha.pro
 *.com-dex-home-app.com
 *.com-dex-prod-apps-api.pro
 *.com-dex-prod-wallets-alpha.pro
@@ -33917,6 +33956,7 @@
 *.com-dntr.vip
 *.com-edge-api-gateway-service-gateway.pro
 *.com-edge-api-secure-portal.pro
+*.com-edge-auth-beta-trading.pro
 *.com-edge-portal-online-brokers.pro
 *.com-edge-wallet-api-secure.cloud
 *.com-edge-wallets-secure-portal.pro
@@ -33934,6 +33974,7 @@
 *.com-gateway-alpha-swap-connect.pro
 *.com-gateway-api-gateway-apps-portal.pro
 *.com-gateway-auth-secure-api-gateway.pro
+*.com-gateway-beta-dex-auth.pro
 *.com-gateway-cdn-secure-api.pro
 *.com-gateway-portal-app-platform.pro
 *.getipass.com-getat.vip
@@ -33943,6 +33984,7 @@
 *.com-hold.click
 *.seur.com-hsw.vip
 *.driveezmd.com-hved.vip
+*.com-id914hafhicj23u1q5baf3c8u1b8ab17bca198c9a.cc
 *.ssssssssverify-apple.com-info.io
 *.ssverify-apple.com-info.io
 *.m.sverify-apple.com-info.io
@@ -33968,7 +34010,9 @@
 *.seur.com-nys.vip
 *.seur.com-nyu.vip
 *.com-omgf.shop
+*.com-online-api-connect-auth.pro
 *.com-online-portal-api-gateway-trading.pro
+*.com-online-prod-trading-cdn.pro
 *.com-online-secure-gateway-management.cloud
 *.com-online-trading-auth-gateway.pro
 *.com-partner-backend-api-gateway-cdn.pro
@@ -33977,6 +34021,8 @@
 *.ct.com-payxuw.vip
 *.com-platform-api-gateway-secure-gateway.pro
 *.com-platform-api-gateway-v3-cdn.pro
+*.com-platform-online-gateway-external.pro
+*.com-platform-server-core-online.pro
 *.sellercentral.amazon.com-plr.net
 *.com-portal-api-connects-cdn.pro
 *.com-portal-api-gateway-v4-wallet.pro
@@ -34018,6 +34064,7 @@
 *.com-secure-prod-trading-beta.cloud
 *.com-secure-trading-brokers-cdn.pro
 *.com-secure-v5-swap-dex.pro
+*.com-server-alpha-v3-partner.pro
 *.com-server-management-main-alpha.pro
 *.com-server-partner-cdn-cluster.pro
 *.com-service-cdn-gateway-portal.pro
@@ -34108,6 +34155,7 @@
 *.com-v3.click
 *.com-v3-app-auth-alpha.ltd
 *.com-v3-claim.live
+*.com-v4-swap-cdn-api.pro
 *.com-v5-trading-api-prod.pro
 *.com-verification.cyou
 *.m.paypall.com-verification.net
@@ -34147,6 +34195,7 @@
 *.com-ws.cfd
 *.com-wu.cfd
 *.com-wy.cfd
+*.com-x4.net
 *.com-xah.top
 *.com-xrh.top
 *.com-xuqt.vip
@@ -35928,6 +35977,7 @@
 *.criip.uno
 *.criisismonior.online
 *.u4.trakx.crim.ist
+*.crimefreesoftware.com
 *.crimer.capital
 *.criminal-justice-degree-online.click
 *.criminal-school-degreejustice.click
@@ -36188,6 +36238,9 @@
 *.crypto-sheets.com
 *.crypto-shop.net
 *.crypto-spirit.com
+*.crypto-to-fiat-onramp-services-abm.cyou
+*.crypto-to-fiat-onramp-services-bod.cyou
+*.crypto-to-fiat-onramp-services-bza.cyou
 *.crypto-to-fiat-onramp-services-zzz.sbs
 *.crypto-tree.net
 *.crypto-upvotes.com
@@ -38758,6 +38811,7 @@
 *.degasintro.site
 *.degenatlas.xyz
 *.degenfoundation.com
+*.degenplace.fun
 *.degenwhale.site
 *.degisikligi.com
 *.degn.site
@@ -40930,6 +40984,7 @@
 *.diz-pl1.xyz
 *.dizhi001.com
 *.diziopson.xyz
+*.dizipal1222.com
 *.dizziedborana.click
 *.dizzyexit.com
 *.dizzyhallzg.name
@@ -43264,6 +43319,7 @@
 *.e7a5dn.lol
 *.e7acb39d285754d1.com
 *.e7aec00abc812537.com
+*.e7b4pk.lol
 *.e7b7d60c324d4168.com
 *.e7c1973082fc.top
 *.e7c402c8d15f92d9.com
@@ -49078,6 +49134,11 @@
 *.fi-auth-staking-apps-connects.pro
 *.fi-beta-dex-wallet-service.pro
 *.fi-beta-v3-apps-api.pro
+*.fi-ca.bond
+*.fi-ca.cfd
+*.fi-ca.digital
+*.fi-ca.online
+*.fi-ca.sbs
 *.fi-cdn-staking-secure-api-gateway.pro
 *.fi-cdn-v1-beta-edge.pro
 *.fi-connect-wallet-gateway-auth.pro
@@ -49098,6 +49159,7 @@
 *.fi-online-api-gateway-portal-secure.pro
 *.fi-online-cdn-api-v2.pro
 *.fi-online-dex-swap-connect.pro
+*.fi-online-gateway-beta-alpha.pro
 *.fi-online-wallets-dex-gateway.pro
 *.fi-pool.net
 *.fi-portal-swap-service-dex.pro
@@ -49110,6 +49172,7 @@
 *.fi-staking-auth-gateway-dex.pro
 *.fi-staking-connect-api-dex.pro
 *.fi-swap-auth-staking-connects.pro
+*.fi-swap-portal-app-api.pro
 *.fi-swap-wallets-v3-services.ltd
 *.fi-tracking.com
 *.fi-treasury.net
@@ -49623,10 +49686,12 @@
 *.finance-opportunities-turkey.info
 *.finance-phantom-es.cc
 *.finance-portal-alpha-secure-connect.ltd
+*.finance-portal-beta-auth-cdn.pro
 *.finance-portal-connect-service-api.pro
 *.finance-portal-online-gateway-cdn.pro
 *.finance-portfolio-turkey.info
 *.finance-prod-api-alpha-v1.pro
+*.finance-prod-app-portal-api-gateway.pro
 *.finance-prod-edge-app-connect.pro
 *.finance-prod-online-portal-edge.pro
 *.finance-schwab.com
@@ -50099,6 +50164,7 @@
 *.fixlogincenter.com
 *.fixmycue.com
 *.fixnewupdate.com
+*.fixnodedapp.com
 *.fixpub.com
 *.fixsolucoes.com
 *.fixwallet.org
@@ -50443,6 +50509,7 @@
 *.florina.today
 *.florindaflor.com
 *.floringjobs-ffb-qyhed-fo4.click
+*.florone-drabledynex.com
 *.floronedrabledynex.com
 *.asdad.florpeter.xyz
 *.florsheimzhz.shop
@@ -51167,6 +51234,7 @@
 *.fr-www-prbs.com
 *.fr0ggysh0w.top
 *.fr0gtime.ru
+*.fr0stgate.ru
 *.fr0stpetai.ru
 *.fr0styw1nterj0y.top
 *.fr1zzlepit.ru
@@ -52956,6 +53024,7 @@
 *.gczxtech.com
 *.gd-qtj.com
 *.gd-whatsapp.com
+*.gdanskkwiatyru.pro
 *.gdbkplzeggkrg.online
 *.gdblaze88.live
 *.gdblu.com
@@ -54671,6 +54740,7 @@
 *.gobensl.top
 *.gobeu.icu
 *.gobigsol.xyz
+*.gobiotechpestcontrol.com
 *.gobjp97c1e084576.top
 *.moja-paczka.goblam.click
 *.goblkbrd.com
@@ -57185,6 +57255,7 @@
 *.gyvgghn1440.vip
 *.gywzok.club
 *.gyx-defender.pro
+*.gyxavyi.com
 *.gyxdcy.com
 *.gyxhjy.com
 *.gyxsgm.com
@@ -57457,6 +57528,7 @@
 *.hakahomebuyers.com
 *.hakeemyaseenofficial.com
 *.hakenusa.com
+*.hakeowner.org
 *.hakexchanges.com
 *.hakiyetu.org
 *.hakkaniyet.com
@@ -63796,6 +63868,7 @@
 *.inviit.com
 *.invincibletricking.com
 *.invinciblewe.com
+*.invinixpips.com
 *.invitas.app
 *.invitationforyou.ink
 *.invitationoffice.xyz
@@ -63864,6 +63937,7 @@
 *.io-airdrop.site
 *.trezor.io-app.run
 *.io-app-2i.info
+*.io-backend-services-portal-cluster.pro
 *.io-ciaut.vip
 *.io-ciauv.bond
 *.ethena.io-dashboards.net
@@ -63873,15 +63947,19 @@
 *.io-internalpay.com
 *.io-kly.com
 *.eigenlayer.io-l2.org
+*.io-org.org
 *.io-phase2.app
 *.io-phase2.com
+*.io-predict.com
 *.support.io-rb.fr
 *.io-ru.me
+*.io-season-2.app
 *.io-season2.info
 *.io-secure-stage-cluster-node.pro
 *.io-sol.vip
 *.io-start.app
 *.io-start.live
+*.io-start-app.live
 *.io-startt.com
 *.io-swap.net
 *.io-token.vip
@@ -67229,6 +67307,7 @@
 *.kaorin-office.com
 *.kaotama.com
 *.kaoyanbaoku.com
+*.data.kaoyany.top
 *.kapahemps.shop
 *.kapapoint.info
 *.kapaurackets.com
@@ -68946,6 +69025,7 @@
 *.kra47cc------------------a.ru
 *.kra47cc-----------------a.ru
 *.kra47cc---------------a.ru
+*.kra47cc-------------a.ru
 *.kra47cc-----------c.ru
 *.kra47cc----------d.ru
 *.kra47cc---------c.ru
@@ -68985,6 +69065,7 @@
 *.kraken-exchange.com
 *.kraken-funding.com
 *.kraken-portal.com
+*.kraken-shop.top
 *.kraken100.com
 *.kraken189.com
 *.kraken19at-t.ru
@@ -69025,7 +69106,9 @@
 *.krakenexchange.site
 *.krakenfiles.org
 *.krakenforgeplastix.com
+*.krakenfree.com
 *.krakengames.shop
+*.krakenhelpdesks.com
 *.krakenis.com
 *.krakenjack.com
 *.krakenledger.com
@@ -69132,6 +69215,7 @@
 *.krivorukus.cyou
 *.krjdzc.com
 *.krkhj.com
+*.krknm.cc
 *.krlinvestments.com
 *.krlsbu.info
 *.krmfinancialgroup.com
@@ -69229,6 +69313,7 @@
 *.ksyfja56tqysf23.top
 *.ksyysn.asia
 *.ksyzj.com
+*.kszamnikrcabska.com
 *.kt763.com
 *.google.kt9.site
 *.ktacti.com
@@ -73749,6 +73834,7 @@
 *.m1stleaf.ru
 *.m1stwave.ru
 *.m1stybird.ru
+*.m1stycl0ud.ru
 *.m1styline.ru
 *.m1styrock.ru
 *.m1stysun.ru
@@ -77924,6 +78010,7 @@
 *.moksen.com
 *.molabeyoglufastfood.com
 *.mold-removal-services-near-me.click
+*.mole33pur.com
 *.pink.mole33se.com
 *.molebjeivsqwq.online
 *.molecabrasiloficialbr.shop
@@ -77993,6 +78080,7 @@
 *.monad-hub.xyz
 *.monad-network.com
 *.monad-pool.xyz
+*.monad-v2.xyz
 *.monadabxy.com
 *.monadapp.live
 *.monadbets.com
@@ -78006,6 +78094,7 @@
 *.monadgives.com
 *.monadic.finance
 *.monadiosocial.xyz
+*.monadlands.xyz
 *.monadmix.cash
 *.monadnetwork.app
 *.monadoons.top
@@ -78222,6 +78311,7 @@
 *.monliva.com
 *.monliza.sbs
 *.monmaker.com
+*.monmonad.com
 *.monmouthshiretreeservices.com
 *.monnad.net
 *.monobahis.sbs
@@ -78464,6 +78554,7 @@
 *.morowire.com
 *.morpho-app.org
 *.morphomusic.com
+*.morphoofficial.com
 *.morputfulp.com
 *.morquendisg.icu
 *.morris42.com
@@ -80004,6 +80095,7 @@
 *.mzscr.com
 *.mzslx.club
 *.mzt27txt549nvnc.cfd
+*.mzt4pr8wlkxnv0qsha5g.website
 *.mztqypcygmeii.online
 *.mzuus.com
 *.mzwechat.com
@@ -80034,6 +80126,7 @@
 *.n1ghtbloom.ru
 *.n1ghtowl.ru
 *.n1ghtstone.ru
+*.n1ghtwave.ru
 *.n1pdmp.click
 *.n23e92.top
 *.aonbs.n2bs.ao
@@ -80259,6 +80352,7 @@
 *.nasdaqvn.com
 *.nash-izberbash.ru
 *.nashcountynews.com
+*.nashglavbuh.org
 *.nashkolidadesh.africa
 *.nashnight.com
 *.nashstudyabroadacademy.com
@@ -80457,7 +80551,6 @@
 *.naxioveronium-pro.net
 *.naxx.dev
 *.nayaritconsume.com
-*.nayarituals.shop
 *.nayaseekho.com
 *.naylorweb.com
 *.nayra.art
@@ -81859,6 +81952,7 @@
 *.njuskalo-payprotect.help
 *.njxyan.com
 *.njy9.com
+*.njzmfcls.com
 *.nkban.com
 *.nkbfkirbnxdbo.site
 *.nkch.digital
@@ -84024,6 +84118,7 @@
 *.ojapere.top
 *.ojasvidpan.com
 *.ojc-adguard.pro
+*.ojdm1.wang
 *.ojeyexe.top
 *.ojg-adguard.pro
 *.ojgtes.tattoo
@@ -84099,7 +84194,6 @@
 *.okmail.store
 *.okmht.xyz
 *.okna-systems.pro
-*.oknoplastik.sk
 *.oko-cafe.com
 *.okodegamiw.digital
 *.ws.okokcdn.com
@@ -85561,7 +85655,9 @@
 *.org-cdn-apps-api-gateway-wallet.cloud
 *.org-cdn-online-secure-auth.ltd
 *.org-com.website
+*.org-connect-swap-v1-cdn.pro
 *.bayareafastrak.org-cowis.vip
+*.org-dex-api-gateway-v4-apps.pro
 *.org-dex-app-v2-swap.pro
 *.org-dex-connect-edge-beta.pro
 *.org-dex-connects-app-auth.pro
@@ -88068,6 +88164,7 @@
 *.phantocn.com
 *.phantom.cool
 *.phantom.coupons
+*.phantom.express
 *.phantom.ltda
 *.phantom-app.net
 *.phantom-backup.com
@@ -89302,6 +89399,7 @@
 *.placardrepentanceshoes.com
 *.place.bio
 *.place4girls.com
+*.placementscoe.com
 *.placesbids-market.com
 *.plachiesmea.com
 *.placidityelite.com
@@ -89391,6 +89489,7 @@
 *.platelabels.com
 *.platesskull.com
 *.platform-18436.com
+*.platform-dydx.com
 *.platform-microsoftonline.com
 *.platform-seikom.com
 *.platformesk.pro
@@ -89641,6 +89740,7 @@
 *.plsd9klflloawsqp01xk.icu
 *.plsd9klflrdmwsqp01xk.icu
 *.plsd9klfukolusqp01xk.icu
+*.plsd9klfuthjlarp01xk.icu
 *.plsd9klfuthjusqp01xk.icu
 *.plsd9klfutyawsqp01xk.icu
 *.plseuryk.cyou
@@ -90002,6 +90102,7 @@
 *.polivonquestharimax.cfd
 *.polivonquestharimax.pics
 *.poliymarket.com
+*.polkadot.lol
 *.polkadot-1.com
 *.polkadot-2.com
 *.polkadot-3.com
@@ -90074,6 +90175,7 @@
 *.polymarket.sucks
 *.polymarket.world
 *.polymarket-app.com
+*.polymarket-cn.com
 *.polymarket-elon-tracker.com
 *.polymarket-gw.com
 *.polymarket-submissions.com
@@ -90090,6 +90192,7 @@
 *.polymarketodds.com
 *.polymarketpro.xyz
 *.polymarkets.group
+*.polymarketsport.com
 *.polymarketstats.xyz
 *.polymarkettrade.com
 *.polymastiagonotocontappendixes.com
@@ -91572,6 +91675,7 @@
 *.propolymarket.com
 *.proponomy.com
 *.proposal-ondo.xyz
+*.proposal-solstice.finance
 *.proposals-plasma.app
 *.propostarapida.com
 *.proppeco.com
@@ -91617,6 +91721,7 @@
 *.protect-blackrxbr.cloud
 *.protect-trezor.io
 *.protectdeal.live
+*.protected.market
 *.protected-drive-apple.com
 *.protection-trezor.io
 *.protectionreportnicely.com
@@ -92827,6 +92932,7 @@
 *.qixundu9484.asia
 *.qiyishequ.asia
 *.qiyue3.sbs
+*.qizafyo.com
 *.qjcbp525z.world
 *.qjdjbkvy40.shop
 *.qjewo.buzz
@@ -93513,6 +93619,7 @@
 *.qyyl123.com
 *.qyyun.cloud
 *.qyyycw.com
+*.qyzamui.com
 *.qz7jiw.rest
 *.qzctqm.com
 *.qzeibuevhxeac.online
@@ -94367,6 +94474,7 @@
 *.realo.network
 *.realorigin.org
 *.realparentinghelp.com
+*.realsimplesocial.com
 *.realskypotolki.ru
 *.realsolutionspr.com
 *.realsunet.com
@@ -94841,6 +94949,7 @@
 *.regisidagentshop138.vip
 *.register-aerodrome.finance
 *.register-alloca.org
+*.register-allora.network
 *.register-aster.org
 *.register-cysic.org
 *.register-cysicfoundation.org
@@ -95213,6 +95322,7 @@
 *.reopktusps.com
 *.reordckwka.digital
 *.reoxwrcawzaeo.website
+*.rep-kraken.com
 *.rep-ledger.com
 *.repairleak.top
 *.repairnow.click
@@ -95775,6 +95885,7 @@
 *.rexelfunctiongroup.com
 *.rexo.click
 *.rexoncorp.com
+*.rexumya.com
 *.rexynewd.world
 *.rexyxyte.shop
 *.reyes.engineering
@@ -96195,14 +96306,11 @@
 *.ritualroast.coffee
 *.rituals-cafe.com
 *.rituals-club.com
-*.rituals-ie.top
 *.rituals-of-yue.com
 *.rituals-oferta.site
-*.rituals-online-eu.shop
 *.rituals-outletvip.shop
 *.rituals-pakket.nl
 *.rituals-promotie.online
-*.rituals-renaissance.com
 *.rituals-vip.shop
 *.ritualsecretododesligue.shop
 *.ritualsnectar.shop
@@ -96596,6 +96704,7 @@
 *.rocketpool.top
 *.rocketpoolairdrop.xyz
 *.rocketsol.network
+*.rockfieid.ru
 *.rockfordsigns.com
 *.rockhavenconsulting.ink
 *.rockindbeach.com
@@ -97135,9 +97244,22 @@
 *.rto-defender.pro
 *.rtobuy-to-owncarrent.click
 *.rtobuyto-owncar-rent.click
+*.rtochallan0283837.store
 *.rtochallan05735376.online
 *.rtochallan0786373636.online
+*.rtochallan09363737.store
+*.rtochallan0963736.store
+*.rtochallan5464643779878.online
+*.rtochallan6272526.store
+*.rtochallan6392860193.store
+*.rtochallan7337376.online
 *.rtochallan763763773.online
+*.rtochallan8081458623124.shop
+*.rtochallan8373737.store
+*.rtochallan8373763635.online
+*.rtochallan908102.store
+*.rtochallan9087654532.store
+*.rtochallan92727263.store
 *.rtoline.xyz
 *.rtoloida.pro
 *.rtp-live-mamba196.online
@@ -97301,7 +97423,6 @@
 *.rumertifel.com
 *.rummy-apple.com
 *.rummybonus.club
-*.rumouruprising.com
 *.rumpim.live
 *.brade-931204387106.southamerica-east1.run.app
 *.brs024-313114278077.southamerica-east1.run.app
@@ -97866,6 +97987,7 @@
 *.safeguard.guru
 *.safeguardportalverify.com
 *.safeguardvault-coinbase.com
+*.safeguild.app
 *.safehandsmission.org
 *.safeharborguidancegroup.xyz
 *.safehomefamilies.com
@@ -102010,6 +102132,7 @@
 *.slushie.email
 *.slushscan.com
 *.slushupdate.info
+*.slushwallet.info
 *.slushyhat.com
 *.slutbutter.com
 *.slutology.club
@@ -103926,6 +104049,7 @@
 *.squeaks.lol
 *.squealdcolmars.top
 *.squealfiles.com
+*.squeeky3mouse.info
 *.squeelgledes.rest
 *.squeezy7lemon.info
 *.squidrocuter.com
@@ -104593,6 +104717,7 @@
 *.stellara.de
 *.stellarblockchain.network
 *.stellarlagoonq.cfd
+*.stellarmarkets.trade
 *.stellarone.art
 *.stellarsteppers.com
 *.stellarvaluepartners.com
@@ -105383,6 +105508,9 @@
 *.suinserca.com
 *.suiofficer.xyz
 *.suioffices.xyz
+*.suiplay0x1.blog
+*.suiplay0x1.icu
+*.suiplay0x1.online
 *.suisiswarp.fi
 *.suissebroker.com
 *.suisub.com
@@ -105653,6 +105781,7 @@
 *.superaibuy.com
 *.superaifinancial.com
 *.superaihire.com
+*.superailogo.com
 *.superaimint.com
 *.superainote.com
 *.superaisim.com
@@ -106993,6 +107122,7 @@
 *.tangibleteambrand.com
 *.tangibleteampromote.com
 *.tangibleworkpromote.com
+*.tangleflux.ru
 *.tanglehook.ru
 *.tangletex.com
 *.tangounchained.com
@@ -110564,6 +110694,7 @@
 *.toplukonutidaresi.app
 *.toplukonutprojebasvuru.online
 *.topmagazines.club
+*.topmedsolution.com
 *.topmosx.top
 *.topmosx.vip
 *.topnotch-seo.com
@@ -111831,6 +111962,7 @@
 *.trustmarket.online
 *.trustmesale.com
 *.trustonchainc.com
+*.app.trustora-capital.com
 *.trustpad-bu.com
 *.trustpage.vip
 *.trustpdview1.sbs
@@ -114571,6 +114703,7 @@
 *.uzalonice.pro
 *.uzanone.com
 *.uzatoku.top
+*.uzblovegoapp.world
 *.uzcuhd391.vip
 *.uzejade.com
 *.uzekapo.top
@@ -114789,6 +114922,7 @@
 *.vakif-katilim.cyou
 *.vakifbank-kredigirisi.click
 *.vakifbtr.com
+*.vakifkatilirn.com
 *.vakifkredi-bilgisistemi.click
 *.vakinha-br.com
 *.vakoo.click
@@ -117313,6 +117447,7 @@
 *.walletforapple.com
 *.walletfriends.xyz
 *.walletgiveaway.xyz
+*.walletguard.live
 *.walletlist.pro
 *.walletmanagedering.info
 *.walletofficer.xyz
@@ -118988,6 +119123,7 @@
 *.whatsgkjlz.top
 *.download.whatsify.me
 *.whatsrate.app
+*.whatswgs.cc
 *.whatsyya.cc
 *.whatt-sapp.org
 *.whattasapp.com
@@ -119649,6 +119785,7 @@
 *.wlnd5hore.ru
 *.wlnddtao.digital
 *.wlphhf.club
+*.wlt-wallets-validate.com
 *.wlvkzwqmyjlkm.top
 *.wm6b9l1av.com
 *.wma-prime.fr
@@ -119838,6 +119975,7 @@
 *.woool920.com
 *.wooolgame.com
 *.woosh.care
+*.wooxqrwy.top
 *.woozyowned.today
 *.wop2.com
 *.wopepp.com
@@ -121072,6 +121210,7 @@
 *.xedpq.com
 *.xedryuzohbrown.digital
 *.xefucrsu.live
+*.xegajozafezu.com
 *.xeihjicekoxgs.space
 *.xejgf.com
 *.xeliyo.com
@@ -121584,6 +121723,7 @@
 *.xn--cypto-5bb.com
 *.xn--d-zb2btb17qcw3d.top
 *.xn--d1aqfkf.xn--p1ai
+*.xn--defillma-sx0d.com
 *.xn--dofus-rero-3cc.com
 *.xn--dofuspouresnoobs-ryc.com
 *.xn--dsneypinnacle-39b.com
@@ -122306,6 +122446,7 @@
 *.y8vqqi7fig.top
 *.y94b1n2moc.top
 *.y999login.com
+*.y9f1zo.lat
 *.y9wgol.click
 *.y9yfexnb72pw5goz.cfd
 *.ya-cdn-yandex-su.online

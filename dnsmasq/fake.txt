@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Dec 2025 17:28 UTC
-# Version: 2025.1213.1728.47
+# Last modified: 13 Dec 2025 21:29 UTC
+# Version: 2025.1213.2129.36
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14205
+# Number of entries: 14203
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -8945,7 +8945,6 @@ local=/nauticwerk.com/
 local=/navaro-shop.de/
 local=/navaru.de/
 local=/navigatil.store/
-local=/nayarituals.shop/
 local=/nazaone.com/
 local=/nbynicole.com/
 local=/ncases.com/
@@ -10721,7 +10720,6 @@ local=/peakexperiences.ritll.com/
 local=/sportodyssey.ritll.com/
 local=/ritter-mode.com/
 local=/ritteroutlet.de/
-local=/rituals-online-eu.shop/
 local=/rituals-outlet.shop/
 local=/rituals-outletvip.shop/
 local=/rituals-vip.shop/

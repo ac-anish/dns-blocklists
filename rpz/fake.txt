@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765646880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765661340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Dec 2025 17:28 UTC
-; Version: 2025.1213.1728.47
+; Last modified: 13 Dec 2025 21:29 UTC
+; Version: 2025.1213.2129.36
 ; Syntax: RPZ
-; Number of entries: 28410
+; Number of entries: 28406
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -27054,8 +27054,6 @@ naturelovedeava.shop CNAME .
 *.naturelovedeava.shop CNAME .
 naturkindershopdeeur.shop CNAME .
 *.naturkindershopdeeur.shop CNAME .
-nayarituals.shop CNAME .
-*.nayarituals.shop CNAME .
 neowatt.shop CNAME .
 *.neowatt.shop CNAME .
 nestrack.shop CNAME .
@@ -27222,8 +27220,6 @@ riiokya.shop CNAME .
 *.riiokya.shop CNAME .
 rimowade.shop CNAME .
 *.rimowade.shop CNAME .
-rituals-online-eu.shop CNAME .
-*.rituals-online-eu.shop CNAME .
 rituals-outlet.shop CNAME .
 *.rituals-outlet.shop CNAME .
 rituals-outletvip.shop CNAME .

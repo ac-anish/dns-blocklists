@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765650720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765665180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Dec 2025 18:32 UTC
-; Version: 2025.1213.1832.04
+; Last modified: 13 Dec 2025 22:33 UTC
+; Version: 2025.1213.2233.05
 ; Syntax: RPZ
-; Number of entries: 23136
+; Number of entries: 23172
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -974,6 +974,8 @@ streamingcommunityz.boats CNAME .
 *.streamingcommunityz.boats CNAME .
 altadefinizione.bond CNAME .
 *.altadefinizione.bond CNAME .
+booook.bond CNAME .
+*.booook.bond CNAME .
 guardaserie.bond CNAME .
 *.guardaserie.bond CNAME .
 mrunblock.bond CNAME .
@@ -7292,6 +7294,8 @@ todayvisionbd.com CNAME .
 *.todayvisionbd.com CNAME .
 todotorrents.com CNAME .
 *.todotorrents.com CNAME .
+toffeeboba.com CNAME .
+*.toffeeboba.com CNAME .
 tokybook.com CNAME .
 *.tokybook.com CNAME .
 tokyoinsider.com CNAME .
@@ -7830,6 +7834,8 @@ tracker.vraphim.com CNAME .
 *.tracker.vraphim.com CNAME .
 vrcarena.com CNAME .
 *.vrcarena.com CNAME .
+vulkan-fumo-spo.com CNAME .
+*.vulkan-fumo-spo.com CNAME .
 vumeto.com CNAME .
 *.vumeto.com CNAME .
 vuze.com CNAME .
@@ -10236,6 +10242,8 @@ vumoo.in CNAME .
 *.vumoo.in CNAME .
 watchwrestling.in CNAME .
 *.watchwrestling.in CNAME .
+xalaflix.in CNAME .
+*.xalaflix.in CNAME .
 zbook.in CNAME .
 *.zbook.in CNAME .
 kinogo.inc CNAME .
@@ -10646,6 +10654,8 @@ vegamovies.investments CNAME .
 *.123putlocker.io CNAME .
 a2zapk.io CNAME .
 *.a2zapk.io CNAME .
+aidey.io CNAME .
+*.aidey.io CNAME .
 androidhackers.io CNAME .
 *.androidhackers.io CNAME .
 anicloud.io CNAME .
@@ -11786,6 +11796,8 @@ altadefinizione.love CNAME .
 *.altadefinizione.love CNAME .
 altadefinizione01.love CNAME .
 *.altadefinizione01.love CNAME .
+amami.love CNAME .
+*.amami.love CNAME .
 btsearch.love CNAME .
 *.btsearch.love CNAME .
 cb01.love CNAME .
@@ -12068,6 +12080,8 @@ flixwave.me CNAME .
 *.flixwave.me CNAME .
 freecoursesonline.me CNAME .
 *.freecoursesonline.me CNAME .
+freezlib.me CNAME .
+*.freezlib.me CNAME .
 fuckfbi.me CNAME .
 *.fuckfbi.me CNAME .
 gdekino.me CNAME .
@@ -12602,6 +12616,8 @@ hdmovie2.money CNAME .
 *.hdmovie2.money CNAME .
 flemmix.monster CNAME .
 *.flemmix.monster CNAME .
+gopee.monster CNAME .
+*.gopee.monster CNAME .
 hdmovie2.monster CNAME .
 *.hdmovie2.monster CNAME .
 ilgeniodellostreaming.monster CNAME .
@@ -12684,6 +12700,8 @@ flemmix.my CNAME .
 *.flemmix.my CNAME .
 frdl.my CNAME .
 *.frdl.my CNAME .
+frembed.my CNAME .
+*.frembed.my CNAME .
 hdfilme-to.my CNAME .
 *.hdfilme-to.my CNAME .
 hdmovie2.my CNAME .
@@ -12802,6 +12820,8 @@ adult-cinema-network.net CNAME .
 *.adult-cinema-network.net CNAME .
 adultsins.net CNAME .
 *.adultsins.net CNAME .
+advertape.net CNAME .
+*.advertape.net CNAME .
 agcommunication.net CNAME .
 *.agcommunication.net CNAME .
 alfafile.net CNAME .
@@ -15058,6 +15078,8 @@ vegamovies.onl CNAME .
 *.191954.online CNAME .
 1jour1film.online CNAME .
 *.1jour1film.online CNAME .
+67streams.online CNAME .
+*.67streams.online CNAME .
 aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
 *.aboutbeautifulgallopinghorsesinthegreenpasture.online CNAME .
 altadefinizione.online CNAME .
@@ -17506,6 +17528,8 @@ aovivo.pro CNAME .
 *.aovivo.pro CNAME .
 atdhe.pro CNAME .
 *.atdhe.pro CNAME .
+bidsrc.pro CNAME .
+*.bidsrc.pro CNAME .
 bigwarp.pro CNAME .
 *.bigwarp.pro CNAME .
 breezeflash17.pro CNAME .
@@ -18486,6 +18510,8 @@ line-net.ru CNAME .
 *.line-net.ru CNAME .
 watch.lonelil.ru CNAME .
 *.watch.lonelil.ru CNAME .
+lonelyhalloween.ru CNAME .
+*.lonelyhalloween.ru CNAME .
 m2v.ru CNAME .
 *.m2v.ru CNAME .
 maxwarez.ru CNAME .
@@ -19574,6 +19600,8 @@ vidoy.store CNAME .
 *.0123movie.stream CNAME .
 01streaming.stream CNAME .
 *.01streaming.stream CNAME .
+alucard.stream CNAME .
+*.alucard.stream CNAME .
 bdiptv.stream CNAME .
 *.bdiptv.stream CNAME .
 cricfree.stream CNAME .
@@ -22184,6 +22212,8 @@ vegamovies.webcam CNAME .
 *.123movies.website CNAME .
 1jour1film.website CNAME .
 *.1jour1film.website CNAME .
+bklihaatruags.website CNAME .
+*.bklihaatruags.website CNAME .
 cineblog01.website CNAME .
 *.cineblog01.website CNAME .
 dramaqu.website CNAME .
@@ -22746,6 +22776,8 @@ bt.3kb.xyz CNAME .
 *.9993721.xyz CNAME .
 tracker.aibt.xyz CNAME .
 *.tracker.aibt.xyz CNAME .
+allforbooks.xyz CNAME .
+*.allforbooks.xyz CNAME .
 altadefinizione.xyz CNAME .
 *.altadefinizione.xyz CNAME .
 animeglare.xyz CNAME .
@@ -23036,6 +23068,8 @@ t1.tokhmi.xyz CNAME .
 *.t1.tokhmi.xyz CNAME .
 tokis.xyz CNAME .
 *.tokis.xyz CNAME .
+tomehub.xyz CNAME .
+*.tomehub.xyz CNAME .
 toonitalia.xyz CNAME .
 *.toonitalia.xyz CNAME .
 torrentz2fr.xyz CNAME .
@@ -23112,6 +23146,8 @@ cineblog01.zip CNAME .
 *.cineblog01.zip CNAME .
 dood.zip CNAME .
 *.dood.zip CNAME .
+goalz.zip CNAME .
+*.goalz.zip CNAME .
 hdmovie2.zip CNAME .
 *.hdmovie2.zip CNAME .
 redecanais.zip CNAME .

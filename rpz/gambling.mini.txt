@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765636320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765665120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Dec 2025 14:32 UTC
-; Version: 2025.1213.1432.28
+; Last modified: 13 Dec 2025 22:32 UTC
+; Version: 2025.1213.2232.41
 ; Syntax: RPZ
-; Number of entries: 80278
+; Number of entries: 80282
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -66106,6 +66106,8 @@ bandynet.ru CNAME .
 *.bandynet.ru CNAME .
 bank-casino.ru CNAME .
 *.bank-casino.ru CNAME .
+barcpd3.ru CNAME .
+*.barcpd3.ru CNAME .
 berryslots24.ru CNAME .
 *.berryslots24.ru CNAME .
 best-casinos.ru CNAME .
@@ -67448,6 +67450,8 @@ levplay-casino.ru CNAME .
 *.levplay-casino.ru CNAME .
 ligastavok.ru CNAME .
 *.ligastavok.ru CNAME .
+likbez-net.ru CNAME .
+*.likbez-net.ru CNAME .
 livesport.ru CNAME .
 *.livesport.ru CNAME .
 livetv.ru CNAME .

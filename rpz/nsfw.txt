@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765650840 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765665300 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Dec 2025 18:34 UTC
-; Version: 2025.1213.1834.03
+; Last modified: 13 Dec 2025 22:35 UTC
+; Version: 2025.1213.2235.04
 ; Syntax: RPZ
-; Number of entries: 155140
+; Number of entries: 155152
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -6016,6 +6016,8 @@ fullporn.cc CNAME .
 *.fullporn.cc CNAME .
 fullxcinema.cc CNAME .
 *.fullxcinema.cc CNAME .
+fyxstream.cc CNAME .
+*.fyxstream.cc CNAME .
 gate.cc CNAME .
 *.gate.cc CNAME .
 gay0day.cc CNAME .
@@ -20538,6 +20540,8 @@ breckenridgestrippers.com CNAME .
 *.breckenridgestrippers.com CNAME .
 breederfuckers.com CNAME .
 *.breederfuckers.com CNAME .
+breedertube.com CNAME .
+*.breedertube.com CNAME .
 breedingfetish.com CNAME .
 *.breedingfetish.com CNAME .
 breedme.com CNAME .
@@ -27088,6 +27092,8 @@ dofap.com CNAME .
 *.dofap.com CNAME .
 dofusmmorpg.com CNAME .
 *.dofusmmorpg.com CNAME .
+dog2511.com CNAME .
+*.dog2511.com CNAME .
 dogangayrimenkulpolatli.com CNAME .
 *.dogangayrimenkulpolatli.com CNAME .
 dogayadokun.com CNAME .
@@ -90388,6 +90394,8 @@ instavyapar.in CNAME .
 *.instavyapar.in CNAME .
 inthecrack.in CNAME .
 *.inthecrack.in CNAME .
+kamababa.io.in CNAME .
+*.kamababa.io.in CNAME .
 isec2017.in CNAME .
 *.isec2017.in CNAME .
 isexychat.in CNAME .
@@ -94622,6 +94630,8 @@ eporner.lat CNAME .
 *.eporner.lat CNAME .
 ficken.lat CNAME .
 *.ficken.lat CNAME .
+gvideo2-terabox-video.lat CNAME .
+*.gvideo2-terabox-video.lat CNAME .
 hdporn24.lat CNAME .
 *.hdporn24.lat CNAME .
 hentaichan.lat CNAME .
@@ -132890,6 +132900,8 @@ fto.to CNAME .
 *.fto.to CNAME .
 fyptt.to CNAME .
 *.fyptt.to CNAME .
+fyxxr.to CNAME .
+*.fyxxr.to CNAME .
 haysex.to CNAME .
 *.haysex.to CNAME .
 hentai2read.to CNAME .

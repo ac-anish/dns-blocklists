@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Dec 2025 14:32 UTC
-# Version: 2025.1213.1432.28
+# Last modified: 13 Dec 2025 22:32 UTC
+# Version: 2025.1213.2232.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 40139
+# Number of entries: 40141
 #
 local=/0-casino.info/
 local=/000-online-casino.com/
@@ -5691,6 +5691,7 @@ local=/barbadosbingo.com/
 local=/barbadoscasino.com/
 local=/barbarycoastcasino.com/
 local=/barcode88.org/
+local=/barcpd3.ru/
 local=/barcrestslotsq.com/
 local=/bardi02amp.blog/
 local=/bardinewyork.xyz/
@@ -23425,6 +23426,7 @@ local=/ligaubosukabola.blog/
 local=/lightningcasino.io/
 local=/lightningplay.space/
 local=/lightstreamresources.com/
+local=/likbez-net.ru/
 local=/likesbetcasino.net/
 local=/likme.tv/
 local=/lilbullies.com/

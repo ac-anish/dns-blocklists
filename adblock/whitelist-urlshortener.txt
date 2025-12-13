@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Dec 2025 17:30 UTC
-! Version: 2025.1213.1730.28
+! Last modified: 13 Dec 2025 21:31 UTC
+! Version: 2025.1213.2131.20
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2589,6 +2589,7 @@
 @@||fincrif.com^
 @@||find-url.co^
 @@||findmini.app^
+@@||findmylink.org^
 @@||finy.me^
 @@||fire.to^
 @@||firsturl.de^
