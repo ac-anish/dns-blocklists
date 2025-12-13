@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Oct 2025 10:02 UTC
-# Version: 2025.1031.1002.26
+# Last modified: 13 Dec 2025 14:50 UTC
+# Version: 2025.1213.1450.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 352
+# Number of entries: 357
 #
 local=/calculator-api-fr.allawnos.com/
 local=/calculator-api-in.allawnos.com/
@@ -280,6 +280,7 @@ local=/ads-bdapi-th.heytapmobile.com/
 local=/ads-bdapi-vn.heytapmobile.com/
 local=/adx-ads-fr.heytapmobile.com/
 local=/adx-ads-ru.heytapmobile.com/
+local=/bdapi-ads-sg.heytapmobile.com/
 local=/cloudi-in.browser.heytapmobile.com/
 local=/cloudi-sg.browser.heytapmobile.com/
 local=/cloudi-th.browser.heytapmobile.com/
@@ -311,6 +312,8 @@ local=/browserfiles.heytapmobile.com/
 local=/api-gl.cdo.heytapmobile.com/
 local=/api-id.cdo.heytapmobile.com/
 local=/api-in.cdo.heytapmobile.com/
+local=/cldata-ads-fr.heytapmobile.com/
+local=/cldata-ads-ru.heytapmobile.com/
 local=/conf-in-dc.heytapmobile.com/
 local=/u-id.cpc.heytapmobile.com/
 local=/dc.heytapmobile.com/
@@ -345,6 +348,8 @@ local=/push-dc-us.heytapmobile.com/
 local=/bsf.sc.heytapmobile.com/
 local=/slb-apisnd-in.heytapmobile.com/
 local=/sms-ads-in.heytapmobile.com/
+local=/sms-ads-ru.heytapmobile.com/
+local=/stgdata-ads-fr.heytapmobile.com/
 local=/api-id.theme.heytapmobile.com/
 local=/report-eu.uc.heytapmobile.com/
 local=/report-in.uc.heytapmobile.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765621860 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765650720 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Dec 2025 10:31 UTC
-; Version: 2025.1213.1031.55
+; Last modified: 13 Dec 2025 18:32 UTC
+; Version: 2025.1213.1832.04
 ; Syntax: RPZ
-; Number of entries: 23060
+; Number of entries: 23136
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -9332,6 +9332,8 @@ waffles.fm CNAME .
 *.waffles.fm CNAME .
 xmovies8.fm CNAME .
 *.xmovies8.fm CNAME .
+z-lib.fm CNAME .
+*.z-lib.fm CNAME .
 fmovies.fo CNAME .
 *.fmovies.fo CNAME .
 hdmovie2.foo CNAME .
@@ -15106,6 +15108,8 @@ filmstreaming.online CNAME .
 *.filmstreaming.online CNAME .
 filmzenstream.online CNAME .
 *.filmzenstream.online CNAME .
+fin101.online CNAME .
+*.fin101.online CNAME .
 foggycrest91.online CNAME .
 *.foggycrest91.online CNAME .
 gidonlinehd.online CNAME .
@@ -15118,6 +15122,8 @@ iboxbd.online CNAME .
 *.iboxbd.online CNAME .
 ilovekino.online CNAME .
 *.ilovekino.online CNAME .
+ita101.online CNAME .
+*.ita101.online CNAME .
 italia-film.online CNAME .
 *.italia-film.online CNAME .
 jkanime.online CNAME .
@@ -15198,10 +15204,14 @@ sportsurges.online CNAME .
 *.sportsurges.online CNAME .
 sporttuna.online CNAME .
 *.sporttuna.online CNAME .
+spr101.online CNAME .
+*.spr101.online CNAME .
 streamwatch.online CNAME .
 *.streamwatch.online CNAME .
 sunsetline07.online CNAME .
 *.sunsetline07.online CNAME .
+swe101.online CNAME .
+*.swe101.online CNAME .
 tantifilm.online CNAME .
 *.tantifilm.online CNAME .
 terbit21.online CNAME .
@@ -15226,6 +15236,8 @@ unbl0ck.online CNAME .
 *.unbl0ck.online CNAME .
 soccerstreams.unblockedstream.online CNAME .
 *.soccerstreams.unblockedstream.online CNAME .
+us101.online CNAME .
+*.us101.online CNAME .
 vegamovies.online CNAME .
 *.vegamovies.online CNAME .
 veritasforall.online CNAME .
@@ -18334,6 +18346,8 @@ ch3oh.ru CNAME .
 *.ch3oh.ru CNAME .
 cineby.ru CNAME .
 *.cineby.ru CNAME .
+cn101.ru CNAME .
+*.cn101.ru CNAME .
 kissanime.com.ru CNAME .
 *.kissanime.com.ru CNAME .
 cracks.ru CNAME .
@@ -18368,6 +18382,8 @@ torrent.e2k.ru CNAME .
 *.torrent.e2k.ru CNAME .
 emule-island.ru CNAME .
 *.emule-island.ru CNAME .
+eng101.ru CNAME .
+*.eng101.ru CNAME .
 engplus.ru CNAME .
 *.engplus.ru CNAME .
 retracker.nn.ertelecom.ru CNAME .
@@ -18386,10 +18402,14 @@ fast-torrent.ru CNAME .
 *.fast-torrent.ru CNAME .
 ffmovies.ru CNAME .
 *.ffmovies.ru CNAME .
+fin101.ru CNAME .
+*.fin101.ru CNAME .
 flactor.ru CNAME .
 *.flactor.ru CNAME .
 foff.ru CNAME .
 *.foff.ru CNAME .
+fra101.ru CNAME .
+*.fra101.ru CNAME .
 freerus.ru CNAME .
 *.freerus.ru CNAME .
 freshremix.ru CNAME .
@@ -18404,6 +18424,8 @@ bt-tracker.gamexp.ru CNAME .
 *.bt-tracker.gamexp.ru CNAME .
 gaytorrent.ru CNAME .
 *.gaytorrent.ru CNAME .
+ger101.ru CNAME .
+*.ger101.ru CNAME .
 gid-online.ru CNAME .
 *.gid-online.ru CNAME .
 gidonline-film.ru CNAME .
@@ -18438,6 +18460,8 @@ tracker.ipv6tracker.ru CNAME .
 *.tracker.ipv6tracker.ru CNAME .
 istrahome.ru CNAME .
 *.istrahome.ru CNAME .
+ita101.ru CNAME .
+*.ita101.ru CNAME .
 retracker.joxnet.ru CNAME .
 *.retracker.joxnet.ru CNAME .
 jurnal-portal.ru CNAME .
@@ -18498,6 +18522,8 @@ mywarez.ru CNAME .
 *.mywarez.ru CNAME .
 adminion.n-blade.ru CNAME .
 *.adminion.n-blade.ru CNAME .
+nantong101.ru CNAME .
+*.nantong101.ru CNAME .
 netplayz.ru CNAME .
 *.netplayz.ru CNAME .
 nfodb.ru CNAME .
@@ -18540,6 +18566,8 @@ play5.ru CNAME .
 *.play5.ru CNAME .
 tracker.playground.ru CNAME .
 *.tracker.playground.ru CNAME .
+por101.ru CNAME .
+*.por101.ru CNAME .
 pravtor.ru CNAME .
 *.pravtor.ru CNAME .
 1c.premierzal.ru CNAME .
@@ -18608,12 +18636,16 @@ softwar.ru CNAME .
 *.softwar.ru CNAME .
 solarmoviez.ru CNAME .
 *.solarmoviez.ru CNAME .
+sov101.ru CNAME .
+*.sov101.ru CNAME .
 retracker.spark-rostov.ru CNAME .
 *.retracker.spark-rostov.ru CNAME .
 taciturn-shadow.spb.ru CNAME .
 *.taciturn-shadow.spb.ru CNAME .
 sport-stream.ru CNAME .
 *.sport-stream.ru CNAME .
+spr101.ru CNAME .
+*.spr101.ru CNAME .
 squid-board.ru CNAME .
 *.squid-board.ru CNAME .
 stalker-world.ru CNAME .
@@ -18622,6 +18654,8 @@ streamzone.ru CNAME .
 *.streamzone.ru CNAME .
 swatchseries.ru CNAME .
 *.swatchseries.ru CNAME .
+swe101.ru CNAME .
+*.swe101.ru CNAME .
 t2bot.ru CNAME .
 *.t2bot.ru CNAME .
 rt.tace.ru CNAME .
@@ -18658,6 +18692,8 @@ trackerok.ru CNAME .
 *.trackerok.ru CNAME .
 tsinghuaedu.ru CNAME .
 *.tsinghuaedu.ru CNAME .
+tur101.ru CNAME .
+*.tur101.ru CNAME .
 tvtokio.ru CNAME .
 *.tvtokio.ru CNAME .
 4rvard-warez.ucoz.ru CNAME .
@@ -18668,6 +18704,10 @@ edu.uifr.ru CNAME .
 *.edu.uifr.ru CNAME .
 uraxhayer.ru CNAME .
 *.uraxhayer.ru CNAME .
+us101.ru CNAME .
+*.us101.ru CNAME .
+usa101.ru CNAME .
+*.usa101.ru CNAME .
 usch.ru CNAME .
 *.usch.ru CNAME .
 utorrentfilmi.ru CNAME .
@@ -18724,6 +18764,8 @@ z1966.ru CNAME .
 *.z1966.ru CNAME .
 z2001.ru CNAME .
 *.z2001.ru CNAME .
+z2077.ru CNAME .
+*.z2077.ru CNAME .
 z2999.ru CNAME .
 *.z2999.ru CNAME .
 zmovie.ru CNAME .
@@ -20872,6 +20914,38 @@ ilgeniodellostreaming.town CNAME .
 *.ilgeniodellostreaming.town CNAME .
 kinox.town CNAME .
 *.kinox.town CNAME .
+mega-torrent.town CNAME .
+*.mega-torrent.town CNAME .
+nextorrent.town CNAME .
+*.nextorrent.town CNAME .
+nortorrent.town CNAME .
+*.nortorrent.town CNAME .
+oxtorrent.town CNAME .
+*.oxtorrent.town CNAME .
+ultimate-torrent.town CNAME .
+*.ultimate-torrent.town CNAME .
+ww1-mega-torrent.town CNAME .
+*.ww1-mega-torrent.town CNAME .
+ww1-nextorrent.town CNAME .
+*.ww1-nextorrent.town CNAME .
+ww1-nortorrent.town CNAME .
+*.ww1-nortorrent.town CNAME .
+ww1-oxtorrent.town CNAME .
+*.ww1-oxtorrent.town CNAME .
+ww1-ultimate-torrent.town CNAME .
+*.ww1-ultimate-torrent.town CNAME .
+ww1-yggtorrent.town CNAME .
+*.ww1-yggtorrent.town CNAME .
+ww1-zktorrent.town CNAME .
+*.ww1-zktorrent.town CNAME .
+ww1-zone-torrent.town CNAME .
+*.ww1-zone-torrent.town CNAME .
+yggtorrent.town CNAME .
+*.yggtorrent.town CNAME .
+zktorrent.town CNAME .
+*.zktorrent.town CNAME .
+zone-torrent.town CNAME .
+*.zone-torrent.town CNAME .
 guardaserie.toys CNAME .
 *.guardaserie.toys CNAME .
 hdmovie2.toys CNAME .
@@ -22664,6 +22738,8 @@ bt.3kb.xyz CNAME .
 *.9142346511.xyz CNAME .
 944118.xyz CNAME .
 *.944118.xyz CNAME .
+951313113.xyz CNAME .
+*.951313113.xyz CNAME .
 960303.xyz CNAME .
 *.960303.xyz CNAME .
 9993721.xyz CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765636440 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765650840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's NSFW DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Dec 2025 14:34 UTC
-; Version: 2025.1213.1434.55
+; Last modified: 13 Dec 2025 18:34 UTC
+; Version: 2025.1213.1834.03
 ; Syntax: RPZ
-; Number of entries: 155138
+; Number of entries: 155140
 ;
 britneyspears.ac CNAME .
 *.britneyspears.ac CNAME .
@@ -92500,6 +92500,8 @@ pornhds.info CNAME .
 *.pornhds.info CNAME .
 pornhoarder.info CNAME .
 *.pornhoarder.info CNAME .
+pornhorny.info CNAME .
+*.pornhorny.info CNAME .
 pornhorse.info CNAME .
 *.pornhorse.info CNAME .
 pornhub-deutsch.info CNAME .

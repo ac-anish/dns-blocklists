@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Oct 2025 10:02 UTC
-# Version: 2025.1031.1002.26
+# Last modified: 13 Dec 2025 14:50 UTC
+# Version: 2025.1213.1450.27
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 440
+# Number of entries: 445
 #
 0.0.0.0 calculator-api-fr.allawnos.com
 0.0.0.0 calculator-api-in.allawnos.com
@@ -344,6 +344,7 @@
 0.0.0.0 ads-bdapi-vn.heytapmobile.com
 0.0.0.0 adx-ads-fr.heytapmobile.com
 0.0.0.0 adx-ads-ru.heytapmobile.com
+0.0.0.0 bdapi-ads-sg.heytapmobile.com
 0.0.0.0 cloudi-in.browser.heytapmobile.com
 0.0.0.0 cloudi-sg.browser.heytapmobile.com
 0.0.0.0 cloudi-th.browser.heytapmobile.com
@@ -375,6 +376,8 @@
 0.0.0.0 api-gl.cdo.heytapmobile.com
 0.0.0.0 api-id.cdo.heytapmobile.com
 0.0.0.0 api-in.cdo.heytapmobile.com
+0.0.0.0 cldata-ads-fr.heytapmobile.com
+0.0.0.0 cldata-ads-ru.heytapmobile.com
 0.0.0.0 conf-in-dc.heytapmobile.com
 0.0.0.0 u-id.cpc.heytapmobile.com
 0.0.0.0 dc.heytapmobile.com
@@ -416,6 +419,8 @@
 0.0.0.0 bsf.sc.heytapmobile.com
 0.0.0.0 slb-apisnd-in.heytapmobile.com
 0.0.0.0 sms-ads-in.heytapmobile.com
+0.0.0.0 sms-ads-ru.heytapmobile.com
+0.0.0.0 stgdata-ads-fr.heytapmobile.com
 0.0.0.0 api-id.theme.heytapmobile.com
 0.0.0.0 report-eu.uc.heytapmobile.com
 0.0.0.0 report-in.uc.heytapmobile.com

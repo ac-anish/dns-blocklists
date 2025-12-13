@@ -211,6 +211,13 @@
       }
     },
     {
+      "PK": "bdapi-ads-sg.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "browser-api-br.heytapmobile.com",
       "action": {
         "do": 0,
@@ -380,6 +387,20 @@
     },
     {
       "PK": "classify-app-us.allawnos.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cldata-ads-fr.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "cldata-ads-ru.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2360,7 +2381,21 @@
       }
     },
     {
+      "PK": "sms-ads-ru.heytapmobile.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "stat.browser.heytapmobi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "stgdata-ads-fr.heytapmobile.com",
       "action": {
         "do": 0,
         "status": 1
