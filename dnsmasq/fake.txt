@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Dec 2025 09:29 UTC
-# Version: 2025.1214.0929.30
+# Last modified: 14 Dec 2025 21:29 UTC
+# Version: 2025.1214.2129.41
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14199
+# Number of entries: 14193
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -74,7 +74,6 @@ local=/aaaclothing.ru/
 local=/aachentag.com/
 local=/aacloth.shop/
 local=/aaronallen.top/
-local=/ab-spielhallen.com/
 local=/abadi-solar24.de/
 local=/abbiattiuk.com/
 local=/abbigliamentoscarpe.com/
@@ -116,7 +115,6 @@ local=/access-eurnxt.com/
 local=/accessoiresrabatt.com/
 local=/accessories-world.club/
 local=/accessorieschildren.com/
-local=/accessoriescycle.com/
 local=/accessoriessnow.com/
 local=/acc.accgn.com/
 local=/acc.accgn.net/
@@ -135,7 +133,6 @@ local=/aciquainted.com/
 local=/ackermannmunchen.de/
 local=/acoryxgroup.com/
 local=/acquaintfy.com/
-local=/acrbulletin.org/
 local=/acsde.de/
 local=/acsire-tech.de/
 local=/wohnraumideen.acssqg.life/
@@ -165,7 +162,6 @@ local=/addedtechnology.com/
 local=/addicted2.at/
 local=/addmich.de/
 local=/adeliamode.de/
-local=/adfinanz-group.com/
 local=/adidas-campus.at/
 local=/adidas-samba.at/
 local=/adidas-spezial.at/
@@ -216,7 +212,6 @@ local=/affenzahn-schuhe.com/
 local=/affenzahne.shop/
 local=/affenzahne-de.shop/
 local=/affidabileelec.com/
-local=/aflycatus.com/
 local=/afreshcraftz.com/
 local=/afsinag-shop.com/
 local=/afterhourshobby.com/
@@ -242,7 +237,6 @@ local=/ahealthcare.online/
 local=/ahhaaaa.shop/
 local=/hausgartenshop.ahpgqd.top/
 local=/ahtavin.com/
-local=/ahwui.xyz/
 local=/ahyokaboutique.com/
 local=/aiapp2025.com/
 local=/aichaintrader.com/

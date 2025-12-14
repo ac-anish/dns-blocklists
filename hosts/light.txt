@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Dec 2025 18:12 UTC
-# Version: 2025.1214.1812.45
+# Last modified: 14 Dec 2025 22:11 UTC
+# Version: 2025.1214.2211.08
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 84967
+# Number of entries: 84841
 #
 0.0.0.0 0.org
 0.0.0.0 00055edc1917.com
@@ -5001,6 +5001,7 @@
 0.0.0.0 d696ba6704.7ee7484ba9.com
 0.0.0.0 7f8bb5f755bf7393a0943103c8f66898.net
 0.0.0.0 7goxbet.com
+0.0.0.0 7jvituowzgpymhc1.rest
 0.0.0.0 7kprtners.com
 0.0.0.0 cdn.7kprtners.com
 0.0.0.0 cdn-fs.7kprtners.com
@@ -5088,7 +5089,6 @@
 0.0.0.0 8b21a945159f23b740c836eb50953818.com
 0.0.0.0 8b317a773b.com
 0.0.0.0 8b33594756c6304434902e407b02c4f4.com
-0.0.0.0 analytics.8bitdash.com
 0.0.0.0 8bqqovp8v9gf98qem7e4.rest
 0.0.0.0 8c555a07b8bfa770.com
 0.0.0.0 8c5c63f8b7.com
@@ -5447,8 +5447,6 @@
 0.0.0.0 www.aaastyloff.xyz
 0.0.0.0 aabaef3c49452b269944e6e23448cd5a.top
 0.0.0.0 aacihealthcare.com
-0.0.0.0 aacsqpdhmnlak.site
-0.0.0.0 aadiiecdmtbfpux.com
 0.0.0.0 aadtqwvvlljse.site
 0.0.0.0 logger.aaecosystem.com
 0.0.0.0 aaedpills.com
@@ -5553,7 +5551,6 @@
 0.0.0.0 collect.abercrombie.com
 0.0.0.0 smetrics.abercrombie.com
 0.0.0.0 tags.abercrombie.com
-0.0.0.0 abesseliveth.rest
 0.0.0.0 abesseslogger.rest
 0.0.0.0 abf40f8c32.com
 0.0.0.0 abgligarchan.com
@@ -5611,7 +5608,6 @@
 0.0.0.0 abyssos.eu
 0.0.0.0 www.abyssos.eu
 0.0.0.0 abzadd.com
-0.0.0.0 abzvzlfuqxzua.site
 0.0.0.0 myelearning.arogapopin.ac.id
 0.0.0.0 cisco.ac.mw
 0.0.0.0 ln.ac.th
@@ -5645,7 +5641,6 @@
 0.0.0.0 acaizonedelivery.shop
 0.0.0.0 acam-2.com
 0.0.0.0 acanthishoving.com
-0.0.0.0 acc-whatsapp.top
 0.0.0.0 smetrics.accaglobal.com
 0.0.0.0 accaii.com
 0.0.0.0 accavcyri.site
@@ -5655,15 +5650,10 @@
 0.0.0.0 acceptableredheadcaviar.com
 0.0.0.0 acceptguide.com
 0.0.0.0 acceptww.com
-0.0.0.0 access-delivery.xyz
-0.0.0.0 access-facebook.xyz
 0.0.0.0 access-live-web-event2025.ru
 0.0.0.0 access-the-website.com
 0.0.0.0 access-world-ledger.xyz
 0.0.0.0 telemetry.accessacloud.com
-0.0.0.0 accessibility-github-then.xyz
-0.0.0.0 accessibility-laravel-facebook.xyz
-0.0.0.0 accessibility-twitter-backup.xyz
 0.0.0.0 accessintel.com
 0.0.0.0 imp.accesstra.de
 0.0.0.0 static.accesstrade.vn
@@ -5676,9 +5666,6 @@
 0.0.0.0 accordinglysaddleknew.com
 0.0.0.0 account-captcha-id4234.cfd
 0.0.0.0 account-captchaid5324.cfd
-0.0.0.0 account-discord-clean.xyz
-0.0.0.0 account-office.xyz
-0.0.0.0 account-whatsapp-layout.xyz
 0.0.0.0 accountantflowerrespiration.com
 0.0.0.0 track.accountinsight.cloud
 0.0.0.0 accountkits.xyz
@@ -5697,7 +5684,6 @@
 0.0.0.0 accustomednettlecurt.com
 0.0.0.0 raine.accuweather.com
 0.0.0.0 acdcdn.com
-0.0.0.0 ace-whatsapp.top
 0.0.0.0 acecounter.com
 0.0.0.0 cr.acecounter.com
 0.0.0.0 gtp5.acecounter.com
@@ -5719,7 +5705,6 @@
 0.0.0.0 aching-period.com
 0.0.0.0 achingborder.com
 0.0.0.0 achyaplenty.com
-0.0.0.0 aci-whatsapp.top
 0.0.0.0 acidpigs.com
 0.0.0.0 acidprolific.com
 0.0.0.0 acinarblimps.rest
@@ -5732,10 +5717,8 @@
 0.0.0.0 www.aciparis.com
 0.0.0.0 ackets-desist.icu
 0.0.0.0 ackng.com
-0.0.0.0 aclyjcwdjpqns.space
 0.0.0.0 esifi.acmetools.com
 0.0.0.0 acmvid.com
-0.0.0.0 aco-whatsapp.top
 0.0.0.0 acobt.tech
 0.0.0.0 ai.acobt.tech
 0.0.0.0 api.acobt.tech
@@ -5749,7 +5732,6 @@
 0.0.0.0 acq.io
 0.0.0.0 js.acq.io
 0.0.0.0 t.acq.io
-0.0.0.0 acq-whatsapp.top
 0.0.0.0 acqgm8trk.com
 0.0.0.0 lift.acquia.com
 0.0.0.0 builder.lift.acquia.com
@@ -5757,7 +5739,6 @@
 0.0.0.0 acquirecardedsullen.com
 0.0.0.0 acquiredeceasedundress.com
 0.0.0.0 acquiretank.com
-0.0.0.0 acr-whatsapp.top
 0.0.0.0 acreageupwhirl.com
 0.0.0.0 acridtwist.com
 0.0.0.0 acritoliters.com
@@ -5789,10 +5770,6 @@
 0.0.0.0 load.metrics.actionmoto.it
 0.0.0.0 actionpay.net
 0.0.0.0 actionpay.ru
-0.0.0.0 actions-apple-follower.xyz
-0.0.0.0 actions-exchange-microsoft.xyz
-0.0.0.0 actions-github.xyz
-0.0.0.0 actions-office.xyz
 0.0.0.0 activationskey.org
 0.0.0.0 activatormanorplausible.com
 0.0.0.0 smetrics.active.com
@@ -5815,7 +5792,6 @@
 0.0.0.0 actscattydecode.com
 0.0.0.0 utiq.actu.fr
 0.0.0.0 actuallysnake.com
-0.0.0.0 acu-whatsapp.top
 0.0.0.0 acuityads.com
 0.0.0.0 acuityplatform.com
 0.0.0.0 cdn.acuityplatform.com
@@ -5829,14 +5805,12 @@
 0.0.0.0 u.acuityplatform.com
 0.0.0.0 ums.acuityplatform.com
 0.0.0.0 acukwvotwylxs.website
-0.0.0.0 acw-whatsapp.top
 0.0.0.0 acwvlaeyzqc.com
 0.0.0.0 acxiom.com
 0.0.0.0 aeopprodvip.acxiom.com
 0.0.0.0 sfgext.acxiom.com
 0.0.0.0 acxiom-online.com
 0.0.0.0 t.acxiom-online.com
-0.0.0.0 acy-whatsapp.top
 0.0.0.0 acyxssqjdvfaj.space
 0.0.0.0 aczridptoo.com
 0.0.0.0 ad.com
@@ -6011,12 +5985,6 @@
 0.0.0.0 ad5track.com
 0.0.0.0 ad6media.fr
 0.0.0.0 ad999.biz
-0.0.0.0 ada-discord.xyz
-0.0.0.0 ada-finance-amazon.xyz
-0.0.0.0 ada-function-discord.xyz
-0.0.0.0 ada-github-restore.xyz
-0.0.0.0 ada-github-service.xyz
-0.0.0.0 ada-youtube-actions.xyz
 0.0.0.0 adablog69.com
 0.0.0.0 adabra.com
 0.0.0.0 matomo.adac-shop.de
@@ -6052,7 +6020,6 @@
 0.0.0.0 t-api-snack.adaether.com
 0.0.0.0 adagio.io
 0.0.0.0 adagora.com
-0.0.0.0 adahjbdgm.com
 0.0.0.0 adahomemodifications.com
 0.0.0.0 www.adahomemodifications.com
 0.0.0.0 adalizer.com
@@ -6103,7 +6070,6 @@
 0.0.0.0 sns.adbc.io
 0.0.0.0 adbeacon.com
 0.0.0.0 app.adbeacon.com
-0.0.0.0 ads.adbeat.club
 0.0.0.0 ads.adbeat.xyz
 0.0.0.0 adbetnet.com
 0.0.0.0 adbetnetwork.com
@@ -6232,8 +6198,6 @@
 0.0.0.0 pubtags.addoor.net
 0.0.0.0 s.addoor.net
 0.0.0.0 addotnet.com
-0.0.0.0 address-facebook.xyz
-0.0.0.0 address-zoom.xyz
 0.0.0.0 addresseepaper.com
 0.0.0.0 addrevenue.io
 0.0.0.0 addroid.com
@@ -6468,8 +6432,6 @@
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn-creatives.adikteev.com
 0.0.0.0 cdn-ww.adikteev.com
-0.0.0.0 creative.adikteev.com
-0.0.0.0 creative-platform-content-server.adikteev.com
 0.0.0.0 dsp.adikteev.com
 0.0.0.0 appodeal-eu.dsp.adikteev.com
 0.0.0.0 appodeal-us.dsp.adikteev.com
@@ -7133,87 +7095,11 @@
 0.0.0.0 stats.adobe.com
 0.0.0.0 targetlr.adobe.com
 0.0.0.0 telemetry.adobe.io
-0.0.0.0 adobe-adobe.xyz
-0.0.0.0 adobe-amd.xyz
-0.0.0.0 adobe-audit.xyz
-0.0.0.0 adobe-beach-these.xyz
-0.0.0.0 adobe-bicep-dynatrace.xyz
-0.0.0.0 adobe-boundary-flavor.xyz
-0.0.0.0 adobe-candidate.xyz
-0.0.0.0 adobe-circleci.xyz
-0.0.0.0 adobe-cluster-domain.xyz
-0.0.0.0 adobe-cluster-mangle.xyz
-0.0.0.0 adobe-consistency.xyz
-0.0.0.0 adobe-cuda-partition.xyz
-0.0.0.0 adobe-diamond-term.xyz
-0.0.0.0 adobe-earth.xyz
-0.0.0.0 adobe-ethereum-group.xyz
 0.0.0.0 adobe-export-vulkan.xyz
-0.0.0.0 adobe-extends.xyz
-0.0.0.0 adobe-extends-why.xyz
-0.0.0.0 adobe-figma.xyz
-0.0.0.0 adobe-gitlab-security.xyz
-0.0.0.0 adobe-groovy.xyz
-0.0.0.0 adobe-growth.xyz
-0.0.0.0 adobe-hangouts-field.xyz
-0.0.0.0 adobe-happiness.xyz
-0.0.0.0 adobe-hash-compliance.xyz
-0.0.0.0 adobe-html.xyz
-0.0.0.0 adobe-improve.xyz
-0.0.0.0 adobe-instagram-comet.xyz
-0.0.0.0 adobe-jira-life.xyz
-0.0.0.0 adobe-kibana-wrike.xyz
 0.0.0.0 adobe-lake-jupiter.xyz
-0.0.0.0 adobe-light.xyz
-0.0.0.0 adobe-linkedin.xyz
 0.0.0.0 adobe-material.xyz
-0.0.0.0 adobe-meteor.xyz
-0.0.0.0 adobe-mobile-bitbucket.xyz
-0.0.0.0 adobe-network-spirit.xyz
-0.0.0.0 adobe-network-success.xyz
-0.0.0.0 adobe-node-happiness.xyz
-0.0.0.0 adobe-number-netty.xyz
-0.0.0.0 adobe-orcad.xyz
-0.0.0.0 adobe-peace.xyz
-0.0.0.0 adobe-plan-queue.xyz
-0.0.0.0 adobe-program.xyz
-0.0.0.0 adobe-prometheus.xyz
-0.0.0.0 adobe-proxy-github.xyz
 0.0.0.0 adobe-puppet-github.xyz
-0.0.0.0 adobe-quarkus.xyz
-0.0.0.0 adobe-retention.xyz
-0.0.0.0 adobe-risc-haproxy.xyz
-0.0.0.0 adobe-router.xyz
-0.0.0.0 adobe-routing.xyz
-0.0.0.0 adobe-scala-home.xyz
-0.0.0.0 adobe-scheme-virtualbox.xyz
-0.0.0.0 adobe-scss.xyz
-0.0.0.0 adobe-secret.xyz
-0.0.0.0 adobe-slack-erlang.xyz
-0.0.0.0 adobe-socket-zone.xyz
-0.0.0.0 adobe-soft.xyz
-0.0.0.0 adobe-sparc.xyz
-0.0.0.0 adobe-super.xyz
-0.0.0.0 adobe-tekton-unity.xyz
-0.0.0.0 adobe-term.xyz
-0.0.0.0 adobe-testing.xyz
-0.0.0.0 adobe-those.xyz
-0.0.0.0 adobe-token.xyz
-0.0.0.0 adobe-traefik.xyz
-0.0.0.0 adobe-twitter.xyz
-0.0.0.0 adobe-unity.xyz
 0.0.0.0 adobe-update.online
-0.0.0.0 adobe-usability-dirty.xyz
-0.0.0.0 adobe-usability-pulumi.xyz
-0.0.0.0 adobe-usability-spinnaker.xyz
-0.0.0.0 adobe-utilization-right.xyz
-0.0.0.0 adobe-vector.xyz
-0.0.0.0 adobe-verify.xyz
-0.0.0.0 adobe-virtual.xyz
-0.0.0.0 adobe-volume-satellite.xyz
-0.0.0.0 adobe-while-devops.xyz
-0.0.0.0 adobe-windows.xyz
-0.0.0.0 adobe-windows-supernova.xyz
 0.0.0.0 adobeappsxpyrf-update.click
 0.0.0.0 edge.adobedc.net
 0.0.0.0 adobetag.com
@@ -7558,7 +7444,6 @@
 0.0.0.0 cdn.adsby.io
 0.0.0.0 adsbydelema.com
 0.0.0.0 adsbynimbus.com
-0.0.0.0 9gag-9gag.adsbynimbus.com
 0.0.0.0 ad-assets.adsbynimbus.com
 0.0.0.0 advancelocalmediallc-oregonlivecom.adsbynimbus.com
 0.0.0.0 audiomack.adsbynimbus.com
@@ -8849,15 +8734,6 @@
 0.0.0.0 cdn.afp.ai
 0.0.0.0 creatives.afp.ai
 0.0.0.0 ssp.afp.ai
-0.0.0.0 aframe-amazon.xyz
-0.0.0.0 aframe-apple.xyz
-0.0.0.0 aframe-delivery.xyz
-0.0.0.0 aframe-github.xyz
-0.0.0.0 aframe-mars-facebook.xyz
-0.0.0.0 aframe-office.xyz
-0.0.0.0 aframe-office-cookie.xyz
-0.0.0.0 aframe-session-apple.xyz
-0.0.0.0 aframe-webex-adobe.xyz
 0.0.0.0 afrdtech.com
 0.0.0.0 afrehtr32.icu
 0.0.0.0 afrikad.com
@@ -8869,16 +8745,8 @@
 0.0.0.0 www8.afsanalytics.com
 0.0.0.0 afsrepair.com
 0.0.0.0 www.afsrepair.com
-0.0.0.0 after-adobe-mars.xyz
-0.0.0.0 after-apply-linkedin.xyz
-0.0.0.0 after-bandwidth-facebook.xyz
-0.0.0.0 after-github.xyz
-0.0.0.0 after-github-snapshot.xyz
-0.0.0.0 after-mind-webex.xyz
 0.0.0.0 after-noon.jp
 0.0.0.0 www.after-noon.jp
-0.0.0.0 after-office.xyz
-0.0.0.0 after-spring-instagram.xyz
 0.0.0.0 afterofficeadvisors.info
 0.0.0.0 iq.afterpay.com
 0.0.0.0 rsx.afterpay.com
@@ -8887,13 +8755,11 @@
 0.0.0.0 aftrk3.com
 0.0.0.0 track.aftrk3.com
 0.0.0.0 afwfwhqmvjgmo.online
-0.0.0.0 agaakqgcf.com
 0.0.0.0 agacelebir.com
 0.0.0.0 agaenteitor.com
 0.0.0.0 againandagain.biz
 0.0.0.0 againstmascaraordinal.com
 0.0.0.0 agalumineonr.com
-0.0.0.0 agamasdips.cyou
 0.0.0.0 agarosecoxed.rest
 0.0.0.0 agat-tech.com
 0.0.0.0 agatarainpro.com
@@ -8937,7 +8803,6 @@
 0.0.0.0 www.aggtizmals.com
 0.0.0.0 aghtag.tech
 0.0.0.0 agi-live.xyz
-0.0.0.0 agibijimy.site
 0.0.0.0 stats2.agilecrm.com
 0.0.0.0 agileformer.com
 0.0.0.0 agilemedia.jp
@@ -9034,10 +8899,7 @@
 0.0.0.0 aheadday.com
 0.0.0.0 analytics.ahef.xyz
 0.0.0.0 ahftrokawda.com
-0.0.0.0 ahhymqmbq.com
 0.0.0.0 ahkapsalz.com
-0.0.0.0 ahmktufipp.com
-0.0.0.0 www.ahmktufipp.com
 0.0.0.0 ahmybid.net
 0.0.0.0 assets.ahmybid.net
 0.0.0.0 ahnlabad.com
@@ -24342,6 +24204,7 @@
 0.0.0.0 browserdoghouse.com
 0.0.0.0 ext.browserdoghouse.com
 0.0.0.0 browsermine.com
+0.0.0.0 browserplaying.live
 0.0.0.0 logs.browserstack.com
 0.0.0.0 browsiprod.com
 0.0.0.0 cdn.browsiprod.com
@@ -31100,7 +30963,6 @@
 0.0.0.0 cntxcdm.com
 0.0.0.0 amp.cntxcdm.com
 0.0.0.0 cnvlink.com
-0.0.0.0 cnwucnf.top
 0.0.0.0 cnxudpbqadnzg.space
 0.0.0.0 cnzz.net
 0.0.0.0 c.cnzz.com
@@ -32411,6 +32273,9 @@
 0.0.0.0 telemetry.confluent.cloud
 0.0.0.0 api.telemetry.confluent.cloud
 0.0.0.0 collector.telemetry.confluent.cloud
+0.0.0.0 conformation-1890.shop
+0.0.0.0 conformation-1892.shop
+0.0.0.0 conformation-1894.shop
 0.0.0.0 conformation-1895.shop
 0.0.0.0 confortscrow.rest
 0.0.0.0 confrancisyalgomas.com
@@ -43887,6 +43752,7 @@
 0.0.0.0 forgetfulpromptlyappointment.com
 0.0.0.0 forgetfulsnail.com
 0.0.0.0 forgivenbeavervague.com
+0.0.0.0 forkconnectinghead.com
 0.0.0.0 forkstrictly.com
 0.0.0.0 www.forkstrictly.com
 0.0.0.0 forlumineoner.com
@@ -48293,7 +48159,6 @@
 0.0.0.0 vmat.gtimg.com
 0.0.0.0 wa.gtimg.com
 0.0.0.0 gtjslwjbjcsq.com
-0.0.0.0 www.gtjslwjbjcsq.com
 0.0.0.0 gtmjs.com
 0.0.0.0 go.gtmjs.com
 0.0.0.0 gtmpx.com
@@ -49971,6 +49836,7 @@
 0.0.0.0 hollowafterthought.com
 0.0.0.0 hollowbrooknetwork.link
 0.0.0.0 hollowrocksystems.ink
+0.0.0.0 hollowsuspicion.com
 0.0.0.0 hollymediaa.biz
 0.0.0.0 holm.ru
 0.0.0.0 holmesmind.com
@@ -54034,6 +53900,7 @@
 0.0.0.0 streams-eu4-cdn.k5a.io
 0.0.0.0 streams-eu9-cdn.k5a.io
 0.0.0.0 k5teiv.ru
+0.0.0.0 k6w3mnr6b8gq7jrl7rhlg829.cfd
 0.0.0.0 k8s-linkedin-joy.xyz
 0.0.0.0 k8s-webex.xyz
 0.0.0.0 k929.co
@@ -56845,6 +56712,7 @@
 0.0.0.0 ma-jin.jp
 0.0.0.0 log.ma-jin.jp
 0.0.0.0 ma-rry.net
+0.0.0.0 ma-tag.com
 0.0.0.0 ma3ion.com
 0.0.0.0 a.ma3ion.com
 0.0.0.0 s.ma3ion.com
@@ -61392,6 +61260,7 @@
 0.0.0.0 nkwnb7.ru
 0.0.0.0 asd.nl.bauhaus
 0.0.0.0 nl-perf-werk.de
+0.0.0.0 nl6dnk.cyou
 0.0.0.0 analytics.nlapp.nl
 0.0.0.0 nlllibcpqpbef.online
 0.0.0.0 nllvrimafveet.site
@@ -64689,6 +64558,7 @@
 0.0.0.0 pedatsbarc.site
 0.0.0.0 analytics.peek.us
 0.0.0.0 peel.com
+0.0.0.0 peelwrinkle.com
 0.0.0.0 api.peer2profit.global
 0.0.0.0 peer39.com
 0.0.0.0 peer39.net
@@ -67854,6 +67724,7 @@
 0.0.0.0 en.rageagainstthesoap.com
 0.0.0.0 eud.rageagainstthesoap.com
 0.0.0.0 rageedoodab.shop
+0.0.0.0 rageousdumble.com
 0.0.0.0 raglanyakking.com
 0.0.0.0 ragnaar.us
 0.0.0.0 www.ragnaar.us
@@ -70600,6 +70471,7 @@
 0.0.0.0 www.sanstidy.com
 0.0.0.0 tags.santanderbank.com
 0.0.0.0 santesogecap.fr
+0.0.0.0 santosunflat.com
 0.0.0.0 sanynouncem.org
 0.0.0.0 gtm.saostar.vn
 0.0.0.0 plausible.saostar.vn
@@ -71625,6 +71497,7 @@
 0.0.0.0 tracking.shaadi.com
 0.0.0.0 shabby-constant.com
 0.0.0.0 shabsignul.net
+0.0.0.0 shackfillingcommittee.com
 0.0.0.0 shadowmade.com
 0.0.0.0 shadowpeakoperations.ink
 0.0.0.0 tracker.shafa.ua
@@ -71747,7 +71620,6 @@
 0.0.0.0 shelljacket.us
 0.0.0.0 trk.shelly.cloud
 0.0.0.0 creative.shemale.show
-0.0.0.0 shemrec.cc
 0.0.0.0 shenajou.com
 0.0.0.0 shengfleming.com
 0.0.0.0 shengxinlw.com
@@ -79427,6 +79299,7 @@
 0.0.0.0 unsingwont.shop
 0.0.0.0 unskilledlay.com
 0.0.0.0 unsnughachure.top
+0.0.0.0 unsoberroweled.cfd
 0.0.0.0 unspedtaction.com
 0.0.0.0 collector.unsplash.com
 0.0.0.0 unsung-comment.com
@@ -80084,6 +79957,7 @@
 0.0.0.0 vdtmacbhiltpf.website
 0.0.0.0 vdx.tv
 0.0.0.0 ve827njlkzqjc32ob553q2rot1.rest
+0.0.0.0 vealbkvvormmq.top
 0.0.0.0 vebo-live.com
 0.0.0.0 vebo-live.one
 0.0.0.0 vebo-live.org
@@ -82532,6 +82406,7 @@
 0.0.0.0 witkae-warszawa.com
 0.0.0.0 witra.ru
 0.0.0.0 www.witra.ru
+0.0.0.0 wittolstomjon.rest
 0.0.0.0 wittyquieta.top
 0.0.0.0 witzig-office.ch
 0.0.0.0 axp.wivb.com
@@ -83016,14 +82891,12 @@
 0.0.0.0 www-firsthorlzon.top
 0.0.0.0 www-flrstherizen.top
 0.0.0.0 www-getmass.top
-0.0.0.0 www-getmoss.top
 0.0.0.0 www-google.store
 0.0.0.0 www-payhawk.top
 0.0.0.0 www-paymontech.top
 0.0.0.0 www-simmonsbank.top
 0.0.0.0 www-simmonsbonk.top
 0.0.0.0 www-spendesk.top
-0.0.0.0 www-tipalti.top
 0.0.0.0 www-tipolti.top
 0.0.0.0 www1.online
 0.0.0.0 www3secure.com
@@ -84273,6 +84146,7 @@
 0.0.0.0 yubziosgvkweu.online
 0.0.0.0 yudvl.org
 0.0.0.0 yufxt.top
+0.0.0.0 yuhuan.cc
 0.0.0.0 yuiiy.com
 0.0.0.0 yukclick.me
 0.0.0.0 yukishigure.com

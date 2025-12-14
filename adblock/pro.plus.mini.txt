@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Dec 2025 18:25 UTC
-! Version: 2025.1214.1825.14
+! Last modified: 14 Dec 2025 22:23 UTC
+! Version: 2025.1214.2223.39
 ! Syntax: AdBlock
-! Number of entries: 64060
+! Number of entries: 63920
 !
 ||0.org^
 ||0-cis.com^
@@ -1557,6 +1557,7 @@
 ||7gra.us^
 ||7host.com^
 ||7instinctintelligent.com^
+||7jvituowzgpymhc1.rest^
 ||7kprtners.com^
 ||px-img.7mdt.com^
 ||tracking.7mind.de^
@@ -1769,7 +1770,6 @@
 ||8b21a945159f23b740c836eb50953818.com^
 ||8b317a773b.com^
 ||8b33594756c6304434902e407b02c4f4.com^
-||analytics.8bitdash.com^
 ||8bqqovp8v9gf98qem7e4.rest^
 ||8c555a07b8bfa770.com^
 ||8c5c63f8b7.com^
@@ -1835,7 +1835,6 @@
 ||91yudao.com^
 ||922-google.com^
 ||9234923-ledger.com^
-||92403.cfd^
 ||api.9249c7687ddbc42eb7167e0e9030ef06b9528c98.com^
 ||assets.9249c7687ddbc42eb7167e0e9030ef06b9528c98.com^
 ||926zzz.com^
@@ -2146,9 +2145,7 @@
 ||a1w3m3e3.aacdn.net^
 ||data-fa2d848059.aachener-zeitung.de^
 ||aacihealthcare.com^
-||aacsqpdhmnlak.site^
 ||aadegr.com^
-||aadiiecdmtbfpux.com^
 ||aadtqwvvlljse.site^
 ||logger.aaecosystem.com^
 ||aaedpills.com^
@@ -2265,7 +2262,6 @@
 ||collect.abercrombie.com^
 ||smetrics.abercrombie.com^
 ||tags.abercrombie.com^
-||abesseliveth.rest^
 ||abesseslogger.rest^
 ||abf40f8c32.com^
 ||abgligarchan.com^
@@ -2335,7 +2331,6 @@
 ||abyss.sk^
 ||abyssos.eu^
 ||abzadd.com^
-||abzvzlfuqxzua.site^
 ||myelearning.arogapopin.ac.id^
 ||cisco.ac.mw^
 ||ln.ac.th^
@@ -2377,7 +2372,6 @@
 ||acc-id.life^
 ||acc-serviceaccessau.digital^
 ||acc-verification.live^
-||acc-whatsapp.top^
 ||smetrics.accaglobal.com^
 ||accaii.com^
 ||accavcyri.site^
@@ -2393,16 +2387,11 @@
 ||acceptableredheadcaviar.com^
 ||acceptguide.com^
 ||acceptww.com^
-||access-delivery.xyz^
-||access-facebook.xyz^
 ||access-live-web-event2025.ru^
 ||access-the-website.com^
 ||access-world-ledger.xyz^
 ||telemetry.accessacloud.com^
 ||tracking.accessfinancialpayments.com^
-||accessibility-github-then.xyz^
-||accessibility-laravel-facebook.xyz^
-||accessibility-twitter-backup.xyz^
 ||accessibleweb.com^
 ||accessintel.com^
 ||accesstogoogle.com^
@@ -2418,15 +2407,10 @@
 ||accomplishedpersuadedprinter.com^
 ||accoona.com^
 ||accordinglysaddleknew.com^
-||account-alert.live^
-||account-alert.world^
 ||account-captcha-id4234.cfd^
 ||account-captchaid5324.cfd^
-||account-discord-clean.xyz^
 ||account-helpcenter.com^
-||account-office.xyz^
 ||account-verification.click^
-||account-whatsapp-layout.xyz^
 ||accountantflowerrespiration.com^
 ||accountinsight.ai^
 ||accountinsight.cloud^
@@ -2445,7 +2429,6 @@
 ||info.accutrain.com^
 ||raine.accuweather.com^
 ||acdcdn.com^
-||ace-whatsapp.top^
 ||acecounter.com^
 ||aceex.io^
 ||acelauncher.com^
@@ -2463,7 +2446,6 @@
 ||aching-period.com^
 ||achingborder.com^
 ||achyaplenty.com^
-||aci-whatsapp.top^
 ||acidpigs.com^
 ||acidprolific.com^
 ||acinarblimps.rest^
@@ -2472,11 +2454,9 @@
 ||ackets-desist.icu^
 ||ackng.com^
 ||sentry3.acloset.net^
-||aclyjcwdjpqns.space^
 ||esifi.acmetools.com^
 ||acmetoy.com^
 ||acmvid.com^
-||aco-whatsapp.top^
 ||acobt.tech^
 ||acomprarseguidores.com^
 ||acoponposeur.com^
@@ -2485,7 +2465,6 @@
 ||fpc.acponline.org^
 ||acpprograms.org^
 ||acq.io^
-||acq-whatsapp.top^
 ||acqgm8trk.com^
 ||lift.acquia.com^
 ||acquirecardedsullen.com^
@@ -2493,7 +2472,6 @@
 ||acquireinsight.net^
 ||acquiretank.com^
 ||acquisio.com^
-||acr-whatsapp.top^
 ||acreageupwhirl.com^
 ||acridtwist.com^
 ||acritoliters.com^
@@ -2512,19 +2490,12 @@
 ||acsbap.com^
 ||acsbapp.com^
 ||acscdn.com^
-||acsdbk.bond^
 ||acshoes.com^
-||acsiag.bond^
-||acslwq.bond^
 ||acsmediakit.org^
-||acsmia.bond^
 ||acsole.bond^
-||acsptc.bond^
 ||access.acspubs.org^
 ||connect.acspubs.org^
-||acssin.bond^
 ||acstat.com^
-||acstrm.bond^
 ||act-news.com^
 ||act-on.com^
 ||act-whatsapp.top^
@@ -2542,10 +2513,6 @@
 ||bam.actionnetwork.com^
 ||actionpay.net^
 ||actionpay.ru^
-||actions-apple-follower.xyz^
-||actions-exchange-microsoft.xyz^
-||actions-github.xyz^
-||actions-office.xyz^
 ||actirise.com^
 ||cdn.activated.digital^
 ||activationskey.org^
@@ -2577,26 +2544,20 @@
 ||actscattydecode.com^
 ||utiq.actu.fr^
 ||actualizacion-chrome.app^
-||actualizar-chrome.app^
 ||actuallysnake.com^
 ||i.actualno.com^
 ||actualremont.ru^
-||actverhuntington.help^
-||acu-whatsapp.top^
 ||acuityads.com^
 ||acuitykp.com^
 ||acuityplatform.com^
 ||acukwvotwylxs.website^
-||acuooonnts-bm2500a-24habc.icu^
 ||www.acuteimaginative.com^
 ||acuteinspiration-inventive.com^
-||acw-whatsapp.top^
 ||acwjcqqv.biz^
 ||acwvlaeyzqc.com^
 ||acxiom.com^
 ||acxiom-online.com^
 ||acxiomapac.com^
-||acy-whatsapp.top^
 ||acyxssqjdvfaj.space^
 ||aczridptoo.com^
 ||ad.com^
@@ -2727,12 +2688,6 @@
 ||rollout.ada.support^
 ||ada-asia.com^
 ||ada-cloud.com^
-||ada-discord.xyz^
-||ada-finance-amazon.xyz^
-||ada-function-discord.xyz^
-||ada-github-restore.xyz^
-||ada-github-service.xyz^
-||ada-youtube-actions.xyz^
 ||adablog69.com^
 ||adabra.com^
 ||matomo.adac-shop.de^
@@ -2748,7 +2703,6 @@
 ||adagio.io^
 ||adagnit.io^
 ||adagora.com^
-||adahjbdgm.com^
 ||adahomemodifications.com^
 ||adality.de^
 ||adalizer.com^
@@ -2794,7 +2748,6 @@
 ||adbc.io^
 ||adbeacon.com^
 ||adbeat.com^
-||ads.adbeat.club^
 ||ads.adbeat.xyz^
 ||adbetnet.com^
 ||adbetnet.io^
@@ -2854,7 +2807,6 @@
 ||adcel.co^
 ||adcell.de^
 ||adcent.jp^
-||adcenter.com^
 ||adch-adguard.pro^
 ||adcharriot.com^
 ||adchemy.com^
@@ -2916,8 +2868,6 @@
 ||addotline.com^
 ||addotnet.com^
 ||address.com^
-||address-facebook.xyz^
-||address-zoom.xyz^
 ||addresseepaper.com^
 ||addrevenue.io^
 ||addroid.com^
@@ -3060,7 +3010,6 @@
 ||adintl.cn^
 ||adintop.com^
 ||adx.adintouch.com^
-||adior-as.cyou^
 ||adipolo.com^
 ||adipolosolutions.com^
 ||adireto.com^
@@ -3296,87 +3245,11 @@
 ||telemetry.adobe.io^
 ||telemetry-dev.adobe.io^
 ||telemetry-va7.adobe.io^
-||adobe-adobe.xyz^
-||adobe-amd.xyz^
-||adobe-audit.xyz^
-||adobe-beach-these.xyz^
-||adobe-bicep-dynatrace.xyz^
-||adobe-boundary-flavor.xyz^
-||adobe-candidate.xyz^
-||adobe-circleci.xyz^
-||adobe-cluster-domain.xyz^
-||adobe-cluster-mangle.xyz^
-||adobe-consistency.xyz^
-||adobe-cuda-partition.xyz^
-||adobe-diamond-term.xyz^
-||adobe-earth.xyz^
-||adobe-ethereum-group.xyz^
 ||adobe-export-vulkan.xyz^
-||adobe-extends.xyz^
-||adobe-extends-why.xyz^
-||adobe-figma.xyz^
-||adobe-gitlab-security.xyz^
-||adobe-groovy.xyz^
-||adobe-growth.xyz^
-||adobe-hangouts-field.xyz^
-||adobe-happiness.xyz^
-||adobe-hash-compliance.xyz^
-||adobe-html.xyz^
-||adobe-improve.xyz^
-||adobe-instagram-comet.xyz^
-||adobe-jira-life.xyz^
-||adobe-kibana-wrike.xyz^
 ||adobe-lake-jupiter.xyz^
-||adobe-light.xyz^
-||adobe-linkedin.xyz^
 ||adobe-material.xyz^
-||adobe-meteor.xyz^
-||adobe-mobile-bitbucket.xyz^
-||adobe-network-spirit.xyz^
-||adobe-network-success.xyz^
-||adobe-node-happiness.xyz^
-||adobe-number-netty.xyz^
-||adobe-orcad.xyz^
-||adobe-peace.xyz^
-||adobe-plan-queue.xyz^
-||adobe-program.xyz^
-||adobe-prometheus.xyz^
-||adobe-proxy-github.xyz^
 ||adobe-puppet-github.xyz^
-||adobe-quarkus.xyz^
-||adobe-retention.xyz^
-||adobe-risc-haproxy.xyz^
-||adobe-router.xyz^
-||adobe-routing.xyz^
-||adobe-scala-home.xyz^
-||adobe-scheme-virtualbox.xyz^
-||adobe-scss.xyz^
-||adobe-secret.xyz^
-||adobe-slack-erlang.xyz^
-||adobe-socket-zone.xyz^
-||adobe-soft.xyz^
-||adobe-sparc.xyz^
-||adobe-super.xyz^
-||adobe-tekton-unity.xyz^
-||adobe-term.xyz^
-||adobe-testing.xyz^
-||adobe-those.xyz^
-||adobe-token.xyz^
-||adobe-traefik.xyz^
-||adobe-twitter.xyz^
-||adobe-unity.xyz^
 ||adobe-update.online^
-||adobe-usability-dirty.xyz^
-||adobe-usability-pulumi.xyz^
-||adobe-usability-spinnaker.xyz^
-||adobe-utilization-right.xyz^
-||adobe-vector.xyz^
-||adobe-verify.xyz^
-||adobe-virtual.xyz^
-||adobe-volume-satellite.xyz^
-||adobe-while-devops.xyz^
-||adobe-windows.xyz^
-||adobe-windows-supernova.xyz^
 ||adobeappsxpyrf-update.click^
 ||0gc6y58nkk.data.adobedc.net^
 ||0m1hix10po.data.adobedc.net^
@@ -3886,7 +3759,6 @@
 ||adskoko.xyz^
 ||adslinks.ru^
 ||adslinkup.com^
-||adsllran.cfd^
 ||adslot.com^
 ||adsmanagerrr.com^
 ||adsmarketart.com^
@@ -4109,7 +3981,6 @@
 ||adultredirect.xyz^
 ||adultsclips.com^
 ||adultsense.info^
-||adulttraffic.store^
 ||adulttv.org^
 ||adungstrea.site^
 ||adunit.ch^
@@ -4151,7 +4022,6 @@
 ||advanstaff.com^
 ||advanstar.com^
 ||advantageclicks.net^
-||advantagefcu-fraud-alerts.cfd^
 ||piwik.advantic.de^
 ||advantipro.de^
 ||advcake.com^
@@ -4374,8 +4244,6 @@
 ||metrics.adherent.aesio.fr^
 ||metrics.aesio.fr^
 ||aetherforgeanalytics.info^
-||aethesr.cfd^
-||aethircheck.com^
 ||aetion.com^
 ||metrics.aetn.com^
 ||smetrics.aetn.com^
@@ -4499,21 +4367,11 @@
 ||afkwa.com^
 ||aflink.com^
 ||aflink.ru^
-||aflonexitrpro.com^
 ||afm01.com^
 ||afmuaatkgvhtq.website^
 ||afodreet.net^
 ||afora.ru^
 ||afp.ai^
-||aframe-amazon.xyz^
-||aframe-apple.xyz^
-||aframe-delivery.xyz^
-||aframe-github.xyz^
-||aframe-mars-facebook.xyz^
-||aframe-office.xyz^
-||aframe-office-cookie.xyz^
-||aframe-session-apple.xyz^
-||aframe-webex-adobe.xyz^
 ||afrdtech.com^
 ||afrehtr32.icu^
 ||afrikad.com^
@@ -4525,15 +4383,7 @@
 ||afront.io^
 ||afsanalytics.com^
 ||afsrepair.com^
-||after-adobe-mars.xyz^
-||after-apply-linkedin.xyz^
-||after-bandwidth-facebook.xyz^
-||after-github.xyz^
-||after-github-snapshot.xyz^
-||after-mind-webex.xyz^
 ||after-noon.jp^
-||after-office.xyz^
-||after-spring-instagram.xyz^
 ||afterofficeadvisors.info^
 ||iq.afterpay.com^
 ||ads-api.marketing.us.platform.afterpay.com^
@@ -4547,15 +4397,12 @@
 ||track.aftrk4.com^
 ||track.aftrk6.com^
 ||afwfwhqmvjgmo.online^
-||ag-beta-secure-wallet-connects.pro^
-||agaakqgcf.com^
 ||agacelebir.com^
 ||agaenteitor.com^
 ||agahpush.com^
 ||againandagain.biz^
 ||againstmascaraordinal.com^
 ||agalumineonr.com^
-||agamasdips.cyou^
 ||agarosecoxed.rest^
 ||agat-tech.com^
 ||agatarainpro.com^
@@ -4597,7 +4444,6 @@
 ||aggtizmals.com^
 ||aghtag.tech^
 ||agi-live.xyz^
-||agibijimy.site^
 ||agile-company-365.com^
 ||agile-enterprise-365.com^
 ||agile365enterprise.com^
@@ -4715,9 +4561,7 @@
 ||analytics.ahef.xyz^
 ||ahezoho.top^
 ||ahftrokawda.com^
-||ahhymqmbq.com^
 ||ahkapsalz.com^
-||ahmktufipp.com^
 ||ahmybid.net^
 ||ahnlabad.com^
 ||ahongbityite.com^
@@ -4757,7 +4601,6 @@
 ||trk.aibidex.com^
 ||aibsgc.com^
 ||aicandy.link^
-||aicccounntttss-veerifikeea-244h-202555.icu^
 ||aiclk.com^
 ||aicryptoexn.com^
 ||analytics.aidaforparents.com^
@@ -10163,6 +10006,7 @@
 ||birila.xyz^
 ||gtm.birkenstock.com^
 ||trk.us.birkenstock.com^
+||birkenstockfr.fr^
 ||birst.com^
 ||birth-apple.xyz^
 ||birth-knowledge-office.xyz^
@@ -11363,6 +11207,7 @@
 ||browserhawk.com^
 ||browserio.com^
 ||browsermine.com^
+||browserplaying.live^
 ||eds.browserstack.com^
 ||logs.browserstack.com^
 ||browserupdate.org^
@@ -13283,6 +13128,8 @@
 ||chronicle.su^
 ||c950.chronicle.com^
 ||assets.login.chronicle.com^
+||chronopostc.fr^
+||chronopostn.fr^
 ||chronos-ledger.com^
 ||logs.chronosphere.io^
 ||xai.chronosphere.io^
@@ -14381,7 +14228,6 @@
 ||cnv.cx^
 ||cnvlink.com^
 ||cnvr.net^
-||cnwucnf.top^
 ||cnxudpbqadnzg.space^
 ||cnzz.cn^
 ||cnzz.com^
@@ -16046,6 +15892,9 @@
 ||telemetry.confluent.cloud^
 ||conform.bond^
 ||conforma.bond^
+||conformation-1890.shop^
+||conformation-1892.shop^
+||conformation-1894.shop^
 ||conformation-1895.shop^
 ||confortscrow.rest^
 ||confrancisyalgomas.com^
@@ -25414,7 +25263,6 @@
 ||ggpickaff.com^
 ||client-trk.ggs-dwh.com^
 ||ggsafe.com^
-||ggsel.net^
 ||ggsfq.xyz^
 ||ggtraf.com^
 ||ghabovethec.info^
@@ -29109,6 +28957,7 @@
 ||dl.hoodingafaced.com^
 ||hoodingluster.com^
 ||hoodlumbragget.com^
+||hoodrichfr.fr^
 ||trk.hookedonphonics.com^
 ||hookupeasytonight.com^
 ||hookupers.com^
@@ -29722,6 +29571,7 @@
 ||hyprmx.com^
 ||hyros.com^
 ||adbsmetrics.hyundai.com^
+||ssgtm-de.hyundai.com^
 ||analytics.hyundaidealer.com^
 ||smetrics.hyundaiusa.com^
 ||hzbxm.com^
@@ -32438,6 +32288,7 @@
 ||k50.ru^
 ||k5a.io^
 ||k5teiv.ru^
+||k6w3mnr6b8gq7jrl7rhlg829.cfd^
 ||k8s-linkedin-joy.xyz^
 ||k8s-webex.xyz^
 ||k929.co^
@@ -35444,6 +35295,7 @@
 ||m988.com^
 ||ma-jin.jp^
 ||ma-rry.net^
+||ma-tag.com^
 ||ma3ion.com^
 ||mabaya.com^
 ||event-tracking-api.mabiliscash.ph^
@@ -39676,6 +39528,7 @@
 ||nkwnb7.ru^
 ||asd.nl.bauhaus^
 ||nl-perf-werk.de^
+||nl6dnk.cyou^
 ||analytics.nlapp.nl^
 ||nlllibcpqpbef.online^
 ||nllvrimafveet.site^
@@ -47512,6 +47365,7 @@
 ||ragazzeinvendita.com^
 ||rageagainstthesoap.com^
 ||rageedoodab.shop^
+||rageousdumble.com^
 ||raglanyakking.com^
 ||ragnaar.us^
 ||countly.rahkar.team^
@@ -49833,6 +49687,7 @@
 ||sanstidy.com^
 ||tags.santanderbank.com^
 ||santesogecap.fr^
+||santosunflat.com^
 ||sanynouncem.org^
 ||saooti.com^
 ||gtm.saostar.vn^
@@ -51003,7 +50858,6 @@
 ||sentry.offline.shelopes.com^
 ||creative.shemale.show^
 ||shemedia.com^
-||shemrec.cc^
 ||shenajou.com^
 ||shengfleming.com^
 ||shengxinlw.com^
@@ -51712,6 +51566,8 @@
 ||ingest.staging.skyra.no^
 ||survey.skyra.no^
 ||skyrage.de^
+||calgary.skyrisecities.com^
+||edmonton.skyrisecities.com^
 ||simo.skyroam.com^
 ||analytics.skyscanner.net^
 ||slipstream.skyscanner.net^
@@ -52113,6 +51969,7 @@
 ||sncf-offres.com^
 ||va.sndcdn.com^
 ||sndvoices.com^
+||sneakers-world.fr^
 ||sneakintriguecasting.com^
 ||sneakyadministration.com^
 ||sneakyresponsibility.pro^
@@ -53987,6 +53844,7 @@
 ||support-gmeet.com^
 ||support-ios26-1.com^
 ||support-marketplice-03813.app^
+||support-onluk.fr^
 ||support509.com^
 ||supportdakwah.org^
 ||supportdesk2025.com^
@@ -57998,6 +57856,7 @@
 ||sa.unionstatistics.com^
 ||unionsy.com^
 ||kwwvxn.uniqlo.com^
+||uniqlos.fr^
 ||uniqodo.com^
 ||unique-memory.com^
 ||uniquecare1.com^
@@ -58802,6 +58661,7 @@
 ||vdx.tv^
 ||ve.com^
 ||ve827njlkzqjc32ob553q2rot1.rest^
+||vealbkvvormmq.top^
 ||vebo-live.com^
 ||vebo-live.one^
 ||vebo-live.org^
@@ -60028,6 +59888,7 @@
 ||metrics.vulture.com^
 ||vungle.cn^
 ||vungle.com^
+||vuorifr.fr^
 ||vupulse.com^
 ||vural-electronic.com^
 ||vustaq.com^
@@ -61948,14 +61809,12 @@
 ||www-flrstharizen.top^
 ||www-flrstherizen.top^
 ||www-getmass.top^
-||www-getmoss.top^
 ||www-google.store^
 ||www-payhawk.top^
 ||www-paymontech.top^
 ||www-simmonsbank.top^
 ||www-simmonsbonk.top^
 ||www-spendesk.top^
-||www-tipalti.top^
 ||www-tipolti.top^
 ||www1.online^
 ||www3secure.com^
@@ -63261,6 +63120,7 @@
 ||adv.yuetnc.com^
 ||yufxt.top^
 ||yuga.ru^
+||yuhuan.cc^
 ||yuiiy.com^
 ||yukclick.me^
 ||yukishigure.com^
