@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Dec 2025 21:29 UTC
-# Version: 2025.1213.2129.36
+# Last modified: 14 Dec 2025 09:29 UTC
+# Version: 2025.1214.0929.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14203
+# Number of entries: 14199
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2815,7 +2815,6 @@ local=/cryptrade-franchise.com/
 local=/crystal-inter.com/
 local=/crystalli.de/
 local=/crytomerge.com/
-local=/cs-pharmacy.net/
 local=/csm-maker.com/
 local=/csunbox.com/
 local=/spotiifyprimesnova.ct.ws/
@@ -2942,6 +2941,7 @@ local=/dasoffiziellespadel.com/
 local=/dasorevaparis.de/
 local=/dasrichtigeholz.com/
 local=/daswirthshaus.com/
+local=/datactively.com/
 local=/dateideen.at/
 local=/davanu.com/
 local=/daveamor.us/
@@ -3487,7 +3487,6 @@ local=/dtabauto.de/
 local=/dtabgmbh.de/
 local=/dualsuns.com/
 local=/duavital.com/
-local=/dubaihoteluae.com/
 local=/ducherower.de/
 local=/duckflix.de/
 local=/duft-blumen.de/
@@ -4277,6 +4276,7 @@ local=/farmacija-hr.com/
 local=/farmacija-hrvatska.com/
 local=/farmacijahr.com/
 local=/farmacijahrvatska24.com/
+local=/farmaed.com/
 local=/farmakeioellada24.com/
 local=/farmakeioellinika.com/
 local=/farmakeioellinika24.com/
@@ -6299,7 +6299,6 @@ local=/hxuenb.shop/
 local=/hybridfahrrader.com/
 local=/hydrip.de/
 local=/hygienecleanshop.com/
-local=/hyip.com/
 local=/hype-handel.de/
 local=/hype-hoodies.com/
 local=/hypelaced.co/
@@ -6460,7 +6459,6 @@ local=/indicativet.com/
 local=/indigo-investissement.com/
 local=/individualm.com/
 local=/individualw.com/
-local=/indonesiahotel24.com/
 local=/indoorecofarm.com/
 local=/industrie-moebel.eu/
 local=/industriebauladen.com/
@@ -6470,7 +6468,6 @@ local=/inetchip.de/
 local=/inetzteil.de/
 local=/inexpensivy.com/
 local=/inferright.com/
-local=/inferutmati.com/
 local=/infineink.com/
 local=/infinitediamond.com/
 local=/infinitrade.com/
@@ -8180,6 +8177,7 @@ local=/medicalandbeautycare.com/
 local=/medicalonlines.com/
 local=/medicamententreparticulier.com/
 local=/medicaregermany.de/
+local=/medicineronline.net/
 local=/medien-kaffker-koehler-gbr.de/
 local=/medikamente-rezeptfrei.com/
 local=/medikamenteonlinebestellen.com/
@@ -8649,7 +8647,6 @@ local=/moser-wien.com/
 local=/mosessions.com/
 local=/mosmankoch.at/
 local=/mosmankoch.de/
-local=/mosplains.com/
 local=/mosshammer.shop/
 local=/motallo.com/
 local=/motel-miio.com/
@@ -9269,7 +9266,6 @@ local=/obroker.com/
 local=/obstbaumwelt.com/
 local=/ocayo.de/
 local=/occasionak.com/
-local=/occasionk.com/
 local=/ochsner-agrarhandel.com/
 local=/ocinboutique.de/
 local=/octa-trade.com/
@@ -11469,7 +11465,6 @@ local=/simpledancing.com/
 local=/simplejuicing.net/
 local=/simplemerit.de/
 local=/simplemoderndeutschland.de/
-local=/simplicityt.com/
 local=/simunlocks.com/
 local=/sinbadgift.com/
 local=/sinhala.de/
@@ -13624,6 +13619,7 @@ local=/watchcod-en.shop/
 local=/watchesbuy.to/
 local=/watchesreplica.is/
 local=/watchesstore.co/
+local=/watchfaceshub.com/
 local=/watermotionod.com/
 local=/watersportsgalaxy.com/
 local=/watson-manchester.com/

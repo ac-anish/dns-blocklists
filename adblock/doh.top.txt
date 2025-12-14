@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 13 Dec 2025 10:37 UTC
-! Version: 2025.1213.1037.06
+! Last modified: 14 Dec 2025 10:40 UTC
+! Version: 2025.1214.1040.19
 ! Syntax: AdBlock
-! Number of entries: 803
+! Number of entries: 808
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -42,6 +42,7 @@
 ||dns.9999.sg^
 ||dns.a47.me^
 ||doh.aaaab3n.moe^
+||doh.dns.apple.com.v.aaplimg.com^
 ||doh-dns-apple-com.v.aaplimg.com^
 ||dns.aaytorr.com^
 ||dns.abdullahabas.de^
@@ -85,6 +86,7 @@
 ||dns.asysec.com^
 ||adguardhome.atakorah.com^
 ||atris.cyou^
+||dohtrial.att.net^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
 ||dns.b33.space^
@@ -273,6 +275,7 @@
 ||dns.dnshome.de^
 ||doh.dnslify.com^
 ||dnslow.me^
+||dns.dnsoverhttps.net^
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
@@ -541,6 +544,7 @@
 ||doh.luigi.nexific.it^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
+||dns2.nextdns.io^
 ||steering.nextdns.io^
 ||d.niaox.com^
 ||odvr.nic.cz^
@@ -716,6 +720,7 @@
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
+||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^

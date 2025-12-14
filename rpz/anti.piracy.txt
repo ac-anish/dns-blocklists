@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765665180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765708440 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 13 Dec 2025 22:33 UTC
-; Version: 2025.1213.2233.05
+; Last modified: 14 Dec 2025 10:34 UTC
+; Version: 2025.1214.1034.53
 ; Syntax: RPZ
-; Number of entries: 23172
+; Number of entries: 23166
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -2526,8 +2526,6 @@ bolly4u.cologne CNAME .
 *.0123movies.com CNAME .
 037hdmovie.com CNAME .
 *.037hdmovie.com CNAME .
-0dayddl.com CNAME .
-*.0dayddl.com CNAME .
 0magnet.com CNAME .
 *.0magnet.com CNAME .
 0second.com CNAME .
@@ -12760,8 +12758,6 @@ vegamovies.navy CNAME .
 *.0123movie.net CNAME .
 0daycn.net CNAME .
 *.0daycn.net CNAME .
-0dayhome.net CNAME .
-*.0dayhome.net CNAME .
 hichemtigsetorgy.0fees.net CNAME .
 *.hichemtigsetorgy.0fees.net CNAME .
 planetdl.0fees.net CNAME .
@@ -15318,8 +15314,6 @@ streamingcommunity.ooo CNAME .
 *.123movies-to.org CNAME .
 123moviesme.org CNAME .
 *.123moviesme.org CNAME .
-123moviest.org CNAME .
-*.123moviest.org CNAME .
 123streams.org CNAME .
 *.123streams.org CNAME .
 1337x.org CNAME .

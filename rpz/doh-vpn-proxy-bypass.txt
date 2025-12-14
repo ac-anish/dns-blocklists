@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765562280 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765708800 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,8 +10,8 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 12 Dec 2025 17:58 UTC
-; Version: 2025.1212.1758.20
+; Last modified: 14 Dec 2025 10:40 UTC
+; Version: 2025.1214.1040.26
 ; Syntax: RPZ
 ; Number of entries: 12584
 ;
