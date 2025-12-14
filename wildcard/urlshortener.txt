@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 13 Dec 2025 21:31 UTC
-# Version: 2025.1213.2131.20
+# Last modified: 14 Dec 2025 17:31 UTC
+# Version: 2025.1214.1731.46
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9531
+# Number of entries: 9528
 #
 *.0.gp
 *.00m.in
@@ -324,7 +324,6 @@
 *.a.6mqw.org
 *.6nmd.us
 *.6url.com
-*.6urls.com
 *.7.ly
 *.707.su
 *.711.is
@@ -332,10 +331,8 @@
 *.73.nu
 *.733s.com
 *.74i.de
-*.7894.xyz
 *.7a.ink
 *.7c34.com
-*.7clik.com
 *.7fth.cc
 *.7g7.ir
 *.7i.nu
