@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Dec 2025 10:34 UTC
-# Version: 2025.1214.1034.53
+# Last modified: 14 Dec 2025 14:53 UTC
+# Version: 2025.1214.1453.40
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 11583
+# Number of entries: 11582
 #
 *.003396815.xyz
 *.0123456789nonexistent.com
@@ -264,7 +264,6 @@
 *.2lib.me
 *.2name.com
 *.2piratebay.org
-*.2torrentz.net
 *.2x4u.de
 *.amerikasimperialism.2ya.com
 *.danime.2ya.com

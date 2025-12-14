@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Dec 2025 10:34 UTC
-# Version: 2025.1214.1034.53
+# Last modified: 14 Dec 2025 14:53 UTC
+# Version: 2025.1214.1453.40
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11583
+# Number of entries: 11582
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -264,7 +264,6 @@ local=/2kandy.com/
 local=/2lib.me/
 local=/2name.com/
 local=/2piratebay.org/
-local=/2torrentz.net/
 local=/2x4u.de/
 local=/amerikasimperialism.2ya.com/
 local=/danime.2ya.com/

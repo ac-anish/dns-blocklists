@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765708800 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765724340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Dec 2025 10:40 UTC
-; Version: 2025.1214.1040.26
+; Last modified: 14 Dec 2025 14:59 UTC
+; Version: 2025.1214.1459.40
 ; Syntax: RPZ
-; Number of entries: 12584
+; Number of entries: 12576
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -883,8 +883,6 @@ doh.360.cn CNAME .
 *.doh.360.cn CNAME .
 dot.360.cn CNAME .
 *.dot.360.cn CNAME .
-520ily.cn CNAME .
-*.520ily.cn CNAME .
 dns.baishiyuan.cn CNAME .
 *.dns.baishiyuan.cn CNAME .
 alphabio.baodacn.cn CNAME .
@@ -10733,8 +10731,6 @@ unblocked2.red CNAME .
 *.unblocked2.red CNAME .
 onion.rip CNAME .
 *.onion.rip CNAME .
-kazuma-fumo.24-7.ro CNAME .
-*.kazuma-fumo.24-7.ro CNAME .
 learnaboutcareers.academiaderock.ro CNAME .
 *.learnaboutcareers.academiaderock.ro CNAME .
 asdfghjkloiuytrewqzx.dinprima.ro CNAME .
@@ -11369,8 +11365,6 @@ adguard.fatu.systems CNAME .
 *.adguard.fatu.systems CNAME .
 mustafaiguess.app.tc CNAME .
 *.mustafaiguess.app.tc CNAME .
-3jjxxl.tech CNAME .
-*.3jjxxl.tech CNAME .
 dns.cybertonic.tech CNAME .
 *.dns.cybertonic.tech CNAME .
 s6.dipper315.tech CNAME .
@@ -12235,8 +12229,6 @@ xjpdns.354688.xyz CNAME .
 *.xjpdns.354688.xyz CNAME .
 3dcosas.xyz CNAME .
 *.3dcosas.xyz CNAME .
-dns-hk.524228.xyz CNAME .
-*.dns-hk.524228.xyz CNAME .
 adguard2.546413.xyz CNAME .
 *.adguard2.546413.xyz CNAME .
 bwg.559299366.xyz CNAME .

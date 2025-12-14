@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Dec 2025 17:57 UTC
-# Version: 2025.1212.1757.47
+# Last modified: 14 Dec 2025 14:59 UTC
+# Version: 2025.1214.1459.06
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3847
+# Number of entries: 3844
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -93,7 +93,6 @@
 0.0.0.0 dns.3dcapitaltrust.net
 0.0.0.0 3dcosas.xyz
 0.0.0.0 3dns.eu
-0.0.0.0 3jjxxl.tech
 0.0.0.0 adg.3k.work
 0.0.0.0 dns.3wv.de
 0.0.0.0 dns.4-the.win
@@ -104,9 +103,7 @@
 0.0.0.0 51576162.ru
 0.0.0.0 adh.51st.top
 0.0.0.0 alidns.51top.info
-0.0.0.0 520ily.cn
 0.0.0.0 dns.52306.org
-0.0.0.0 dns-hk.524228.xyz
 0.0.0.0 adguard2.546413.xyz
 0.0.0.0 bwg.559299366.xyz
 0.0.0.0 dc39.559299366.xyz
