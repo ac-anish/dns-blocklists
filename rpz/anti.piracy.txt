@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765794960 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765809180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 10:36 UTC
-; Version: 2025.1215.1036.01
+; Last modified: 15 Dec 2025 14:33 UTC
+; Version: 2025.1215.1433.45
 ; Syntax: RPZ
-; Number of entries: 23140
+; Number of entries: 23134
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -8348,8 +8348,6 @@ hdmovie2.creditcard CNAME .
 *.hdmovie2.creditcard CNAME .
 vegamovies.creditcard CNAME .
 *.vegamovies.creditcard CNAME .
-crichd.cricket CNAME .
-*.crichd.cricket CNAME .
 hdmovie2.cricket CNAME .
 *.hdmovie2.cricket CNAME .
 vegamovies.cricket CNAME .
@@ -10694,8 +10692,6 @@ cpasbien.io CNAME .
 *.cpasbien.io CNAME .
 crackstreams.io CNAME .
 *.crackstreams.io CNAME .
-cuevana2.io CNAME .
-*.cuevana2.io CNAME .
 cuevana3.io CNAME .
 *.cuevana3.io CNAME .
 cybervm.io CNAME .
@@ -11994,8 +11990,6 @@ chia-anime.me CNAME .
 *.chia-anime.me CNAME .
 courseclub.me CNAME .
 *.courseclub.me CNAME .
-cpasbien.me CNAME .
-*.cpasbien.me CNAME .
 crackstreams.me CNAME .
 *.crackstreams.me CNAME .
 crazyamp.me CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765790940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765805340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 09:29 UTC
-; Version: 2025.1215.0929.48
+; Last modified: 15 Dec 2025 13:29 UTC
+; Version: 2025.1215.1329.18
 ; Syntax: RPZ
-; Number of entries: 28504
+; Number of entries: 28486
 ;
 degussa-goldhandel.ac CNAME .
 *.degussa-goldhandel.ac CNAME .
@@ -1062,8 +1062,6 @@ discounted.bike CNAME .
 *.discounted.bike CNAME .
 ainvestments.biz CNAME .
 *.ainvestments.biz CNAME .
-eldraw.antido.biz CNAME .
-*.eldraw.antido.biz CNAME .
 app-trader.biz CNAME .
 *.app-trader.biz CNAME .
 clexperts.biz CNAME .
@@ -1144,8 +1142,6 @@ goussve.com.br CNAME .
 *.goussve.com.br CNAME .
 gzcor.com.br CNAME .
 *.gzcor.com.br CNAME .
-homelarr.com.br CNAME .
-*.homelarr.com.br CNAME .
 larluminar.com.br CNAME .
 *.larluminar.com.br CNAME .
 lojaameestilo.com.br CNAME .
@@ -1166,8 +1162,6 @@ mbmoveiseletrodomesticos.com.br CNAME .
 *.mbmoveiseletrodomesticos.com.br CNAME .
 mdtudo.com.br CNAME .
 *.mdtudo.com.br CNAME .
-mochiilas.com.br CNAME .
-*.mochiilas.com.br CNAME .
 moderncasa.com.br CNAME .
 *.moderncasa.com.br CNAME .
 moritaniamoveisedecoracoes.com.br CNAME .
@@ -4522,16 +4516,12 @@ coffeeliftin.com CNAME .
 *.coffeeliftin.com CNAME .
 cognissa.com CNAME .
 *.cognissa.com CNAME .
-coinboxtradeoption.com CNAME .
-*.coinboxtradeoption.com CNAME .
 coincorex.com CNAME .
 *.coincorex.com CNAME .
 coinmoh.com CNAME .
 *.coinmoh.com CNAME .
 coinspayworld.com CNAME .
 *.coinspayworld.com CNAME .
-coinvestor-ai.com CNAME .
-*.coinvestor-ai.com CNAME .
 colbertcap.com CNAME .
 *.colbertcap.com CNAME .
 coldeez.com CNAME .
@@ -24768,8 +24758,6 @@ roomosa.homes CNAME .
 *.roomosa.homes CNAME .
 marbach.horse CNAME .
 *.marbach.horse CNAME .
-csfenagp.icu CNAME .
-*.csfenagp.icu CNAME .
 innovativepath.icu CNAME .
 *.innovativepath.icu CNAME .
 senhheiser.icu CNAME .
@@ -26302,8 +26290,6 @@ cdrock.handproof.rest CNAME .
 *.cdrock.handproof.rest CNAME .
 pmtree.handproof.rest CNAME .
 *.pmtree.handproof.rest CNAME .
-cdrock.modelight.rest CNAME .
-*.cdrock.modelight.rest CNAME .
 ilmap.overcat.rest CNAME .
 *.ilmap.overcat.rest CNAME .
 nyhead.tablebay.rest CNAME .
@@ -26530,16 +26516,12 @@ containercompany.shop CNAME .
 *.containercompany.shop CNAME .
 coolgifts.shop CNAME .
 *.coolgifts.shop CNAME .
-corentinmaribro.shop CNAME .
-*.corentinmaribro.shop CNAME .
 corkandoeu.shop CNAME .
 *.corkandoeu.shop CNAME .
 corkandopop.shop CNAME .
 *.corkandopop.shop CNAME .
 corona-testkit.shop CNAME .
 *.corona-testkit.shop CNAME .
-cozygea.shop CNAME .
-*.cozygea.shop CNAME .
 craftcraze.shop CNAME .
 *.craftcraze.shop CNAME .
 craftshiny.shop CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765795260 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765809600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 10:41 UTC
-; Version: 2025.1215.1041.54
+; Last modified: 15 Dec 2025 14:40 UTC
+; Version: 2025.1215.1440.06
 ; Syntax: RPZ
-; Number of entries: 12562
+; Number of entries: 12558
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -691,8 +691,6 @@ needhelp.callmark.cl CNAME .
 *.needhelp.callmark.cl CNAME .
 lvpqirhbat.castroyasociados.cl CNAME .
 *.lvpqirhbat.castroyasociados.cl CNAME .
-aminip.ctx.cl CNAME .
-*.aminip.ctx.cl CNAME .
 joinpd.ctx.cl CNAME .
 *.joinpd.ctx.cl CNAME .
 te.decolores.cl CNAME .
@@ -4875,8 +4873,6 @@ circumitor.de CNAME .
 *.circumitor.de CNAME .
 dns.codarbyte.de CNAME .
 *.dns.codarbyte.de CNAME .
-dns.code66.de CNAME .
-*.dns.code66.de CNAME .
 anonymous-proxy.com.de CNAME .
 *.anonymous-proxy.com.de CNAME .
 fast-proxy.com.de CNAME .

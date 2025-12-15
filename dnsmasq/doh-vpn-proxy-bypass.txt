@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 10:41 UTC
-# Version: 2025.1215.1041.54
+# Last modified: 15 Dec 2025 14:40 UTC
+# Version: 2025.1215.1440.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6281
+# Number of entries: 6279
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1135,7 +1135,6 @@ local=/block.coconut.id/
 local=/cocoombr.com/
 local=/cocoproxy.com/
 local=/dns.codarbyte.de/
-local=/dns.code66.de/
 local=/dns.coderoria.com/
 local=/coinsite.info/
 local=/4y5t.coke0.cc/
@@ -1305,7 +1304,6 @@ local=/a5135324.csie.io/
 local=/dns.csswg.org/
 local=/grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws/
 local=/ct-vpn.com/
-local=/aminip.ctx.cl/
 local=/joinpd.ctx.cl/
 local=/webdav.cubecloud.win/
 local=/cubedns.com/

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765791060 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765805460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 09:31 UTC
-; Version: 2025.1215.0931.36
+; Last modified: 15 Dec 2025 13:31 UTC
+; Version: 2025.1215.1331.02
 ; Syntax: RPZ
-; Number of entries: 19048
+; Number of entries: 19042
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -7799,8 +7799,6 @@ momo.dm CNAME .
 *.momo.dm CNAME .
 bit.do CNAME .
 *.bit.do CNAME .
-onelink.com.do CNAME .
-*.onelink.com.do CNAME .
 dad.do CNAME .
 *.dad.do CNAME .
 eb.do CNAME .
@@ -8069,8 +8067,6 @@ url.hilberg.eu CNAME .
 *.url.hilberg.eu CNAME .
 hstx.eu CNAME .
 *.hstx.eu CNAME .
-i37.eu CNAME .
-*.i37.eu CNAME .
 bit.ignifi.eu CNAME .
 *.bit.ignifi.eu CNAME .
 ingnm.eu CNAME .
@@ -15107,8 +15103,6 @@ cccc.one CNAME .
 *.cccc.one CNAME .
 clickvs.one CNAME .
 *.clickvs.one CNAME .
-csoddr.one CNAME .
-*.csoddr.one CNAME .
 cuk.one CNAME .
 *.cuk.one CNAME .
 d2ks.one CNAME .

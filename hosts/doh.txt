@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 10:41 UTC
-# Version: 2025.1215.1041.19
+# Last modified: 15 Dec 2025 14:39 UTC
+# Version: 2025.1215.1439.21
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3841
+# Number of entries: 3840
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -751,7 +751,6 @@
 0.0.0.0 ag.coco-tama-hoiku.com
 0.0.0.0 block.coconut.id
 0.0.0.0 dns.codarbyte.de
-0.0.0.0 dns.code66.de
 0.0.0.0 dns.coderoria.com
 0.0.0.0 jpdns.cola16.app
 0.0.0.0 krdns.cola16.app

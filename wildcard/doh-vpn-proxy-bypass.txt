@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 10:41 UTC
-# Version: 2025.1215.1041.54
+# Last modified: 15 Dec 2025 14:40 UTC
+# Version: 2025.1215.1440.06
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6281
+# Number of entries: 6279
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -1135,7 +1135,6 @@
 *.cocoombr.com
 *.cocoproxy.com
 *.dns.codarbyte.de
-*.dns.code66.de
 *.dns.coderoria.com
 *.coinsite.info
 *.4y5t.coke0.cc
@@ -1305,7 +1304,6 @@
 *.dns.csswg.org
 *.grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws
 *.ct-vpn.com
-*.aminip.ctx.cl
 *.joinpd.ctx.cl
 *.webdav.cubecloud.win
 *.cubedns.com

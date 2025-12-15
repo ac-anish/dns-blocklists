@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 10:36 UTC
-# Version: 2025.1215.1036.01
+# Last modified: 15 Dec 2025 14:33 UTC
+# Version: 2025.1215.1433.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11570
+# Number of entries: 11567
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -2195,7 +2195,6 @@ local=/cpasbien.bz/
 local=/cpasbien.ch/
 local=/cpasbien.com/
 local=/cpasbien.io/
-local=/cpasbien.me/
 local=/cpasbien.pe/
 local=/cpasbien.rip/
 local=/cpasbien.sh/
@@ -2286,7 +2285,6 @@ local=/cricfree.tv/
 local=/cricfrees.com/
 local=/crichd.ac/
 local=/crichd.at/
-local=/crichd.cricket/
 local=/crichd.info/
 local=/crichd.li/
 local=/crichd.mobi/
@@ -2348,7 +2346,6 @@ local=/cuevana.is/
 local=/cuevana.nu/
 local=/cuevana.uno/
 local=/cuevana2.com/
-local=/cuevana2.io/
 local=/cuevana3.io/
 local=/cuevana3.me/
 local=/cuevana3.mobi/

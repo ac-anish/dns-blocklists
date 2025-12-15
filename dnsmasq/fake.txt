@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 09:29 UTC
-# Version: 2025.1215.0929.48
+# Last modified: 15 Dec 2025 13:29 UTC
+# Version: 2025.1215.1329.18
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14252
+# Number of entries: 14243
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -590,7 +590,6 @@ local=/antcarry.com/
 local=/antenaschile.cl/
 local=/antepmobilya.com/
 local=/anticipatei.com/
-local=/eldraw.antido.biz/
 local=/antmineroutlet.com/
 local=/antobi-shop.de/
 local=/anxiair.xyz/
@@ -2446,14 +2445,12 @@ local=/coffeeequipmentsupply.com/
 local=/coffeeliftin.com/
 local=/cogitatio-kauf.de/
 local=/cognissa.com/
-local=/coinboxtradeoption.com/
 local=/coincorex.com/
 local=/web.coinhouse.top/
 local=/coinmarketfeed.net/
 local=/coinmoh.com/
 local=/coinnova.eu/
 local=/coinspayworld.com/
-local=/coinvestor-ai.com/
 local=/cokimnsi.shop/
 local=/colaboratorstore.de/
 local=/colbertcap.com/
@@ -2508,7 +2505,6 @@ local=/guterkauf.com.de/
 local=/gym-sharkmexico.com.mx/
 local=/gzcor.com.br/
 local=/hollister.com.de/
-local=/homelarr.com.br/
 local=/jomi.com.de/
 local=/larluminar.com.br/
 local=/lojaameestilo.com.br/
@@ -2521,7 +2517,6 @@ local=/lojazibo.com.br/
 local=/lowa.com.de/
 local=/mbmoveiseletrodomesticos.com.br/
 local=/mdtudo.com.br/
-local=/mochiilas.com.br/
 local=/moderncasa.com.br/
 local=/moritaniamoveisedecoracoes.com.br/
 local=/moveistribes.com.br/
@@ -2680,7 +2675,6 @@ local=/copguru.com/
 local=/coplimentues.com/
 local=/coralcoveswim.com/
 local=/corebespokebaby.com/
-local=/corentinmaribro.shop/
 local=/corgiswap.org/
 local=/corisfinance.com/
 local=/corkandoeu.shop/
@@ -2716,7 +2710,6 @@ local=/coyojo.com/
 local=/hausova.cozetiq.top/
 local=/cozeymaison.de/
 local=/cozyfishing.com/
-local=/cozygea.shop/
 local=/cozyhoome.com/
 local=/cozyixe.com/
 local=/cozysleepzone.com/
@@ -2796,7 +2789,6 @@ local=/cryptrade-franchise.com/
 local=/crystal-inter.com/
 local=/crystalli.de/
 local=/crytomerge.com/
-local=/csfenagp.icu/
 local=/csm-maker.com/
 local=/csunbox.com/
 local=/spotiifyprimesnova.ct.ws/
@@ -8539,7 +8531,6 @@ local=/modehausessen.de/
 local=/modeish.com/
 local=/modelaoshima.com/
 local=/modelcaronsales.com/
-local=/cdrock.modelight.rest/
 local=/modellbahn-store.com/
 local=/modellbahn-versandhaus.de/
 local=/modellbahnbase.com/
