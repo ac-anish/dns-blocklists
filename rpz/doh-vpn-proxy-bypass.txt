@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765809600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765824180 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 14:40 UTC
-; Version: 2025.1215.1440.06
+; Last modified: 15 Dec 2025 18:43 UTC
+; Version: 2025.1215.1843.02
 ; Syntax: RPZ
-; Number of entries: 12558
+; Number of entries: 12572
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1083,6 +1083,10 @@ httpdns.music.163.com CNAME .
 *.23.106.141.137.16clouds.com CNAME .
 1clickvpn.com CNAME .
 *.1clickvpn.com CNAME .
+donutdevcodingeducation.1copa.com CNAME .
+*.donutdevcodingeducation.1copa.com CNAME .
+county.news.1copa.com CNAME .
+*.county.news.1copa.com CNAME .
 vpn.1xtrm.com CNAME .
 *.vpn.1xtrm.com CNAME .
 onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com CNAME .
@@ -2609,6 +2613,8 @@ apidns.kwd.inkuai.com CNAME .
 *.apidns.kwd.inkuai.com CNAME .
 httpdns.kwd.inkuai.com CNAME .
 *.httpdns.kwd.inkuai.com CNAME .
+courses.bolt.installgentoo.com CNAME .
+*.courses.bolt.installgentoo.com CNAME .
 instant-vpn.com CNAME .
 *.instant-vpn.com CNAME .
 instantunblock.com CNAME .
@@ -2683,6 +2689,8 @@ it-works4u.com CNAME .
 *.it-works4u.com CNAME .
 khanhow-to-do-math.itafricagroup.com CNAME .
 *.khanhow-to-do-math.itafricagroup.com CNAME .
+ulsscgyntu.itafricagroup.com CNAME .
+*.ulsscgyntu.itafricagroup.com CNAME .
 dns.itcosc.com CNAME .
 *.dns.itcosc.com CNAME .
 itopvpn.com CNAME .
@@ -5385,6 +5393,8 @@ dns.l6.ee CNAME .
 *.dns.l6.ee CNAME .
 info.onnemaa.ee CNAME .
 *.info.onnemaa.ee CNAME .
+ojjccwjwov.onnemaa.ee CNAME .
+*.ojjccwjwov.onnemaa.ee CNAME .
 family.sinuabi.ee CNAME .
 *.family.sinuabi.ee CNAME .
 ahoj.email CNAME .
@@ -5611,6 +5621,8 @@ proxydude.faith CNAME .
 *.proxydude.faith CNAME .
 dns.christerwaren.fi CNAME .
 *.dns.christerwaren.fi CNAME .
+nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi CNAME .
+*.nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi CNAME .
 lastentarvike.fi CNAME .
 *.lastentarvike.fi CNAME .
 lelux.fi CNAME .
@@ -9527,8 +9539,6 @@ x-o-x.duckdns.org CNAME .
 *.x-o-x.duckdns.org CNAME .
 x861g.duckdns.org CNAME .
 *.x861g.duckdns.org CNAME .
-test.zkwg.duckdns.org CNAME .
-*.test.zkwg.duckdns.org CNAME .
 67godpromaxultra61isbettersorry.dylix.org CNAME .
 *.67godpromaxultra61isbettersorry.dylix.org CNAME .
 anything.dylix.org CNAME .
@@ -10727,6 +10737,8 @@ travel-to-ur-lovely.collage.dinprima.ro CNAME .
 *.travel-to-ur-lovely.collage.dinprima.ro CNAME .
 elstafantactida.dinprima.ro CNAME .
 *.elstafantactida.dinprima.ro CNAME .
+pleasehelpsecineedschoolnottobeborngplsplspls.eminescusm.ro CNAME .
+*.pleasehelpsecineedschoolnottobeborngplsplspls.eminescusm.ro CNAME .
 sd.galaxysoft.ro CNAME .
 *.sd.galaxysoft.ro CNAME .
 roadesdyn.go.ro CNAME .
@@ -10779,6 +10791,8 @@ adfight.ru CNAME .
 *.adfight.ru CNAME .
 admir21.ru CNAME .
 *.admir21.ru CNAME .
+mrs-smiths-science-help.alcrb.ru CNAME .
+*.mrs-smiths-science-help.alcrb.ru CNAME .
 alon93rus.ru CNAME .
 *.alon93rus.ru CNAME .
 link.altapo.ru CNAME .

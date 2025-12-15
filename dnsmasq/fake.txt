@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 13:29 UTC
-# Version: 2025.1215.1329.18
+# Last modified: 15 Dec 2025 17:29 UTC
+# Version: 2025.1215.1729.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14243
+# Number of entries: 14231
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -2914,7 +2914,6 @@ local=/dasleselabor.com/
 local=/dasoffiziellespadel.com/
 local=/dasorevaparis.de/
 local=/dasrichtigeholz.com/
-local=/daswirthshaus.com/
 local=/datactively.com/
 local=/dateideen.at/
 local=/davanu.com/
@@ -3022,7 +3021,6 @@ local=/defahrrads.com/
 local=/defahrradzubehor.com/
 local=/defai-tech.de/
 local=/definitelye.com/
-local=/deflexworkspace.works/
 local=/deftcrafts.com/
 local=/degartenlebens.com/
 local=/degeschirr.com/
@@ -3065,7 +3063,6 @@ local=/deinemoebelpacker24.at/
 local=/deinetierliebe.de/
 local=/deinhandwerkershop.de/
 local=/deinheizoel.de/
-local=/deinheizoelprofi24.de/
 local=/deini.com/
 local=/deinliebesmensch.de/
 local=/deinlieblingstier.co/
@@ -3075,7 +3072,6 @@ local=/deinthuleshop.de/
 local=/deinwennbuch.shop/
 local=/dekarcheck.com/
 local=/dekhujoshop.com/
-local=/dekoartikelrabatt.de/
 local=/dekoobjektrabatt.com/
 local=/dekoration-store.com/
 local=/dekorationsmeister.com/
@@ -3182,7 +3178,6 @@ local=/detapetenonline.com/
 local=/deteufelde.shop/
 local=/dethegreenmonkeyava.shop/
 local=/detlinkx.works/
-local=/detoolmak.shop/
 local=/detoolsshop.com/
 local=/detsound.com/
 local=/detty.co/
@@ -3247,7 +3242,6 @@ local=/diffusoriacusticisorgenti.com/
 local=/digiopdesign.shop/
 local=/digipoint.org/
 local=/digipulse.online/
-local=/digisingl.ru/
 local=/digital-starten.com/
 local=/digitalakku.de/
 local=/digitaldeptstore.com/
@@ -3273,7 +3267,6 @@ local=/directepargne.com/
 local=/direktbike.store/
 local=/direkte-verarbeitung.site/
 local=/dirkuhren.de/
-local=/dirlabass.com/
 local=/dirndlzeit.de/
 local=/disciplineh.com/
 local=/discocho.com/
@@ -3320,13 +3313,10 @@ local=/dkgloballtd.com/
 local=/dlandtechnik.com/
 local=/deinheimgartenpro.dlegwu.fit/
 local=/dliene.com/
-local=/dlowiegfashion.shop/
-local=/dmbmanagement.de/
 local=/dmrbremsbelag.com/
 local=/dmsmax.com/
 local=/dnaen.shop/
 local=/dno-handel23.de/
-local=/dno-handel24.de/
 local=/docjohnson-schritte.com/
 local=/doctriney.com/
 local=/documentarp.com/
@@ -3344,7 +3334,6 @@ local=/dolceamara.com/
 local=/dolcevitashoe.com/
 local=/dolcevitashoessouthafrica.com/
 local=/doleras.com/
-local=/doliprad-verteilung.com/
 local=/dolophin.com/
 local=/dom-home.com/
 local=/domatin.com/
@@ -3410,7 +3399,6 @@ local=/dreamwardrobe.online/
 local=/technicum.dreamycorner.life/
 local=/dreamykissen.de/
 local=/dreamyss.com/
-local=/dreapurt.com/
 local=/drechselbanke.com/
 local=/drechselmaschinenrabatt.com/
 local=/drechselwebshop.com/

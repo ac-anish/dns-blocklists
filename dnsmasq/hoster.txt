@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 10:01 UTC
-# Version: 2025.1215.1001.37
+# Last modified: 15 Dec 2025 18:02 UTC
+# Version: 2025.1215.1802.41
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 1328
 #
@@ -872,6 +872,7 @@ local=/mochahost.com/
 local=/moneyash.top/
 local=/moneylower.top/
 local=/mp3.cr/
+local=/mpeblog.com/
 local=/muf.mobi/
 local=/musik.cx/
 local=/musik.lc/
@@ -1121,7 +1122,6 @@ local=/teamzonesports.com/
 local=/teenradio.shop/
 local=/tehno-politen.ru/
 local=/teleporthq.app/
-local=/telrock.org/
 local=/tempisite.com/
 local=/temporary.site/
 local=/temporary-demo.site/

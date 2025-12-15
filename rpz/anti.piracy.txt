@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765809180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765823820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 14:33 UTC
-; Version: 2025.1215.1433.45
+; Last modified: 15 Dec 2025 18:37 UTC
+; Version: 2025.1215.1837.18
 ; Syntax: RPZ
-; Number of entries: 23134
+; Number of entries: 23128
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -374,8 +374,6 @@ tracker.army CNAME .
 *.123unblock.art CNAME .
 dood.art CNAME .
 *.dood.art CNAME .
-doodstream.art CNAME .
-*.doodstream.art CNAME .
 egydead.art CNAME .
 *.egydead.art CNAME .
 eurekaddl.art CNAME .
@@ -3946,8 +3944,6 @@ demonoid.com CNAME .
 *.demonoid.com CNAME .
 azn-project.depthstrike.com CNAME .
 *.azn-project.depthstrike.com CNAME .
-descargaapk.com CNAME .
-*.descargaapk.com CNAME .
 descargagame.com CNAME .
 *.descargagame.com CNAME .
 descargasfull.com CNAME .
@@ -10068,8 +10064,6 @@ altadefinizione01.im CNAME .
 *.altadefinizione01.im CNAME .
 boerse.im CNAME .
 *.boerse.im CNAME .
-dood.im CNAME .
-*.dood.im CNAME .
 evan.im CNAME .
 *.evan.im CNAME .
 tracker.jordan.im CNAME .

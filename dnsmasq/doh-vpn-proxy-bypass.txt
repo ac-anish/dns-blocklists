@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 14:40 UTC
-# Version: 2025.1215.1440.06
+# Last modified: 15 Dec 2025 18:43 UTC
+# Version: 2025.1215.1843.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6279
+# Number of entries: 6286
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -88,6 +88,8 @@ local=/cloud.198.games/
 local=/1and1-dns.de/
 local=/1clickvpn.com/
 local=/1clickvpn.net/
+local=/donutdevcodingeducation.1copa.com/
+local=/county.news.1copa.com/
 local=/1ee.top/
 local=/vpn.1xtrm.com/
 local=/20010114.xyz/
@@ -310,6 +312,7 @@ local=/dns.akbxr.com/
 local=/akunssh.net/
 local=/dns.alanpearce.eu/
 local=/dns.albony.xyz/
+local=/mrs-smiths-science-help.alcrb.ru/
 local=/aldhaferi.store/
 local=/dnsnl.alekberg.net/
 local=/agh.alematho.de/
@@ -1839,7 +1842,6 @@ local=/wisehomeguard.duckdns.org/
 local=/workcavestl.duckdns.org/
 local=/x-o-x.duckdns.org/
 local=/x861g.duckdns.org/
-local=/test.zkwg.duckdns.org/
 local=/georgetown.duia.us/
 local=/duii.de/
 local=/dukun.de/
@@ -1937,6 +1939,7 @@ local=/adguard.elrobit.com/
 local=/emban-networks.com/
 local=/nas.embraced.co/
 local=/emeraldeyex.dev/
+local=/pleasehelpsecineedschoolnottobeborngplsplspls.eminescusm.ro/
 local=/emmmmm.me/
 local=/en-proxy.com/
 local=/enclosr.co/
@@ -2124,6 +2127,7 @@ local=/learngeometryfr.fin-tech.com/
 local=/finchvpn.com/
 local=/fineproxy.org/
 local=/finevpn.org/
+local=/nf-is-a-good-artist-you-should-listen-to-his-music.finxstudio.fi/
 local=/antistalkerfree-eu.europe-west1.firebasedatabase.app/
 local=/xcomvpn-7000b-default-rtdb.firebaseio.com/
 local=/fpn.firefox.com/
@@ -2860,6 +2864,7 @@ local=/qlf-doh.inria.fr/
 local=/d1.insec.link/
 local=/srv.insec.link/
 local=/premiumtier-network.instadart.net/
+local=/courses.bolt.installgentoo.com/
 local=/instant-vpn.com/
 local=/instantunblock.com/
 local=/intego.com/
@@ -2926,6 +2931,7 @@ local=/it-proxy.org/
 local=/it-works4u.com/
 local=/it-works4u.nl/
 local=/khanhow-to-do-math.itafricagroup.com/
+local=/ulsscgyntu.itafricagroup.com/
 local=/adguard.itclogic.cloud/
 local=/dns.itcosc.com/
 local=/dns.itdata.ro/
@@ -3973,6 +3979,7 @@ local=/adns.onlinetools.rocks/
 local=/adguard.onlyfriends.info/
 local=/d.onlyjsmylord.org/
 local=/info.onnemaa.ee/
+local=/ojjccwjwov.onnemaa.ee/
 local=/andybunn.onthewifi.com/
 local=/onweb.info/
 local=/onyx7.com/

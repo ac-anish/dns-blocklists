@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765809180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765823760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 14:33 UTC
-; Version: 2025.1215.1433.19
+; Last modified: 15 Dec 2025 18:36 UTC
+; Version: 2025.1215.1836.35
 ; Syntax: RPZ
-; Number of entries: 95164
+; Number of entries: 95118
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -7434,10 +7434,6 @@ drgnkk7.casino CNAME .
 *.drgnkk7.casino CNAME .
 drgnkk8.casino CNAME .
 *.drgnkk8.casino CNAME .
-drgnmn-019.casino CNAME .
-*.drgnmn-019.casino CNAME .
-drgnmn021.casino CNAME .
-*.drgnmn021.casino CNAME .
 drift.casino CNAME .
 *.drift.casino CNAME .
 drip.casino CNAME .
@@ -11196,8 +11192,6 @@ deadmoneypoker.club CNAME .
 *.deadmoneypoker.club CNAME .
 deshislots88.club CNAME .
 *.deshislots88.club CNAME .
-dewavegas99.club CNAME .
-*.dewavegas99.club CNAME .
 dita4d.club CNAME .
 *.dita4d.club CNAME .
 dom99.club CNAME .
@@ -28070,8 +28064,6 @@ debet.com CNAME .
 *.debet.com CNAME .
 debet365.com CNAME .
 *.debet365.com CNAME .
-decathlon-alive.com CNAME .
-*.decathlon-alive.com CNAME .
 deccasino.com CNAME .
 *.deccasino.com CNAME .
 deceivepoker.com CNAME .
@@ -28080,10 +28072,6 @@ decisiondeskhq.com CNAME .
 *.decisiondeskhq.com CNAME .
 decornewsnow.com CNAME .
 *.decornewsnow.com CNAME .
-dedalusgs.com CNAME .
-*.dedalusgs.com CNAME .
-dedicated-poker.com CNAME .
-*.dedicated-poker.com CNAME .
 dedihealth.com CNAME .
 *.dedihealth.com CNAME .
 dedprz.com CNAME .
@@ -28128,8 +28116,6 @@ deluxewin.com CNAME .
 *.deluxewin.com CNAME .
 demeuredelilerollet.com CNAME .
 *.demeuredelilerollet.com CNAME .
-demilovatodaily.com CNAME .
-*.demilovatodaily.com CNAME .
 democasino-ca.com CNAME .
 *.democasino-ca.com CNAME .
 demofortunetiger.com CNAME .
@@ -28158,8 +28144,6 @@ depositwin.com CNAME .
 *.depositwin.com CNAME .
 derechohabiente.com CNAME .
 *.derechohabiente.com CNAME .
-dermagawinvip.com CNAME .
-*.dermagawinvip.com CNAME .
 desainggrissingosari.com CNAME .
 *.desainggrissingosari.com CNAME .
 desapakem.com CNAME .
@@ -28172,8 +28156,6 @@ deshislotsapp1.com CNAME .
 *.deshislotsapp1.com CNAME .
 deshislotsguide.com CNAME .
 *.deshislotsguide.com CNAME .
-designcircus2015.com CNAME .
-*.designcircus2015.com CNAME .
 designforrisk.com CNAME .
 *.designforrisk.com CNAME .
 designgenesstudio.com CNAME .
@@ -28262,8 +28244,6 @@ dibetsa.com CNAME .
 *.dibetsa.com CNAME .
 diceblox.com CNAME .
 *.diceblox.com CNAME .
-dicemasterscasino.com CNAME .
-*.dicemasterscasino.com CNAME .
 diceycasino.com CNAME .
 *.diceycasino.com CNAME .
 didibet.com CNAME .
@@ -28296,8 +28276,6 @@ dingdong85569.com CNAME .
 *.dingdong85569.com CNAME .
 dinospin.com CNAME .
 *.dinospin.com CNAME .
-diole2233.com CNAME .
-*.diole2233.com CNAME .
 diona247.com CNAME .
 *.diona247.com CNAME .
 dionyxcasino.com CNAME .
@@ -28404,8 +28382,6 @@ dollarmills.com CNAME .
 *.dollarmills.com CNAME .
 dollarpokera.com CNAME .
 *.dollarpokera.com CNAME .
-dollarslotmachine.com CNAME .
-*.dollarslotmachine.com CNAME .
 dolly-casinoit.com CNAME .
 *.dolly-casinoit.com CNAME .
 dollycasino.com CNAME .
@@ -28428,8 +28404,6 @@ dolphin-sound.com CNAME .
 *.dolphin-sound.com CNAME .
 dom88.com CNAME .
 *.dom88.com CNAME .
-domainelesbeliers.com CNAME .
-*.domainelesbeliers.com CNAME .
 dombatotoofficial.com CNAME .
 *.dombatotoofficial.com CNAME .
 domgame.com CNAME .
@@ -28454,8 +28428,6 @@ dondcasino.com CNAME .
 *.dondcasino.com CNAME .
 donkhunter.com CNAME .
 *.donkhunter.com CNAME .
-donpokers.com CNAME .
-*.donpokers.com CNAME .
 doorbets.com CNAME .
 *.doorbets.com CNAME .
 doracasinoslot.com CNAME .
@@ -28654,8 +28626,6 @@ dripivplus.com CNAME .
 *.dripivplus.com CNAME .
 droidtimeslots.com CNAME .
 *.droidtimeslots.com CNAME .
-dronebusinessmarketer.com CNAME .
-*.dronebusinessmarketer.com CNAME .
 drueckglueck.com CNAME .
 *.drueckglueck.com CNAME .
 drueckglueck-casino-de.com CNAME .
@@ -28688,8 +28658,6 @@ dubelisysea.com CNAME .
 *.dubelisysea.com CNAME .
 dubi10.com CNAME .
 *.dubi10.com CNAME .
-dublekick.com CNAME .
-*.dublekick.com CNAME .
 dublinbet.com CNAME .
 *.dublinbet.com CNAME .
 dublinbet-casino.com CNAME .
@@ -28748,8 +28716,6 @@ duelzcasino-ca.com CNAME .
 *.duelzcasino-ca.com CNAME .
 duelzcasinosuomi.com CNAME .
 *.duelzcasinosuomi.com CNAME .
-dugas-imprimeurs.com CNAME .
-*.dugas-imprimeurs.com CNAME .
 duit188loginit.com CNAME .
 *.duit188loginit.com CNAME .
 duit789.com CNAME .
@@ -28758,8 +28724,6 @@ duit8casino.com CNAME .
 *.duit8casino.com CNAME .
 dukescasino.com CNAME .
 *.dukescasino.com CNAME .
-duloxcymba.com CNAME .
-*.duloxcymba.com CNAME .
 dumanbet.com CNAME .
 *.dumanbet.com CNAME .
 dummybets.com CNAME .
@@ -58946,12 +58910,8 @@ pendidikan.co.id CNAME .
 *.pendidikan.co.id CNAME .
 zeta.co.id CNAME .
 *.zeta.co.id CNAME .
-desacaubelayu.id CNAME .
-*.desacaubelayu.id CNAME .
 desapajahan.id CNAME .
 *.desapajahan.id CNAME .
-dfskriau.id CNAME .
-*.dfskriau.id CNAME .
 dinkespali.id CNAME .
 *.dinkespali.id CNAME .
 dispendikjatim.id CNAME .
@@ -60400,8 +60360,6 @@ delipress.io CNAME .
 *.delipress.io CNAME .
 dexsport.io CNAME .
 *.dexsport.io CNAME .
-dimexplorer.io CNAME .
-*.dimexplorer.io CNAME .
 ditchit.io CNAME .
 *.ditchit.io CNAME .
 duckdice.io CNAME .
@@ -68876,14 +68834,10 @@ danmarkslots.online CNAME .
 *.danmarkslots.online CNAME .
 deadmoneypoker.online CNAME .
 *.deadmoneypoker.online CNAME .
-deespincasino.online CNAME .
-*.deespincasino.online CNAME .
 deutschcasinos.online CNAME .
 *.deutschcasinos.online CNAME .
 dewi168.online CNAME .
 *.dewi168.online CNAME .
-diamondaudcasino.online CNAME .
-*.diamondaudcasino.online CNAME .
 dollycasino-play.online CNAME .
 *.dollycasino-play.online CNAME .
 dragonmoney-casino09.online CNAME .
