@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Dec 2025 17:31 UTC
-# Version: 2025.1214.1731.46
+# Last modified: 15 Dec 2025 05:31 UTC
+# Version: 2025.1215.0531.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9528
+# Number of entries: 9525
 #
 local=/0.gp/
 local=/00m.in/
@@ -635,7 +635,6 @@ local=/allinonetab.com/
 local=/alllinks.in/
 local=/alllinksinbio.com/
 local=/allmylinks.link/
-local=/allmylinksinoneplace.com/
 local=/alls.link/
 local=/allytab.com/
 local=/alnk.to/
@@ -798,7 +797,6 @@ local=/arsn.al/
 local=/artmo.app/
 local=/arurl.us/
 local=/arus.cc/
-local=/aryenmotors.com/
 local=/as1ansl0t88.site/
 local=/asap.to/
 local=/asc.cool/
@@ -1056,7 +1054,6 @@ local=/s.bimoweb.com/
 local=/binancetransactionf077171f1gl1od17ro1asecure.life/
 local=/binbucks.com/
 local=/binged.it/
-local=/bink.bg/
 local=/bio.link/
 local=/vai.bio.br/
 local=/bio-links.ru/
@@ -1134,7 +1131,6 @@ local=/bitly.pw/
 local=/bitly.team/
 local=/bitly.to/
 local=/bitly.ws/
-local=/bitly1.ru/
 local=/bitlyli.com/
 local=/bitlylinks.com/
 local=/bitlyshort.com/
@@ -1187,7 +1183,6 @@ local=/ble.pl/
 local=/bleenk.co/
 local=/ai.blendnow.com/
 local=/blinkbreeze.com/
-local=/blinkmelink.com/
 local=/blinko.me/
 local=/blinkurl.in/
 local=/blip.tv/
@@ -1308,7 +1303,6 @@ local=/brndly.net/
 local=/brook.gs/
 local=/browsen.de/
 local=/browser.to/
-local=/brpp.info/
 local=/brq.link/
 local=/brst.link/
 local=/brtv.vip/
@@ -2251,6 +2245,7 @@ local=/doturl.io/
 local=/dourl.pl/
 local=/douyin.team/
 local=/dow.la/
+local=/downbe.com/
 local=/downloadtonic.com/
 local=/doxane.fr/
 local=/ppt.dpanda.in/
@@ -2999,6 +2994,7 @@ local=/goclck.me/
 local=/goclick.dev/
 local=/gocps.net/
 local=/godrk.de/
+local=/gods.ly/
 local=/goft.ca/
 local=/gofund.me/
 local=/link.goglogo.com/
@@ -6691,6 +6687,7 @@ local=/sharetabs.com/
 local=/shareurl.io/
 local=/shareus.io/
 local=/shatu.nl/
+local=/shavel.ink/
 local=/shavelinks.com/
 local=/shct.io/
 local=/shelbyknox.com/

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Dec 2025 22:36 UTC
-# Version: 2025.1214.2236.50
+# Last modified: 15 Dec 2025 06:37 UTC
+# Version: 2025.1215.0637.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11584
+# Number of entries: 11578
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -996,9 +996,7 @@ local=/asnet.pw/
 local=/assistir.biz/
 local=/assistiranimes.org/
 local=/assistirseriados.online/
-local=/assistirserie.org/
 local=/assistirseriesflix.net/
-local=/assistirtopflix.com/
 local=/assistirtvgratis.online/
 local=/asst2game.ru/
 local=/astakiller.com/
@@ -1117,7 +1115,6 @@ local=/retracker.bashtel.ru/
 local=/basixmovie.com/
 local=/baskino.film/
 local=/basnetbd.com/
-local=/batflix.org/
 local=/batflixmovies.club/
 local=/batman-stream.tv/
 local=/batmanstream.cc/
@@ -1300,7 +1297,6 @@ local=/api.bitumconference.ru/
 local=/bitvaulttorrent.com/
 local=/bitvn.net/
 local=/alt.bitworld.to/
-local=/biu47.xyz/
 local=/vexmovies.biz.id/
 local=/bj-share.net/
 local=/tracker.bjut.jp/
@@ -1626,7 +1622,6 @@ local=/bypassed.life/
 local=/watchepisodeseries.bypassed.wtf/
 local=/byrutgame.org/
 local=/byte.to/
-local=/bytecollectors.com/
 local=/bandito.byterunner.io/
 local=/byxatab.com/
 local=/byxatab.org/
@@ -7185,7 +7180,6 @@ local=/onstream.so/
 local=/onstreamapk.com/
 local=/onstreamapp.to/
 local=/bestfiles.oo.lv/
-local=/laestrygonian.ooguy.com/
 local=/oomoviz.com/
 local=/oomoye.me/
 local=/ootmm.com/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Dec 2025 22:42 UTC
-# Version: 2025.1214.2242.30
+# Last modified: 15 Dec 2025 06:43 UTC
+# Version: 2025.1215.0643.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6287
+# Number of entries: 6283
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -569,7 +569,6 @@ local=/archlinuxisthebestlol.baselinux.net/
 local=/boltnirbytes.baselinux.net/
 local=/boltnixe.baselinux.net/
 local=/bootnbo.baselinux.net/
-local=/gnomedesktop44.baselinux.net/
 local=/nirbolt.baselinux.net/
 local=/nirbyteproxbolt.baselinux.net/
 local=/peninsulaeducation.baselinux.net/
@@ -626,7 +625,6 @@ local=/dns.bibica.net/
 local=/dns.bibitos.cc/
 local=/bigma.org/
 local=/httpdns.bilivideo.com/
-local=/carverd.bine.me/
 local=/proxyduke.bingle.pw/
 local=/kind-rain-691.biologyscholar.org/
 local=/sunny-wolf-734.biologyscholar.org/
@@ -677,7 +675,6 @@ local=/blewpass.com/
 local=/us1.blissdns.net/
 local=/doh.blitarian.com/
 local=/blocka.net/
-local=/blockadhomemoskva.ru/
 local=/blockaway.net/
 local=/blockedsiteaccess.com/
 local=/doh.blockerdns.com/
@@ -733,7 +730,6 @@ local=/y9iiz61k4yu67jfgcx.boxathome.net/
 local=/boxpn.com/
 local=/adguard.boykevanvugt.nl/
 local=/adguard2.boykevanvugt.nl/
-local=/ram.br3xality.org/
 local=/dns.braene.com/
 local=/dns.brahma.world/
 local=/bramka-proxy.pl/

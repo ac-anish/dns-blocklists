@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765751760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765780620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Dec 2025 22:36 UTC
-; Version: 2025.1214.2236.50
+; Last modified: 15 Dec 2025 06:37 UTC
+; Version: 2025.1215.0637.27
 ; Syntax: RPZ
-; Number of entries: 23168
+; Number of entries: 23156
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -3068,8 +3068,6 @@ asmr-200.com CNAME .
 *.asmr-200.com CNAME .
 asmr-300.com CNAME .
 *.asmr-300.com CNAME .
-assistirtopflix.com CNAME .
-*.assistirtopflix.com CNAME .
 astakiller.com CNAME .
 *.astakiller.com CNAME .
 astalavista.com CNAME .
@@ -3542,8 +3540,6 @@ bwtorrents.com CNAME .
 *.bwtorrents.com CNAME .
 byfiles.com CNAME .
 *.byfiles.com CNAME .
-bytecollectors.com CNAME .
-*.bytecollectors.com CNAME .
 byxatab.com CNAME .
 *.byxatab.com CNAME .
 c1live.com CNAME .
@@ -6148,8 +6144,6 @@ nyaaapi.onrender.com CNAME .
 *.nyaaapi.onrender.com CNAME .
 onstreamapk.com CNAME .
 *.onstreamapk.com CNAME .
-laestrygonian.ooguy.com CNAME .
-*.laestrygonian.ooguy.com CNAME .
 oomoviz.com CNAME .
 *.oomoviz.com CNAME .
 ootmm.com CNAME .
@@ -15448,8 +15442,6 @@ asiandvdclub.org CNAME .
 *.asiandvdclub.org CNAME .
 assistiranimes.org CNAME .
 *.assistiranimes.org CNAME .
-assistirserie.org CNAME .
-*.assistirserie.org CNAME .
 audionews.org CNAME .
 *.audionews.org CNAME .
 avatar-bg.org CNAME .
@@ -15466,8 +15458,6 @@ bandito.org CNAME .
 *.bandito.org CNAME .
 baravik.org CNAME .
 *.baravik.org CNAME .
-batflix.org CNAME .
-*.batflix.org CNAME .
 bb-tv.org CNAME .
 *.bb-tv.org CNAME .
 bdix.org CNAME .
@@ -22796,8 +22786,6 @@ badshahuploads.xyz CNAME .
 *.badshahuploads.xyz CNAME .
 bayofpirates.xyz CNAME .
 *.bayofpirates.xyz CNAME .
-biu47.xyz CNAME .
-*.biu47.xyz CNAME .
 tracker.blackunicorn.xyz CNAME .
 *.tracker.blackunicorn.xyz CNAME .
 blunter.xyz CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765733460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765776660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 14 Dec 2025 17:31 UTC
-; Version: 2025.1214.1731.46
+; Last modified: 15 Dec 2025 05:31 UTC
+; Version: 2025.1215.0531.33
 ; Syntax: RPZ
-; Number of entries: 19056
+; Number of entries: 19050
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -949,8 +949,6 @@ urlshortener.best CNAME .
 *.urlshortener.best CNAME .
 b808.bet CNAME .
 *.b808.bet CNAME .
-bink.bg CNAME .
-*.bink.bg CNAME .
 bloom.bg CNAME .
 *.bloom.bg CNAME .
 s.skip.bh CNAME .
@@ -3217,8 +3215,6 @@ allinonetab.com CNAME .
 *.allinonetab.com CNAME .
 alllinksinbio.com CNAME .
 *.alllinksinbio.com CNAME .
-allmylinksinoneplace.com CNAME .
-*.allmylinksinoneplace.com CNAME .
 allytab.com CNAME .
 *.allytab.com CNAME .
 aloeds.com CNAME .
@@ -3295,8 +3291,6 @@ arpressllc.com CNAME .
 *.arpressllc.com CNAME .
 arshorten.com CNAME .
 *.arshorten.com CNAME .
-aryenmotors.com CNAME .
-*.aryenmotors.com CNAME .
 asiagacor-77.com CNAME .
 *.asiagacor-77.com CNAME .
 asmoah.com CNAME .
@@ -3489,8 +3483,6 @@ ai.blendnow.com CNAME .
 *.ai.blendnow.com CNAME .
 blinkbreeze.com CNAME .
 *.blinkbreeze.com CNAME .
-blinkmelink.com CNAME .
-*.blinkmelink.com CNAME .
 blipnut.com CNAME .
 *.blipnut.com CNAME .
 blkstats.com CNAME .
@@ -3943,6 +3935,8 @@ dotalink.com CNAME .
 *.dotalink.com CNAME .
 dotshrt.com CNAME .
 *.dotshrt.com CNAME .
+downbe.com CNAME .
+*.downbe.com CNAME .
 downloadtonic.com CNAME .
 *.downloadtonic.com CNAME .
 dpba2404.com CNAME .
@@ -9699,8 +9693,6 @@ biosite.info CNAME .
 *.biosite.info CNAME .
 bizlinks.info CNAME .
 *.bizlinks.info CNAME .
-brpp.info CNAME .
-*.brpp.info CNAME .
 calendrierbdp.info CNAME .
 *.calendrierbdp.info CNAME .
 ch-get.info CNAME .
@@ -9963,6 +9955,8 @@ rcl.ink CNAME .
 *.rcl.ink CNAME .
 rool.ink CNAME .
 *.rool.ink CNAME .
+shavel.ink CNAME .
+*.shavel.ink CNAME .
 shly.ink CNAME .
 *.shly.ink CNAME .
 shre.ink CNAME .
@@ -12949,6 +12943,8 @@ gfuel.ly CNAME .
 *.gfuel.ly CNAME .
 go.ly CNAME .
 *.go.ly CNAME .
+gods.ly CNAME .
+*.gods.ly CNAME .
 herff.ly CNAME .
 *.herff.ly CNAME .
 ht.ly CNAME .
@@ -16485,8 +16481,6 @@ b23.ru CNAME .
 *.b23.ru CNAME .
 bio-links.ru CNAME .
 *.bio-links.ru CNAME .
-bitly1.ru CNAME .
-*.bitly1.ru CNAME .
 clck.ru CNAME .
 *.clck.ru CNAME .
 kutt.crmgroup.ru CNAME .

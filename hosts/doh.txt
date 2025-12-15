@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Dec 2025 14:59 UTC
-# Version: 2025.1214.1459.06
+# Last modified: 15 Dec 2025 06:42 UTC
+# Version: 2025.1215.0642.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3844
+# Number of entries: 3843
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -483,7 +483,6 @@
 0.0.0.0 dns.blaumer.dev
 0.0.0.0 us1.blissdns.net
 0.0.0.0 doh.blitarian.com
-0.0.0.0 blockadhomemoskva.ru
 0.0.0.0 doh.blockerdns.com
 0.0.0.0 example.doh.blockerdns.com
 0.0.0.0 adh.blogcuahieu.com
