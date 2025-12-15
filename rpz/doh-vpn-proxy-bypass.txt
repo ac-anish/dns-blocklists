@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765780980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765795260 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 06:43 UTC
-; Version: 2025.1215.0643.12
+; Last modified: 15 Dec 2025 10:41 UTC
+; Version: 2025.1215.1041.54
 ; Syntax: RPZ
-; Number of entries: 12566
+; Number of entries: 12562
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1675,8 +1675,6 @@ cloakpoint.com CNAME .
 *.cloakpoint.com CNAME .
 cloakvpn.com CNAME .
 *.cloakvpn.com CNAME .
-doh.cloud-sekeng.com CNAME .
-*.doh.cloud-sekeng.com CNAME .
 dns.cloudflare.com CNAME .
 *.dns.cloudflare.com CNAME .
 cloudflare-dns.com CNAME .
@@ -3973,6 +3971,8 @@ eu3-browse.startpage.com CNAME .
 *.eu3-browse.startpage.com CNAME .
 proxy1.startpage.com CNAME .
 *.proxy1.startpage.com CNAME .
+proxy2.startpage.com CNAME .
+*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -11307,8 +11307,6 @@ dns.sy.st CNAME .
 *.dns.sy.st CNAME .
 aldhaferi.store CNAME .
 *.aldhaferi.store CNAME .
-center-crm.store CNAME .
-*.center-crm.store CNAME .
 fun4school.store CNAME .
 *.fun4school.store CNAME .
 home-server.store CNAME .
@@ -12303,8 +12301,6 @@ alpha.cixy.xyz CNAME .
 *.alpha.cixy.xyz CNAME .
 dns.clickhost.xyz CNAME .
 *.dns.clickhost.xyz CNAME .
-dns.cloud-admin.xyz CNAME .
-*.dns.cloud-admin.xyz CNAME .
 cv-unfiltered.xyz CNAME .
 *.cv-unfiltered.xyz CNAME .
 dns.d94.xyz CNAME .

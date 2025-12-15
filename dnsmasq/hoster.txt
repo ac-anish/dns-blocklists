@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Dec 2025 14:20 UTC
-# Version: 2025.1214.1420.26
+# Last modified: 15 Dec 2025 10:01 UTC
+# Version: 2025.1215.1001.37
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1329
+# Number of entries: 1328
 #
 local=/000a.de/
 local=/000space.com/
@@ -393,7 +393,6 @@ local=/co.gp/
 local=/co.nu/
 local=/24.co.at/
 local=/all.co.uk/
-local=/atspace.co.uk/
 local=/blog.co.uk/
 local=/blogspot.co.at/
 local=/blogspot.co.id/

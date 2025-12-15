@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 06:37 UTC
-# Version: 2025.1215.0637.27
+# Last modified: 15 Dec 2025 10:36 UTC
+# Version: 2025.1215.1036.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11578
+# Number of entries: 11570
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -1646,7 +1646,6 @@ local=/cambros.tv/
 local=/camclips.tv/
 local=/camflow.tv/
 local=/camhoe.tv/
-local=/camhoes.tv/
 local=/share.camoe.cn/
 local=/canalflix.com/
 local=/candownload.org/
@@ -1690,7 +1689,6 @@ local=/casanovax.com/
 local=/cash2day4u.net/
 local=/castradio.net/
 local=/casualgamers.club/
-local=/cat-a-cat.net/
 local=/cataz.to/
 local=/catherinemacivor.com/
 local=/catorrent.org/
@@ -1703,7 +1701,6 @@ local=/cb01.boats/
 local=/cb01.builders/
 local=/cb01.care/
 local=/cb01.cc/
-local=/cb01.cfd/
 local=/cb01.charity/
 local=/cb01.click/
 local=/cb01.clothing/
@@ -1836,10 +1833,8 @@ local=/cineb.net/
 local=/cineb.rs/
 local=/cinebay.org/
 local=/cineblog01.agency/
-local=/cineblog01.app/
 local=/cineblog01.archi/
 local=/cineblog01.bid/
-local=/cineblog01.biz/
 local=/cineblog01.boats/
 local=/cineblog01.boo/
 local=/cineblog01.boutique/
@@ -1876,7 +1871,6 @@ local=/cineblog01.it/
 local=/cineblog01.kaufen/
 local=/cineblog01.kitchen/
 local=/cineblog01.land/
-local=/cineblog01.legal/
 local=/cineblog01.life/
 local=/cineblog01.locker/
 local=/cineblog01.lol/
@@ -1899,7 +1893,6 @@ local=/cineblog01.skin/
 local=/cineblog01.spa/
 local=/cineblog01.space/
 local=/cineblog01.systems/
-local=/cineblog01.taxi/
 local=/cineblog01.today/
 local=/cineblog01.tokyo/
 local=/cineblog01.town/
@@ -1914,7 +1907,6 @@ local=/cineblog01.ws/
 local=/cineblog01.wtf/
 local=/cineblog01.zip/
 local=/cinebloom.com/
-local=/cinebloom.org/
 local=/cinebook.xyz/
 local=/cineby.app/
 local=/cineby.asia/
@@ -2033,7 +2025,6 @@ local=/321movies.co.uk/
 local=/althub.co.za/
 local=/an1.co.in/
 local=/apk4all.co.in/
-local=/apkpure.co.in/
 local=/mirror.aptus.co.tz/
 local=/bioquantum.co.za/
 local=/koskomputer.blogspot.co.uk/
@@ -5147,6 +5138,7 @@ local=/app.iosgods.com/
 local=/ioshaven.com/
 local=/iosninja.io/
 local=/iosvizor.com/
+local=/ns575949.ip-51-222-82.net/
 local=/47.ip-51-68-199.eu/
 local=/ns349743.ip-91-121-106.eu/
 local=/ipacrack.com/

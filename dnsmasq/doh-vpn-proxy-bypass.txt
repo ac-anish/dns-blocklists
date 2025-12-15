@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 06:43 UTC
-# Version: 2025.1215.0643.12
+# Last modified: 15 Dec 2025 10:41 UTC
+# Version: 2025.1215.1041.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6283
+# Number of entries: 6281
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -836,7 +836,6 @@ local=/anycast.censurfridns.nu/
 local=/unicast2.servers.censurfridns.dk/
 local=/unicast.censurfridns.dk/
 local=/unicast.censurfridns.nu/
-local=/center-crm.store/
 local=/dns.cert.ee/
 local=/cfdjb.org/
 local=/pds.cfornas.casa/
@@ -919,8 +918,6 @@ local=/cloaker.us/
 local=/cloakpoint.com/
 local=/cloakvpn.com/
 local=/closetruth.date/
-local=/dns.cloud-admin.xyz/
-local=/doh.cloud-sekeng.com/
 local=/dns.cloudfiction.eu/
 local=/meow.partedu.club.cdn.cloudflare.net/
 local=/dns.233py.com.cdn.cloudflare.net/
@@ -5073,6 +5070,7 @@ local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/eu3-browse.startpage.com/
 local=/proxy1.startpage.com/
+local=/proxy2.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us1-browse.startpage.com/

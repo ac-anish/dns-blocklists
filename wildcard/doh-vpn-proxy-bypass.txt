@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 06:43 UTC
-# Version: 2025.1215.0643.12
+# Last modified: 15 Dec 2025 10:41 UTC
+# Version: 2025.1215.1041.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6283
+# Number of entries: 6281
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -836,7 +836,6 @@
 *.unicast2.servers.censurfridns.dk
 *.unicast.censurfridns.dk
 *.unicast.censurfridns.nu
-*.center-crm.store
 *.dns.cert.ee
 *.cfdjb.org
 *.pds.cfornas.casa
@@ -919,8 +918,6 @@
 *.cloakpoint.com
 *.cloakvpn.com
 *.closetruth.date
-*.dns.cloud-admin.xyz
-*.doh.cloud-sekeng.com
 *.dns.cloudfiction.eu
 *.meow.partedu.club.cdn.cloudflare.net
 *.dns.233py.com.cdn.cloudflare.net
@@ -5073,6 +5070,7 @@
 *.eu2-browse.startpage.com
 *.eu3-browse.startpage.com
 *.proxy1.startpage.com
+*.proxy2.startpage.com
 *.proxy3.startpage.com
 *.s4-us2.startpage.com
 *.us1-browse.startpage.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765780620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765794960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 06:37 UTC
-; Version: 2025.1215.0637.27
+; Last modified: 15 Dec 2025 10:36 UTC
+; Version: 2025.1215.1036.01
 ; Syntax: RPZ
-; Number of entries: 23156
+; Number of entries: 23140
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -202,8 +202,6 @@ burmese.app CNAME .
 *.burmese.app CNAME .
 cb01.app CNAME .
 *.cb01.app CNAME .
-cineblog01.app CNAME .
-*.cineblog01.app CNAME .
 cineby.app CNAME .
 *.cineby.app CNAME .
 corkmac.app CNAME .
@@ -780,8 +778,6 @@ casacinema.biz CNAME .
 *.casacinema.biz CNAME .
 cbo1.biz CNAME .
 *.cbo1.biz CNAME .
-cineblog01.biz CNAME .
-*.cineblog01.biz CNAME .
 coexist.biz CNAME .
 *.coexist.biz CNAME .
 cpasbien-torrent.biz CNAME .
@@ -1700,8 +1696,6 @@ tr.kxmp.cf CNAME .
 *.tr.kxmp.cf CNAME .
 altadefinizione.cfd CNAME .
 *.altadefinizione.cfd CNAME .
-cb01.cfd CNAME .
-*.cb01.cfd CNAME .
 cineblog01.cfd CNAME .
 *.cineblog01.cfd CNAME .
 cinemalux.cfd CNAME .
@@ -10132,8 +10126,6 @@ an1.co.in CNAME .
 *.an1.co.in CNAME .
 apk4all.co.in CNAME .
 *.apk4all.co.in CNAME .
-apkpure.co.in CNAME .
-*.apkpure.co.in CNAME .
 multimovies.co.in CNAME .
 *.multimovies.co.in CNAME .
 onstream.com.in CNAME .
@@ -11292,8 +11284,6 @@ hdmovie2.lease CNAME .
 *.hdmovie2.lease CNAME .
 altadefinizione.legal CNAME .
 *.altadefinizione.legal CNAME .
-cineblog01.legal CNAME .
-*.cineblog01.legal CNAME .
 hdmovie2.lgbt CNAME .
 *.hdmovie2.lgbt CNAME .
 vegamovies.lgbt CNAME .
@@ -13048,8 +13038,6 @@ cash2day4u.net CNAME .
 *.cash2day4u.net CNAME .
 castradio.net CNAME .
 *.castradio.net CNAME .
-cat-a-cat.net CNAME .
-*.cat-a-cat.net CNAME .
 cb01.net CNAME .
 *.cb01.net CNAME .
 cdnstreame.net CNAME .
@@ -13568,6 +13556,8 @@ media.infobd.net CNAME .
 *.media.infobd.net CNAME .
 internetwarriors.net CNAME .
 *.internetwarriors.net CNAME .
+ns575949.ip-51-222-82.net CNAME .
+*.ns575949.ip-51-222-82.net CNAME .
 iplayplus.net CNAME .
 *.iplayplus.net CNAME .
 islamictorrents.net CNAME .
@@ -15584,8 +15574,6 @@ chomskytorrents.org CNAME .
 *.chomskytorrents.org CNAME .
 cinebay.org CNAME .
 *.cinebay.org CNAME .
-cinebloom.org CNAME .
-*.cinebloom.org CNAME .
 cinemageddon.org CNAME .
 *.cinemageddon.org CNAME .
 cksub.org CNAME .
@@ -19850,8 +19838,6 @@ vegamovies.tax CNAME .
 *.vegamovies.tax CNAME .
 cb01.taxi CNAME .
 *.cb01.taxi CNAME .
-cineblog01.taxi CNAME .
-*.cineblog01.taxi CNAME .
 eurostreaming.taxi CNAME .
 *.eurostreaming.taxi CNAME .
 filmapik.taxi CNAME .
@@ -21122,8 +21108,6 @@ camflow.tv CNAME .
 *.camflow.tv CNAME .
 camhoe.tv CNAME .
 *.camhoe.tv CNAME .
-camhoes.tv CNAME .
-*.camhoes.tv CNAME .
 cartooncrazy.tv CNAME .
 *.cartooncrazy.tv CNAME .
 cdn99.tv CNAME .

@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 14 Dec 2025 10:40 UTC
-! Version: 2025.1214.1040.19
+! Last modified: 15 Dec 2025 10:41 UTC
+! Version: 2025.1215.1041.46
 ! Syntax: AdBlock
-! Number of entries: 808
+! Number of entries: 826
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -58,6 +58,7 @@
 ||blitz-setup.ahadns.com^
 ||dns.akbxr.com^
 ||dns.albony.xyz^
+||dnsnl.alekberg.net^
 ||httpdns.alicdn.com^
 ||alidns.com^
 ||resolvers-cn.httpdns.aliyuncs.com^
@@ -87,6 +88,7 @@
 ||adguardhome.atakorah.com^
 ||atris.cyou^
 ||dohtrial.att.net^
+||secure.avastdns.com^
 ||doh1.b-cdn.net^
 ||doh2.b-cdn.net^
 ||dns.b33.space^
@@ -131,6 +133,7 @@
 ||doh.bt.com^
 ||stratus.bugz.fr^
 ||c-dns.com^
+||dns.caliph.dev^
 ||doh.captnemo.in^
 ||dns.caspervk.net^
 ||catdns.org^
@@ -174,6 +177,7 @@
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
+||dohdot.coxlab.net^
 ||crypto.sx^
 ||cryptroute.com^
 ||dns.csa-rz.de^
@@ -190,8 +194,10 @@
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
+||dns.decloudus.com^
 ||frank-web.dedyn.io^
 ||deep-henchman-excuse.cfd^
+||doh.defaultroutes.de^
 ||adguard.dekonix.ru^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
@@ -200,10 +206,13 @@
 ||dns.digitalsize.net^
 ||dingdangnao.com^
 ||doh.disconnect.app^
+||fdns1.dismail.de^
+||fdns2.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
 ||dns.watch^
+||dns.dns-53.us^
 ||dns-free.link^
 ||dns1.dns-ga.de^
 ||dns.dns-over-https.com^
@@ -279,6 +288,7 @@
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
+||doh.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
 ||doh.beauty^
@@ -321,6 +331,8 @@
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
 ||jp1.f7b6h9.tk^
+||pdns.faelix.net^
+||rdns.faelix.net^
 ||dns.faked.org^
 ||dns.falkenthal.org^
 ||dnsvps.familiamv.net^
@@ -360,6 +372,7 @@
 ||gibblets.top^
 ||dns.ginovs.nl^
 ||dns.girino.org^
+||doh.ptqy.gitv.tv^
 ||glacius.top^
 ||dns.api.globus.org^
 ||dns.api.preview.globus.org^
@@ -452,6 +465,7 @@
 ||kavkaz.monster^
 ||dns.kawa.tf^
 ||doh.kel.pe^
+||dns.kernel-error.de^
 ||dns.keweon.center^
 ||adguard.kiboko.it^
 ||dns1.klcd.eu^
@@ -510,6 +524,7 @@
 ||mikezhang.xyz^
 ||dns.milkpie.one^
 ||netcup.mismat.ch^
+||httpdns.browser.miui.com^
 ||dnstls.mobik.com^
 ||naganohara-yoimiya.momokko.moe^
 ||morbitzer.de^
@@ -592,6 +607,7 @@
 ||dns.paesa.es^
 ||pashagame456.com^
 ||dns.pccoach.nl^
+||rpz-public-resolver1.rrdns.pch.net^
 ||dns.peb-schmidt.de^
 ||dns.pernika.net^
 ||darya.persiannit.net^
@@ -633,6 +649,7 @@
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
+||dns13.quad9.net^
 ||dns9.quad9.net^
 ||dns.quickline.ch^
 ||doh.quickline.ch^
@@ -806,6 +823,7 @@
 ||dns.yameenassotally.com^
 ||dns.yandex.ru^
 ||common.dot.dns.yandex.net^
+||safe.dot.dns.yandex.net^
 ||dns.yatima.tv^
 ||lion.yazilimatolye.com^
 ||yovbak.com^

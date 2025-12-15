@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 06:42 UTC
-# Version: 2025.1215.0642.38
+# Last modified: 15 Dec 2025 10:41 UTC
+# Version: 2025.1215.1041.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3366
+# Number of entries: 3364
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -557,8 +557,6 @@ local=/dns.clickhost.xyz/
 local=/dns.clickitsolutionsllc.com/
 local=/adguard.clmnnt.codes/
 local=/closetruth.date/
-local=/dns.cloud-admin.xyz/
-local=/doh.cloud-sekeng.com/
 local=/dns.cloudfiction.eu/
 local=/dns.233py.com.cdn.cloudflare.net/
 local=/dns.cloudflare.com/

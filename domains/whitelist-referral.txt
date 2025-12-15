@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Dec 2025 09:17 UTC
-# Version: 2025.1214.0917.26
+# Last modified: 15 Dec 2025 09:17 UTC
+# Version: 2025.1215.0917.09
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1607
+# Number of entries: 1612
 #
 1-aclk.net
 1aurl.io
@@ -473,6 +473,7 @@ match.sync.ad.cpe.dotomi.com
 csd.dotomi.com
 c63063.csd.dotomi.com
 c83501.csd.dotomi.com
+c83573.csd.dotomi.com
 ad.doubleclick.net
 dpbolvw.net
 m.dq.com
@@ -506,6 +507,7 @@ suite15.emarsys.net
 suite16.emarsys.net
 suite17.emarsys.net
 suite17-cf.emarsys.net
+suite20.emarsys.net
 suite22.emarsys.net
 suite24.emarsys.net
 suite27.emarsys.net
@@ -789,6 +791,7 @@ go.hotmart.com
 click.instantink.hpsmart.com
 href.li
 sites.hscoscdn-ap1.net
+82097343.sites.hscoscdn-ap1.net
 group0.sites.hscoscdn-ap1.net
 sites.hscoscdn-eu1.net
 139754362.sites.hscoscdn-eu1.net
@@ -860,6 +863,8 @@ group46.sites.hscoscdn40.net
 group47.sites.hscoscdn40.net
 group48.sites.hscoscdn40.net
 group49.sites.hscoscdn40.net
+sites.hscoscdnqa-eu1.net
+82097343.sites.hscoscdnqa-eu1.net
 api.hubapi.com
 api-ap1.hubapi.com
 api-eu1.hubapi.com

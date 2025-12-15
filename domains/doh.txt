@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 06:42 UTC
-# Version: 2025.1215.0642.38
+# Last modified: 15 Dec 2025 10:41 UTC
+# Version: 2025.1215.1041.19
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3843
+# Number of entries: 3841
 #
 ss.0001.xyz
 003153.xyz
@@ -653,8 +653,6 @@ dns.clickitsolutionsllc.com
 adguard.clmnnt.codes
 closetruth.date
 www.closetruth.date
-dns.cloud-admin.xyz
-doh.cloud-sekeng.com
 dns.cloudfiction.eu
 dns.233py.com.cdn.cloudflare.net
 dns.cloudflare.com
