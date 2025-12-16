@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 22:45 UTC
-# Version: 2025.1215.2245.52
+# Last modified: 16 Dec 2025 02:42 UTC
+# Version: 2025.1216.0242.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3361
+# Number of entries: 3358
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1345,7 +1345,6 @@ local=/hk154.flyzhouyc.win/
 local=/jp193.flyzhouyc.win/
 local=/st.flyzhouyc.win/
 local=/gateway.fomichev.cloud/
-local=/de-d2.foxyfy.net/
 local=/de-f1.foxyfy.net/
 local=/dns.foxyfy.net/
 local=/es-ma.foxyfy.net/
@@ -1388,7 +1387,6 @@ local=/doh.funil.de/
 local=/funti.cc/
 local=/funtikspb.ru/
 local=/doh.funtopia.tv/
-local=/dns.furrydns.de/
 local=/doh.futa.app/
 local=/doh.futa.gg/
 local=/futurearts.cc/
@@ -1422,7 +1420,6 @@ local=/dns.ghost.pm/
 local=/gibblets.top/
 local=/adguard.maison.gifino.fr/
 local=/gigatapbot.top/
-local=/bvo.giize.com/
 local=/lamdtl.giize.com/
 local=/dns.ginovs.nl/
 local=/dns.girino.org/

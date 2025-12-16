@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Dec 2025 21:32 UTC
-! Version: 2025.1215.2132.01
+! Last modified: 16 Dec 2025 01:32 UTC
+! Version: 2025.1216.0132.56
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2780,7 +2780,6 @@
 @@||gen.cat^
 @@||links.geneasens.com^
 @@||generatemyqr.com^
-@@||generateurl.help^
 @@||geni.us^
 @@||geniuslink.com^
 @@||geniusqr.io^
@@ -2816,7 +2815,6 @@
 @@||getshort.in^
 @@||getshorter.com^
 @@||getsmallurl.com^
-@@||getthot.com^
 @@||gettolink.net^
 @@||gettr.im^
 @@||getus.at^

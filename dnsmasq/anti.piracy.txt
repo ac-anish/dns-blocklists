@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 22:40 UTC
-# Version: 2025.1215.2240.29
+# Last modified: 16 Dec 2025 02:37 UTC
+# Version: 2025.1216.0237.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11563
+# Number of entries: 11557
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -3486,11 +3486,9 @@ local=/filmbits.net/
 local=/filmcomplet.al/
 local=/filmcomplet.vip/
 local=/filmduty.com/
-local=/filmeflix.online/
 local=/filmehd.se/
 local=/filmehd.to/
 local=/filmes.pro/
-local=/filmeseseriesonline.info/
 local=/filmeseseriesonlinex.com/
 local=/filmesonline.top/
 local=/filmesonline2.com/
@@ -3615,7 +3613,6 @@ local=/filmstreaming.icu/
 local=/filmstreaming.in/
 local=/filmstreaming.info/
 local=/filmstreaming.io/
-local=/filmstreaming.it/
 local=/filmstreaming.lol/
 local=/filmstreaming.me/
 local=/filmstreaming.net/
@@ -3695,7 +3692,6 @@ local=/satrong.fissabd.com/
 local=/fitgirl-repacks.site/
 local=/fitgirl-repacks.website/
 local=/tracker.fixr.pro/
-local=/fk9.pw/
 local=/fl1x.com/
 local=/flactor.ru/
 local=/flacworld.com/
@@ -3772,7 +3768,6 @@ local=/fmovies.baby/
 local=/fmovies.cab/
 local=/fmovies.cafe/
 local=/fmovies.co/
-local=/fmovies.date/
 local=/fmovies.fo/
 local=/fmovies.gd/
 local=/fmovies.hn/
@@ -4187,7 +4182,6 @@ local=/gidonline.one/
 local=/gidonline.site/
 local=/gidonline.vip/
 local=/gidonline.ws/
-local=/gidonline.xyz/
 local=/gidonline-film.ru/
 local=/gidonline2.com/
 local=/gidonlinehd.online/

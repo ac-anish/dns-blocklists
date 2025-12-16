@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 22:46 UTC
-# Version: 2025.1215.2246.32
+# Last modified: 16 Dec 2025 02:43 UTC
+# Version: 2025.1216.0243.22
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6283
+# Number of entries: 6280
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2184,7 +2184,6 @@ local=/sena-and-jacob-yap-too-much.foxgateway.com/
 local=/small-kids.foxgateway.com/
 local=/stop-it-now-stop-it-now.foxgateway.com/
 local=/we-need-more.foxgateway.com/
-local=/de-d2.foxyfy.net/
 local=/de-f1.foxyfy.net/
 local=/dns.foxyfy.net/
 local=/es-ma.foxyfy.net/
@@ -2303,7 +2302,6 @@ local=/funknetwork.com/
 local=/funti.cc/
 local=/funtikspb.ru/
 local=/doh.funtopia.tv/
-local=/dns.furrydns.de/
 local=/furriesarecute.furryplace.eu/
 local=/doh.futa.app/
 local=/doh.futa.gg/
@@ -2390,7 +2388,6 @@ local=/gibblets.top/
 local=/adguard.maison.gifino.fr/
 local=/gifttrees.us/
 local=/gigatapbot.top/
-local=/bvo.giize.com/
 local=/lamdtl.giize.com/
 local=/gingerbread.design/
 local=/dns.ginovs.nl/

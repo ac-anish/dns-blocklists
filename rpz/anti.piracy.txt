@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765838400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765852620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 22:40 UTC
-; Version: 2025.1215.2240.29
+; Last modified: 16 Dec 2025 02:37 UTC
+; Version: 2025.1216.0237.05
 ; Syntax: RPZ
-; Number of entries: 23126
+; Number of entries: 23114
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -8464,8 +8464,6 @@ streamingcommunity.dance CNAME .
 *.123movie.date CNAME .
 altadefinizione.date CNAME .
 *.altadefinizione.date CNAME .
-fmovies.date CNAME .
-*.fmovies.date CNAME .
 streamingcommunityz.date CNAME .
 *.streamingcommunityz.date CNAME .
 tantifilm.date CNAME .
@@ -10324,8 +10322,6 @@ fileleechers.info CNAME .
 *.fileleechers.info CNAME .
 filmapik.info CNAME .
 *.filmapik.info CNAME .
-filmeseseriesonline.info CNAME .
-*.filmeseseriesonline.info CNAME .
 filmpertutti.info CNAME .
 *.filmpertutti.info CNAME .
 filmstreaming.info CNAME .
@@ -11070,8 +11066,6 @@ filmpertutti.it CNAME .
 *.filmpertutti.it CNAME .
 filmsenzalimiti.it CNAME .
 *.filmsenzalimiti.it CNAME .
-filmstreaming.it CNAME .
-*.filmstreaming.it CNAME .
 giardiniblog.it CNAME .
 *.giardiniblog.it CNAME .
 guardarefilm.it CNAME .
@@ -15092,8 +15086,6 @@ eurostreaming.online CNAME .
 *.eurostreaming.online CNAME .
 fbiwarning.online CNAME .
 *.fbiwarning.online CNAME .
-filmeflix.online CNAME .
-*.filmeflix.online CNAME .
 filmpertutti.online CNAME .
 *.filmpertutti.online CNAME .
 filmstreaming.online CNAME .
@@ -17784,8 +17776,6 @@ filmstreaming.pw CNAME .
 *.filmstreaming.pw CNAME .
 filmxy.pw CNAME .
 *.filmxy.pw CNAME .
-fk9.pw CNAME .
-*.fk9.pw CNAME .
 fullhdfilmizlesene.pw CNAME .
 *.fullhdfilmizlesene.pw CNAME .
 funxd.pw CNAME .
@@ -22838,8 +22828,6 @@ gdrivedl.xyz CNAME .
 *.gdrivedl.xyz CNAME .
 gdrivemovies.xyz CNAME .
 *.gdrivemovies.xyz CNAME .
-gidonline.xyz CNAME .
-*.gidonline.xyz CNAME .
 gmovies.xyz CNAME .
 *.gmovies.xyz CNAME .
 guardaserie.xyz CNAME .

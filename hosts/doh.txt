@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 22:45 UTC
-# Version: 2025.1215.2245.52
+# Last modified: 16 Dec 2025 02:42 UTC
+# Version: 2025.1216.0242.42
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3838
+# Number of entries: 3835
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1578,7 +1578,6 @@
 0.0.0.0 jp193.flyzhouyc.win
 0.0.0.0 st.flyzhouyc.win
 0.0.0.0 gateway.fomichev.cloud
-0.0.0.0 de-d2.foxyfy.net
 0.0.0.0 de-f1.foxyfy.net
 0.0.0.0 dns.foxyfy.net
 0.0.0.0 es-ma.foxyfy.net
@@ -1623,7 +1622,6 @@
 0.0.0.0 funti.cc
 0.0.0.0 funtikspb.ru
 0.0.0.0 doh.funtopia.tv
-0.0.0.0 dns.furrydns.de
 0.0.0.0 doh.futa.app
 0.0.0.0 doh.futa.gg
 0.0.0.0 futurearts.cc
@@ -1659,7 +1657,6 @@
 0.0.0.0 gibblets.top
 0.0.0.0 adguard.maison.gifino.fr
 0.0.0.0 gigatapbot.top
-0.0.0.0 bvo.giize.com
 0.0.0.0 lamdtl.giize.com
 0.0.0.0 dns.ginovs.nl
 0.0.0.0 dns.girino.org

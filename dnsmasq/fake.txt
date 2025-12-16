@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 21:30 UTC
-# Version: 2025.1215.2130.08
+# Last modified: 16 Dec 2025 01:31 UTC
+# Version: 2025.1216.0131.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14222
+# Number of entries: 14206
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -4424,7 +4424,6 @@ local=/finpari.com/
 local=/finrally.com/
 local=/fintechnews.live/
 local=/fintegral.world/
-local=/fintevex.io/
 local=/fintrexia.org/
 local=/finvestai.org/
 local=/fiorenz.com/
@@ -4639,7 +4638,6 @@ local=/foxhandel.de/
 local=/foxracinggeschaft.com/
 local=/fp-brennholz.de/
 local=/fr-drbright.net/
-local=/frachtaglogistics.com/
 local=/fractionevr.com/
 local=/fractionu.com/
 local=/fraezenbikes.com/
@@ -4804,11 +4802,7 @@ local=/gaborschuhe.at/
 local=/gaborschuhe.com/
 local=/gaborschuhe-damen.com/
 local=/gaborschuheschweiz.com/
-local=/gaborschuheschweiz.net/
 local=/gaborschuhesuisse.com/
-local=/gaborschweiz.org/
-local=/gaborskorsverige.com/
-local=/gaborstovlerdanmark.com/
 local=/gaborsuisse.com/
 local=/gaborwien.at/
 local=/gadget4u.shop/
@@ -4850,7 +4844,6 @@ local=/gamestopde.de/
 local=/gamestopland.com/
 local=/gamestp.de/
 local=/gametimejerseys.com/
-local=/gameverkauf.de/
 local=/gameworlds.fr/
 local=/gaming-gorilla.de/
 local=/gaming-king.de/
@@ -4863,7 +4856,6 @@ local=/ganggeschenk.com/
 local=/gannioutlet.de/
 local=/ganti-mode.de/
 local=/gantvogueus.com/
-local=/gapde.de/
 local=/garantiertefinanzierung.com/
 local=/garborine.com/
 local=/garden-caddy.de/
@@ -4905,10 +4897,8 @@ local=/gartenaccessoiresshop.com/
 local=/gartenannie.eu/
 local=/gartenatmos.com/
 local=/gartenbaukunster.de/
-local=/gartenbedarf-borken.de/
 local=/gartenbedarf-ehlers.de/
 local=/gartenbedarfbillig.com/
-local=/gartenbeetzubehoer.com/
 local=/gartenbillig.com/
 local=/gartenbnke.com/
 local=/gartenboss.com/
@@ -4976,7 +4966,6 @@ local=/gebra-gartenhandel.de/
 local=/gebuhr-tech.de/
 local=/gebuyers.com/
 local=/geflowing.de/
-local=/geigenbau-bartsch.shop/
 local=/gelbente.de/
 local=/geld-ausleihen.com/
 local=/geldpro.ai/
@@ -5039,7 +5028,6 @@ local=/geoxuk.com/
 local=/geoxuruguay.com/
 local=/geqimo.com/
 local=/geraetedirekt.com/
-local=/gerbaodan.com/
 local=/gerdetect.de/
 local=/gerhard-goerke-finanzberatung.com/
 local=/gerhard-tremmel.de/
@@ -5062,7 +5050,6 @@ local=/germanytool.com/
 local=/gerrys-modehaus.com/
 local=/gertakura.shop/
 local=/gesamtgarten.de/
-local=/geschaft-orka.com/
 local=/geschenkfreudeeu.shop/
 local=/geschenkwand.de/
 local=/geschenkzone.at/
@@ -5085,7 +5072,6 @@ local=/gesundeswelpenhaus.de/
 local=/gesundheitapotheke.de/
 local=/gesundheits-apo.com/
 local=/gesundheitsbucher.com/
-local=/gesundheitskontrolle.com/
 local=/gesundmedizinische.com/
 local=/get-adel.de/
 local=/get-akusoli.com/
@@ -5102,7 +5088,6 @@ local=/geteasygroup.com/
 local=/getecodriver.com/
 local=/getecomac.com/
 local=/getecotex.com/
-local=/geteisa.shop/
 local=/getenergyfix.com/
 local=/getnuubu.com/
 local=/getrcparts.com/
@@ -5131,7 +5116,6 @@ local=/ggrcgs.com/
 local=/ghiblimuseumstore.com/
 local=/ghiblipremiumstore.com/
 local=/ghostarmy.de/
-local=/gialuron-inno.shop/
 local=/giardinoambienti.com/
 local=/giecy.com/
 local=/giesswein.shop/

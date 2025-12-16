@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Dec 2025 22:45 UTC
-! Version: 2025.1215.2245.52
+! Last modified: 16 Dec 2025 02:42 UTC
+! Version: 2025.1216.0242.42
 ! Syntax: AdBlock
-! Number of entries: 3361
+! Number of entries: 3358
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -1346,7 +1346,6 @@
 ||jp193.flyzhouyc.win^
 ||st.flyzhouyc.win^
 ||gateway.fomichev.cloud^
-||de-d2.foxyfy.net^
 ||de-f1.foxyfy.net^
 ||dns.foxyfy.net^
 ||es-ma.foxyfy.net^
@@ -1389,7 +1388,6 @@
 ||funti.cc^
 ||funtikspb.ru^
 ||doh.funtopia.tv^
-||dns.furrydns.de^
 ||doh.futa.app^
 ||doh.futa.gg^
 ||futurearts.cc^
@@ -1423,7 +1421,6 @@
 ||gibblets.top^
 ||adguard.maison.gifino.fr^
 ||gigatapbot.top^
-||bvo.giize.com^
 ||lamdtl.giize.com^
 ||dns.ginovs.nl^
 ||dns.girino.org^
