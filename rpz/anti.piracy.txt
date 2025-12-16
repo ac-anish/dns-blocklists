@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765852620 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765881240 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Dec 2025 02:37 UTC
-; Version: 2025.1216.0237.05
+; Last modified: 16 Dec 2025 10:34 UTC
+; Version: 2025.1216.1034.52
 ; Syntax: RPZ
-; Number of entries: 23114
+; Number of entries: 23106
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -4904,8 +4904,6 @@ hdencode.com CNAME .
 *.hdencode.com CNAME .
 hdhublist.com CNAME .
 *.hdhublist.com CNAME .
-hdlivemovies.com CNAME .
-*.hdlivemovies.com CNAME .
 hdmovie2.com CNAME .
 *.hdmovie2.com CNAME .
 hdmoviesnxt.com CNAME .
@@ -9820,8 +9818,6 @@ filmstreaming.hair CNAME .
 *.filmstreaming.hair CNAME .
 hdmovie2.hair CNAME .
 *.hdmovie2.hair CNAME .
-ilgeniodellostreaming.hair CNAME .
-*.ilgeniodellostreaming.hair CNAME .
 123movies.haus CNAME .
 *.123movies.haus CNAME .
 altadefinizione.haus CNAME .
@@ -11186,8 +11182,6 @@ divxtotal.la CNAME .
 *.divxtotal.la CNAME .
 dood.la CNAME .
 *.dood.la CNAME .
-hdmovie2.la CNAME .
-*.hdmovie2.la CNAME .
 lookmovie.la CNAME .
 *.lookmovie.la CNAME .
 lookmovie2.la CNAME .
@@ -11616,6 +11610,8 @@ topflix.live CNAME .
 *.topflix.live CNAME .
 torlock.live CNAME .
 *.torlock.live CNAME .
+node01.trackerstatus.live CNAME .
+*.node01.trackerstatus.live CNAME .
 tufan.live CNAME .
 *.tufan.live CNAME .
 tvbd.live CNAME .
@@ -17092,8 +17088,6 @@ vegamovies.party CNAME .
 *.vegamovies.party CNAME .
 cpasbien.pe CNAME .
 *.cpasbien.pe CNAME .
-hdmovie2.pe CNAME .
-*.hdmovie2.pe CNAME .
 putlocker.pe CNAME .
 *.putlocker.pe CNAME .
 soap2day.pe CNAME .
@@ -19852,8 +19846,6 @@ cinemaos.tech CNAME .
 *.cinemaos.tech CNAME .
 dood.tech CNAME .
 *.dood.tech CNAME .
-hdmovie2.tech CNAME .
-*.hdmovie2.tech CNAME .
 megakino.tech CNAME .
 *.megakino.tech CNAME .
 mp3juices.tech CNAME .

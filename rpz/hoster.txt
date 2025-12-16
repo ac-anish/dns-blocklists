@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765821720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765879200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 18:02 UTC
-; Version: 2025.1215.1802.41
+; Last modified: 16 Dec 2025 10:00 UTC
+; Version: 2025.1216.1000.16
 ; Syntax: RPZ
-; Number of entries: 2656
+; Number of entries: 2650
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -664,8 +664,6 @@ halloweencp.com CNAME .
 *.halloweencp.com CNAME .
 hanefra7bikiemta.com CNAME .
 *.hanefra7bikiemta.com CNAME .
-highclassacademia.com CNAME .
-*.highclassacademia.com CNAME .
 hinerava.com CNAME .
 *.hinerava.com CNAME .
 homemarker.com CNAME .
@@ -1772,8 +1770,6 @@ blogspot.kr CNAME .
 *.blogspot.kr CNAME .
 dothome.co.kr CNAME .
 *.dothome.co.kr CNAME .
-c.la CNAME .
-*.c.la CNAME .
 1a.lc CNAME .
 *.1a.lc CNAME .
 24.lc CNAME .
@@ -2406,8 +2402,6 @@ georgiatwo.shop CNAME .
 *.georgiatwo.shop CNAME .
 godscience.shop CNAME .
 *.godscience.shop CNAME .
-greecemar.shop CNAME .
-*.greecemar.shop CNAME .
 harise.shop CNAME .
 *.harise.shop CNAME .
 hotloss.shop CNAME .

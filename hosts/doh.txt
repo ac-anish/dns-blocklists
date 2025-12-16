@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 02:42 UTC
-# Version: 2025.1216.0242.42
+# Last modified: 16 Dec 2025 10:39 UTC
+# Version: 2025.1216.1039.56
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3835
+# Number of entries: 3831
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1964,7 +1964,6 @@
 0.0.0.0 ad.imblien.com
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
-0.0.0.0 dns1.imkvq.com
 0.0.0.0 immadnez7.ru
 0.0.0.0 www.immadnez7.ru
 0.0.0.0 dns.immanuelschaffer.de
@@ -1979,7 +1978,6 @@
 0.0.0.0 www.incaseineeditoneday.com
 0.0.0.0 dns.inclusioproject.com
 0.0.0.0 adblock.indianets.net
-0.0.0.0 dns.indraarsana.site
 0.0.0.0 dns.indybanipal.com
 0.0.0.0 dns.inforlogia.com
 0.0.0.0 doh.infotechlibrary.com
@@ -1998,8 +1996,6 @@
 0.0.0.0 inpssh.online
 0.0.0.0 www.inpssh.online
 0.0.0.0 qlf-doh.inria.fr
-0.0.0.0 d1.insec.link
-0.0.0.0 srv.insec.link
 0.0.0.0 premiumtier-network.instadart.net
 0.0.0.0 dns.interhub.cc
 0.0.0.0 intertop.link

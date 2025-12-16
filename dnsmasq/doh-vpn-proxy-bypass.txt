@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 02:43 UTC
-# Version: 2025.1216.0243.22
+# Last modified: 16 Dec 2025 10:40 UTC
+# Version: 2025.1216.1040.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6280
+# Number of entries: 6275
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2812,7 +2812,6 @@ local=/ilysk.lol/
 local=/ad.imblien.com/
 local=/noads.imbuffering.com/
 local=/dns.imchristian.de/
-local=/dns1.imkvq.com/
 local=/immadnez7.ru/
 local=/dns.immanuelschaffer.de/
 local=/doh.immerda.ch/
@@ -2835,7 +2834,6 @@ local=/incog.works/
 local=/adblock.indianets.net/
 local=/indiaproxy.win/
 local=/indo-ssh.com/
-local=/dns.indraarsana.site/
 local=/dns.indybanipal.com/
 local=/dns.inforlogia.com/
 local=/doh.infotechlibrary.com/
@@ -2855,8 +2853,6 @@ local=/ad.innet.id/
 local=/inoainoa.fun/
 local=/inpssh.online/
 local=/qlf-doh.inria.fr/
-local=/d1.insec.link/
-local=/srv.insec.link/
 local=/premiumtier-network.instadart.net/
 local=/courses.bolt.installgentoo.com/
 local=/instant-vpn.com/
@@ -5069,7 +5065,6 @@ local=/eu1-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/eu3-browse.startpage.com/
 local=/proxy1.startpage.com/
-local=/proxy2.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us1-browse.startpage.com/

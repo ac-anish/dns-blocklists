@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765852980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765881600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Dec 2025 02:43 UTC
-; Version: 2025.1216.0243.22
+; Last modified: 16 Dec 2025 10:40 UTC
+; Version: 2025.1216.1040.33
 ; Syntax: RPZ
-; Number of entries: 12560
+; Number of entries: 12550
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2579,8 +2579,6 @@ ad.imblien.com CNAME .
 *.ad.imblien.com CNAME .
 noads.imbuffering.com CNAME .
 *.noads.imbuffering.com CNAME .
-dns1.imkvq.com CNAME .
-*.dns1.imkvq.com CNAME .
 imnotaproxy.com CNAME .
 *.imnotaproxy.com CNAME .
 http-dns.imostatic.com CNAME .
@@ -3971,8 +3969,6 @@ eu3-browse.startpage.com CNAME .
 *.eu3-browse.startpage.com CNAME .
 proxy1.startpage.com CNAME .
 *.proxy1.startpage.com CNAME .
-proxy2.startpage.com CNAME .
-*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -6909,10 +6905,6 @@ freeconnect.link CNAME .
 *.freeconnect.link CNAME .
 guidetoworld.link CNAME .
 *.guidetoworld.link CNAME .
-d1.insec.link CNAME .
-*.d1.insec.link CNAME .
-srv.insec.link CNAME .
-*.srv.insec.link CNAME .
 intertop.link CNAME .
 *.intertop.link CNAME .
 s2.littlebr.link CNAME .
@@ -11163,8 +11155,6 @@ dns.sgp.hicn.site CNAME .
 *.dns.sgp.hicn.site CNAME .
 hiddendragon.site CNAME .
 *.hiddendragon.site CNAME .
-dns.indraarsana.site CNAME .
-*.dns.indraarsana.site CNAME .
 dns.izyserv.site CNAME .
 *.dns.izyserv.site CNAME .
 dns.jcdn.site CNAME .

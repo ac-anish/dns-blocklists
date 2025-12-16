@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Dec 2025 02:43 UTC
-! Version: 2025.1216.0243.13
+! Last modified: 16 Dec 2025 10:40 UTC
+! Version: 2025.1216.1040.25
 ! Syntax: AdBlock
-! Number of entries: 824
+! Number of entries: 812
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -58,7 +58,6 @@
 ||blitz-setup.ahadns.com^
 ||dns.akbxr.com^
 ||dns.albony.xyz^
-||dnsnl.alekberg.net^
 ||httpdns.alicdn.com^
 ||alidns.com^
 ||resolvers-cn.httpdns.aliyuncs.com^
@@ -177,7 +176,6 @@
 ||dns.controld.com^
 ||freedns.controld.com^
 ||doh.cox.net^
-||dohdot.coxlab.net^
 ||crypto.sx^
 ||cryptroute.com^
 ||dns.csa-rz.de^
@@ -194,10 +192,8 @@
 ||httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn^
 ||httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn^
-||dns.decloudus.com^
 ||frank-web.dedyn.io^
 ||deep-henchman-excuse.cfd^
-||doh.defaultroutes.de^
 ||adguard.dekonix.ru^
 ||doh-primary-pool.detoxifypornblocker.com^
 ||dns.dev-umbrellagov.com^
@@ -206,8 +202,6 @@
 ||dns.digitalsize.net^
 ||dingdangnao.com^
 ||doh.disconnect.app^
-||fdns1.dismail.de^
-||fdns2.dismail.de^
 ||dns.google^
 ||dns.pub^
 ||dns.sb^
@@ -288,7 +282,6 @@
 ||chuncheon.dnsovertor.cc^
 ||doh.asia.dnswarden.com^
 ||dns.dnswarden.com^
-||doh.dnswarden.com^
 ||doh.us.dnswarden.com^
 ||dnswebvsn.com^
 ||doh.beauty^
@@ -331,8 +324,6 @@
 ||dns.extrawdw.net^
 ||dns.f4a.fun^
 ||jp1.f7b6h9.tk^
-||pdns.faelix.net^
-||rdns.faelix.net^
 ||dns.faked.org^
 ||dns.falkenthal.org^
 ||dnsvps.familiamv.net^
@@ -522,7 +513,6 @@
 ||mikezhang.xyz^
 ||dns.milkpie.one^
 ||netcup.mismat.ch^
-||httpdns.browser.miui.com^
 ||dnstls.mobik.com^
 ||naganohara-yoimiya.momokko.moe^
 ||morbitzer.de^
@@ -605,7 +595,6 @@
 ||dns.paesa.es^
 ||pashagame456.com^
 ||dns.pccoach.nl^
-||rpz-public-resolver1.rrdns.pch.net^
 ||dns.peb-schmidt.de^
 ||dns.pernika.net^
 ||darya.persiannit.net^
@@ -647,7 +636,6 @@
 ||dns10.quad9.net^
 ||dns11.quad9.net^
 ||dns12.quad9.net^
-||dns13.quad9.net^
 ||dns9.quad9.net^
 ||dns.quickline.ch^
 ||doh.quickline.ch^
@@ -735,7 +723,6 @@
 ||dns.szpadel.ovh^
 ||dns.t-ipnet.de^
 ||dns.t53.de^
-||httpdns.danuoyi.tbcache.com^
 ||tecdrive.site^
 ||dns1.techeasy.org^
 ||dns.technologycage.com^
@@ -831,6 +818,7 @@
 ||zdn.ro^
 ||dns.zemows.industries^
 ||dns.zfsystem.tech^
+||httpdns.zhihu.com^
 ||doh.zknt.org^
 ||zougloub.eu^
 ||ztv.su^

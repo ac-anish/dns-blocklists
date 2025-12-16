@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 02:42 UTC
-# Version: 2025.1216.0242.42
+# Last modified: 16 Dec 2025 10:39 UTC
+# Version: 2025.1216.1039.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3358
+# Number of entries: 3354
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1659,7 +1659,6 @@ local=/ilmxs.com/
 local=/ad.imblien.com/
 local=/noads.imbuffering.com/
 local=/dns.imchristian.de/
-local=/dns1.imkvq.com/
 local=/immadnez7.ru/
 local=/dns.immanuelschaffer.de/
 local=/doh.immerda.ch/
@@ -1672,7 +1671,6 @@ local=/dns2.in-berlin.de/
 local=/incaseineeditoneday.com/
 local=/dns.inclusioproject.com/
 local=/adblock.indianets.net/
-local=/dns.indraarsana.site/
 local=/dns.indybanipal.com/
 local=/dns.inforlogia.com/
 local=/doh.infotechlibrary.com/
@@ -1689,8 +1687,6 @@ local=/ad.innet.id/
 local=/inoainoa.fun/
 local=/inpssh.online/
 local=/qlf-doh.inria.fr/
-local=/d1.insec.link/
-local=/srv.insec.link/
 local=/premiumtier-network.instadart.net/
 local=/dns.interhub.cc/
 local=/intertop.link/

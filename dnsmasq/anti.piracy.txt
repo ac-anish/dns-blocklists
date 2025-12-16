@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 02:37 UTC
-# Version: 2025.1216.0237.05
+# Last modified: 16 Dec 2025 10:34 UTC
+# Version: 2025.1216.1034.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11557
+# Number of entries: 11553
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -4530,7 +4530,6 @@ local=/hdhub4u.pictures/
 local=/hdhub4u.rehab/
 local=/hdhublist.com/
 local=/hdizle.nl/
-local=/hdlivemovies.com/
 local=/hdm.to/
 local=/hdmatch.club/
 local=/hdme.eu/
@@ -4653,7 +4652,6 @@ local=/hdmovie2.irish/
 local=/hdmovie2.is/
 local=/hdmovie2.ist/
 local=/hdmovie2.kim/
-local=/hdmovie2.la/
 local=/hdmovie2.lc/
 local=/hdmovie2.lease/
 local=/hdmovie2.lgbt/
@@ -4692,7 +4690,6 @@ local=/hdmovie2.ooo/
 local=/hdmovie2.organic/
 local=/hdmovie2.page/
 local=/hdmovie2.parts/
-local=/hdmovie2.pe/
 local=/hdmovie2.pet/
 local=/hdmovie2.ph/
 local=/hdmovie2.phd/
@@ -4741,7 +4738,6 @@ local=/hdmovie2.surf/
 local=/hdmovie2.taipei/
 local=/hdmovie2.tax/
 local=/hdmovie2.team/
-local=/hdmovie2.tech/
 local=/hdmovie2.theater/
 local=/hdmovie2.tienda/
 local=/hdmovie2.tips/
@@ -5014,7 +5010,6 @@ local=/ilgeniodellostreaming.de/
 local=/ilgeniodellostreaming.eu/
 local=/ilgeniodellostreaming.fm/
 local=/ilgeniodellostreaming.golf/
-local=/ilgeniodellostreaming.hair/
 local=/ilgeniodellostreaming.info/
 local=/ilgeniodellostreaming.io/
 local=/ilgeniodellostreaming.it/
@@ -9962,6 +9957,7 @@ local=/trackerlist.xyz/
 local=/trackerok.ru/
 local=/trackerpmr.com/
 local=/tk1.trackerservers.com/
+local=/node01.trackerstatus.live/
 local=/trackerturk.biz/
 local=/tracker.trackton.ga/
 local=/traderz.org/
