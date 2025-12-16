@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765877460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765906320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Dec 2025 09:31 UTC
-; Version: 2025.1216.0931.45
+; Last modified: 16 Dec 2025 17:32 UTC
+; Version: 2025.1216.1732.26
 ; Syntax: RPZ
-; Number of entries: 19032
+; Number of entries: 19020
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -267,8 +267,6 @@ shlink-app.ifo.am CNAME .
 *.shlink-app.ifo.am CNAME .
 instagr.am CNAME .
 *.instagr.am CNAME .
-is.am CNAME .
-*.is.am CNAME .
 khudd.am CNAME .
 *.khudd.am CNAME .
 kkstre.am CNAME .
@@ -1017,8 +1015,6 @@ korek.bio CNAME .
 *.korek.bio CNAME .
 la.bio CNAME .
 *.la.bio CNAME .
-lah.bio CNAME .
-*.lah.bio CNAME .
 linkda.bio CNAME .
 *.linkda.bio CNAME .
 linkdel.bio CNAME .
@@ -8307,8 +8303,6 @@ go.lamotte.fr CNAME .
 *.go.lamotte.fr CNAME .
 lemde.fr CNAME .
 *.lemde.fr CNAME .
-create.linnk.fr CNAME .
-*.create.linnk.fr CNAME .
 littly.fr CNAME .
 *.littly.fr CNAME .
 lnks.fr CNAME .
@@ -10245,8 +10239,6 @@ linksplit.io CNAME .
 *.linksplit.io CNAME .
 linksqueeze.io CNAME .
 *.linksqueeze.io CNAME .
-linksy.io CNAME .
-*.linksy.io CNAME .
 littl.io CNAME .
 *.littl.io CNAME .
 lkdin.io CNAME .
@@ -11471,8 +11463,6 @@ jut.li CNAME .
 *.jut.li CNAME .
 k-p.li CNAME .
 *.k-p.li CNAME .
-kuik.li CNAME .
-*.kuik.li CNAME .
 l2l.li CNAME .
 *.l2l.li CNAME .
 lien.li CNAME .
@@ -14283,8 +14273,6 @@ huma.na CNAME .
 *.huma.na CNAME .
 puri.na CNAME .
 *.puri.na CNAME .
-inx.name CNAME .
-*.inx.name CNAME .
 ttt.name CNAME .
 *.ttt.name CNAME .
 piti.nc CNAME .

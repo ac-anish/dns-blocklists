@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 10:40 UTC
-# Version: 2025.1216.1040.33
+# Last modified: 16 Dec 2025 18:46 UTC
+# Version: 2025.1216.1846.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6275
+# Number of entries: 6270
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2725,6 +2725,7 @@ local=/pub.hsuan.ink/
 local=/dnsguard.hte.vn/
 local=/html.cafe/
 local=/www.pleaseinput.html-5.me/
+local=/rt.http3.lol/
 local=/httpdns.pro/
 local=/dns3.hu10us22.win/
 local=/dns.huanmave.cc/
@@ -2969,7 +2970,6 @@ local=/aghome.jcconnell.com/
 local=/dns.jcdn.site/
 local=/jcdns.fun/
 local=/dns.jd.com/
-local=/6767alpharizzmath.jdymqic.shop/
 local=/securly.com.jedimasters.net/
 local=/jellyvpn.com/
 local=/doh.jeroenhd.nl/
@@ -3038,7 +3038,6 @@ local=/qazwsxedcrfvtgbyhnujmikolp.jumpingcrab.com/
 local=/dns.jundev.org/
 local=/ashleykipo.jundy.org/
 local=/dns.jungle-im.ir/
-local=/brighthistory.juniorjobs.ro/
 local=/jupitervpn.ninja/
 local=/dns.jupitrdns.com/
 local=/juproxy.com/
@@ -3245,7 +3244,6 @@ local=/dns.lermer.nl/
 local=/lesuo.top/
 local=/letsvpn.world/
 local=/dns.levonet.sk/
-local=/lewsha.lol/
 local=/br2.lezainski.com/
 local=/dns2.lezainski.com/
 local=/kagurabachilover.lgmnow.com/
@@ -3307,7 +3305,6 @@ local=/doh.phdns2.lonet.org/
 local=/doh.phdns3.lonet.org/
 local=/doh.phdns4.lonet.org/
 local=/doh.phdns5.lonet.org/
-local=/time4schooled.lookids.com/
 local=/lookingglass.site/
 local=/lopana.com/
 local=/deweerd.loseyourip.com/
@@ -3375,7 +3372,6 @@ local=/malanser.ru/
 local=/dns.malhuda.com/
 local=/mallocapp.com/
 local=/mallocprivacy.com/
-local=/rc-1140.malskoy-med.ru/
 local=/dns.mandre.dev/
 local=/doh.manish.ltd/
 local=/adguard.manmademagic.com/
@@ -3391,7 +3387,6 @@ local=/sp.marieblazek.com/
 local=/ag.marschi.de/
 local=/dns.marschi.de/
 local=/test.marss.pro/
-local=/vps.marteskutil.cz/
 local=/ddns.martinmore.online/
 local=/n10.martkotur.ru/
 local=/n50.martkotur.ru/
@@ -3433,7 +3428,6 @@ local=/douglas.mebrak.fr/
 local=/adguard.meddy94.de/
 local=/mediahint.com/
 local=/mediavpn.com/
-local=/doctorphd.medscience.cl/
 local=/dns.meeo.win/
 local=/doh.meetz.pw/
 local=/redsea.meetz.pw/
@@ -4491,6 +4485,7 @@ local=/adk.qcloud.work/
 local=/qingmo.vip/
 local=/doh.qis.io/
 local=/dns.qkc.fr/
+local=/qnid.cc/
 local=/dot.qooqle.date/
 local=/dns.qpt.one/
 local=/dns2.qpt.one/

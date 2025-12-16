@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765881600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765910760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Dec 2025 10:40 UTC
-; Version: 2025.1216.1040.33
+; Last modified: 16 Dec 2025 18:46 UTC
+; Version: 2025.1216.1846.34
 ; Syntax: RPZ
-; Number of entries: 12550
+; Number of entries: 12540
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -563,6 +563,8 @@ proxy.cc CNAME .
 *.proxy.cc CNAME .
 proxysite.cc CNAME .
 *.proxysite.cc CNAME .
+qnid.cc CNAME .
+*.qnid.cc CNAME .
 dns.redroot.cc CNAME .
 *.dns.redroot.cc CNAME .
 dns.seaotter.cc CNAME .
@@ -703,8 +705,6 @@ orxwaicjss.laboratoriosdavis.cl CNAME .
 *.orxwaicjss.laboratoriosdavis.cl CNAME .
 btg.ludopop.cl CNAME .
 *.btg.ludopop.cl CNAME .
-doctorphd.medscience.cl CNAME .
-*.doctorphd.medscience.cl CNAME .
 dns.michelo.cl CNAME .
 *.dns.michelo.cl CNAME .
 katherine-dns.newcore.cl CNAME .
@@ -2903,8 +2903,6 @@ localtonet.com CNAME .
 *.localtonet.com CNAME .
 locaproxy.com CNAME .
 *.locaproxy.com CNAME .
-time4schooled.lookids.com CNAME .
-*.time4schooled.lookids.com CNAME .
 lopana.com CNAME .
 *.lopana.com CNAME .
 deweerd.loseyourip.com CNAME .
@@ -4793,8 +4791,6 @@ srv5.jiripocta.cz CNAME .
 *.srv5.jiripocta.cz CNAME .
 dns.kukal.cz CNAME .
 *.dns.kukal.cz CNAME .
-vps.marteskutil.cz CNAME .
-*.vps.marteskutil.cz CNAME .
 odvr.nic.cz CNAME .
 *.odvr.nic.cz CNAME .
 adguard.rabmoor.cz CNAME .
@@ -6945,14 +6941,14 @@ crazyfastrace.lol CNAME .
 *.crazyfastrace.lol CNAME .
 dns.green-ping.lol CNAME .
 *.dns.green-ping.lol CNAME .
+rt.http3.lol CNAME .
+*.rt.http3.lol CNAME .
 ilysk.lol CNAME .
 *.ilysk.lol CNAME .
 iproxy.lol CNAME .
 *.iproxy.lol CNAME .
 adguard.konnkors.lol CNAME .
 *.adguard.konnkors.lol CNAME .
-lewsha.lol CNAME .
-*.lewsha.lol CNAME .
 void.mcfly.lol CNAME .
 *.void.mcfly.lol CNAME .
 myproxy.lol CNAME .
@@ -10729,8 +10725,6 @@ dns.cloud.ionutl.ro CNAME .
 *.dns.cloud.ionutl.ro CNAME .
 dns.itdata.ro CNAME .
 *.dns.itdata.ro CNAME .
-brighthistory.juniorjobs.ro CNAME .
-*.brighthistory.juniorjobs.ro CNAME .
 addns1.m-it.ro CNAME .
 *.addns1.m-it.ro CNAME .
 dns1.slowb.ro CNAME .
@@ -10903,8 +10897,6 @@ landerbrauver.ru CNAME .
 *.landerbrauver.ru CNAME .
 malanser.ru CNAME .
 *.malanser.ru CNAME .
-rc-1140.malskoy-med.ru CNAME .
-*.rc-1140.malskoy-med.ru CNAME .
 running.marchd.ru CNAME .
 *.running.marchd.ru CNAME .
 n10.martkotur.ru CNAME .
@@ -11105,8 +11097,6 @@ spongebob.cxhzegpg.shop CNAME .
 *.spongebob.cxhzegpg.shop CNAME .
 hfgx.shop CNAME .
 *.hfgx.shop CNAME .
-6767alpharizzmath.jdymqic.shop CNAME .
-*.6767alpharizzmath.jdymqic.shop CNAME .
 osqcsmm.shop CNAME .
 *.osqcsmm.shop CNAME .
 paradise-human.shop CNAME .

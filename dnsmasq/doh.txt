@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 10:39 UTC
-# Version: 2025.1216.1039.56
+# Last modified: 16 Dec 2025 18:45 UTC
+# Version: 2025.1216.1845.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3354
+# Number of entries: 3352
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1934,7 +1934,6 @@ local=/dns.lepilleur.com/
 local=/dns.lermer.nl/
 local=/lesuo.top/
 local=/dns.levonet.sk/
-local=/lewsha.lol/
 local=/br2.lezainski.com/
 local=/dns2.lezainski.com/
 local=/dns.lgprk.com/
@@ -2036,7 +2035,6 @@ local=/home.marcrnt.de/
 local=/ag.marschi.de/
 local=/dns.marschi.de/
 local=/test.marss.pro/
-local=/vps.marteskutil.cz/
 local=/ddns.martinmore.online/
 local=/n10.martkotur.ru/
 local=/n50.martkotur.ru/

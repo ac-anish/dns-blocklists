@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 09:31 UTC
-# Version: 2025.1216.0931.45
+# Last modified: 16 Dec 2025 17:32 UTC
+# Version: 2025.1216.1732.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9516
+# Number of entries: 9510
 #
 local=/0.gp/
 local=/00m.in/
@@ -3523,7 +3523,6 @@ local=/invitationlinks.com/
 local=/invpy.com/
 local=/invy.in/
 local=/inx.lv/
-local=/inx.name/
 local=/iny.me/
 local=/biolink.io.vn/
 local=/bom.io.vn/
@@ -3555,7 +3554,6 @@ local=/ira.mx/
 local=/irbaz.ir/
 local=/irng.ca/
 local=/irohi.com/
-local=/is.am/
 local=/is.gd/
 local=/is-gd.link/
 local=/is3.co/
@@ -3924,7 +3922,6 @@ local=/kua.lat/
 local=/kuc.cz/
 local=/kuhlinks.de/
 local=/kuic.io/
-local=/kuik.li/
 local=/kuiklink.com/
 local=/kuku.lu/
 local=/kulink.me/
@@ -3979,7 +3976,6 @@ local=/la.bio/
 local=/labb.in/
 local=/labs.to/
 local=/laco.st/
-local=/lah.bio/
 local=/lailailah.com/
 local=/lam.bo/
 local=/lammariom.dev/
@@ -4371,7 +4367,6 @@ local=/linksubmit.net/
 local=/linksumo.com/
 local=/linksvid.com/
 local=/linksvip.one/
-local=/linksy.io/
 local=/linkt.ink/
 local=/linktexas.info/
 local=/linktgd.com/
@@ -4407,7 +4402,6 @@ local=/linkz.tn/
 local=/linkzap.in/
 local=/linkze.me/
 local=/linkzone.live/
-local=/create.linnk.fr/
 local=/linply.com/
 local=/linq.ist/
 local=/linqer.me/

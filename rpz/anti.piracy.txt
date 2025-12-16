@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765881240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765910400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Dec 2025 10:34 UTC
-; Version: 2025.1216.1034.52
+; Last modified: 16 Dec 2025 18:40 UTC
+; Version: 2025.1216.1840.38
 ; Syntax: RPZ
-; Number of entries: 23106
+; Number of entries: 23094
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -9206,8 +9206,6 @@ kinogo.film CNAME .
 *.kinogo.film CNAME .
 kinokrad.film CNAME .
 *.kinokrad.film CNAME .
-kinox.film CNAME .
-*.kinox.film CNAME .
 zalukaj.film CNAME .
 *.zalukaj.film CNAME .
 hdmovie2.finance CNAME .
@@ -10368,8 +10366,6 @@ iphonebooks.info CNAME .
 *.iphonebooks.info CNAME .
 itoma.info CNAME .
 *.itoma.info CNAME .
-kickassunblock.info CNAME .
-*.kickassunblock.info CNAME .
 kisscartoon.info CNAME .
 *.kisscartoon.info CNAME .
 lapache.info CNAME .
@@ -11076,8 +11072,6 @@ iphonecountry.it CNAME .
 *.iphonecountry.it CNAME .
 istole.it CNAME .
 *.istole.it CNAME .
-isuggeriti.it CNAME .
-*.isuggeriti.it CNAME .
 kinox.it CNAME .
 *.kinox.it CNAME .
 live-sport-tv.it CNAME .
@@ -12516,8 +12510,6 @@ ilgeniodellostreaming.moe CNAME .
 *.ilgeniodellostreaming.moe CNAME .
 tracker.iochimari.moe CNAME .
 *.tracker.iochimari.moe CNAME .
-tracker.iro.moe CNAME .
-*.tracker.iro.moe CNAME .
 leet-tracker.moe CNAME .
 *.leet-tracker.moe CNAME .
 tracker.logirl.moe CNAME .
@@ -14840,8 +14832,6 @@ cineblog01.now CNAME .
 *.cineblog01.now CNAME .
 hdmovie2.now CNAME .
 *.hdmovie2.now CNAME .
-kinox.now CNAME .
-*.kinox.now CNAME .
 megakino.now CNAME .
 *.megakino.now CNAME .
 vegamovies.now CNAME .
@@ -19648,8 +19638,6 @@ flixtor.su CNAME .
 *.flixtor.su CNAME .
 gnula.su CNAME .
 *.gnula.su CNAME .
-kemono.su CNAME .
-*.kemono.su CNAME .
 kinox.su CNAME .
 *.kinox.su CNAME .
 kmsautoplus.su CNAME .

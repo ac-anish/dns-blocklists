@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 10:34 UTC
-# Version: 2025.1216.1034.52
+# Last modified: 16 Dec 2025 18:40 UTC
+# Version: 2025.1216.1840.38
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11553
+# Number of entries: 11547
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -5151,7 +5151,6 @@ local=/torrent.iq24.pl/
 local=/upload.iq24.pl/
 local=/iraniantorrents.com/
 local=/tracker.iriseden.fr/
-local=/tracker.iro.moe/
 local=/ironanime.live/
 local=/irwarez.com/
 local=/isitdownyet.com/
@@ -5179,7 +5178,6 @@ local=/istrahome.ru/
 local=/istream-it.com/
 local=/istream2watch.com/
 local=/isubsmovies.com/
-local=/isuggeriti.it/
 local=/ita101.online/
 local=/ita101.ru/
 local=/italia-film.cc/
@@ -5361,7 +5359,6 @@ local=/kedimanga.com/
 local=/tracker.keepfrds.com/
 local=/keepvid.online/
 local=/keke.re/
-local=/kemono.su/
 local=/data.kenecolor.com/
 local=/keohosting.net/
 local=/kevinsport.top/
@@ -5399,7 +5396,6 @@ local=/kickasstorrents.pw/
 local=/kickasstorrents.to/
 local=/open.kickasstracker.com/
 local=/kickassunblock.com/
-local=/kickassunblock.info/
 local=/kickme.to/
 local=/tracker.0day.kiev.ua/
 local=/max2wwe.kilu.de/
@@ -5516,7 +5512,6 @@ local=/kinox.direct/
 local=/kinox.dog/
 local=/kinox.express/
 local=/kinox.farm/
-local=/kinox.film/
 local=/kinox.foo/
 local=/kinox.food/
 local=/kinox.fun/
@@ -5537,7 +5532,6 @@ local=/kinox.mobi/
 local=/kinox.my/
 local=/kinox.navy/
 local=/kinox.news/
-local=/kinox.now/
 local=/kinox.parts/
 local=/kinox.prof/
 local=/kinox.ru/
