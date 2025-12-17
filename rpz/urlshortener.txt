@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765978320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765992660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Dec 2025 13:32 UTC
-; Version: 2025.1217.1332.03
+; Last modified: 17 Dec 2025 17:31 UTC
+; Version: 2025.1217.1731.59
 ; Syntax: RPZ
-; Number of entries: 18976
+; Number of entries: 18964
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1733,8 +1733,6 @@ topurl.cc CNAME .
 *.topurl.cc CNAME .
 toui.cc CNAME .
 *.toui.cc CNAME .
-tovgo.cc CNAME .
-*.tovgo.cc CNAME .
 twurl.cc CNAME .
 *.twurl.cc CNAME .
 ub0.cc CNAME .
@@ -11531,8 +11529,6 @@ tnv.li CNAME .
 *.tnv.li CNAME .
 tog.li CNAME .
 *.tog.li CNAME .
-u-rl.li CNAME .
-*.u-rl.li CNAME .
 unt.li CNAME .
 *.unt.li CNAME .
 urltiger.li CNAME .
@@ -12329,8 +12325,6 @@ thedave.link CNAME .
 *.thedave.link CNAME .
 ti-ny.link CNAME .
 *.ti-ny.link CNAME .
-tidyur.link CNAME .
-*.tidyur.link CNAME .
 tidyurl.link CNAME .
 *.tidyurl.link CNAME .
 timnao.link CNAME .
@@ -13773,8 +13767,6 @@ taggpro.me CNAME .
 *.taggpro.me CNAME .
 taklo.me CNAME .
 *.taklo.me CNAME .
-teleko.me CNAME .
-*.teleko.me CNAME .
 tharp.me CNAME .
 *.tharp.me CNAME .
 thatis.me CNAME .
@@ -16047,8 +16039,6 @@ titly.pro CNAME .
 *.titly.pro CNAME .
 tnyurl.pro CNAME .
 *.tnyurl.pro CNAME .
-txtrf.pro CNAME .
-*.txtrf.pro CNAME .
 u99.pro CNAME .
 *.u99.pro CNAME .
 url2go.pro CNAME .
@@ -17127,8 +17117,6 @@ ed.tc CNAME .
 *.ed.tc CNAME .
 ok.tc CNAME .
 *.ok.tc CNAME .
-tls.tc CNAME .
-*.tls.tc CNAME .
 vi.tc CNAME .
 *.vi.tc CNAME .
 ws.tc CNAME .

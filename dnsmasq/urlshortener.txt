@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 13:32 UTC
-# Version: 2025.1217.1332.03
+# Last modified: 17 Dec 2025 17:31 UTC
+# Version: 2025.1217.1731.59
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9488
+# Number of entries: 9482
 #
 local=/0.gp/
 local=/00m.in/
@@ -7617,7 +7617,6 @@ local=/tek.io/
 local=/teknut.com/
 local=/telega.io/
 local=/telegramviral.com/
-local=/teleko.me/
 local=/developer.telesign.com/
 local=/tellurl.com/
 local=/tempfind.app/
@@ -7727,7 +7726,6 @@ local=/tick.news/
 local=/ticketsecuredph.com/
 local=/tidd.ly/
 local=/tiddly.io/
-local=/tidyur.link/
 local=/tidyurl.link/
 local=/tiger388.life/
 local=/tiger77.monster/
@@ -7865,7 +7863,6 @@ local=/tlmv.ca/
 local=/tlot.cc/
 local=/tlrd.pl/
 local=/tlrk.it/
-local=/tls.tc/
 local=/tls.yt/
 local=/tlsn.io/
 local=/tlsurl.com/
@@ -7954,7 +7951,6 @@ local=/toui.cc/
 local=/tourefly.com/
 local=/tourl.in/
 local=/tov1.net/
-local=/tovgo.cc/
 local=/tox.cx/
 local=/toyota.tw/
 local=/toyota.us/
@@ -8144,7 +8140,6 @@ local=/txdl.top/
 local=/txeduofficial.com/
 local=/txpl.us/
 local=/txtpass.com/
-local=/txtrf.pro/
 local=/txul.cn/
 local=/ty.gy/
 local=/tyasd.com/
@@ -8161,7 +8156,6 @@ local=/u.nu/
 local=/u.to/
 local=/u-link.asia/
 local=/link.u-pov.ru/
-local=/u-rl.li/
 local=/u0c.net/
 local=/u2.to/
 local=/u2l.io/

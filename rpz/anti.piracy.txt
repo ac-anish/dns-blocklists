@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765982040 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765996620 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Dec 2025 14:34 UTC
-; Version: 2025.1217.1434.06
+; Last modified: 17 Dec 2025 18:37 UTC
+; Version: 2025.1217.1837.08
 ; Syntax: RPZ
-; Number of entries: 23062
+; Number of entries: 23046
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7196,8 +7196,6 @@ thepirate-bayproxy.com CNAME .
 *.thepirate-bayproxy.com CNAME .
 thepiratebay-proxy.com CNAME .
 *.thepiratebay-proxy.com CNAME .
-thepiratebay1.com CNAME .
-*.thepiratebay1.com CNAME .
 thepiratebaya.com CNAME .
 *.thepiratebaya.com CNAME .
 thepiratebays.com CNAME .
@@ -7396,8 +7394,6 @@ torrentpond.com CNAME .
 *.torrentpond.com CNAME .
 torrentportal.com CNAME .
 *.torrentportal.com CNAME .
-torrentprivacy.com CNAME .
-*.torrentprivacy.com CNAME .
 torrentproject.com CNAME .
 *.torrentproject.com CNAME .
 torrentproject2.com CNAME .
@@ -7484,8 +7480,6 @@ tpbproxypirate.com CNAME .
 *.tpbproxypirate.com CNAME .
 trackerpmr.com CNAME .
 *.trackerpmr.com CNAME .
-tk1.trackerservers.com CNAME .
-*.tk1.trackerservers.com CNAME .
 trainsaw.com CNAME .
 *.trainsaw.com CNAME .
 tranceroute.com CNAME .
@@ -8314,8 +8308,6 @@ scr.cr CNAME .
 *.scr.cr CNAME .
 solarmovie.cr CNAME .
 *.solarmovie.cr CNAME .
-thepiratebay.cr CNAME .
-*.thepiratebay.cr CNAME .
 vegamovies.cr CNAME .
 *.vegamovies.cr CNAME .
 bollyflix.credit CNAME .
@@ -9990,8 +9982,6 @@ streamingcommunity.icu CNAME .
 *.streamingcommunity.icu CNAME .
 tantifilm.icu CNAME .
 *.tantifilm.icu CNAME .
-thepiratebay.icu CNAME .
-*.thepiratebay.icu CNAME .
 unblockproject.icu CNAME .
 *.unblockproject.icu CNAME .
 vegamovies.icu CNAME .
@@ -14306,8 +14296,6 @@ themediasite.net CNAME .
 *.themediasite.net CNAME .
 themicrotech.net CNAME .
 *.themicrotech.net CNAME .
-themoviebay.net CNAME .
-*.themoviebay.net CNAME .
 mtube.thenetheads.net CNAME .
 *.mtube.thenetheads.net CNAME .
 tracker.theoks.net CNAME .
@@ -14390,8 +14378,6 @@ torrentmac.net CNAME .
 *.torrentmac.net CNAME .
 torrentproject2.net CNAME .
 *.torrentproject2.net CNAME .
-torrentreactor.net CNAME .
-*.torrentreactor.net CNAME .
 torrents-game.net CNAME .
 *.torrents-game.net CNAME .
 torrents-soft.net CNAME .
@@ -20444,8 +20430,6 @@ torrends.to CNAME .
 *.torrends.to CNAME .
 torrent.to CNAME .
 *.torrent.to CNAME .
-torrent-downloads.to CNAME .
-*.torrent-downloads.to CNAME .
 torrent411.to CNAME .
 *.torrent411.to CNAME .
 torrent9.to CNAME .

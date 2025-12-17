@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765982340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765996980 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Dec 2025 14:39 UTC
-; Version: 2025.1217.1439.54
+; Last modified: 17 Dec 2025 18:43 UTC
+; Version: 2025.1217.1843.07
 ; Syntax: RPZ
-; Number of entries: 12518
+; Number of entries: 12538
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -35,6 +35,12 @@ dns.glsoft.ai CNAME .
 *.dns.glsoft.ai CNAME .
 nodepay.ai CNAME .
 *.nodepay.ai CNAME .
+school.learning.coding.easy.ixl.rinet.ai CNAME .
+*.school.learning.coding.easy.ixl.rinet.ai CNAME .
+lolgod1.rinet.ai CNAME .
+*.lolgod1.rinet.ai CNAME .
+lolgod109.rinet.ai CNAME .
+*.lolgod109.rinet.ai CNAME .
 onion.am CNAME .
 *.onion.am CNAME .
 zealginjoka.periodico.am CNAME .
@@ -415,6 +421,8 @@ adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
 dns.karanovic.ca CNAME .
 *.dns.karanovic.ca CNAME .
+education.mojoteeth.ca CNAME .
+*.education.mojoteeth.ca CNAME .
 pipod.mypics.ca CNAME .
 *.pipod.mypics.ca CNAME .
 myproxy.ca CNAME .
@@ -723,12 +731,12 @@ pteryla.solicituddemateriales.cl CNAME .
 *.pteryla.solicituddemateriales.cl CNAME .
 math.swift.cl CNAME .
 *.math.swift.cl CNAME .
-owens-chemistry-tutor-info.topcargoteam.cl CNAME .
-*.owens-chemistry-tutor-info.topcargoteam.cl CNAME .
+newdropper.swift.cl CNAME .
+*.newdropper.swift.cl CNAME .
+sharks.swift.cl CNAME .
+*.sharks.swift.cl CNAME .
 diddyblud-6767-61-41-bentennis.transporteswys.cl CNAME .
 *.diddyblud-6767-61-41-bentennis.transporteswys.cl CNAME .
-andrewnotgay.trustmi.cl CNAME .
-*.andrewnotgay.trustmi.cl CNAME .
 vinnyisbunslol.yao.cl CNAME .
 *.vinnyisbunslol.yao.cl CNAME .
 baconmania.click CNAME .
@@ -1695,6 +1703,8 @@ adguard.cnbeining.com CNAME .
 *.adguard.cnbeining.com CNAME .
 football.coaching2lead.com CNAME .
 *.football.coaching2lead.com CNAME .
+leglamp.coaching2lead.com CNAME .
+*.leglamp.coaching2lead.com CNAME .
 ag.coco-tama-hoiku.com CNAME .
 *.ag.coco-tama-hoiku.com CNAME .
 cocoombr.com CNAME .
@@ -2029,6 +2039,8 @@ en-proxy.com CNAME .
 *.en-proxy.com CNAME .
 endente.com CNAME .
 *.endente.com CNAME .
+schoology.engalsaati.com CNAME .
+*.schoology.engalsaati.com CNAME .
 dnssec.dns.enginyring.com CNAME .
 *.dnssec.dns.enginyring.com CNAME .
 dns01.enginyring.com CNAME .
@@ -2937,6 +2949,8 @@ adguard.manmademagic.com CNAME .
 *.adguard.manmademagic.com CNAME .
 sp.marieblazek.com CNAME .
 *.sp.marieblazek.com CNAME .
+learning.edu.markscully.com CNAME .
+*.learning.edu.markscully.com CNAME .
 doh.maskab.com CNAME .
 *.doh.maskab.com CNAME .
 maskedip.com CNAME .
@@ -4173,8 +4187,6 @@ top10vpn.com CNAME .
 *.top10vpn.com CNAME .
 topvpnguides.com CNAME .
 *.topvpnguides.com CNAME .
-torrentprivacy.com CNAME .
-*.torrentprivacy.com CNAME .
 torsona.com CNAME .
 *.torsona.com CNAME .
 torvpn.com CNAME .
@@ -4219,6 +4231,8 @@ tubeprox.com CNAME .
 *.tubeprox.com CNAME .
 tunnelbear.com CNAME .
 *.tunnelbear.com CNAME .
+justdoit.tuquy.com CNAME .
+*.justdoit.tuquy.com CNAME .
 turbossh.com CNAME .
 *.turbossh.com CNAME .
 turbovpn.com CNAME .
@@ -4243,8 +4257,6 @@ u8sj3.com CNAME .
 *.u8sj3.com CNAME .
 uas2.com CNAME .
 *.uas2.com CNAME .
-studytimer.ufodns.com CNAME .
-*.studytimer.ufodns.com CNAME .
 vless-service.ufodns.com CNAME .
 *.vless-service.ufodns.com CNAME .
 ufreevpn.com CNAME .
@@ -4271,8 +4283,6 @@ unblock-us.com CNAME .
 *.unblock-us.com CNAME .
 unblock-websites.com CNAME .
 *.unblock-websites.com CNAME .
-unblock123.com CNAME .
-*.unblock123.com CNAME .
 unblock2d.com CNAME .
 *.unblock2d.com CNAME .
 unblock4you.com CNAME .
@@ -5869,6 +5879,8 @@ dns.rbn.gr CNAME .
 *.dns.rbn.gr CNAME .
 unblocked.green CNAME .
 *.unblocked.green CNAME .
+proxy.nextclassjapan.group CNAME .
+*.proxy.nextclassjapan.group CNAME .
 mail.data.haus CNAME .
 *.mail.data.haus CNAME .
 ns.data.haus CNAME .
@@ -6109,6 +6121,8 @@ dot.anir0y.in CNAME .
 *.dot.anir0y.in CNAME .
 rootdns.anir0y.in CNAME .
 *.rootdns.anir0y.in CNAME .
+mabelnice.anjumanallana.in CNAME .
+*.mabelnice.anjumanallana.in CNAME .
 xz.anjumanallana.in CNAME .
 *.xz.anjumanallana.in CNAME .
 next.atomix.in CNAME .
@@ -9305,6 +9319,8 @@ airdns.org CNAME .
 *.airdns.org CNAME .
 airvpn.org CNAME .
 *.airvpn.org CNAME .
+gaagleclassroom.tci.iready.school.allisons.org CNAME .
+*.gaagleclassroom.tci.iready.school.allisons.org CNAME .
 amandahugnkiss.org CNAME .
 *.amandahugnkiss.org CNAME .
 americanvpn.org CNAME .
@@ -9763,6 +9779,8 @@ daemonhunt.no-ip.org CNAME .
 *.daemonhunt.no-ip.org CNAME .
 adguard.nocnik.org CNAME .
 *.adguard.nocnik.org CNAME .
+imnotsoocoolsostop.nokedli.org CNAME .
+*.imnotsoocoolsostop.nokedli.org CNAME .
 bright-storm-767.nstabiology.org CNAME .
 *.bright-storm-767.nstabiology.org CNAME .
 deep-lake-819.nstabiology.org CNAME .
@@ -10683,6 +10701,8 @@ unblocked2.red CNAME .
 *.unblocked2.red CNAME .
 onion.rip CNAME .
 *.onion.rip CNAME .
+chronos.24-7.ro CNAME .
+*.chronos.24-7.ro CNAME .
 learnaboutcareers.academiaderock.ro CNAME .
 *.learnaboutcareers.academiaderock.ro CNAME .
 asdfghjkloiuytrewqzx.dinprima.ro CNAME .
