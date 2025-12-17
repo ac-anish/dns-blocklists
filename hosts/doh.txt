@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 14:39 UTC
-# Version: 2025.1217.1439.20
+# Last modified: 17 Dec 2025 22:38 UTC
+# Version: 2025.1217.2238.40
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3823
+# Number of entries: 3822
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3564,7 +3564,6 @@
 0.0.0.0 dns.veikus.com
 0.0.0.0 dns.vemo.cc
 0.0.0.0 securedns.vendorvista.xyz
-0.0.0.0 venum.space
 0.0.0.0 dns.vietdns.vn
 0.0.0.0 kids.vietdns.vn
 0.0.0.0 tls.vietguards.cloud

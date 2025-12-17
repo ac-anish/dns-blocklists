@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 17:31 UTC
-# Version: 2025.1217.1731.59
+# Last modified: 17 Dec 2025 21:32 UTC
+# Version: 2025.1217.2132.02
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9482
+# Number of entries: 9473
 #
 local=/0.gp/
 local=/00m.in/
@@ -8229,7 +8229,6 @@ local=/underswo.de/
 local=/undrarmr.co/
 local=/unelma.io/
 local=/unesa.me/
-local=/unesa.xyz/
 local=/uni.cf/
 local=/uni.ms/
 local=/go.unibw.de/
@@ -8292,7 +8291,6 @@ local=/urjasi.com/
 local=/url.ba/
 local=/url.cn/
 local=/url.cy/
-local=/url.eus/
 local=/url.gratis/
 local=/url.ie/
 local=/url.kr/
@@ -8429,7 +8427,6 @@ local=/urlme.cc/
 local=/urlme.us/
 local=/urlmkr.net/
 local=/urlmy.link/
-local=/urlner.com/
 local=/urlno.com/
 local=/urlnova.com/
 local=/urlo.in/
@@ -8492,7 +8489,6 @@ local=/urlsnapy.com/
 local=/urlsnipper.com/
 local=/urlsrt.eu/
 local=/urlsshares.cc/
-local=/urlstox.com/
 local=/urltamil.in/
 local=/urlth.me/
 local=/urltiger.com/
@@ -8526,7 +8522,6 @@ local=/urlz.com/
 local=/urlz.fr/
 local=/urlz.li/
 local=/urlz.my/
-local=/urlzam.com/
 local=/urlzen.com/
 local=/urlzip.io/
 local=/urlzo.org/
@@ -8898,7 +8893,6 @@ local=/wal.ee/
 local=/walk.sc/
 local=/walkjc.org/
 local=/wall.sh/
-local=/wallets.my/
 local=/walmart-to.com/
 local=/wangzhanzhubo.com/
 local=/wapo.st/
@@ -8959,12 +8953,10 @@ local=/websmart.link/
 local=/biolink.webtena.com/
 local=/webtoolmaster.com/
 local=/webtte.com/
-local=/webyank4d.live/
 local=/webz.cc/
 local=/wec.li/
 local=/wed.li/
 local=/wedew.link/
-local=/wee.bz/
 local=/wee.so/
 local=/wee.wtf/
 local=/weelink.io/
@@ -8989,7 +8981,6 @@ local=/wfly.co/
 local=/wfryer.me/
 local=/whatconverts.com/
 local=/whatel.se/
-local=/whatsappconsulta.com/
 local=/whbk.io/
 local=/whcs.law/
 local=/wheel.to/

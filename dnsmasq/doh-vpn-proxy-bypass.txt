@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 18:43 UTC
-# Version: 2025.1217.1843.07
+# Last modified: 17 Dec 2025 22:39 UTC
+# Version: 2025.1217.2239.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6269
+# Number of entries: 6254
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -5680,34 +5680,22 @@ local=/unrestrictor.org/
 local=/resolver.unstoppable.io/
 local=/untraceable.us/
 local=/untracer.com/
-local=/unvpn.org/
 local=/dns.unx.io/
 local=/yescool.upcg.xyz/
 local=/updatedproxies.com/
 local=/dns.uplenk.com/
 local=/uproxy.asia/
-local=/uproxy.blue/
-local=/uproxy.casa/
-local=/uproxy.cc/
 local=/uproxy.club/
 local=/uproxy.dev/
 local=/uproxy.help/
-local=/uproxy.how/
 local=/uproxy.io/
 local=/uproxy.lol/
-local=/uproxy.me/
 local=/uproxy.online/
-local=/uproxy.page/
-local=/uproxy.site/
-local=/uproxy.soy/
 local=/uproxy.top/
 local=/uproxy.vip/
-local=/uproxy.xyz/
 local=/uproxy2.biz/
-local=/uproxy2.com/
 local=/uproxy2.info/
 local=/uproxy2.net/
-local=/uproxy2.org/
 local=/uproxy2.xyz/
 local=/first-star-612.upsidedowntext.top/
 local=/wild-fire.upsidedowntext.top/
@@ -5761,7 +5749,6 @@ local=/adguard.vegann.space/
 local=/dns.veikus.com/
 local=/dns.vemo.cc/
 local=/securedns.vendorvista.xyz/
-local=/venum.space/
 local=/algebra-help-and-lessons.vercel.app/
 local=/art-class-omg.vercel.app/
 local=/asdsasd.vercel.app/
@@ -5861,7 +5848,6 @@ local=/vpndog.com/
 local=/proxy.vpner.com/
 local=/vpnfan.com/
 local=/vpnfree.info/
-local=/vpngame.com/
 local=/vpngate.net/
 local=/vpngate2.jp/
 local=/vpngorilla.com/
@@ -5886,7 +5872,6 @@ local=/vpnmy.ru/
 local=/vpnneo.com/
 local=/vpnoneclick.com/
 local=/vpnonelove.ru/
-local=/vpnonline.com/
 local=/vpnoverview.com/
 local=/vpnpie.org/
 local=/vpnplus.to/

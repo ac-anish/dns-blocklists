@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765996980 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766011140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Dec 2025 18:43 UTC
-; Version: 2025.1217.1843.07
+; Last modified: 17 Dec 2025 22:39 UTC
+; Version: 2025.1217.2239.14
 ; Syntax: RPZ
-; Number of entries: 12538
+; Number of entries: 12508
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -343,8 +343,6 @@ uproxy2.biz CNAME .
 *.uproxy2.biz CNAME .
 unblocked.black CNAME .
 *.unblocked.black CNAME .
-uproxy.blue CNAME .
-*.uproxy.blue CNAME .
 sail.msg.boats CNAME .
 *.sail.msg.boats CNAME .
 dns.7sec.com.br CNAME .
@@ -461,8 +459,6 @@ onion.casa CNAME .
 *.onion.casa CNAME .
 sriedmueadguard.casa CNAME .
 *.sriedmueadguard.casa CNAME .
-uproxy.casa CNAME .
-*.uproxy.casa CNAME .
 dns.native.cat CNAME .
 *.dns.native.cat CNAME .
 yui.cat CNAME .
@@ -593,8 +589,6 @@ topvpn.cc CNAME .
 *.topvpn.cc CNAME .
 unblocked2.cc CNAME .
 *.unblocked2.cc CNAME .
-uproxy.cc CNAME .
-*.uproxy.cc CNAME .
 dns.vemo.cc CNAME .
 *.dns.vemo.cc CNAME .
 dns.vlo.cc CNAME .
@@ -4367,8 +4361,6 @@ updatedproxies.com CNAME .
 *.updatedproxies.com CNAME .
 dns.uplenk.com CNAME .
 *.dns.uplenk.com CNAME .
-uproxy2.com CNAME .
-*.uproxy2.com CNAME .
 ur-browser.com CNAME .
 *.ur-browser.com CNAME .
 urban-vpn.com CNAME .
@@ -4471,8 +4463,6 @@ proxy.vpner.com CNAME .
 *.proxy.vpner.com CNAME .
 vpnfan.com CNAME .
 *.vpnfan.com CNAME .
-vpngame.com CNAME .
-*.vpngame.com CNAME .
 vpngorilla.com CNAME .
 *.vpngorilla.com CNAME .
 vpnhack.com CNAME .
@@ -4501,8 +4491,6 @@ vpnneo.com CNAME .
 *.vpnneo.com CNAME .
 vpnoneclick.com CNAME .
 *.vpnoneclick.com CNAME .
-vpnonline.com CNAME .
-*.vpnonline.com CNAME .
 vpnoverview.com CNAME .
 *.vpnoverview.com CNAME .
 vpnprivacy.com CNAME .
@@ -5923,8 +5911,6 @@ unb.how CNAME .
 *.unb.how CNAME .
 unblocked.how CNAME .
 *.unblocked.how CNAME .
-uproxy.how CNAME .
-*.uproxy.how CNAME .
 ivica-vulas.from.hr CNAME .
 *.ivica-vulas.from.hr CNAME .
 dns.invent.hr CNAME .
@@ -7307,8 +7293,6 @@ unblocked4.me CNAME .
 *.unblocked4.me CNAME .
 unblockproxy.me CNAME .
 *.unblockproxy.me CNAME .
-uproxy.me CNAME .
-*.uproxy.me CNAME .
 uvpn.me CNAME .
 *.uvpn.me CNAME .
 dns2.vinc.me CNAME .
@@ -10031,10 +10015,6 @@ unrestricter.org CNAME .
 *.unrestricter.org CNAME .
 unrestrictor.org CNAME .
 *.unrestrictor.org CNAME .
-unvpn.org CNAME .
-*.unvpn.org CNAME .
-uproxy2.org CNAME .
-*.uproxy2.org CNAME .
 url10.org CNAME .
 *.url10.org CNAME .
 us-proxy.org CNAME .
@@ -10153,8 +10133,6 @@ proxysite.page CNAME .
 *.proxysite.page CNAME .
 theproxy.page CNAME .
 *.theproxy.page CNAME .
-uproxy.page CNAME .
-*.uproxy.page CNAME .
 unblocked2.party CNAME .
 *.unblocked2.party CNAME .
 doh.kel.pe CNAME .
@@ -11189,8 +11167,6 @@ top-proxy.site CNAME .
 *.top-proxy.site CNAME .
 unblock2.site CNAME .
 *.unblock2.site CNAME .
-uproxy.site CNAME .
-*.uproxy.site CNAME .
 videoproxy.site CNAME .
 *.videoproxy.site CNAME .
 vpnproxy.site CNAME .
@@ -11223,8 +11199,6 @@ unblock.soy CNAME .
 *.unblock.soy CNAME .
 unblocked.soy CNAME .
 *.unblocked.soy CNAME .
-uproxy.soy CNAME .
-*.uproxy.soy CNAME .
 1.0rz.space CNAME .
 *.1.0rz.space CNAME .
 2.0rz.space CNAME .
@@ -11269,8 +11243,6 @@ unblocksite.space CNAME .
 *.unblocksite.space CNAME .
 adguard.vegann.space CNAME .
 *.adguard.vegann.space CNAME .
-venum.space CNAME .
-*.venum.space CNAME .
 adguard.wifri.space CNAME .
 *.adguard.wifri.space CNAME .
 physics.sciencestudy.biz.st CNAME .
@@ -12483,8 +12455,6 @@ unblockedsite.xyz CNAME .
 *.unblockedsite.xyz CNAME .
 yescool.upcg.xyz CNAME .
 *.yescool.upcg.xyz CNAME .
-uproxy.xyz CNAME .
-*.uproxy.xyz CNAME .
 uproxy2.xyz CNAME .
 *.uproxy2.xyz CNAME .
 dns.usualposts.xyz CNAME .

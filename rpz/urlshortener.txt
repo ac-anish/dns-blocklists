@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765992660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766007120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Dec 2025 17:31 UTC
-; Version: 2025.1217.1731.59
+; Last modified: 17 Dec 2025 21:32 UTC
+; Version: 2025.1217.2132.02
 ; Syntax: RPZ
-; Number of entries: 18964
+; Number of entries: 18946
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -1329,8 +1329,6 @@ vms.bz CNAME .
 *.vms.bz CNAME .
 vvd.bz CNAME .
 *.vvd.bz CNAME .
-wee.bz CNAME .
-*.wee.bz CNAME .
 xerox.bz CNAME .
 *.xerox.bz CNAME .
 xtr.bz CNAME .
@@ -6877,8 +6875,6 @@ urlllll.com CNAME .
 *.urlllll.com CNAME .
 urllover.com CNAME .
 *.urllover.com CNAME .
-urlner.com CNAME .
-*.urlner.com CNAME .
 urlno.com CNAME .
 *.urlno.com CNAME .
 urlnova.com CNAME .
@@ -6937,8 +6933,6 @@ urlsnapy.com CNAME .
 *.urlsnapy.com CNAME .
 urlsnipper.com CNAME .
 *.urlsnipper.com CNAME .
-urlstox.com CNAME .
-*.urlstox.com CNAME .
 urltiger.com CNAME .
 *.urltiger.com CNAME .
 urltin.com CNAME .
@@ -6967,8 +6961,6 @@ urlyte.com CNAME .
 *.urlyte.com CNAME .
 urlz.com CNAME .
 *.urlz.com CNAME .
-urlzam.com CNAME .
-*.urlzam.com CNAME .
 urlzen.com CNAME .
 *.urlzen.com CNAME .
 urlzones.com CNAME .
@@ -7131,8 +7123,6 @@ novaurllight.wexisstudios.com CNAME .
 *.novaurllight.wexisstudios.com CNAME .
 whatconverts.com CNAME .
 *.whatconverts.com CNAME .
-whatsappconsulta.com CNAME .
-*.whatsappconsulta.com CNAME .
 go.wholeheartedrevolution.com CNAME .
 *.go.wholeheartedrevolution.com CNAME .
 wholesaletedgo.com CNAME .
@@ -8137,8 +8127,6 @@ xsurl.eu CNAME .
 *.xsurl.eu CNAME .
 yeca.eu CNAME .
 *.yeca.eu CNAME .
-url.eus CNAME .
-*.url.eus CNAME .
 gscc.events CNAME .
 *.gscc.events CNAME .
 jackson.events CNAME .
@@ -12663,8 +12651,6 @@ videopro.live CNAME .
 *.videopro.live CNAME .
 webprotech.live CNAME .
 *.webprotech.live CNAME .
-webyank4d.live CNAME .
-*.webyank4d.live CNAME .
 wns-academy.live CNAME .
 *.wns-academy.live CNAME .
 wolftravels.live CNAME .
@@ -14219,8 +14205,6 @@ use.my CNAME .
 *.use.my CNAME .
 visit.my CNAME .
 *.visit.my CNAME .
-wallets.my CNAME .
-*.wallets.my CNAME .
 wz.my CNAME .
 *.wz.my CNAME .
 zlr.my CNAME .
@@ -18929,8 +18913,6 @@ trpd.xyz CNAME .
 *.trpd.xyz CNAME .
 ubbk.xyz CNAME .
 *.ubbk.xyz CNAME .
-unesa.xyz CNAME .
-*.unesa.xyz CNAME .
 url-s.xyz CNAME .
 *.url-s.xyz CNAME .
 url647.xyz CNAME .
