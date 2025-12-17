@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 06:05 UTC
-# Version: 2025.1217.0605.41
+# Last modified: 17 Dec 2025 10:06 UTC
+# Version: 2025.1217.1006.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1321
+# Number of entries: 1322
 #
 local=/000a.de/
 local=/000space.com/
@@ -345,6 +345,7 @@ local=/byethost8.com/
 local=/byethost9.com/
 local=/byto.de/
 local=/bz.tc/
+local=/c.la/
 local=/c.pl/
 local=/c0.pl/
 local=/ca.gp/

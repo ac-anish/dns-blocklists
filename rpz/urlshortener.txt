@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765949580 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765964040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Dec 2025 05:33 UTC
-; Version: 2025.1217.0533.14
+; Last modified: 17 Dec 2025 09:34 UTC
+; Version: 2025.1217.0934.12
 ; Syntax: RPZ
-; Number of entries: 19000
+; Number of entries: 18980
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -703,8 +703,6 @@ shorten.asia CNAME .
 *.shorten.asia CNAME .
 shortin.asia CNAME .
 *.shortin.asia CNAME .
-shortuel.asia CNAME .
-*.shortuel.asia CNAME .
 shorturl.asia CNAME .
 *.shorturl.asia CNAME .
 u-link.asia CNAME .
@@ -5867,8 +5865,6 @@ go.screbo.com CNAME .
 *.go.screbo.com CNAME .
 screeee.com CNAME .
 *.screeee.com CNAME .
-g.scs71.com CNAME .
-*.g.scs71.com CNAME .
 seamlessqrcode.com CNAME .
 *.seamlessqrcode.com CNAME .
 seantburke.com CNAME .
@@ -7393,8 +7389,6 @@ nst.cx CNAME .
 *.nst.cx CNAME .
 protected.cx CNAME .
 *.protected.cx CNAME .
-sma.cx CNAME .
-*.sma.cx CNAME .
 spn.cx CNAME .
 *.spn.cx CNAME .
 tox.cx CNAME .
@@ -9935,8 +9929,6 @@ rool.ink CNAME .
 *.rool.ink CNAME .
 shavel.ink CNAME .
 *.shavel.ink CNAME .
-shly.ink CNAME .
-*.shly.ink CNAME .
 shre.ink CNAME .
 *.shre.ink CNAME .
 shrinkme.ink CNAME .
@@ -10395,8 +10387,6 @@ rpf.io CNAME .
 *.rpf.io CNAME .
 rptl.io CNAME .
 *.rptl.io CNAME .
-bio.rub3n.io CNAME .
-*.bio.rub3n.io CNAME .
 rvtv.io CNAME .
 *.rvtv.io CNAME .
 rwl.io CNAME .
@@ -12255,8 +12245,6 @@ short-url.link CNAME .
 *.short-url.link CNAME .
 short1.link CNAME .
 *.short1.link CNAME .
-shortbio.link CNAME .
-*.shortbio.link CNAME .
 shortenme.link CNAME .
 *.shortenme.link CNAME .
 shortest.link CNAME .
@@ -12293,8 +12281,6 @@ sinkto.link CNAME .
 *.sinkto.link CNAME .
 sla.link CNAME .
 *.sla.link CNAME .
-slicethis.link CNAME .
-*.slicethis.link CNAME .
 slnig.link CNAME .
 *.slnig.link CNAME .
 smallu.link CNAME .
@@ -14707,8 +14693,6 @@ shorterly.net CNAME .
 *.shorterly.net CNAME .
 shorterurl.net CNAME .
 *.shorterurl.net CNAME .
-shortio.net CNAME .
-*.shortio.net CNAME .
 shortlinkz.net CNAME .
 *.shortlinkz.net CNAME .
 shortster.net CNAME .
@@ -16559,8 +16543,6 @@ doods.sbs CNAME .
 *.doods.sbs CNAME .
 retireetravelcare.sbs CNAME .
 *.retireetravelcare.sbs CNAME .
-shortlink.sbs CNAME .
-*.shortlink.sbs CNAME .
 grc.sc CNAME .
 *.grc.sc CNAME .
 livemu.sc CNAME .
@@ -18313,8 +18295,6 @@ shoturl.us CNAME .
 *.shoturl.us CNAME .
 shrinkme.us CNAME .
 *.shrinkme.us CNAME .
-shrinkurl.us CNAME .
-*.shrinkurl.us CNAME .
 shrten.us CNAME .
 *.shrten.us CNAME .
 siriusxm.us CNAME .

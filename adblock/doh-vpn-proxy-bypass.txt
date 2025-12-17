@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Dec 2025 06:46 UTC
-! Version: 2025.1217.0646.48
+! Last modified: 17 Dec 2025 10:49 UTC
+! Version: 2025.1217.1049.26
 ! Syntax: AdBlock
-! Number of entries: 6262
+! Number of entries: 6260
 !
 ||ss.0001.xyz^
 ||003153.xyz^
@@ -4682,7 +4682,6 @@
 ||adguard.app.sabino.pro^
 ||sabzipolobamahi.nl^
 ||sacarino.es^
-||math.sachhot.com^
 ||pns2.sadraidc.com^
 ||safe-inet.com^
 ||safeguardianvpn.com^
@@ -4761,7 +4760,6 @@
 ||proxy.searchfiles.de^
 ||geo.searchgpy.com^
 ||searchproxy.info^
-||adguard.searom.ovh^
 ||dns.searom.ovh^
 ||2.dnscrypt-cert.dns.seby.io^
 ||doh.seby.io^

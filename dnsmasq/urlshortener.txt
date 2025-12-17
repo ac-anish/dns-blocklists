@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 05:33 UTC
-# Version: 2025.1217.0533.14
+# Last modified: 17 Dec 2025 09:34 UTC
+# Version: 2025.1217.0934.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9500
+# Number of entries: 9490
 #
 local=/0.gp/
 local=/00m.in/
@@ -6388,7 +6388,6 @@ local=/rtube.nl/
 local=/rtvote.com/
 local=/rtxt.co/
 local=/goo-gl.ru.com/
-local=/bio.rub3n.io/
 local=/short.ruksk.com/
 local=/runty.link/
 local=/rupilinks.com/
@@ -6550,7 +6549,6 @@ local=/scrapy.co/
 local=/scrb.ly/
 local=/go.screbo.com/
 local=/screeee.com/
-local=/g.scs71.com/
 local=/scts.in/
 local=/scuf.co/
 local=/scur.cat/
@@ -6683,7 +6681,6 @@ local=/shlink.io/
 local=/shln.io/
 local=/shln.me/
 local=/shlom.in/
-local=/shly.ink/
 local=/shme.io/
 local=/shmz.me/
 local=/sho.ae/
@@ -6739,7 +6736,6 @@ local=/shortaro.com/
 local=/shortbe.com/
 local=/shortbee.co/
 local=/shortbee.io/
-local=/shortbio.link/
 local=/shortclick.com/
 local=/shortclient.top/
 local=/shortcm.li/
@@ -6824,7 +6820,6 @@ local=/shortino.link/
 local=/shortinx.xyz/
 local=/shortiny.com/
 local=/shortio.cn/
-local=/shortio.net/
 local=/shortio.sk/
 local=/shortit.me/
 local=/shortkit.io/
@@ -6835,7 +6830,6 @@ local=/shortlink.cz/
 local=/shortlink.gr/
 local=/shortlink.is/
 local=/shortlink.one/
-local=/shortlink.sbs/
 local=/shortlink.uk/
 local=/shortlink1.com/
 local=/shortlink88.xyz/
@@ -6900,7 +6894,6 @@ local=/shortthis.app/
 local=/shortturl.co/
 local=/shortu.be/
 local=/shortu.in/
-local=/shortuel.asia/
 local=/shorturl.ae/
 local=/shorturl.asia/
 local=/shorturl.at/
@@ -6982,7 +6975,6 @@ local=/shrinkmyurl.com/
 local=/shrinkr.io/
 local=/shrinkster.com/
 local=/shrinkuri.com/
-local=/shrinkurl.us/
 local=/shrinkway.com/
 local=/shrinky.pro/
 local=/shrinkz.org/
@@ -7137,7 +7129,6 @@ local=/slas.in/
 local=/slby.ir/
 local=/slecastle.com/
 local=/slice.partners/
-local=/slicethis.link/
 local=/slidesha.re/
 local=/slimeteam.live/
 local=/slimlink.com/
@@ -7160,7 +7151,6 @@ local=/sm-s.in/
 local=/sm4ll.eu/
 local=/sm4ll.in/
 local=/sm4rtvoice.org/
-local=/sma.cx/
 local=/sma.ug/
 local=/tautan.smagha.com/
 local=/smaintenance.com/

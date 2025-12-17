@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Dec 2025 06:05 UTC
-! Version: 2025.1217.0605.41
+! Last modified: 17 Dec 2025 10:06 UTC
+! Version: 2025.1217.1006.50
 ! Syntax: AdBlock
-! Number of entries: 1321
+! Number of entries: 1322
 !
 ||000a.de^
 ||000space.com^
@@ -346,6 +346,7 @@
 ||byethost9.com^
 ||byto.de^
 ||bz.tc^
+||c.la^
 ||c.pl^
 ||c0.pl^
 ||ca.gp^

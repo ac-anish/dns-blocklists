@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 06:46 UTC
-# Version: 2025.1217.0646.48
+# Last modified: 17 Dec 2025 10:49 UTC
+# Version: 2025.1217.1049.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6262
+# Number of entries: 6260
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4681,7 +4681,6 @@ local=/doq.sa-sa.eu/
 local=/adguard.app.sabino.pro/
 local=/sabzipolobamahi.nl/
 local=/sacarino.es/
-local=/math.sachhot.com/
 local=/pns2.sadraidc.com/
 local=/safe-inet.com/
 local=/safeguardianvpn.com/
@@ -4760,7 +4759,6 @@ local=/dns.seaotter.cc/
 local=/proxy.searchfiles.de/
 local=/geo.searchgpy.com/
 local=/searchproxy.info/
-local=/adguard.searom.ovh/
 local=/dns.searom.ovh/
 local=/2.dnscrypt-cert.dns.seby.io/
 local=/doh.seby.io/

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 06:46 UTC
-# Version: 2025.1217.0646.06
+# Last modified: 17 Dec 2025 10:48 UTC
+# Version: 2025.1217.1048.31
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3825
+# Number of entries: 3824
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3172,7 +3172,6 @@
 0.0.0.0 sdvizhkov.ru
 0.0.0.0 adguard.sealyserver.com
 0.0.0.0 dns.seaotter.cc
-0.0.0.0 adguard.searom.ovh
 0.0.0.0 dns.searom.ovh
 0.0.0.0 2.dnscrypt-cert.dns.seby.io
 0.0.0.0 doh.seby.io
