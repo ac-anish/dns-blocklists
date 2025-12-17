@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 10:49 UTC
-# Version: 2025.1217.1049.26
+# Last modified: 17 Dec 2025 14:39 UTC
+# Version: 2025.1217.1439.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6260
+# Number of entries: 6259
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -5161,7 +5161,6 @@ local=/surt.ovh/
 local=/surtshark.com/
 local=/dns.sv-zauner.at/
 local=/svg33.eu/
-local=/dns2.svip.one/
 local=/dns.svoi.dev/
 local=/ramm-ume-pro.swanndvr.net/
 local=/science-making.swanndvr.net/

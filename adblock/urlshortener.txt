@@ -13,10 +13,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Dec 2025 09:34 UTC
-! Version: 2025.1217.0934.12
+! Last modified: 17 Dec 2025 13:32 UTC
+! Version: 2025.1217.1332.03
 ! Syntax: AdBlock
-! Number of entries: 9490
+! Number of entries: 9488
 !
 ||0.gp^
 ||00m.in^
@@ -7280,7 +7280,6 @@
 ||sosi.al^
 ||sosy.al^
 ||sou.nu^
-||soumtrack.info^
 ||sourl.cn^
 ||sovrn.co^
 ||sowiss.info^
@@ -7349,7 +7348,6 @@
 ||srpd.ca^
 ||srrink.com^
 ||srtl.io^
-||srtl.one^
 ||srtn.us^
 ||srtnr.co^
 ||srturl.xyz^

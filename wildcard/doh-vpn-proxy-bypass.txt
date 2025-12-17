@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 10:49 UTC
-# Version: 2025.1217.1049.26
+# Last modified: 17 Dec 2025 14:39 UTC
+# Version: 2025.1217.1439.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6260
+# Number of entries: 6259
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -5161,7 +5161,6 @@
 *.surtshark.com
 *.dns.sv-zauner.at
 *.svg33.eu
-*.dns2.svip.one
 *.dns.svoi.dev
 *.ramm-ume-pro.swanndvr.net
 *.science-making.swanndvr.net

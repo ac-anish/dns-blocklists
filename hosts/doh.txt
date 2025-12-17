@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 10:48 UTC
-# Version: 2025.1217.1048.31
+# Last modified: 17 Dec 2025 14:39 UTC
+# Version: 2025.1217.1439.20
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3824
+# Number of entries: 3823
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -3342,7 +3342,6 @@
 0.0.0.0 dns.sv-zauner.at
 0.0.0.0 svg33.eu
 0.0.0.0 www.svg33.eu
-0.0.0.0 dns2.svip.one
 0.0.0.0 dns.svoi.dev
 0.0.0.0 dns.switch.ch
 0.0.0.0 dns-cache.switch.ch

@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 09:34 UTC
-# Version: 2025.1217.0934.12
+# Last modified: 17 Dec 2025 13:32 UTC
+# Version: 2025.1217.1332.03
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9490
+# Number of entries: 9488
 #
 local=/0.gp/
 local=/00m.in/
@@ -7279,7 +7279,6 @@ local=/sosh.al/
 local=/sosi.al/
 local=/sosy.al/
 local=/sou.nu/
-local=/soumtrack.info/
 local=/sourl.cn/
 local=/sovrn.co/
 local=/sowiss.info/
@@ -7348,7 +7347,6 @@ local=/srnk.us/
 local=/srpd.ca/
 local=/srrink.com/
 local=/srtl.io/
-local=/srtl.one/
 local=/srtn.us/
 local=/srtnr.co/
 local=/srturl.xyz/

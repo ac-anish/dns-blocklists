@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765953600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765982040 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Dec 2025 06:40 UTC
-; Version: 2025.1217.0640.34
+; Last modified: 17 Dec 2025 14:34 UTC
+; Version: 2025.1217.1434.06
 ; Syntax: RPZ
-; Number of entries: 23066
+; Number of entries: 23062
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -7058,8 +7058,6 @@ warez.sub-france.com CNAME .
 *.warez.sub-france.com CNAME .
 subtituladas.com CNAME .
 *.subtituladas.com CNAME .
-suesupriano.com CNAME .
-*.suesupriano.com CNAME .
 sunonlinebd.com CNAME .
 *.sunonlinebd.com CNAME .
 sunset-dragons.com CNAME .
@@ -16614,8 +16612,6 @@ soapgate.org CNAME .
 *.soapgate.org CNAME .
 socceron.org CNAME .
 *.socceron.org CNAME .
-softddl.org CNAME .
-*.softddl.org CNAME .
 softlinkers.org CNAME .
 *.softlinkers.org CNAME .
 softmp3.org CNAME .

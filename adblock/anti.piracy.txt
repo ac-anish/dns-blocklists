@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Dec 2025 06:40 UTC
-! Version: 2025.1217.0640.34
+! Last modified: 17 Dec 2025 14:34 UTC
+! Version: 2025.1217.1434.06
 ! Syntax: AdBlock
-! Number of entries: 11533
+! Number of entries: 11531
 !
 ||003396815.xyz^
 ||0123456789nonexistent.com^
@@ -8611,7 +8611,6 @@
 ||softarchive.is^
 ||softarchive.ws^
 ||softasm.com^
-||softddl.org^
 ||softhome.ru^
 ||softiq.ru^
 ||softlay.com^
@@ -9115,7 +9114,6 @@
 ||sudo-flix.lol^
 ||sudo-flix.nl^
 ||sudo-flix.rip^
-||suesupriano.com^
 ||sugar-cube.org^
 ||sumotorrent.sx^
 ||sumotracker.org^
