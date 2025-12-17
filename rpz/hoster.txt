@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765908240 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765951500 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Dec 2025 18:04 UTC
-; Version: 2025.1216.1804.44
+; Last modified: 17 Dec 2025 06:05 UTC
+; Version: 2025.1217.0605.41
 ; Syntax: RPZ
-; Number of entries: 2648
+; Number of entries: 2642
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -50,8 +50,6 @@ h4g3z1-hoster.web.app CNAME .
 *.h4g3z1-hoster.web.app CNAME .
 blogspot.com.ar CNAME .
 *.blogspot.com.ar CNAME .
-okdfhb.art CNAME .
-*.okdfhb.art CNAME .
 114.at CNAME .
 *.114.at CNAME .
 115.at CNAME .
@@ -2418,8 +2416,6 @@ nikoha.shop CNAME .
 *.nikoha.shop CNAME .
 nokojp.shop CNAME .
 *.nokojp.shop CNAME .
-nyccenter.shop CNAME .
-*.nyccenter.shop CNAME .
 officialcity.shop CNAME .
 *.officialcity.shop CNAME .
 okistore.shop CNAME .
@@ -2428,8 +2424,6 @@ onlineweb.shop CNAME .
 *.onlineweb.shop CNAME .
 pizzakeep.shop CNAME .
 *.pizzakeep.shop CNAME .
-rentweek.shop CNAME .
-*.rentweek.shop CNAME .
 romesuper.shop CNAME .
 *.romesuper.shop CNAME .
 rubberphone.shop CNAME .

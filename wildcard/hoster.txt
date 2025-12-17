@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 18:04 UTC
-# Version: 2025.1216.1804.44
+# Last modified: 17 Dec 2025 06:05 UTC
+# Version: 2025.1217.0605.41
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1324
+# Number of entries: 1321
 #
 *.000a.de
 *.000space.com
@@ -922,13 +922,11 @@
 *.now.lc
 *.npx.de
 *.nut.cc
-*.nyccenter.shop
 *.o.gp
 *.o-f.com
 *.of-love.de
 *.officialcity.shop
 *.officialsitebuilder.com
-*.okdfhb.art
 *.okis.ru
 *.okistore.shop
 *.omas.in
@@ -1017,7 +1015,6 @@
 *.reco.ws
 *.regruhosting.ru
 *.rentvalues.biz
-*.rentweek.shop
 *.rf.gd
 *.ro.gp
 *.romesuper.shop

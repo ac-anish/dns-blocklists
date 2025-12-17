@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765910760 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765953960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Dec 2025 18:46 UTC
-; Version: 2025.1216.1846.34
+; Last modified: 17 Dec 2025 06:46 UTC
+; Version: 2025.1217.0646.48
 ; Syntax: RPZ
-; Number of entries: 12540
+; Number of entries: 12524
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -213,8 +213,6 @@ cube.neubsi.at CNAME .
 *.cube.neubsi.at CNAME .
 dns.neubsi.at CNAME .
 *.dns.neubsi.at CNAME .
-rothschild.pii.at CNAME .
-*.rothschild.pii.at CNAME .
 dns.sv-zauner.at CNAME .
 *.dns.sv-zauner.at CNAME .
 tecworx.at CNAME .
@@ -3497,8 +3495,6 @@ proxy-cheap.com CNAME .
 *.proxy-cheap.com CNAME .
 proxy-n-vpn.com CNAME .
 *.proxy-n-vpn.com CNAME .
-proxy-search.com CNAME .
-*.proxy-search.com CNAME .
 proxy-seller.com CNAME .
 *.proxy-seller.com CNAME .
 proxy-store.com CNAME .
@@ -6367,8 +6363,6 @@ onweb.info CNAME .
 *.onweb.info CNAME .
 papervpn.info CNAME .
 *.papervpn.info CNAME .
-securly.com.pbdjarum.info CNAME .
-*.securly.com.pbdjarum.info CNAME .
 pkproxy.info CNAME .
 *.pkproxy.info CNAME .
 predecessor.info CNAME .
@@ -7021,8 +7015,6 @@ onion.lu CNAME .
 *.onion.lu CNAME .
 dnspub.restena.lu CNAME .
 *.dnspub.restena.lu CNAME .
-dns.ours.luxe CNAME .
-*.dns.ours.luxe CNAME .
 doh.lv CNAME .
 *.doh.lv CNAME .
 qazwsxeedc.aldis.id.lv CNAME .
@@ -7427,8 +7419,6 @@ hidemy.name CNAME .
 *.hidemy.name CNAME .
 searxng.rcxpony.name CNAME .
 *.searxng.rcxpony.name CNAME .
-dns.reckoningslug.name CNAME .
-*.dns.reckoningslug.name CNAME .
 dns.therifleman.name CNAME .
 *.dns.therifleman.name CNAME .
 unblocked.name CNAME .
@@ -9253,8 +9243,6 @@ petinom.online CNAME .
 *.petinom.online CNAME .
 login.readinghelper.online CNAME .
 *.login.readinghelper.online CNAME .
-reptis.online CNAME .
-*.reptis.online CNAME .
 roundrockisd.online CNAME .
 *.roundrockisd.online CNAME .
 shadowart.online CNAME .
@@ -9867,8 +9855,6 @@ radminvpn.org CNAME .
 *.radminvpn.org CNAME .
 ns.ral9005.org CNAME .
 *.ns.ral9005.org CNAME .
-clashsoccer.ranftl.org CNAME .
-*.clashsoccer.ranftl.org CNAME .
 relayon.org CNAME .
 *.relayon.org CNAME .
 dns.resoft.org CNAME .
@@ -10205,8 +10191,6 @@ dns.pierzchlewicz.pl CNAME .
 *.dns.pierzchlewicz.pl CNAME .
 eli.polishmc.pl CNAME .
 *.eli.polishmc.pl CNAME .
-joo.polishmc.pl CNAME .
-*.joo.polishmc.pl CNAME .
 upon.polishmc.pl CNAME .
 *.upon.polishmc.pl CNAME .
 poxy.pl CNAME .

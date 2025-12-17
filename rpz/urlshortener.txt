@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765906320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765949580 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Dec 2025 17:32 UTC
-; Version: 2025.1216.1732.26
+; Last modified: 17 Dec 2025 05:33 UTC
+; Version: 2025.1217.0533.14
 ; Syntax: RPZ
-; Number of entries: 19020
+; Number of entries: 19000
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -5233,8 +5233,6 @@ n66d.com CNAME .
 *.n66d.com CNAME .
 na2.com CNAME .
 *.na2.com CNAME .
-nagakuat.com CNAME .
-*.nagakuat.com CNAME .
 naik-terus.com CNAME .
 *.naik-terus.com CNAME .
 nakdetail.com CNAME .
@@ -5343,8 +5341,6 @@ nynko.com CNAME .
 *.nynko.com CNAME .
 oblino.com CNAME .
 *.oblino.com CNAME .
-ocdlink.com CNAME .
-*.ocdlink.com CNAME .
 ocurto.com CNAME .
 *.ocurto.com CNAME .
 odinurl.com CNAME .
@@ -8701,8 +8697,6 @@ url.gratis CNAME .
 *.url.gratis CNAME .
 link.devit.group CNAME .
 *.link.devit.group CNAME .
-peikko.group CNAME .
-*.peikko.group CNAME .
 2i.gs CNAME .
 *.2i.gs CNAME .
 2nu.gs CNAME .
@@ -11273,8 +11267,6 @@ onx.la CNAME .
 *.onx.la CNAME .
 pag.la CNAME .
 *.pag.la CNAME .
-pco.la CNAME .
-*.pco.la CNAME .
 pre.la CNAME .
 *.pre.la CNAME .
 rtc.la CNAME .
@@ -11507,8 +11499,6 @@ pkv.li CNAME .
 *.pkv.li CNAME .
 pork.li CNAME .
 *.pork.li CNAME .
-ppt.li CNAME .
-*.ppt.li CNAME .
 propub.li CNAME .
 *.propub.li CNAME .
 psh.li CNAME .
@@ -12133,8 +12123,6 @@ myporn.link CNAME .
 *.myporn.link CNAME .
 myshorturl.link CNAME .
 *.myshorturl.link CNAME .
-natsbee.link CNAME .
-*.natsbee.link CNAME .
 nbanner.link CNAME .
 *.nbanner.link CNAME .
 nhabio.link CNAME .
@@ -13667,8 +13655,6 @@ quickcard-smartbusinesscard.me CNAME .
 *.quickcard-smartbusinesscard.me CNAME .
 qutt.me CNAME .
 *.qutt.me CNAME .
-qxa.me CNAME .
-*.qxa.me CNAME .
 r0m.me CNAME .
 *.r0m.me CNAME .
 rabetak.me CNAME .
@@ -16019,8 +16005,6 @@ payspot.pro CNAME .
 *.payspot.pro CNAME .
 pymhm.pro CNAME .
 *.pymhm.pro CNAME .
-pynva.pro CNAME .
-*.pynva.pro CNAME .
 qlink.pro CNAME .
 *.qlink.pro CNAME .
 rajaolympus.pro CNAME .
@@ -16243,8 +16227,6 @@ linkly.qa CNAME .
 *.linkly.qa CNAME .
 log.qa CNAME .
 *.log.qa CNAME .
-qrl.qa CNAME .
-*.qrl.qa CNAME .
 bkjkwg.quest CNAME .
 *.bkjkwg.quest CNAME .
 0x.re CNAME .
@@ -17219,8 +17201,6 @@ mgektar.tech CNAME .
 *.mgektar.tech CNAME .
 myaz.tech CNAME .
 *.myaz.tech CNAME .
-mymilf.tech CNAME .
-*.mymilf.tech CNAME .
 s99.tech CNAME .
 *.s99.tech CNAME .
 sharem.tech CNAME .

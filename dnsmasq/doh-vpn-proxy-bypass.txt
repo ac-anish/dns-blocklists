@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 18:46 UTC
-# Version: 2025.1216.1846.34
+# Last modified: 17 Dec 2025 06:46 UTC
+# Version: 2025.1217.0646.48
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6270
+# Number of entries: 6262
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -4031,7 +4031,6 @@ local=/adguard2.ota.moe/
 local=/adguard3.ota.moe/
 local=/adguard4.ota.moe/
 local=/dns.otezz.net/
-local=/dns.ours.luxe/
 local=/dns.ourvau.lt/
 local=/proxy.outred.dev/
 local=/bolt.ovaa.cl/
@@ -4093,7 +4092,6 @@ local=/dns.paxavemedia.com/
 local=/loan.paymdm.xyz/
 local=/pazou.org/
 local=/vps-ovh.pb2004.pl/
-local=/securly.com.pbdjarum.info/
 local=/pbproxy.red/
 local=/pbproxy2.co/
 local=/dns.pccoach.nl/
@@ -4138,7 +4136,6 @@ local=/adguard.piekacz.pl/
 local=/dns.pierzchlewicz.pl/
 local=/dns.pieterdherde.com/
 local=/dns1.pietjacobs.be/
-local=/rothschild.pii.at/
 local=/dns.pine-home.de/
 local=/pingbi.xyz/
 local=/pingproxy.com/
@@ -4184,7 +4181,6 @@ local=/dns.pointless.chat/
 local=/pointtoserver.com/
 local=/polargrizzly.com/
 local=/eli.polishmc.pl/
-local=/joo.polishmc.pl/
 local=/upon.polishmc.pl/
 local=/polisitogel.show/
 local=/polisitogel.webcam/
@@ -4335,7 +4331,6 @@ local=/proxy-cheap.com/
 local=/proxy-german.de/
 local=/proxy-list.download/
 local=/proxy-n-vpn.com/
-local=/proxy-search.com/
 local=/proxy-seller.com/
 local=/proxy-site.net/
 local=/proxy-store.com/
@@ -4550,7 +4545,6 @@ local=/raj.pw/
 local=/ns.ral9005.org/
 local=/dns.ramansarda.com/
 local=/drpepperisbetter.ramonmedina.net/
-local=/clashsoccer.ranftl.org/
 local=/rapidprivacy.com/
 local=/rapidproxy.us/
 local=/rapidvpn.com/
@@ -4574,7 +4568,6 @@ local=/dns.readlook.tk/
 local=/agh.realwap.net/
 local=/www-p.reaper.mx/
 local=/hk.reaticle.com/
-local=/dns.reckoningslug.name/
 local=/vladimirloljk.lollipopyum.liveastheman.reconectar.cl/
 local=/topwriting.redalameda.cl/
 local=/redhoodie.site/
@@ -4598,7 +4591,6 @@ local=/dns.reolinks.ru/
 local=/dns.repinger.com/
 local=/repocket.co/
 local=/dns.repressoh.it/
-local=/reptis.online/
 local=/wg.req1.fr/
 local=/x.res.wang/
 local=/dns.resoft.org/

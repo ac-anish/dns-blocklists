@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 17:32 UTC
-# Version: 2025.1216.1732.26
+# Last modified: 17 Dec 2025 05:33 UTC
+# Version: 2025.1217.0533.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9510
+# Number of entries: 9500
 #
 local=/0.gp/
 local=/00m.in/
@@ -5105,7 +5105,6 @@ local=/mylnk.net/
 local=/mylnks.xyz/
 local=/mylt.tv/
 local=/mylx.io/
-local=/mymilf.tech/
 local=/myminiurl.net/
 local=/mymole.info/
 local=/mymst.co/
@@ -5166,7 +5165,6 @@ local=/n9x.co/
 local=/na2.com/
 local=/na5.nl/
 local=/naa.gg/
-local=/nagakuat.com/
 local=/nah.uy/
 local=/naik-terus.com/
 local=/nakama420.xyz/
@@ -5185,7 +5183,6 @@ local=/go.nasa.gov/
 local=/nashcapernaum.org/
 local=/on.natgeo.com/
 local=/nathanaeldan.pro/
-local=/natsbee.link/
 local=/nature.ly/
 local=/naturl.io/
 local=/nav.cx/
@@ -5394,7 +5391,6 @@ local=/obdr.it/
 local=/obio.link/
 local=/oblino.com/
 local=/occ.li/
-local=/ocdlink.com/
 local=/ock.cn/
 local=/ocul.us/
 local=/ocurto.com/
@@ -5672,7 +5668,6 @@ local=/pca.so/
 local=/pchome.link/
 local=/pck.tv/
 local=/pclosdebian.org/
-local=/pco.la/
 local=/pcof.fi/
 local=/pcphq.net/
 local=/pcsgt.com/
@@ -5698,7 +5693,6 @@ local=/peen.ca/
 local=/peerwith.me/
 local=/pegasurl.com/
 local=/pego.work/
-local=/peikko.group/
 local=/pekcamke.link/
 local=/pellz.link/
 local=/pencetdulu.com/
@@ -5854,7 +5848,6 @@ local=/pplx.ai/
 local=/ppmc.me/
 local=/ppscourse.com/
 local=/ppt.cc/
-local=/ppt.li/
 local=/ppurl.io/
 local=/pql.ca/
 local=/pr.tn/
@@ -5977,7 +5970,6 @@ local=/pym.se/
 local=/pymd.org/
 local=/pymhm.pro/
 local=/pymoinfo.com/
-local=/pynva.pro/
 local=/pyt.app/
 local=/pzdls.co/
 local=/q.gs/
@@ -6058,7 +6050,6 @@ local=/qrgenerator.org/
 local=/qrisni.me/
 local=/qrkard.it/
 local=/qrkiss.com/
-local=/qrl.qa/
 local=/qrley.com/
 local=/qrlinker.net/
 local=/qrlinkgenerator.com/
@@ -6118,7 +6109,6 @@ local=/qutt.me/
 local=/qutt.us/
 local=/quurls.com/
 local=/qvc.co/
-local=/qxa.me/
 local=/qxp.cz/
 local=/qxp.sk/
 local=/qzr2.com/

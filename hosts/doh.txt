@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 18:45 UTC
-# Version: 2025.1216.1845.56
+# Last modified: 17 Dec 2025 06:46 UTC
+# Version: 2025.1217.0646.06
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3829
+# Number of entries: 3825
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -2833,7 +2833,6 @@
 0.0.0.0 adguard3.ota.moe
 0.0.0.0 adguard4.ota.moe
 0.0.0.0 dns.otezz.net
-0.0.0.0 dns.ours.luxe
 0.0.0.0 dns.ourvau.lt
 0.0.0.0 vps-1f675aa1.vps.ovh.us
 0.0.0.0 1a.ns.ozer.im
@@ -3051,7 +3050,6 @@
 0.0.0.0 dns.readlook.tk
 0.0.0.0 agh.realwap.net
 0.0.0.0 hk.reaticle.com
-0.0.0.0 dns.reckoningslug.name
 0.0.0.0 dns.redroot.cc
 0.0.0.0 dns.redvau.lt
 0.0.0.0 cdn.refined.pro
@@ -3063,8 +3061,6 @@
 0.0.0.0 dns.reolinks.ru
 0.0.0.0 dns.repinger.com
 0.0.0.0 dns.repressoh.it
-0.0.0.0 reptis.online
-0.0.0.0 www.reptis.online
 0.0.0.0 wg.req1.fr
 0.0.0.0 x.res.wang
 0.0.0.0 dns.resoft.org

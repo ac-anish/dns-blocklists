@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765910400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765953600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 16 Dec 2025 18:40 UTC
-; Version: 2025.1216.1840.38
+; Last modified: 17 Dec 2025 06:40 UTC
+; Version: 2025.1217.0640.34
 ; Syntax: RPZ
-; Number of entries: 23094
+; Number of entries: 23066
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1876,8 +1876,6 @@ guardaserie01.click CNAME .
 *.guardaserie01.click CNAME .
 italia-film.click CNAME .
 *.italia-film.click CNAME .
-multimovies.click CNAME .
-*.multimovies.click CNAME .
 nextream.click CNAME .
 *.nextream.click CNAME .
 pelisflix20.click CNAME .
@@ -1960,8 +1958,6 @@ musicpleer.cloud CNAME .
 *.musicpleer.cloud CNAME .
 pirateproxy.cloud CNAME .
 *.pirateproxy.cloud CNAME .
-rine.cloud CNAME .
-*.rine.cloud CNAME .
 sendit.cloud CNAME .
 *.sendit.cloud CNAME .
 streamingcommunity.cloud CNAME .
@@ -6558,8 +6554,6 @@ relizua.com CNAME .
 *.relizua.com CNAME .
 reloadedsteam.com CNAME .
 *.reloadedsteam.com CNAME .
-renrencili.com CNAME .
-*.renrencili.com CNAME .
 requestcracks.com CNAME .
 *.requestcracks.com CNAME .
 reqzone.com CNAME .
@@ -9732,8 +9726,6 @@ filmapik.gold CNAME .
 *.filmapik.gold CNAME .
 filmsenzalimiti.gold CNAME .
 *.filmsenzalimiti.gold CNAME .
-megakino.gold CNAME .
-*.megakino.gold CNAME .
 movierulzhd.gold CNAME .
 *.movierulzhd.gold CNAME .
 seriesflix.gold CNAME .
@@ -11554,8 +11546,6 @@ projapoti.live CNAME .
 *.projapoti.live CNAME .
 rangdhanu.live CNAME .
 *.rangdhanu.live CNAME .
-rarbg.live CNAME .
-*.rarbg.live CNAME .
 realstation.live CNAME .
 *.realstation.live CNAME .
 redditmlbstreams.live CNAME .
@@ -13898,8 +13888,6 @@ ns389251.ovh.net CNAME .
 *.ns389251.ovh.net CNAME .
 p2pnet.net CNAME .
 *.p2pnet.net CNAME .
-panda-streaming.net CNAME .
-*.panda-streaming.net CNAME .
 passion-musique.net CNAME .
 *.passion-musique.net CNAME .
 pcprogs.net CNAME .
@@ -15126,8 +15114,6 @@ multicanaishd.online CNAME .
 *.multicanaishd.online CNAME .
 multimovies.online CNAME .
 *.multimovies.online CNAME .
-myfreesky.online CNAME .
-*.myfreesky.online CNAME .
 niulangshan.online CNAME .
 *.niulangshan.online CNAME .
 njuedu.online CNAME .
@@ -16346,8 +16332,6 @@ nunflix.org CNAME .
 *.nunflix.org CNAME .
 nxtgn.org CNAME .
 *.nxtgn.org CNAME .
-nyaatorrents.org CNAME .
-*.nyaatorrents.org CNAME .
 nfo.nydus.org CNAME .
 *.nfo.nydus.org CNAME .
 top.nydus.org CNAME .
@@ -16414,8 +16398,6 @@ piratetorrent.org CNAME .
 *.piratetorrent.org CNAME .
 pirateworld.org CNAME .
 *.pirateworld.org CNAME .
-pisexy.org CNAME .
-*.pisexy.org CNAME .
 planete-bd.org CNAME .
 *.planete-bd.org CNAME .
 playzona.org CNAME .
@@ -18906,8 +18888,6 @@ tracker.opentracker.se CNAME .
 *.tracker.opentracker.se CNAME .
 pelis24.se CNAME .
 *.pelis24.se CNAME .
-pleaks.se CNAME .
-*.pleaks.se CNAME .
 sugoi.pomf.se CNAME .
 *.sugoi.pomf.se CNAME .
 tracker.pomf.se CNAME .
@@ -19790,8 +19770,6 @@ hdmovie2.tax CNAME .
 *.hdmovie2.tax CNAME .
 kinox.tax CNAME .
 *.kinox.tax CNAME .
-megakino.tax CNAME .
-*.megakino.tax CNAME .
 streamingcommunity.tax CNAME .
 *.streamingcommunity.tax CNAME .
 vegamovies.tax CNAME .
@@ -19834,8 +19812,6 @@ cinemaos.tech CNAME .
 *.cinemaos.tech CNAME .
 dood.tech CNAME .
 *.dood.tech CNAME .
-megakino.tech CNAME .
-*.megakino.tech CNAME .
 mp3juices.tech CNAME .
 *.mp3juices.tech CNAME .
 piratebay.tech CNAME .
@@ -20346,8 +20322,6 @@ pdalife.to CNAME .
 *.pdalife.to CNAME .
 pdfdrive.to CNAME .
 *.pdfdrive.to CNAME .
-pelis24.to CNAME .
-*.pelis24.to CNAME .
 pepecine.to CNAME .
 *.pepecine.to CNAME .
 piratebay.to CNAME .
@@ -21592,8 +21566,6 @@ nagios.tks.sumy.ua CNAME .
 *.nagios.tks.sumy.ua CNAME .
 ultra.zt.ua CNAME .
 *.ultra.zt.ua CNAME .
-movies4u.ug CNAME .
-*.movies4u.ug CNAME .
 buny.uk CNAME .
 *.buny.uk CNAME .
 321movies.co.uk CNAME .

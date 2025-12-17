@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 16 Dec 2025 18:46 UTC
-! Version: 2025.1216.1846.26
+! Last modified: 17 Dec 2025 06:46 UTC
+! Version: 2025.1217.0646.38
 ! Syntax: AdBlock
-! Number of entries: 811
+! Number of entries: 809
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -590,7 +590,6 @@
 ||dns.us-ashburn-1.oraclecloud.com^
 ||dns.us-phoenix-1.oraclecloud.com^
 ||resolver.dnsprivacy.org.uk^
-||dns.ours.luxe^
 ||dns.paesa.es^
 ||pashagame456.com^
 ||dns.pccoach.nl^
@@ -648,7 +647,6 @@
 ||dns.rayanbab.com^
 ||rayneau.fr^
 ||dns.rbn.gr^
-||dns.reckoningslug.name^
 ||dns.redvau.lt^
 ||dns.reitmeier.me^
 ||dns.renardyre.com^

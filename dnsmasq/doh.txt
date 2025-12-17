@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 18:45 UTC
-# Version: 2025.1216.1845.56
+# Last modified: 17 Dec 2025 06:46 UTC
+# Version: 2025.1217.0646.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3352
+# Number of entries: 3349
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -2445,7 +2445,6 @@ local=/adguard2.ota.moe/
 local=/adguard3.ota.moe/
 local=/adguard4.ota.moe/
 local=/dns.otezz.net/
-local=/dns.ours.luxe/
 local=/dns.ourvau.lt/
 local=/vps-1f675aa1.vps.ovh.us/
 local=/1a.ns.ozer.im/
@@ -2646,7 +2645,6 @@ local=/adguard.rdekuyper.nl/
 local=/dns.readlook.tk/
 local=/agh.realwap.net/
 local=/hk.reaticle.com/
-local=/dns.reckoningslug.name/
 local=/dns.redroot.cc/
 local=/dns.redvau.lt/
 local=/cdn.refined.pro/
@@ -2658,7 +2656,6 @@ local=/adblock.renedis.nl/
 local=/dns.reolinks.ru/
 local=/dns.repinger.com/
 local=/dns.repressoh.it/
-local=/reptis.online/
 local=/wg.req1.fr/
 local=/x.res.wang/
 local=/dns.resoft.org/

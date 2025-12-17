@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Dec 2025 18:40 UTC
-# Version: 2025.1216.1840.38
+# Last modified: 17 Dec 2025 06:40 UTC
+# Version: 2025.1217.0640.34
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11547
+# Number of entries: 11533
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -6086,7 +6086,6 @@ local=/megakino.deals/
 local=/megakino.dev/
 local=/megakino.eu/
 local=/megakino.farm/
-local=/megakino.gold/
 local=/megakino.gratis/
 local=/megakino.guru/
 local=/megakino.how/
@@ -6109,9 +6108,7 @@ local=/megakino.rip/
 local=/megakino.show/
 local=/megakino.si/
 local=/megakino.style/
-local=/megakino.tax/
 local=/megakino.team/
-local=/megakino.tech/
 local=/megakino.tips/
 local=/megakino.video/
 local=/megakino.vin/
@@ -6419,7 +6416,6 @@ local=/movies4people.com/
 local=/movies4u.co/
 local=/movies4u.contact/
 local=/movies4u.sl/
-local=/movies4u.ug/
 local=/movies4us.co/
 local=/movies7.to/
 local=/moviesb4time.biz/
@@ -6572,7 +6568,6 @@ local=/multicanais.live/
 local=/multicanaishd.online/
 local=/multimovies.center/
 local=/multimovies.cheap/
-local=/multimovies.click/
 local=/multimovies.cloud/
 local=/multimovies.com/
 local=/multimovies.coupons/
@@ -6655,7 +6650,6 @@ local=/myfreemp3.vip/
 local=/myfreemp3cc.com/
 local=/myfreemp3juices.cc/
 local=/myfreemp3v.com/
-local=/myfreesky.online/
 local=/f4cineplex.myftp.org/
 local=/hawklord.myftp.org/
 local=/turtle55.myftp.org/
@@ -7023,7 +7017,6 @@ local=/nyaa.eu/
 local=/nyaa.net/
 local=/nyaa.si/
 local=/tracker.nyaa.uk/
-local=/nyaatorrents.org/
 local=/t.nyaatracker.com/
 local=/tr.nyacat.pw/
 local=/nyafilmer.lol/
@@ -7271,7 +7264,6 @@ local=/paitara.com/
 local=/pakcoder.com/
 local=/pallok.com/
 local=/panda.cd/
-local=/panda-streaming.net/
 local=/pandacd.io/
 local=/pandaclubbd.com/
 local=/pandoworld.cn/
@@ -7331,7 +7323,6 @@ local=/peersteers.org/
 local=/pegleg.it/
 local=/peliculaswarez.net/
 local=/pelis24.se/
-local=/pelis24.to/
 local=/pelisflix20.at/
 local=/pelisflix20.bid/
 local=/pelisflix20.bio/
@@ -7494,7 +7485,6 @@ local=/pirlotv.football/
 local=/pirlotv.fr/
 local=/pirlotvhd.online/
 local=/pirvox.net/
-local=/pisexy.org/
 local=/pitbulltorrent.eu/
 local=/tracker.pixelcove.me/
 local=/pjointe.com/
@@ -7524,7 +7514,6 @@ local=/playwarez.com/
 local=/playx.fun/
 local=/playzona.org/
 local=/plc4me.com/
-local=/pleaks.se/
 local=/pleer.com/
 local=/plexbd.net/
 local=/plixi.com/
@@ -7891,7 +7880,6 @@ local=/rarbg.club/
 local=/rarbg.com/
 local=/rarbg.gg/
 local=/rarbg.is/
-local=/rarbg.live/
 local=/rarbg.to/
 local=/rarbg.tw/
 local=/rarbg2018.org/
@@ -7987,7 +7975,6 @@ local=/relizua.com/
 local=/reloadedsteam.com/
 local=/reminiapk.io/
 local=/tracker.renfei.net/
-local=/renrencili.com/
 local=/repack.info/
 local=/repack.me/
 local=/repack-byrutor.org/
@@ -8031,7 +8018,6 @@ local=/rgmechanics-games.com/
 local=/isk.richardsw.club/
 local=/ridomovies.tv/
 local=/cs.rin.ru/
-local=/rine.cloud/
 local=/gwp2-v19.rinet.ru/
 local=/rintor.info/
 local=/rintor.net/
