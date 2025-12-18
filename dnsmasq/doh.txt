@@ -6,8 +6,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 22:38 UTC
-# Version: 2025.1217.2238.40
+# Last modified: 18 Dec 2025 06:39 UTC
+# Version: 2025.1218.0639.37
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 3346
 #
@@ -2420,6 +2420,8 @@ local=/resolver1-fs.opendns.com/
 local=/resolver2.opendns.com/
 local=/resolver2-fs.opendns.com/
 local=/sandbox.opendns.com/
+local=/adblock.opendoh.com/
+local=/dns.opendoh.com/
 local=/resolver4.dns.openinternet.io/
 local=/ns1.opennameserver.org/
 local=/ns2.opennameserver.org/
@@ -3232,11 +3234,9 @@ local=/dns1.wyss.network/
 local=/wyx.cloud/
 local=/ads.x88.in/
 local=/adguard.x88x.xyz/
-local=/mydns.x96maxultra.ru/
 local=/adguard.xandersalarie.com/
 local=/adb-home.xaoimoon.fr/
 local=/adb-wan.xaoimoon.fr/
-local=/xbcpb668.com/
 local=/dns.xcapenet.ru/
 local=/dns2.xcapenet.ru/
 local=/doh.xcom.pro/

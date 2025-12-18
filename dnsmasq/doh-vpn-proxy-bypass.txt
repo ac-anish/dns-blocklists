@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 22:39 UTC
-# Version: 2025.1217.2239.14
+# Last modified: 18 Dec 2025 06:40 UTC
+# Version: 2025.1218.0640.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6254
+# Number of entries: 6252
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -3997,6 +3997,7 @@ local=/resolver1-fs.opendns.com/
 local=/resolver2.opendns.com/
 local=/resolver2-fs.opendns.com/
 local=/sandbox.opendns.com/
+local=/opendoh.com/
 local=/opengw.net/
 local=/resolver4.dns.openinternet.io/
 local=/openips.cc/
@@ -6078,12 +6079,10 @@ local=/wyx.cloud/
 local=/cors.x2u.in/
 local=/ads.x88.in/
 local=/adguard.x88x.xyz/
-local=/mydns.x96maxultra.ru/
 local=/x9fnzrtl4x8pynsf.com/
 local=/adguard.xandersalarie.com/
 local=/adb-home.xaoimoon.fr/
 local=/adb-wan.xaoimoon.fr/
-local=/xbcpb668.com/
 local=/dns.xcapenet.ru/
 local=/dns2.xcapenet.ru/
 local=/doh.xcom.pro/
@@ -6201,7 +6200,6 @@ local=/adguard.zachitect.com/
 local=/zagbit.com/
 local=/zakaria.website/
 local=/zalmos.com/
-local=/learning.zanity.net/
 local=/akylah.zapto.org/
 local=/bananakun.zapto.org/
 local=/schoolwebsite.zapto.org/

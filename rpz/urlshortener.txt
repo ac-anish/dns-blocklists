@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766007120 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766035860 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -16,10 +16,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Dec 2025 21:32 UTC
-; Version: 2025.1217.2132.02
+; Last modified: 18 Dec 2025 05:31 UTC
+; Version: 2025.1218.0531.11
 ; Syntax: RPZ
-; Number of entries: 18946
+; Number of entries: 18940
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -639,8 +639,6 @@ xurl.app CNAME .
 *.xurl.app CNAME .
 yesb.app CNAME .
 *.yesb.app CNAME .
-youtubeopener.app CNAME .
-*.youtubeopener.app CNAME .
 san.aq CNAME .
 *.san.aq CNAME .
 annah.ar CNAME .
@@ -7173,8 +7171,6 @@ wwdurl.com CNAME .
 *.wwdurl.com CNAME .
 x-shrtn.com CNAME .
 *.x-shrtn.com CNAME .
-x0xdesign.com CNAME .
-*.x0xdesign.com CNAME .
 x2t.com CNAME .
 *.x2t.com CNAME .
 xaddr.com CNAME .
@@ -7253,8 +7249,6 @@ d.yunzhuyun.com CNAME .
 *.d.yunzhuyun.com CNAME .
 yweb.com CNAME .
 *.yweb.com CNAME .
-yycdigitalworld.com CNAME .
-*.yycdigitalworld.com CNAME .
 z-url.com CNAME .
 *.z-url.com CNAME .
 z4sh.com CNAME .

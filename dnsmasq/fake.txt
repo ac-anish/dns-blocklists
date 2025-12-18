@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 21:30 UTC
-# Version: 2025.1217.2130.11
+# Last modified: 18 Dec 2025 05:29 UTC
+# Version: 2025.1218.0529.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14076
+# Number of entries: 14073
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -13774,7 +13774,6 @@ local=/workshlutch.com/
 local=/workshopequipmentshop.com/
 local=/workshopgearonline.com/
 local=/workspherede.works/
-local=/workstatt.shop/
 local=/world-coin.eu/
 local=/world-medic-store.com/
 local=/worldchinesemedia.com/
@@ -14036,7 +14035,6 @@ local=/zigaretten-steuerfrei-bestellen.com/
 local=/zigber.com/
 local=/zilool.com/
 local=/zimtahorn.de/
-local=/zinderx.com/
 local=/zinniafolkartsdeeu.shop/
 local=/zinpp.com/
 local=/zinsacm.com/
@@ -14085,4 +14083,3 @@ local=/zxmcm.com/
 local=/zycrian.com/
 local=/zynexorai.at/
 local=/zynexorai.com/
-local=/zytocapitalnew.com/

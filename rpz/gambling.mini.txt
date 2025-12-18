@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766010720 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766039640 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist - mini version
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 17 Dec 2025 22:32 UTC
-; Version: 2025.1217.2232.57
+; Last modified: 18 Dec 2025 06:34 UTC
+; Version: 2025.1218.0634.10
 ; Syntax: RPZ
-; Number of entries: 90474
+; Number of entries: 90456
 ;
 789f.ac CNAME .
 *.789f.ac CNAME .
@@ -8532,8 +8532,6 @@ xgg-game.casino CNAME .
 *.xgg-game.casino CNAME .
 xxl.casino CNAME .
 *.xxl.casino CNAME .
-yakabetuyelik.casino CNAME .
-*.yakabetuyelik.casino CNAME .
 yanx.casino CNAME .
 *.yanx.casino CNAME .
 yoju.casino CNAME .
@@ -8642,8 +8640,6 @@ zooma259.casino CNAME .
 *.zooma259.casino CNAME .
 zooma41.casino CNAME .
 *.zooma41.casino CNAME .
-zooma771.casino CNAME .
-*.zooma771.casino CNAME .
 zoome.casino CNAME .
 *.zoome.casino CNAME .
 zoome3.casino CNAME .
@@ -25970,6 +25966,8 @@ dagablv.com CNAME .
 *.dagablv.com CNAME .
 dagathomo123.com CNAME .
 *.dagathomo123.com CNAME .
+dahibet66.com CNAME .
+*.dahibet66.com CNAME .
 dahliacasino.com CNAME .
 *.dahliacasino.com CNAME .
 dahlssunrisedairy.com CNAME .
@@ -51616,8 +51614,6 @@ www7slots.com CNAME .
 *.www7slots.com CNAME .
 wwwagycasino88.com CNAME .
 *.wwwagycasino88.com CNAME .
-wwwamazonredeem.com CNAME .
-*.wwwamazonredeem.com CNAME .
 wwwbahiscasino535.com CNAME .
 *.wwwbahiscasino535.com CNAME .
 wwwcasino88.com CNAME .
@@ -51788,8 +51784,6 @@ xo88bet.com CNAME .
 *.xo88bet.com CNAME .
 xogkhd.com CNAME .
 *.xogkhd.com CNAME .
-xombii.com CNAME .
-*.xombii.com CNAME .
 xonebets2.com CNAME .
 *.xonebets2.com CNAME .
 xooolink.com CNAME .
@@ -51848,8 +51842,6 @@ yaguplay.com CNAME .
 *.yaguplay.com CNAME .
 yak-casino-mx.com CNAME .
 *.yak-casino-mx.com CNAME .
-yakabet-casinohizmetleri.com CNAME .
-*.yakabet-casinohizmetleri.com CNAME .
 yakcasinoonline.com CNAME .
 *.yakcasinoonline.com CNAME .
 yakisoba-miura.com CNAME .
@@ -51942,8 +51934,6 @@ yeimmy.com CNAME .
 *.yeimmy.com CNAME .
 yenisezons-vaycasino.com CNAME .
 *.yenisezons-vaycasino.com CNAME .
-yeniudy.com CNAME .
-*.yeniudy.com CNAME .
 yep-casino-bg.com CNAME .
 *.yep-casino-bg.com CNAME .
 yep-casino-eu.com CNAME .
@@ -52110,8 +52100,6 @@ za9bets.com CNAME .
 *.za9bets.com CNAME .
 zagroscasino.com CNAME .
 *.zagroscasino.com CNAME .
-zakscafewi.com CNAME .
-*.zakscafewi.com CNAME .
 zalv777.com CNAME .
 *.zalv777.com CNAME .
 zamazamabets.com CNAME .
@@ -62902,8 +62890,6 @@ xpage777.net CNAME .
 *.xpage777.net CNAME .
 xpbets.net CNAME .
 *.xpbets.net CNAME .
-xpokiescasino.net CNAME .
-*.xpokiescasino.net CNAME .
 xrpcasino.net CNAME .
 *.xrpcasino.net CNAME .
 ybets.net CNAME .
@@ -81684,8 +81670,6 @@ woo-casino.top CNAME .
 *.woo-casino.top CNAME .
 wooricasino.top CNAME .
 *.wooricasino.top CNAME .
-worldtopcasino.top CNAME .
-*.worldtopcasino.top CNAME .
 wwwcasinopinupradiofeyalegrianoticiasnet371.top CNAME .
 *.wwwcasinopinupradiofeyalegrianoticiasnet371.top CNAME .
 x-casino-lsg.top CNAME .
@@ -81700,8 +81684,6 @@ x94yh8.top CNAME .
 *.x94yh8.top CNAME .
 xplaybet.top CNAME .
 *.xplaybet.top CNAME .
-xslots.top CNAME .
-*.xslots.top CNAME .
 xslots1.top CNAME .
 *.xslots1.top CNAME .
 yeqbx.top CNAME .

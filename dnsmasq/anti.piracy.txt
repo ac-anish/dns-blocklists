@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Dec 2025 22:33 UTC
-# Version: 2025.1217.2233.21
+# Last modified: 18 Dec 2025 06:34 UTC
+# Version: 2025.1218.0634.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11505
+# Number of entries: 11501
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -234,7 +234,6 @@ local=/2-lib.org/
 local=/20090910.xyz/
 local=/20links.com/
 local=/t.213891.xyz/
-local=/t-backup.213891.xyz/
 local=/22-hd.com/
 local=/226272.xyz/
 local=/tracker.23794.top/
@@ -9786,6 +9785,7 @@ local=/torrentmove.com/
 local=/torrentmovie.info/
 local=/torrentmovies.co/
 local=/torrentnote.com/
+local=/node02.torrentonline.cc/
 local=/torrentonly.com/
 local=/torrentor.pro/
 local=/torrentoyunindir.com/
@@ -11251,7 +11251,6 @@ local=/yesmovies.sh/
 local=/yesmovies.shop/
 local=/yesmovies.show/
 local=/yesmovies.so/
-local=/yesmovies.stream/
 local=/yesmovies.sx/
 local=/yesmovies.tech/
 local=/yesmovies.to/
@@ -11259,7 +11258,6 @@ local=/yesmovies.vc/
 local=/yesmovies.vin/
 local=/yesmovies.vip/
 local=/yesmovies.win/
-local=/yesmovies.world/
 local=/yesmovies.wtf/
 local=/yesmovies.zone/
 local=/yesnetcommunication.com/
@@ -11286,7 +11284,6 @@ local=/yifymovies.xyz/
 local=/yifymovietorrent.com/
 local=/yifystatus.com/
 local=/yifysub.net/
-local=/yifysubtitles.me/
 local=/yifysubtitles.vip/
 local=/yifytorrent.cc/
 local=/yifytorrent.vip/
@@ -11397,7 +11394,6 @@ local=/z2001.ru/
 local=/z2077.ru/
 local=/z2999.online/
 local=/z2999.ru/
-local=/z7inc.com/
 local=/z8341.online/
 local=/lunatech.zaeleus.org/
 local=/zajefajna.com/
