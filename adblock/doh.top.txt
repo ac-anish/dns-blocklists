@@ -7,10 +7,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 17 Dec 2025 10:49 UTC
-! Version: 2025.1217.1049.15
+! Last modified: 18 Dec 2025 10:41 UTC
+! Version: 2025.1218.1041.11
 ! Syntax: AdBlock
-! Number of entries: 806
+! Number of entries: 811
 !
 ||ns.00dani.me^
 ||0ms.dev^
@@ -233,6 +233,7 @@
 ||geg01.dnscry.pt^
 ||gru01.dnscry.pt^
 ||gva01.dnscry.pt^
+||han01.dnscry.pt^
 ||ist01.dnscry.pt^
 ||kiv01.dnscry.pt^
 ||las01.dnscry.pt^
@@ -252,6 +253,7 @@
 ||omr01.dnscry.pt^
 ||pdx01.dnscry.pt^
 ||phl01.dnscry.pt^
+||sea01.dnscry.pt^
 ||sgn01.dnscry.pt^
 ||sin03.dnscry.pt^
 ||sof01.dnscry.pt^
@@ -453,10 +455,12 @@
 ||doh.kel.pe^
 ||dns.kernel-error.de^
 ||dns.keweon.center^
+||adg.khon.dev^
 ||adguard.kiboko.it^
 ||dns1.klcd.eu^
 ||ko-18948-tr.xyz^
 ||korzhov.dev^
+||dns.kosan.moe^
 ||dart.kpsn.org^
 ||hdns.ksyun.com^
 ||landerbrauver.ru^
@@ -759,6 +763,7 @@
 ||dns.unerror.network^
 ||dns.unx.io^
 ||urology.wiki^
+||dns.koala.us.to^
 ||adfree.usableprivacy.net^
 ||v.recipes^
 ||dns.vaioswolke.xyz^

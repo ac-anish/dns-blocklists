@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1766037780 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1766052120 43200 3600 86400 300
   NS  localhost.
 ;
 1.0.138.92.rpz-ip CNAME .
