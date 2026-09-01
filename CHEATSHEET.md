@@ -8,17 +8,17 @@
 
 A quick, scannable reference for every list in this collection: what it blocks, who it's best suited for, what to watch out for, and the actual file name. Click a list name to jump to its full section in the [README](README.md), except for the two referral lists, which are documented in the [FAQ](FAQ.md#referral) instead.
 
-**Related FAQ sections:** [quick setup](FAQ.md#quicksetup) · [can I use more than one list?](FAQ.md#combining) · [which format for my tool](FAQ.md#formats) · [glossary of terms](FAQ.md#glossary)
+**Related FAQ sections:** [quick setup](FAQ.md#quicksetup) · [can I use more than one list?](FAQ.md#combining) · [which format for my tool](FAQ.md#formats) · [check a single domain](FAQ.md#listlookup) · [glossary of terms](FAQ.md#glossary)
 
 ## :bookmark_tabs: Table of Contents <a name="toc"></a>
 
 1. [Recommended Setups](#quickguide)
-2. [Multi (all-in-one protection)](#cheat_multi)
-3. [Security and Threat Protection](#cheat_security)
-4. [Bypass and Access Control](#cheat_bypass)
-5. [Content and Lifestyle Filters](#cheat_content)
-6. [Native Trackers and Referral Domains](#cheat_native)
-7. [Inclusion Matrix](#inclusionmatrix)
+2. [Inclusion Matrix](#inclusionmatrix)
+3. [Multi (all-in-one protection)](#cheat_multi)
+4. [Security and Threat Protection](#cheat_security)
+5. [Bypass and Access Control](#cheat_bypass)
+6. [Content and Lifestyle Filters](#cheat_content)
+7. [Native Trackers and Referral Domains](#cheat_native)
 
 ---
 
@@ -44,10 +44,49 @@ A quick, scannable reference for every list in this collection: what it blocks, 
 > Pick exactly **one** Multi tier. The tiers build on each other, so running two of them together adds nothing, see [FAQ](FAQ.md#combining). The standalone add-ons are the opposite: they're meant to be stacked on top of your tier.
 
 > [!TIP]
-> TIF adds real value at every tier, including Pro++ and Ultimate. See the [Inclusion Matrix](#inclusionmatrix) below for exactly how much overlap already exists per tier.
+> TIF adds real value at every tier, including Pro++ and Ultimate. See the [Inclusion Matrix](#inclusionmatrix) right below for exactly how much overlap already exists per tier.
 
 > [!TIP]
 > Pair any DNS-level setup with a browser content blocker like [AdGuard](https://adguard.com), [uBlock Origin](https://github.com/uBlockOrigin/), or [Ghostery](https://www.ghostery.com/). DNS blocking can't touch ads served from a service's own domain, see [FAQ](FAQ.md#inappads) and [Recommendation](README.md#recommendation).
+
+**[Back to top](#toc)**
+
+---
+
+## Inclusion Matrix <a name="inclusionmatrix"></a>
+
+Which lists are already included (fully or partially) in each Multi tier, and how much of them. Read this first, it saves you from adding a list your tier already covers. The per-category tables further down then cover every list in detail.
+
+| List | Light | Normal | Pro | Pro++ | Ultimate | TIF |
+|:-----|:-----:|:------:|:---:|:-----:|:--------:|:---:|
+| [Fake](README.md#fake) | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| [Pop-Up Ads](README.md#popupads) | :orange_circle: | :yellow_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :yellow_circle: |
+| [TIF / Medium / Mini](README.md#tif) | :x: | :orange_circle: | :orange_circle: | :yellow_circle: | :yellow_circle: | :white_check_mark: |
+| [Native Tracker](README.md#native) | :orange_circle: | :orange_circle: | :yellow_circle: | :green_circle: | :white_check_mark: | :x: |
+| Crash/error trackers | :x: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: |
+| [Referral domains blocked](FAQ.md#referral) | :x: | :x: | :orange_circle: | :yellow_circle: | :yellow_circle: | :x: |
+| All other standalone lists (Bypass, Safesearch, DynDNS, Hoster, Shortener, TLDs, Rebind, Piracy, Gambling, Social, NSFW, NRD/DGA, TIF IPs) | :x: | :x: | :x: | :x: | :x: | :x: |
+
+**Legend.** It's a five-step scale, listed here from the least coverage to the most:
+
+1. :x: **not included**, none of it is in this tier
+2. :orange_circle: **partially included, step 1 of 3**, the smallest share
+3. :yellow_circle: **partially included, step 2 of 3**
+4. :green_circle: **partially included, step 3 of 3**, the largest share
+5. :white_check_mark: **fully included**, all of it
+
+> [!NOTE]
+> Five things the symbols alone don't tell you:
+> - **The three partial steps are relative within a row.** They tell you how the tiers compare to each other, not what share of a list you're getting. Native Tracker is the clearest example: Light and Normal share one baseline, Pro blocks more, Pro++ more again, and only Ultimate is complete.
+> - **Mini variants aren't listed separately.** Each one matches its non-Mini tier's row exactly, just size-optimized, so read Pro Mini off the Pro column.
+> - **Fake is :x: in Light** by design. Light only carries domains from the Top 1M/10M lists, and fake shops or fake streaming sites generally don't rank there, so they never make it in.
+> - **The TIF cells mean overlap, not coverage of the feed.** No Multi tier reaches :white_check_mark: there, not even Ultimate, and Light's overlap is effectively none. Pairing TIF with your tier is worthwhile at every level.
+> - **The referral row runs the other way around.** There, a higher step on the scale means more referral domains get *blocked*, and even Pro++ and Ultimate only block part of the category. If you'd rather keep all of them working, add the [Referral Allowlist](FAQ.md#referral).
+>
+> Full breakdown in the [FAQ](FAQ.md#whatshouldiuse).
+
+> [!TIP]
+> This matrix works list by list. If your question is about one specific **domain** instead, the [Blocklist Lookup](https://hagezi-mirror.dnsbunker.org/listseek.php) checks it against every published list and shows which ones block it and with which rule, see [FAQ](FAQ.md#listlookup).
 
 **[Back to top](#toc)**
 
@@ -132,42 +171,6 @@ A quick, scannable reference for every list in this collection: what it blocks, 
 | [Referral Blocklist](FAQ.md#referral) | Referral and affiliate tracking domains | Advanced users, a browser blocker is the better tool | :warning: Aggressive and opt-in, not recommended for DNS-level use. Breaks search results and newsletter unsubscribe links. No ControlD folder | `blocklist-referral-native.txt` |
 
 See the FAQ's [referral breakdown](FAQ.md#referral) for exactly which domains get blocked at which tier. Note that even Pro++ and Ultimate only block some non-link-tracking referral domains, not the entire referral category.
-
-**[Back to top](#toc)**
-
----
-
-## Inclusion Matrix <a name="inclusionmatrix"></a>
-
-Which lists are already included (fully or partially) in each Multi tier, and how much of them.
-
-| List | Light | Normal | Pro | Pro++ | Ultimate | TIF |
-|:-----|:-----:|:------:|:---:|:-----:|:--------:|:---:|
-| [Fake](README.md#fake) | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| [Pop-Up Ads](README.md#popupads) | :orange_circle: | :yellow_circle: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :yellow_circle: |
-| [TIF / Medium / Mini](README.md#tif) | :x: | :orange_circle: | :orange_circle: | :yellow_circle: | :yellow_circle: | :white_check_mark: |
-| [Native Tracker](README.md#native) | :orange_circle: | :orange_circle: | :yellow_circle: | :green_circle: | :white_check_mark: | :x: |
-| Crash/error trackers | :x: | :x: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: |
-| [Referral domains blocked](FAQ.md#referral) | :x: | :x: | :orange_circle: | :yellow_circle: | :yellow_circle: | :x: |
-| All other standalone lists (Bypass, Safesearch, DynDNS, Hoster, Shortener, TLDs, Rebind, Piracy, Gambling, Social, NSFW, NRD/DGA, TIF IPs) | :x: | :x: | :x: | :x: | :x: | :x: |
-
-**Legend.** It's a five-step scale, listed here from the least coverage to the most:
-
-1. :x: **not included**, none of it is in this tier
-2. :orange_circle: **partially included, step 1 of 3**, the smallest share
-3. :yellow_circle: **partially included, step 2 of 3**
-4. :green_circle: **partially included, step 3 of 3**, the largest share
-5. :white_check_mark: **fully included**, all of it
-
-> [!NOTE]
-> Five things the symbols alone don't tell you:
-> - **The three partial steps are relative within a row.** They tell you how the tiers compare to each other, not what share of a list you're getting. Native Tracker is the clearest example: Light and Normal share one baseline, Pro blocks more, Pro++ more again, and only Ultimate is complete.
-> - **Mini variants aren't listed separately.** Each one matches its non-Mini tier's row exactly, just size-optimized, so read Pro Mini off the Pro column.
-> - **Fake is :x: in Light** by design. Light only carries domains from the Top 1M/10M lists, and fake shops or fake streaming sites generally don't rank there, so they never make it in.
-> - **The TIF cells mean overlap, not coverage of the feed.** No Multi tier reaches :white_check_mark: there, not even Ultimate, and Light's overlap is effectively none. Pairing TIF with your tier is worthwhile at every level.
-> - **The referral row runs the other way around.** There, a higher step on the scale means more referral domains get *blocked*, and even Pro++ and Ultimate only block part of the category. If you'd rather keep all of them working, add the [Referral Allowlist](FAQ.md#referral).
->
-> Full breakdown in the [FAQ](FAQ.md#whatshouldiuse).
 
 **[Back to top](#toc)**
 

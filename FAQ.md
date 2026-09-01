@@ -1,6 +1,6 @@
 # FAQ
 
-A practical guide to how these DNS blocklists get built, which version fits your setup, and why some domains are left unblocked on purpose. For a quick, scannable overview of every individual list, see the [Cheat Sheet](CHEATSHEET.md). If a term looks unfamiliar, the [Glossary](#glossary) at the bottom covers this FAQ, the Cheat Sheet, and the main README alike.
+A practical guide to how these DNS blocklists get built, which version fits your setup, and why some domains are left unblocked on purpose. For a quick, scannable overview of every individual list, see the [Cheat Sheet](CHEATSHEET.md). If a term looks unfamiliar, the [Glossary](#glossary) at the bottom covers this FAQ, the Cheat Sheet, and the main README alike. Just want to know whether one specific domain is blocked and by which list? That's what the [Blocklist Lookup](#listlookup) is for.
 
 ## Table of Contents
 
@@ -15,9 +15,10 @@ A practical guide to how these DNS blocklists get built, which version fits your
 9. [Which lists are available on which DNS services?](#availablelists)
 10. [How current is the data, and where can I get it?](#mirrors)
 11. [Where does the data come from, and how are the lists built?](#sources)
-12. [Licensing and liability](#licensing)
+12. [How do I check whether a domain is blocked, and by which list?](#listlookup)
 13. [Getting help and reporting issues](#support)
-14. [Glossary](#glossary)
+14. [Licensing and liability](#licensing)
+15. [Glossary](#glossary)
 
 ---
 
@@ -38,7 +39,7 @@ Here's the fast track to getting protection running, no need to read the rest of
 5. **No self-hosted DNS server?** Use one of the [online DNS services](#availablelists) instead, they let you turn these lists on without running your own setup.
 6. **Layer on a browser content blocker too.** DNS-level blocking catches most ads, trackers, and malware, but not everything, some ads and scripts load from otherwise legit domains. A browser content blocker like uBlock Origin or AdGuard closes that gap, see [section 6](#inappads) for why that matters especially inside apps like YouTube or Spotify.
 7. **Test it out.** Browse normally for a day and note anything that behaves oddly.
-8. **If something breaks, confirm the cause first.** A DNS-level block usually shows up as a failed page load with a name-resolution error ("server not found" or similar), not as a normal page error. Most DNS tools (Pi-hole, AdGuard Home, TechnitiumDNS) keep a query log where you can look up the exact domain and see that it was blocked. Once you know which domain is responsible, check [section 2](#whatshouldiuse) for known side effects (especially with Pro++ and Ultimate), unblock that domain in your tool, and see [section 13](#support) if you want to report a false positive or a missed domain.
+8. **If something breaks, confirm the cause first.** A DNS-level block usually shows up as a failed page load with a name-resolution error ("server not found" or similar), not as a normal page error. Most DNS tools (Pi-hole, AdGuard Home, TechnitiumDNS) keep a query log where you can look up the exact domain and see that it was blocked. Once you know which domain is responsible, run it through the [Blocklist Lookup](#listlookup) to see exactly which list blocks it and with which rule, check [section 2](#whatshouldiuse) for known side effects (especially with Pro++ and Ultimate), unblock that domain in your tool, and see [section 13](#support) if you want to report a false positive or a missed domain.
 9. **Keep it current.** These lists update regularly. If your tool doesn't auto-refresh subscribed lists, set a reminder to re-download, and check [section 10](#mirrors) if you want the freshest data possible.
 
 **[Back to top](#table-of-contents)**
@@ -371,7 +372,45 @@ In short: being listed in [Sources](https://github.com/hagezi/dns-blocklists/blo
 
 ---
 
-## <a name="licensing"></a> 12. Licensing and liability
+## <a name="listlookup"></a> 12. How do I check whether a domain is blocked, and by which list?
+
+Use the **Blocklist Lookup**: [hagezi-mirror.dnsbunker.org/listseek.php](https://hagezi-mirror.dnsbunker.org/listseek.php)
+
+Paste in one domain or a whole batch, one per line, hit Search, and you get a table per domain showing every list that blocks it plus the exact rule doing the blocking. It streams the published lists live from the build mirror, so the answer always reflects the newest build. No downloading files and grepping through them yourself.
+
+It's subdomain-aware, which is often the interesting part. Look up `region1.app-measurement.com` and the result shows the rule `||app-measurement.com^`, so you can tell the block comes from a wildcard on the parent domain rather than from an entry for that exact hostname.
+
+What it's good for:
+
+- **Something broke.** Your query log gives you the domain, the Lookup tells you which list is responsible. If it's a list you subscribe to, allowlist the domain or drop down to a less aggressive tier, see [section 2](#whatshouldiuse).
+- **Picking or switching tiers.** Check a domain you depend on before you move. If it shows up under Pro++ but not under Pro, you know exactly what you'd be signing up for.
+- **Before you report something.** A report that names the domain, the list, and the rule is much faster to act on, see [section 13](#support).
+- **Checking coverage.** No results at all means no published list currently blocks that domain, which is exactly the case for a "should be blocked but isn't" report.
+
+> [!NOTE]
+> Two things the Lookup can't tell you:
+> - **What your own setup does.** It reads the published lists, not your DNS server. Your own allowlist, extra lists from other projects, or a local copy that hasn't refreshed yet can all change what actually happens on your network.
+> - **Whether a domain is harmful.** It reports what the lists contain, not a verdict on the domain itself.
+>
+> It also reads from the build mirror, which runs ahead of the GitHub, GitLab, and Codeberg copies by up to a day, see [section 10](#mirrors). If you pull your lists from one of those, a fresh match may not have reached your copy yet.
+
+**[Back to top](#table-of-contents)**
+
+---
+
+## <a name="support"></a> 13. Getting help and reporting issues
+
+Found a legitimate domain that got blocked, or spotted one that should be blocked but isn't? Report it through the [issue tracker](https://github.com/hagezi/dns-blocklists/issues) on GitHub. That's the fastest way to get a false positive fixed or a coverage gap closed. You can also reach out by email at [support@hagezi.org](mailto:support@hagezi.org).
+
+To help get your report resolved quickly, include the exact domain, which list and tier you're using (for example Pro or Ultimate), and, for a false positive, what broke (a specific site, app, or feature) so it can be reproduced and checked. If your tool keeps a query log, a quick look there can confirm the exact domain responsible before you report it, and the [Blocklist Lookup](#listlookup) tells you which lists block it and with which rule.
+
+Got general questions or just want to chat? Head to the [GitHub Discussions](https://github.com/hagezi/dns-blocklists/discussions) page. There's also a public [Matrix support chat](https://matrix.to/#/#hagezi-support:tchncs.de?via=tchncs.de) if you'd rather talk things through directly. Prefer to reach out personally? [support@hagezi.org](mailto:support@hagezi.org) works too.
+
+**[Back to top](#table-of-contents)**
+
+---
+
+## <a name="licensing"></a> 14. Licensing and liability
 
 The lists are published under the [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.html), so you can redistribute, modify, or adapt them, but only within the terms of that license. Check the license in the repository before redistributing the lists as part of your own product or service.
 
@@ -385,19 +424,7 @@ This FAQ entry is a plain-language summary and doesn't cover every detail. The [
 
 ---
 
-## <a name="support"></a> 13. Getting help and reporting issues
-
-Found a legitimate domain that got blocked, or spotted one that should be blocked but isn't? Report it through the [issue tracker](https://github.com/hagezi/dns-blocklists/issues) on GitHub. That's the fastest way to get a false positive fixed or a coverage gap closed. You can also reach out by email at [support@hagezi.org](mailto:support@hagezi.org).
-
-To help get your report resolved quickly, include the exact domain, which list and tier you're using (for example Pro or Ultimate), and, for a false positive, what broke (a specific site, app, or feature) so it can be reproduced and checked. If your tool keeps a query log, a quick look there can confirm the exact domain responsible before you report it.
-
-Got general questions or just want to chat? Head to the [GitHub Discussions](https://github.com/hagezi/dns-blocklists/discussions) page. There's also a public [Matrix support chat](https://matrix.to/#/#hagezi-support:tchncs.de?via=tchncs.de) if you'd rather talk things through directly. Prefer to reach out personally? [support@hagezi.org](mailto:support@hagezi.org) works too.
-
-**[Back to top](#table-of-contents)**
-
----
-
-## <a name="glossary"></a> 14. Glossary
+## <a name="glossary"></a> 15. Glossary
 
 This glossary covers unfamiliar terms from this FAQ, the [Cheat Sheet](CHEATSHEET.md), and the main [README](README.md), since all three documents share it.
 
@@ -421,6 +448,7 @@ This glossary covers unfamiliar terms from this FAQ, the [Cheat Sheet](CHEATSHEE
 |:---|:---|
 | Badware | Umbrella term for domains involved in anything harmful, from malware and scams to abusive hosting. It's used in list descriptions where several of those categories are meant at once and naming just one would be misleading, for example "ads, trackers, metrics, telemetry, and some badware" in the Light tier. |
 | Blocklist (denylist) | A list of domains that get blocked so they can't load, usually to stop ads, trackers, or malware. |
+| Blocklist Lookup | A web tool on the build mirror that checks one or more domains against every published list and shows which lists block them, and with which rule. Handy for tracking down a false positive or confirming coverage before reporting a domain, see [section 12](#listlookup). |
 | Blocky | An open-source, self-hosted DNS proxy and ad blocker that supports the Wildcard (Asterisk) format (v0.23 or newer) and, in older versions, the legacy Subdomains format. Aimed at users comfortable with more advanced, config-file-based setups. |
 | Brave (aggressive mode) | The Brave browser only applies these lists when its shielding is set to aggressive blocking. On the default setting it ignores most third-party domain rules, which is why every format table specifies "aggressive mode only". |
 | Browser content blocker | A browser extension or app that can block or modify individual web requests and page elements. Unlike DNS blocking, it can apply URL-specific rules, cosmetic filters, and site-specific exceptions. |
@@ -444,7 +472,7 @@ This glossary covers unfamiliar terms from this FAQ, the [Cheat Sheet](CHEATSHEE
 
 | Term | What it means |
 |:---|:---|
-| Defense-in-depth | A security strategy that layers multiple independent protections on top of each other, so if one layer fails, the others still catch the problem. These blocklists are meant to be one layer in that kind of setup, not a complete solution on their own, see [section 12](#licensing) and the repository's Disclaimer for how that plays out here. |
+| Defense-in-depth | A security strategy that layers multiple independent protections on top of each other, so if one layer fails, the others still catch the problem. These blocklists are meant to be one layer in that kind of setup, not a complete solution on their own, see [section 14](#licensing) and the repository's Disclaimer for how that plays out here. |
 | Denyallow / domain modifier | A rule type in filter lists used to carve out exceptions from a blocking rule. These modifiers have a technical length limit, so you can't cram unlimited exceptions into one rule, that's why exclusion lists sometimes stay short on purpose. |
 | DGA (Domain Generation Algorithm) | A technique malware uses to generate large numbers of random-looking domains on the fly, making them harder to block in advance. This project's DGA lists come as three rolling windows (past 7, 14, and 30 days) that overlap rather than stack, so pick one instead of combining them, see [section 5](#listrelationships). The same data is also used inside the build to flag suspicious domains for review, see [section 11](#sources). |
 | DNS (Domain Name System) | The system that translates website names, like example.com, into the numeric IP addresses computers use to find each other. Every blocklist works by intercepting these translations for unwanted domains. |

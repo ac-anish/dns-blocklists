@@ -35,28 +35,29 @@ Like this project? If it's helped you out, drop a :star: (top right) and join th
 8. [Pop-Up Ads](#popupads), stop annoying and malicious pop-ups!
 9. [Threat Intelligence Feeds](#tif), a serious security boost (recommended): [Full](#tif) - [Medium](#tifmedium) - [Mini](#tifmini) - [IPs](#tifips)
 10. [Newly Registered Domains (NRD/DGA)](#nrd), a favorite tool of threat actors for launching attacks!
-11. [DoH/VPN/TOR/Proxy Bypass](#bypass), stop people from sneaking around your DNS: [Full](#bypass_all) - [DoH only](#bypass_dns) - [DoH IPs](#bypass_ips)
-12. [Safesearch not supported](#safesearch), block search engines that skip Safesearch!
-13. [Dynamic DNS (DynDNS)](#dyndns), guard against dynamic DNS abuse!
-14. [Badware Hoster](#hoster), guard against malicious hosting services!
-15. [URL Shortener](#urlshortener), block link shorteners!
-16. [Most Abused TLDs](#tlds), block known shady top-level domains!
-17. [DNS Rebind Protection](#dnsrebind), stop attackers from pointing domains at your local network!
+11. [Dynamic DNS (DynDNS)](#dyndns), guard against dynamic DNS abuse!
+12. [Badware Hoster](#hoster), guard against malicious hosting services!
+13. [Most Abused TLDs](#tlds), block known shady top-level domains!
+14. [DNS Rebind Protection](#dnsrebind), stop attackers from pointing domains at your local network!
+15. [DoH/VPN/TOR/Proxy Bypass](#bypass), stop people from sneaking around your DNS: [Full](#bypass_all) - [DoH only](#bypass_dns) - [DoH IPs](#bypass_ips)
+16. [Safesearch not supported](#safesearch), block search engines that skip Safesearch!
+17. [URL Shortener](#urlshortener), block link shorteners!
 18. [Anti Piracy](#piracy), block piracy sites!
 19. [Gambling](#gambling), block gambling content: [Full](#gambling) - [Medium](#gamblingmedium) - [Mini](#gamblingmini)
 20. [Social Networks](#social), block access to social networks!
 21. [NSFW](#nsfw), block adult content!
 22. [Native Tracker](#native), block built-in trackers from devices, apps, and OSes!
-23. [Blocklists Cheat Sheet](CHEATSHEET.md), quick reference table for every list at a glance
-24. [Recommendation](#recommendation): [Which list version should I actually use?](FAQ.md#whatshouldiuse)
-25. [Online DNS Services](#dnsservices): [HaGeZi DNS](#hagezidns) - [DNS Bunker](#dnsbunker)
-26. [About](#about): [Repository](#repository) - [Referral Domains](#referral) - [Support](#support)
-27. [FAQ](FAQ.md), frequently asked questions, including the [quick setup guide](FAQ.md#quicksetup) and the [glossary](FAQ.md#glossary)
-28. [Discussions](https://github.com/hagezi/dns-blocklists/discussions)
-29. [Update Interval/Official Mirrors](#mirrors)
-30. [Sources](sources.md)
-31. [Disclaimer](#disclaimer)
-32. [Contact](#contact)
+23. [Blocklist Lookup](#listlookup), check any domain against every list!
+24. [Blocklists Cheat Sheet](CHEATSHEET.md), quick reference table for every list at a glance
+25. [Recommendation](#recommendation): [Which list version should I actually use?](FAQ.md#whatshouldiuse)
+26. [Online DNS Services](#dnsservices): [HaGeZi DNS](#hagezidns) - [DNS Bunker](#dnsbunker)
+27. [About](#about): [Repository](#repository) - [Referral Domains](#referral) - [Support](#support)
+28. [FAQ](FAQ.md), frequently asked questions, including the [quick setup guide](FAQ.md#quicksetup) and the [glossary](FAQ.md#glossary)
+29. [Discussions](https://github.com/hagezi/dns-blocklists/discussions)
+30. [Update Interval/Official Mirrors](#mirrors)
+31. [Sources](sources.md)
+32. [Disclaimer](#disclaimer)
+33. [Contact](#contact)
 
 ---
 
@@ -365,6 +366,81 @@ There are two variants:
 
 ---
 
+### :lock_with_ink_pen: **Dynamic DNS (DynDNS), guards against dynamic DNS abuse!** <a name="dyndns"></a>
+
+Blocks dynamic DNS services that get abused for phishing campaigns and other shady activity.
+
+**Entries:** 1535
+
+| Adblock | DNSMasq | Wildcard<br>Asterisk | Wildcard<br>Domains | RPZ |
+|:---:|:---:|:---:|:---:|:---:|
+| [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/dyndns.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/dyndns.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/dyndns-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/dyndns.txt) |
+
+---
+
+### :computer: **Badware Hoster, guards against malicious hosting services!** <a name="hoster"></a>
+
+Blocks known hosting providers that repeatedly host badware through user-uploaded content.
+
+> [!IMPORTANT]
+> This list blocks the root domains of hosting providers that keep showing up in threat feeds because of malicious subdomains. That means legit sites hosted there will get blocked too, so think it through before using this one.
+>
+> If you use this list, you're on your own for unblocking any subdomains you actually need.
+
+> [!CAUTION]
+> Blocking whole hosting providers is overkill for most setups and can break legit services. In high-security environments though, that trade-off might make sense.
+
+**Entries:** 1237
+
+| Adblock | DNSMasq | Wildcard<br>Asterisk | Wildcard<br>Domains | RPZ | ControlD |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/hoster.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/hoster.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/hoster.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/hoster-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/hoster.txt) | [Link](https://github.com/hagezi/dns-blocklists/blob/main/controld/badware-hoster-folder.json) |
+
+---
+
+### :crystal_ball: **Most Abused TLDs, blocks known shady top-level domains!** <a name="tlds"></a>
+
+Blocks the most abused top-level domains, combining data from Cloudflare Radar, Netcraft, and SpamHaus.
+
+> [!WARNING]
+> This list blocks entire top-level domains (like *.top, *.shop, *.gdn) that have a bad reputation overall. Yes, that means some legit sites get caught in the crossfire too, but it's really effective against spam, scams, phishing, malware, and other garbage. Know what you're signing up for.
+>
+> Only well-known, reputable domains that show up on the supported top lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop) or are essential for popular apps get considered for exclusion. Illegal domains, including piracy sites, stay blocked no matter what. Anything that doesn't clearly qualify gets reviewed case by case, and if there's no good reason to unblock it, it stays blocked. If you need access to something specific, add it to your personal allowlist.
+>
+> This selective approach exists because AdGuard and uBlock Origin have technical limits on rule length when using denyallow/domain modifiers. Trying to exclude every legit domain would eventually break important rules, so exclusions have to stay limited and carefully picked.
+
+This list doesn't follow the usual five-format pattern, since the exclusion rules work differently from tool to tool.
+
+| Format | Link | Notes |
+|:-------|:-----|:------|
+| AdGuard | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds.txt) | For AdGuard and AdGuard Home |
+| uBlock Origin | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-ublock.txt) | For uBlock Origin and Adblock Plus |
+| Adblock | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-adblock.txt) | For Pi-hole and TechnitiumDNS. Spam TLDs with no exclusions |
+| Adblock<br>(Aggressive)<br>+ Allowlist | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-adblock-aggressive.txt)<br>[Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-adblock-allow.txt) | For Pi-hole and TechnitiumDNS. Use both together |
+| Wildcard<br>Domains<br>+ Allowlist | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/spam-tlds-onlydomains.txt)<br>[Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/spam-tlds-allow-onlydomains.txt) | For DNSCrypt. Use both together |
+| RPZ | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/spam-tlds-rpz.txt) | Spam TLDs with no exclusions |
+| RPZ<br>(Aggressive) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/spam-tlds-rpz-aggressive.txt) | All spam TLDs, matching the AdGuard and uBlock Origin versions |
+| ControlD | [Link](https://github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-combined-folder.json) | Importable ControlD folder |
+
+---
+
+### :shield: **DNS Rebind Protection, stops attackers from pointing domains at your local network!** <a name="dnsrebind"></a>
+
+DNS Rebind Protection stops attackers from messing with DNS responses to make a domain point to a private or local IP address. This blocks malicious scripts from using DNS rebinding attacks to reach your internal network.
+
+> [!IMPORTANT]
+> This only works with AdGuard/AdGuard Home, and it's also selectable in AdGuard DNS.
+> Other DNS blockers may already have their own rebind protection built in.
+>
+> Since rebind protection blocks anything resolving to a local IP, your internal hostnames might get caught too.
+> In AdGuard, whitelist your local domains, something like: `@@||fritz.box^`
+
+| Format | Link |
+|:-------|:-----|
+| AdGuard | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adguard/dns-rebind-protection.txt) |
+
+---
+
 ### :outbox_tray: **DoH/VPN/TOR/Proxy Bypass, stop people from sneaking around your DNS!** <a name="bypass"></a>
 
 Blocks common ways to bypass your DNS setup.
@@ -412,38 +488,6 @@ Blocks search engines that don't support Safesearch.
 
 ---
 
-### :lock_with_ink_pen: **Dynamic DNS (DynDNS), guards against dynamic DNS abuse!** <a name="dyndns"></a>
-
-Blocks dynamic DNS services that get abused for phishing campaigns and other shady activity.
-
-**Entries:** 1535
-
-| Adblock | DNSMasq | Wildcard<br>Asterisk | Wildcard<br>Domains | RPZ |
-|:---:|:---:|:---:|:---:|:---:|
-| [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/dyndns.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/dyndns.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/dyndns.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/dyndns-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/dyndns.txt) |
-
----
-
-### :computer: **Badware Hoster, guards against malicious hosting services!** <a name="hoster"></a>
-
-Blocks known hosting providers that repeatedly host badware through user-uploaded content.
-
-> [!IMPORTANT]
-> This list blocks the root domains of hosting providers that keep showing up in threat feeds because of malicious subdomains. That means legit sites hosted there will get blocked too, so think it through before using this one.
->
-> If you use this list, you're on your own for unblocking any subdomains you actually need.
-
-> [!CAUTION]
-> Blocking whole hosting providers is overkill for most setups and can break legit services. In high-security environments though, that trade-off might make sense.
-
-**Entries:** 1237
-
-| Adblock | DNSMasq | Wildcard<br>Asterisk | Wildcard<br>Domains | RPZ | ControlD |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/hoster.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/hoster.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/hoster.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/hoster-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/hoster.txt) | [Link](https://github.com/hagezi/dns-blocklists/blob/main/controld/badware-hoster-folder.json) |
-
----
-
 ### :link: **URL Shortener, blocks link shorteners!** <a name="urlshortener"></a>
 
 Blocks every known URL/link shortener out there.
@@ -458,49 +502,6 @@ Blocks every known URL/link shortener out there.
 | Adblock | DNSMasq | Wildcard<br>Asterisk | Wildcard<br>Domains | RPZ |
 |:---:|:---:|:---:|:---:|:---:|
 | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/urlshortener.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/urlshortener.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/urlshortener.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/urlshortener-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/urlshortener.txt) |
-
----
-
-### :crystal_ball: **Most Abused TLDs, blocks known shady top-level domains!** <a name="tlds"></a>
-
-Blocks the most abused top-level domains, combining data from Cloudflare Radar, Netcraft, and SpamHaus.
-
-> [!WARNING]
-> This list blocks entire top-level domains (like *.top, *.shop, *.gdn) that have a bad reputation overall. Yes, that means some legit sites get caught in the crossfire too, but it's really effective against spam, scams, phishing, malware, and other garbage. Know what you're signing up for.
->
-> Only well-known, reputable domains that show up on the supported top lists (Umbrella, Cloudflare, Tranco, Chrome, BuiltWith, Majestic, DomCop) or are essential for popular apps get considered for exclusion. Illegal domains, including piracy sites, stay blocked no matter what. Anything that doesn't clearly qualify gets reviewed case by case, and if there's no good reason to unblock it, it stays blocked. If you need access to something specific, add it to your personal allowlist.
->
-> This selective approach exists because AdGuard and uBlock Origin have technical limits on rule length when using denyallow/domain modifiers. Trying to exclude every legit domain would eventually break important rules, so exclusions have to stay limited and carefully picked.
-
-This list doesn't follow the usual five-format pattern, since the exclusion rules work differently from tool to tool.
-
-| Format | Link | Notes |
-|:-------|:-----|:------|
-| AdGuard | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds.txt) | For AdGuard and AdGuard Home |
-| uBlock Origin | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-ublock.txt) | For uBlock Origin and Adblock Plus |
-| Adblock | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-adblock.txt) | For Pi-hole and TechnitiumDNS. Spam TLDs with no exclusions |
-| Adblock<br>(Aggressive)<br>+ Allowlist | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-adblock-aggressive.txt)<br>[Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/spam-tlds-adblock-allow.txt) | For Pi-hole and TechnitiumDNS. Use both together |
-| Wildcard<br>Domains<br>+ Allowlist | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/spam-tlds-onlydomains.txt)<br>[Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/spam-tlds-allow-onlydomains.txt) | For DNSCrypt. Use both together |
-| RPZ | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/spam-tlds-rpz.txt) | Spam TLDs with no exclusions |
-| RPZ<br>(Aggressive) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/spam-tlds-rpz-aggressive.txt) | All spam TLDs, matching the AdGuard and uBlock Origin versions |
-| ControlD | [Link](https://github.com/hagezi/dns-blocklists/blob/main/controld/spam-tlds-combined-folder.json) | Importable ControlD folder |
-
----
-
-### :shield: **DNS Rebind Protection, stops attackers from pointing domains at your local network!** <a name="dnsrebind"></a>
-
-DNS Rebind Protection stops attackers from messing with DNS responses to make a domain point to a private or local IP address. This blocks malicious scripts from using DNS rebinding attacks to reach your internal network.
-
-> [!IMPORTANT]
-> This only works with AdGuard/AdGuard Home, and it's also selectable in AdGuard DNS.
-> Other DNS blockers may already have their own rebind protection built in.
->
-> Since rebind protection blocks anything resolving to a local IP, your internal hostnames might get caught too.
-> In AdGuard, whitelist your local domains, something like: `@@||fritz.box^`
-
-| Format | Link |
-|:-------|:-----|
-| AdGuard | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adguard/dns-rebind-protection.txt) |
 
 ---
 
@@ -567,7 +568,7 @@ Blocks social networks like Facebook, Instagram, TikTok, X (formerly Twitter), S
 
 Blocks adult content.
 
-**Entries:** 119978
+**Entries:** 119977
 
 | Adblock | DNSMasq | Wildcard<br>Asterisk | Wildcard<br>Domains | RPZ |
 |:---:|:---:|:---:|:---:|:---:|
@@ -605,6 +606,21 @@ Blocks the native trackers baked into devices, services, and operating systems t
 | Vivo | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.vivo.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/native.vivo.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.vivo.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.vivo-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/native.vivo.txt) |
 | OPPO/Realme | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.oppo-realme.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/native.oppo-realme.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.oppo-realme.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.oppo-realme-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/native.oppo-realme.txt) |
 | Xiaomi | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/native.xiaomi.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/dnsmasq/native.xiaomi.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi-onlydomains.txt) | [Link](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/rpz/native.xiaomi.txt) |
+
+---
+
+### :mag_right: **Blocklist Lookup, check any domain against every list!** <a name="listlookup"></a>
+
+Not sure whether a domain is blocked, or which list is responsible for it? The **Blocklist Lookup** answers both: [hagezi-mirror.dnsbunker.org/listseek.php](https://hagezi-mirror.dnsbunker.org/listseek.php)
+
+Paste in one domain or a whole batch, one per line, hit Search, and you get a table per domain listing every list that blocks it along with the exact rule. It streams the published lists live from the build mirror, so the results always reflect the newest build.
+
+It's subdomain-aware too: look up `region1.app-measurement.com` and you'll see the match comes from `||app-measurement.com^`, a wildcard on the parent domain, not an entry for that exact hostname.
+
+Handy for hunting down a false positive, comparing what happens to a domain across tiers before you switch, or checking whether something is covered at all before you report it.
+
+> [!NOTE]
+> The Lookup reads the published lists, not your own setup, and it doesn't judge whether a domain is harmful. Your local allowlist, extra lists from other projects, or a copy that hasn't refreshed yet can all make your network behave differently. More detail in the [FAQ](FAQ.md#listlookup).
 
 ---
 
@@ -771,7 +787,7 @@ Here's how each version performed against that same 10,000-page set, which is al
 | **Light**    | 299646        | 92576           | 30.90     |                |
 | **----**     | 299646        | 67888           | 22.66     | -8.24          |
 
-Give it a try, share your feedback, and [report anything that should (or shouldn't) be blocked](https://github.com/hagezi/dns-blocklists/issues).
+Give it a try, share your feedback, and [report anything that should (or shouldn't) be blocked](https://github.com/hagezi/dns-blocklists/issues). Want to check a specific domain first? Use the [Blocklist Lookup](#listlookup).
 
 #### :octocat: Repository <a name="repository"></a>
 
@@ -786,6 +802,8 @@ Wondering how referral domains (affiliate and tracking links) are handled? Here'
 This project only exists because of a genuinely supportive community. It's free for everyone and stays up to date thanks to ongoing care, updates, and contributions from people who actually want to make things better.
 
 Feedback, ideas, domain reports, false-positive reports, whatever you've got, it's all appreciated. Every bit of help, big or small, makes the internet a little safer and cleaner for everyone.
+
+Before you report a domain, run it through the [Blocklist Lookup](#listlookup). A report that names the exact list and rule is a lot quicker to act on.
 
 See: [Getting help and reporting issues](FAQ.md#support)
 
